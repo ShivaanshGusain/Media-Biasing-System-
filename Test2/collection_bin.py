@@ -16,7 +16,6 @@ import re
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
 def Date(raw_html):
-    """A brute-force fallback to find hidden dates in HTML source."""
     if not raw_html:
         return None
         
@@ -197,7 +196,7 @@ def run_pipeline():
             print(f"Could not read existing CSV: {e}")
 
     for site_key, site_config in configs.items():
-        print(f"\n--- Processing {site_config['outlet_name']} ---")
+        print(f"\nProcessing {site_config['outlet_name']}")
         urls = discover_links(site_config)
         
         print(f"Found {len(urls)} total URLs.")

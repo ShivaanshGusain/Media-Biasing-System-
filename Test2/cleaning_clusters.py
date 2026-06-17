@@ -64,9 +64,6 @@ def prepare_for_bias_analysis(clustered_csv="clustered_events_db.csv"):
             
     df = df[~df['event_id'].isin(events_to_drop)].copy()
 
-    # ==========================================
-    # FIX 3: SMART MERGE (Time-Bounded Entity Overlap)
-    # ==========================================
     print("4. Extracting Entities for Event Merging...")
     
     # Combine all text for an event to get its overall entities and average date

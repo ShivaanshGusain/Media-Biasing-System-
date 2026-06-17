@@ -31,7 +31,7 @@ def segment_passages_incrementally():
     df_new = df_in[~df_in['article_id'].isin(processed_article_ids)].copy()
 
     if df_new.empty:
-        print("✅ No new articles to segment. 'passages.csv' is completely up to date!")
+        print(" No new articles to segment. 'passages.csv' is completely up to date!")
         return
 
     print(f"Found {len(df_new)} NEW articles to segment (out of {len(df_in)} total shared articles).")
