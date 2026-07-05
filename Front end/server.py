@@ -16,7 +16,9 @@ import json
 app = Flask(__name__, static_folder=".")
 CORS(app)
 
-DATA_DIR = "../src/Data"
+# Handle Kaggle's root-level symlinked Data folder, or fallback to src/Data
+if os.path.exists("../Data"):
+    DATA_DIR = "../Data"
 
 # Map of API route name -> CSV filename in Data/
 CSV_MAP = {

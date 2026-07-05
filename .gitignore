@@ -1,3 +1,4 @@
-
+.env
 .venv
 Model
+.github/workflows/pipeline.yml

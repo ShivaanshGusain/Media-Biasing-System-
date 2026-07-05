@@ -125,7 +125,6 @@ def main():
     print("=" * 65)
 
     # Ensure Data directory exists
-    os.makedirs(DATA_DIR, exist_ok=True)
 
     results = []
     total_start = time.time()
