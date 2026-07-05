@@ -65,9 +65,9 @@ def run_step(step_num, script, description, is_llm, skip_llm=False):
         result = subprocess.run(
             [sys.executable, script_path],
             cwd=PROJECT_ROOT,       # Run from project root so Data/ paths work
-            capture_output=True,
+            capture_output=False,
             text=True,
-            timeout=None,           # 1 hour max per step
+            timeout=None,           
             env={**os.environ, "PYTHONPATH": SRC_DIR},  # Allow imports from src/
         )
         elapsed = time.time() - start
