@@ -31,7 +31,7 @@ def extract_entities(text):
         return set([e.lower() for e in entities])
 
 
-def prepare_for_bias_analysis(clustered_csv="clustered_events_db.csv"):
+def prepare_for_bias_analysis(clustered_csv="Data/clustered_events_db.csv"):
     print("1. Loading clustered data...")
     try:
         df = pd.read_csv(clustered_csv)
@@ -127,12 +127,12 @@ def prepare_for_bias_analysis(clustered_csv="clustered_events_db.csv"):
         main_headline=('headline', 'first')
     ).reset_index().sort_values(by='unique_outlets_covering', ascending=False)
 
-    event_summary.to_csv("bias_event_summary.csv", index=False)
-    df.to_csv("bias_article_details.csv", index=False)
+    event_summary.to_csv("Data/bias_event_summary.csv", index=False)
+    df.to_csv("Data/bias_article_details.csv", index=False)
     
     print("\n🎉 SUCCESS! Data is cleaned and ready for Bias Analysis.")
-    print("Output 1: 'bias_event_summary.csv' (Use this for your dashboard events list)")
-    print("Output 2: 'bias_article_details.csv' (Use this for your next passage-segmentation step)")
+    print("Output 1: 'bias_event_summary.csv'")
+    print("Output 2: 'bias_article_details.csv'")
 
 if __name__ == "__main__":
     prepare_for_bias_analysis()

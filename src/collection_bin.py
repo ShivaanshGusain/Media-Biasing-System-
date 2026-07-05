@@ -178,7 +178,7 @@ def normalize_article(outlet_name, url, title, text, raw_date, extractor_used):
     }
 
 def run_pipeline():
-    with open('config.json', 'r') as f:
+    with open('src/config.json', 'r') as f:
         configs = json.load(f)
 
     seen_urls = set()

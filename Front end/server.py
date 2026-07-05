@@ -16,7 +16,7 @@ import json
 app = Flask(__name__, static_folder=".")
 CORS(app)
 
-DATA_DIR = "../Test2/Data"
+DATA_DIR = "../src/Data"
 
 # Map of API route name -> CSV filename in Data/
 CSV_MAP = {
