@@ -33,7 +33,7 @@ def generate_embeddings():
     # ---------------------------------------------------------
     # 2. INITIALIZE OLLAMA TARGET
     # ---------------------------------------------------------
-    model_name = "qwen2.5:3b"
+    model_name = "nomic-embed-text"
     print(f"2. Connecting to local Ollama using model '{model_name}'...")
     
     # Quick connectivity check
