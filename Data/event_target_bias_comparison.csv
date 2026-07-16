@@ -15,6 +15,33 @@ EVT_00007,rajenthra,news18,1,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00007,sivakasi,news18,1,Neutral/Mixed,Attack/Defence,0.0,0.0,100.0
 EVT_00007,thangamani,news18,1,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00007,velumani,news18,1,Negative,Attack/Defence,100.0,0.0,0.0
+EVT_00024,Agency/Judge,theprint,1,Negative,Corruption,100.0,0.0,0.0
+EVT_00024,Assembly elections,indian_express,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Bengal voter deletions,indian_express,1,Neutral/Mixed,Voter Registration and Management,0.0,0.0,100.0
+EVT_00024,Bhagabangola,indian_express,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_00024,Dravidian leaders,theprint,1,Negative,Corruption,100.0,0.0,0.0
+EVT_00024,EC (Election Commission),indian_express,1,Negative,Corruption,100.0,0.0,0.0
+EVT_00024,Election Commission,indian_express,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Farakka,indian_express,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Gogoi,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_00024,Government,indian_express,1,Negative,Development,100.0,0.0,0.0
+EVT_00024,Government (Assuming reference to development projects),theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_00024,India,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_00024,Kejriwal,theprint,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_00024,Lalgola,indian_express,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_00024,Local Elections in Samserganj (Murshidabad district),indian_express,1,Negative,Development,100.0,0.0,0.0
+EVT_00024,Mamata Banerjee,theprint,1,Negative,Development,100.0,0.0,0.0
+EVT_00024,Mothabari (Malda),indian_express,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Police and Judicial Officers,indian_express,1,Negative,Violence,100.0,0.0,0.0
+EVT_00024,Political Parties and Candidates,indian_express,1,Negative,Voter Suppression,100.0,0.0,0.0
+EVT_00024,Political Processes,indian_express,3,Negative,Law & Order,100.0,0.0,0.0
+EVT_00024,Politicians in South 24 Parganas,indian_express,1,Negative,Violence,100.0,0.0,0.0
+EVT_00024,Protests,indian_express,1,Negative,Violence,100.0,0.0,0.0
+EVT_00024,Raghunathganj,indian_express,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Ratua,indian_express,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_00024,Siliguri corridor,theprint,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Suti (Murshidabad),indian_express,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00024,Trinamool Congress (TMC),indian_express,1,Positive,Development,0.0,100.0,0.0
 EVT_00031,BJP,indian_express,3,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00031,BJP,ndtv,6,Negative,Attack/Defence,66.7,0.0,33.3
 EVT_00031,Chowdhury,indian_express,2,Positive,Attack/Defence,0.0,100.0,0.0
@@ -103,6 +130,28 @@ EVT_00046,Congress,hindustan_times,2,Negative,Governance,50.0,0.0,50.0
 EVT_00046,Congress,news18,3,Negative,Attack/Defence,66.7,0.0,33.3
 EVT_00046,Jabbar,news18,1,Neutral/Mixed,Attack/Defence,0.0,0.0,100.0
 EVT_00046,Samsher Shamashankarappa,hindustan_times,1,Neutral/Mixed,Governance,0.0,0.0,100.0
+EVT_00051,China,hindustan_times,1,Neutral/Mixed,Economic Policy,0.0,0.0,100.0
+EVT_00051,Economic Policies and Data,hindustan_times,1,Neutral/Mixed,Trade Balance,0.0,0.0,100.0
+EVT_00051,Government or Trade Policies,hindustan_times,1,Neutral/Mixed,Economic Growth,0.0,0.0,100.0
+EVT_00051,Growth Statistics,hindustan_times,1,Neutral/Mixed,Economic Development,0.0,0.0,100.0
+EVT_00051,India,firstpost,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00051,India,hindustan_times,10,Neutral/Mixed,Trade Relations,30.0,0.0,70.0
+EVT_00051,India & US,firstpost,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00051,India and US Trade Negotiations,firstpost,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00051,India-US Trade Relations,firstpost,1,Positive,Development,0.0,100.0,0.0
+EVT_00051,Trade Framework,firstpost,1,Negative,Development,100.0,0.0,0.0
+EVT_00051,Trade Negotiators,firstpost,1,Positive,Policy,0.0,100.0,0.0
+EVT_00051,Trade Pact,firstpost,1,Positive,Development,0.0,100.0,0.0
+EVT_00051,U.S. Government,firstpost,1,Neutral/Mixed,Trade Policy,0.0,0.0,100.0
+EVT_00051,US,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_00051,US Administration,firstpost,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00051,US Government,firstpost,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00051,US Tariff Structure,firstpost,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00051,US and India,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_00051,US officials,firstpost,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00051,USTR (United States Trade Representative),firstpost,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00051,United States,firstpost,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00051,United States Trade Representative,firstpost,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_00060,Amit Shah,news18,2,Positive,Governance,0.0,50.0,50.0
 EVT_00060,BR,news18,1,Negative,Governance,100.0,0.0,0.0
 EVT_00060,Chidambaram,deccan_herald,1,Negative,Attack/Defence,100.0,0.0,0.0
@@ -125,7 +174,18 @@ EVT_00060,Yadav,hindustan_times,1,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00060,delimitation bill,hindustan_times,1,Positive,Procedural Fairness,0.0,100.0,0.0
 EVT_00060,reservation for women,hindustan_times,1,Positive,Procedural Fairness,0.0,100.0,0.0
 EVT_00060,support,hindustan_times,1,Neutral/Mixed,Procedural Fairness,0.0,0.0,100.0
+EVT_00062,Global Suppliers,firstpost,1,Neutral/Mixed,Uncertainty/Market Conditions,0.0,0.0,100.0
+EVT_00062,Government/Central Government,firstpost,1,Negative,Economy & Finance,100.0,0.0,0.0
+EVT_00062,Gulf Infrastructure,firstpost,1,Negative,Supply Disruption & Economic Impact,100.0,0.0,0.0
+EVT_00062,India,firstpost,4,Negative,Development,75.0,0.0,25.0
+EVT_00062,India's LPG supply disruption,firstpost,1,Negative,Economic Impact & Political Strategy,100.0,0.0,0.0
+EVT_00062,Iranian Strikes,firstpost,1,Negative,Violence,100.0,0.0,0.0
+EVT_00062,Key Production Wells and Processing Units in the Gulf,firstpost,1,Negative,Business/Economic Instability,100.0,0.0,0.0
+EVT_00062,"LPG (producers, distributors)",firstpost,1,Negative,Development,100.0,0.0,0.0
 EVT_00062,S Jaishankar,the_times_of_india,1,Neutral/Mixed,Neutral/Factual,0.0,0.0,100.0
+EVT_00062,The geopolitical situation involving the Strait of Hormuz,firstpost,1,Neutral/Mixed,Security and Energy Dependence,0.0,0.0,100.0
+EVT_00062,Workers,firstpost,1,Neutral/Mixed,Economic Development,0.0,0.0,100.0
+EVT_00062,government,firstpost,1,Neutral/Mixed,Supply Disruption,0.0,0.0,100.0
 EVT_00064,BJP,hindustan_times,1,Negative,Communal Tension,100.0,0.0,0.0
 EVT_00064,BJP,indian_express,4,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00064,Congress,hindustan_times,3,Negative,Attack/Defence,66.7,0.0,33.3
@@ -199,6 +259,35 @@ EVT_00073,delimitation,the_new_indian_express,1,Negative,Attack/Defence,100.0,0.
 EVT_00073,quota law,the_new_indian_express,2,Neutral/Mixed,Governance,0.0,0.0,100.0
 EVT_00087,1937,india_today,1,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00087,Shariat,india_today,2,Negative,Attack/Defence,50.0,0.0,50.0
+EVT_00088,Air India,hindustan_times,2,Negative,Safety & Transport,50.0,0.0,50.0
+EVT_00088,Aircraft Accidents and Air Traffic,ndtv,1,Neutral/Mixed,Safety,0.0,0.0,100.0
+EVT_00088,Airlines/Airport Authorities,ndtv,1,Neutral/Mixed,Safety and Maintenance,0.0,0.0,100.0
+EVT_00088,Akasa,hindustan_times,2,Neutral/Mixed,Safety,0.0,0.0,100.0
+EVT_00088,Akasa Air,hindustan_times,3,Neutral/Mixed,Safety & Order,0.0,0.0,100.0
+EVT_00088,Akasa Air,ndtv,3,Negative,Operational Disruption,66.7,33.3,0.0
+EVT_00088,Akasa airline,ndtv,1,Neutral/Mixed,Safety,0.0,0.0,100.0
+EVT_00088,Akasa flight,hindustan_times,1,Neutral/Mixed,Incident,0.0,0.0,100.0
+EVT_00088,Arya,hindustan_times,4,Positive,Policy,0.0,75.0,25.0
+EVT_00088,Arya Mishra,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_00088,Central Government,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_00088,DGCA (Directorate General Of Civil Aviation),ndtv,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00088,DGCA (Directorate General of Civil Aviation),hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_00088,DGCA (Directorate General of Civil Aviation),ndtv,3,Neutral/Mixed,Accident Investigation,0.0,0.0,100.0
+EVT_00088,Delhi Airport Management,india_today,1,Negative,Safety & Accidents,100.0,0.0,0.0
+EVT_00088,Employees (female),india_today,1,Negative,Sexual Harassment,100.0,0.0,0.0
+EVT_00088,Government,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00088,Human Resources Manager,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_00088,IndiGo,hindustan_times,1,Neutral/Mixed,Investigation,0.0,0.0,100.0
+EVT_00088,Indian Airlines and Air India,hindustan_times,1,Neutral/Mixed,Aircraft Accident/Incident,0.0,0.0,100.0
+EVT_00088,Indian Aviation Industry,india_today,1,Neutral/Mixed,Safety Incident,0.0,0.0,100.0
+EVT_00088,Indian Government/Airports,hindustan_times,1,Negative,Safety Violation,100.0,0.0,0.0
+EVT_00088,Indira Gandhi International Airport,hindustan_times,1,Neutral/Mixed,Safety and Infrastructure,0.0,0.0,100.0
+EVT_00088,Indira Gandhi International Airport,india_today,1,Neutral/Mixed,Safety Incident,0.0,0.0,100.0
+EVT_00088,Mamata Banerjee,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_00088,PM Modi,india_today,2,Negative,Policy,50.0,50.0,0.0
+EVT_00088,Tata Consultancy Services,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_00088,Unknown,hindustan_times,1,Neutral/Mixed,Incident Frequency,0.0,0.0,100.0
+EVT_00088,relevant authorities,ndtv,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_00110,AAP,india_today,2,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00110,BJP,hindustan_times,1,Negative,Attack/Defence,100.0,0.0,0.0
 EVT_00110,BJR,hindustan_times,1,Negative,Procedural Fairness,100.0,0.0,0.0
