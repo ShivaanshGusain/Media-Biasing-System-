@@ -1,140 +1,137 @@
 event_id,total_articles_published,unique_outlets_covering,list_of_outlets,main_headline
-EVT_00073,6,5,"['ndtv', 'the_new_indian_express', 'theprint', 'the_hindu', 'firstpost']",A charged political debate is underway on the first day of the special session of Parliament on Thursday after Union ministers Arjun Ram Meghwal and Amit Shah introduced three bills in the Lok Sabha to amend the women’s quota law and set up a delimit...
-EVT_00067,5,5,"['indian_express', 'news18', 'india_today', 'theprint', 'hindustan_times']","Priyanka Gandhi Takes 'Chanakya' Swipe At Amit Shah On Delimitation, Invoking Ancient Strategy To Critique Modern Maths"
-EVT_00031,6,4,"['indian_express', 'the_times_of_india', 'ndtv', 'india_today']",ED arrests I-PAC co-founder in Bengal coal scam probe ahead of assembly polls
-EVT_00045,8,4,"['the_hindu', 'firstpost', 'theprint', 'the_new_indian_express']","Chennai: Tamil Nadu Chief Minister and DMK president M. K. Stalin Wednesday announced a black flag protest across Tamil Nadu Thursday against the Centre’s proposed delimitation exercise under the Constitutional Amendment Bill 2026. The announcement, ..."
-EVT_00062,5,4,"['firstpost', 'the_times_of_india', 'india_today', 'hindustan_times']",‘Attacks on merchant shipping unacceptable’: Jaishankar at Japan-hosted Azec Plus meeting
-EVT_00055,5,3,"['firstpost', 'india_today', 'hindustan_times']","TCS Nashik office shut amid probe into religious conversion allegations, international links under scanner"
-EVT_00065,7,3,"['news18', 'india_today', 'hindustan_times']",How PM Modi turned debate on women's quota into a dare for opposition
+EVT_00073,7,6,"['the_hindu', 'the_new_indian_express', 'firstpost', 'theprint', 'ndtv', 'hindustan_times']","272 women MPs proposed for next Lok Sabha, total strength to increase by 50%: Govt in Parliament"
+EVT_00045,4,4,"['the_new_indian_express', 'theprint', 'firstpost', 'the_hindu']",Centre proposes 131st Constitution Amendment Bill to increase Lok Sabha seats to 850
+EVT_00031,4,4,"['india_today', 'the_times_of_india', 'indian_express', 'ndtv']",ED arrests I-PAC co-founder in Bengal coal scam probe ahead of assembly polls
+EVT_00067,4,4,"['india_today', 'news18', 'indian_express', 'hindustan_times']","Priyanka Gandhi Takes 'Chanakya' Swipe At Amit Shah On Delimitation, Invoking Ancient Strategy To Critique Modern Maths"
 EVT_00064,3,3,"['indian_express', 'news18', 'hindustan_times']","Amid firestorm over delimitation, why Parliament should rise to clear women’s quota"
-EVT_00060,5,3,"['deccan_herald', 'news18', 'hindustan_times']",'Southern states will be stifled': Opposition unites in flagging concerns on delimitation
-EVT_00068,2,2,"['the_new_indian_express', 'the_times_of_india']","NEW DELHI: A ground collision between two aircraft at Indira Gandhi International Airport on Thursday left both planes damaged after a SpiceJet aircraft, while taxiing, struck a stationary Akasa Air plane."
-EVT_00007,4,2,"['indian_express', 'news18']",Assam Elections 2026: Full List Of BJP Candidates And Their Constituencies For Assembly Polls
-EVT_00042,2,2,"['indian_express', 'india_today']","A week to go, but where are they? Rahul Gandhi, Vijay trail in Tamil Nadu’s visibility race"
-EVT_00033,2,2,"['the_new_indian_express', 'theprint']","Bengaluru: Karnataka CM Siddaramaiah has ordered the ‘removal’ of his lone surviving political secretary, Naseer Ahmed, over allegations of anti-party activities and alleged funding of rebel candidates to help defeat the Congress candidate in the 9 A..."
-EVT_00043,6,2,"['news18', 'theprint']",New Delhi: BJP’s Samrat Choudhary was Tuesday named Nitish Kumar’s successor as Bihar’s chief minister–making him the first from the BJP to hold the state’s top post when he takes oath Wednesday.
-EVT_00046,3,2,"['news18', 'hindustan_times']",Congress Suspends Abdul Jabbar Over ‘Anti-Party Activities’; He Says ‘Party Acted In Haste’
-EVT_00087,2,2,"['ndtv', 'india_today']","Uniform Civil Code A ""Constitutional Ambition"": Top Court On Shariat Plea"
-EVT_00092,2,2,"['ndtv', 'the_hindu']","Around 100 women participated in an all-women motorcycle and scooter rally in the city on Thursday, expressing solidarity with the introduction of the Women’s Reservation Bill in the Lok Sabha. The Bill, officially titled the Nari Shakti Vandan Adhin..."
-EVT_00122,2,2,"['the_times_of_india', 'ndtv']","NEW DELHI: The Commission for Air Quality Management (CAQM) on Thursday imposed Stage-I measures across Delhi-NCR under the Graded Response Action Plan (GRAP) after air quality slipped into the ""poor"" category."
-EVT_00103,3,2,"['the_new_indian_express', 'the_hindu']","A nine-judge Constitution Bench of the Supreme Court (SC), led by Chief Justice of India Surya Kant, is currently hearing petitions relating to discrimination against women at religious places, examining the correctness and broader constitutional imp..."
+EVT_00065,3,3,"['india_today', 'news18', 'hindustan_times']",PM Modi's 'Friend' Jab At Akhilesh: Why Both Govt & Oppn Appear Confident In 850-Seat Lok Sabha Showdown
+EVT_00062,3,3,"['the_times_of_india', 'firstpost', 'hindustan_times']",‘Attacks on merchant shipping unacceptable’: Jaishankar at Japan-hosted Azec Plus meeting
+EVT_00055,3,3,"['india_today', 'firstpost', 'hindustan_times']","TCS Nashik office shut amid probe into religious conversion allegations, international links under scanner"
+EVT_00060,3,3,"['deccan_herald', 'news18', 'hindustan_times']",'Southern states will be stifled': Opposition unites in flagging concerns on delimitation
+EVT_00043,4,3,"['theprint', 'the_times_of_india', 'news18']",New Delhi: BJP’s Samrat Choudhary was Tuesday named Nitish Kumar’s successor as Bihar’s chief minister–making him the first from the BJP to hold the state’s top post when he takes oath Wednesday.
+EVT_00009,2,2,"['indian_express', 'news18']",Top 10 Richest Rajya Sabha MPs And Their Assets
+EVT_00087,2,2,"['india_today', 'ndtv']",Shariat law faces Supreme Court scrutiny over women's property rights
 EVT_00110,2,2,"['india_today', 'hindustan_times']","BRS, YSRCP urge Centre to address South’s concerns on delimitation"
+EVT_00112,2,2,"['the_hindu', 'ndtv']","Around 100 women participated in an all-women motorcycle and scooter rally in the city on Thursday, expressing solidarity with the introduction of the Women’s Reservation Bill in the Lok Sabha. The Bill, officially titled the Nari Shakti Vandan Adhin..."
+EVT_00103,2,2,"['the_new_indian_express', 'the_hindu']",The foundation stone for a judicial guest house near Rushikonda will be laid by Andhra Pradesh High Court Chief Justice Dhiraj Singh Thakur during his visit to the city on April 17 and 18.
+EVT_00105,2,2,"['deccan_herald', 'hindustan_times']",Delhi University student alleges bias over ‘sleeveless suit’ at ‘Nari Shakti’ event
+EVT_00046,2,2,"['news18', 'hindustan_times']",Congress Suspends Abdul Jabbar Over ‘Anti-Party Activities’; He Says ‘Party Acted In Haste’
+EVT_00068,2,2,"['the_times_of_india', 'the_new_indian_express']","NEW DELHI: A ground collision between two aircraft at Indira Gandhi International Airport on Thursday left both planes damaged after a SpiceJet aircraft, while taxiing, struck a stationary Akasa Air plane."
 EVT_00066,2,2,"['the_times_of_india', 'the_hindu']","NEW DELHI: The Travancore Devaswom Board (TDB) on Wednesday asked a nine-judge bench of SC hearing the Sabarimala reference if despite the Constitution's making every religious denomination subject to 'public order, health and morality' and nudity in..."
-EVT_00016,2,1,['indian_express'],"Badruddin Ajmal at a crossroads: As Assam Muslims move away, AIUDF faces a litmus test"
-EVT_00015,1,1,['indian_express'],"Amid steep travel costs, SIR fears, Bengal migrants try to return home for a vote that feels vital"
-EVT_00024,1,1,['indian_express'],"Malda, Murshidabad seats dominate Bengal voter deletions list: Here are the top 10 constituencies"
-EVT_00025,1,1,['indian_express'],"After Amma died, my smile faded, beginning to return now (with Stalin): OPS"
-EVT_00027,1,1,['deccan_herald'],देश में सामाजिक परिवर्तन के पितामह के रूप में प्रसिद्ध ’बहुजन समाज’ में अति-पिछड़े वर्ग में जन्मे महात्मा ज्योतिबा फुले को आज उनकी जयंती पर मेरे व बी.एस.पी. की ओर से भी शत्-शत् नमन व अपार श्रद्धा सुमन अर्पित। ख़ासकर शिक्षा के माध्यम से स्त्री/नारी शक...
-EVT_00018,1,1,['indian_express'],"As Ashwini Bhide takes over as BMC’s first woman chief, what is Fadnavis message in breaking glass ceiling"
-EVT_00021,1,1,['indian_express'],Over 27 lakh out: EC releases first data of deletions after adjudication
+EVT_00042,2,2,"['indian_express', 'india_today']","A week to go, but where are they? Rahul Gandhi, Vijay trail in Tamil Nadu’s visibility race"
+EVT_00033,2,2,"['theprint', 'the_new_indian_express']","Bengaluru: Karnataka CM Siddaramaiah has ordered the ‘removal’ of his lone surviving political secretary, Naseer Ahmed, over allegations of anti-party activities and alleged funding of rebel candidates to help defeat the Congress candidate in the 9 A..."
+EVT_00136,2,2,"['theprint', 'the_times_of_india']","Speaking in Lok Sabha on women's reservation, PM said: 'Don't weigh this from political perspective; this is a decision in national interest... Women across the country... will judge our intent.'"
+EVT_00122,2,2,"['the_times_of_india', 'ndtv']","AQI 'Poor', Pollution Curbs Under GRAP-1 Imposed In Delhi-NCR In April"
+EVT_00125,2,2,"['india_today', 'news18']",Nashik Horror Unfolds: HR Manager Nida Khan Accused of Running Corporate Grooming Racket ?
+EVT_00016,1,1,['indian_express'],"In Assam’s seat of power, how BJP’s internal faultlines have surfaced"
 EVT_00022,1,1,['deccan_herald'],"The NDA government under Hon’ble Prime Minister Thiru. @NarendraModi is systematically eroding the very foundations of Parliament. What should be a vibrant forum for debate and accountability is being reduced to a hollow ritual, a… pic.twitter.com/FQ..."
 EVT_00023,1,1,['indian_express'],"The Trinamool Congress is expecting a tough contest in Kolkata, which has been its stronghold, now that voter rolls are almost finalised with the completion of the adjudication process."
-EVT_00020,1,1,['indian_express'],"Fear and alienation in Assam: As BJP sharpens ‘infiltrator’ pitch, eviction-hit voters hope for govt change"
-EVT_00032,1,1,['theprint'],New Delhi: The public spat between M. Hazeena Syed who stepped down as chief of the Congress’s Tamil Nadu Mahila wing and Mahila Congress National President Alka Lamba has deepened the party’s troubles in the poll-bound state. The two have traded bar...
-EVT_00030,6,1,['news18'],"Turban Off, Crown On: The Meteoric Rise Of Bihar's First BJP CM, Samrat Choudhary"
-EVT_00014,1,1,['indian_express'],"87 LDF, UDF strongholds since 2011: For Kerala polls, what the data holds"
-EVT_00013,1,1,['indian_express'],Behind Vijay’s seat choices on poll debut: A test of personal popularity and community equations
-EVT_00012,1,1,['indian_express'],Welfare or freebies? Why sops define Tamil Nadu politics
 EVT_00011,1,1,['indian_express'],"20 interviews, 3 days: Pinarayi Vijayan opens up in media blitz, Sabarimala to CPI(M)-BJP ‘deal’"
-EVT_00019,1,1,['indian_express'],"Adhir Chowdhury interview: ‘Muslims will vote either for TMC or Congress, depending on winnability index’"
-EVT_00017,1,1,['indian_express'],"Adhir Chowdhury’s second act: Back to Assembly battle after 35 years, ‘starting from scratch’"
+EVT_00010,1,1,['indian_express'],"Asaduddin Owaisi’s Bengal entry, tie-up with Humayun Kabir add new variable in minority seat equations"
 EVT_00008,1,1,['indian_express'],Baijayant Panda interview: ‘People of Assam have had enough of impunity of law-breakers … CM Sarma is very blunt about language he uses’
-EVT_00010,4,1,['indian_express'],"Asaduddin Owaisi’s Bengal entry, tie-up with Humayun Kabir add new variable in minority seat equations"
-EVT_00002,1,1,['the_times_of_india'],NEW DELHI: As the National Democratic Alliance (NDA) govts were installed in two more states with Chandrababu Naidu and Mohan Charan Majhi taking oaths as chief ministers in
-EVT_00001,1,1,['the_times_of_india'],Congress on Tuesday said the allocation of the Parliamentary Affairs portfolio inspires no confidence whatsoever that Prime Minister
+EVT_00007,1,1,['news18'],Assam Elections 2026: Full List Of BJP Candidates And Their Constituencies For Assembly Polls
+EVT_00012,1,1,['indian_express'],Welfare or freebies? Why sops define Tamil Nadu politics
+EVT_00013,1,1,['indian_express'],Behind Vijay’s seat choices on poll debut: A test of personal popularity and community equations
+EVT_00014,1,1,['indian_express'],"87 LDF, UDF strongholds since 2011: For Kerala polls, what the data holds"
+EVT_00015,1,1,['indian_express'],"Amid steep travel costs, SIR fears, Bengal migrants try to return home for a vote that feels vital"
+EVT_00020,1,1,['indian_express'],"Fear and alienation in Assam: As BJP sharpens ‘infiltrator’ pitch, eviction-hit voters hope for govt change"
+EVT_00021,1,1,['indian_express'],Over 27 lakh out: EC releases first data of deletions after adjudication
+EVT_00006,1,1,['indian_express'],"Amid Murmu protocol row, TMC vs BJP battle flares in Bengal tribal seats"
+EVT_00005,1,1,['indian_express'],"Back in Rajya Sabha, can Sharad Pawar reinvent himself, script new Opposition pushback against BJP?"
 EVT_00003,1,1,['india_today'],"Tamil Nadu is the graveyard of national political parties. It buried the Congress at its peak then in 1967. The BJP, also at its peak now, has been pregnant with possibilities but has failed to deliver. Never a serious player in the state before the ..."
 EVT_00004,1,1,['indian_express'],"As Rahul invokes Kanshi Ram, a look at UP CMs in Congress era, Nehru to Indira, Rajiv"
-EVT_00005,1,1,['indian_express'],"Back in Rajya Sabha, can Sharad Pawar reinvent himself, script new Opposition pushback against BJP?"
-EVT_00006,1,1,['indian_express'],"Amid Murmu protocol row, TMC vs BJP battle flares in Bengal tribal seats"
-EVT_00048,1,1,['news18'],"AAP Alleges Raghav Chadha Met BJP Leaders, Sought ED Raid On Party MP Ashok Mittal"
-EVT_00047,1,1,['deccan_herald'],"<p>Mumbai: Is <a href=""https://www.deccanherald.com/india/maharashtra/congress-slams-shiv-sena-ubt-for-accusing-it-of-using-regional-allies-as-crutches-3957675"">Shiv Sena (UBT)</a> chief Uddhav Thackeray is carving out a larger role for his son Aadit..."
-EVT_00041,3,1,['deccan_herald'],"<p>New Delhi: Prime Minister <a href=""https://www.deccanherald.com/tags/narendra-modi"">Narendra Modi</a> on Tuesday asserted that the NDA government is committed to delivering true social justice to every poor person, adding that the policies and dec..."
-EVT_00044,1,1,['firstpost'],3 dead in Delhi's Rohini warehouse fire as blaze spreads to nearby huts
-EVT_00037,1,1,['deccan_herald'],Received a call from my friend President Donald Trump. We reviewed the substantial progress achieved in our bilateral cooperation in various sectors. We are committed to further strengthening our Comprehensive Global Strategic Partnership in all area...
-EVT_00038,2,1,['firstpost'],India steps up West Asia diplomacy: Jaishankar speaks to global partners on Iran crisis
-EVT_00039,1,1,['theprint'],"Lucknow: The revised tale of the electoral tape has not brought smiles to BJP faces in Uttar Pradesh. At least, not yet."
+EVT_00002,1,1,['the_times_of_india'],NEW DELHI: As the National Democratic Alliance (NDA) govts were installed in two more states with Chandrababu Naidu and Mohan Charan Majhi taking oaths as chief ministers in
+EVT_00001,1,1,['the_times_of_india'],Congress on Tuesday said the allocation of the Parliamentary Affairs portfolio inspires no confidence whatsoever that Prime Minister
 EVT_00040,1,1,['deccan_herald'],"<p>Bengaluru: A 43-year-old woman, who was suffering from <a href=""https://www.deccanherald.com/tags/anxiety"">anxiety</a>, killed her 13-year-old daughter before hanging herself in Whitefield on Monday night.</p><p>The deceased have been identified a..."
+EVT_00041,1,1,['deccan_herald'],"<p>New Delhi: Prime Minister <a href=""https://www.deccanherald.com/tags/narendra-modi"">Narendra Modi</a> on Tuesday asserted that the NDA government is committed to delivering true social justice to every poor person, adding that the policies and dec..."
+EVT_00038,1,1,['firstpost'],India steps up West Asia diplomacy: Jaishankar speaks to global partners on Iran crisis
+EVT_00039,1,1,['theprint'],"Lucknow: The revised tale of the electoral tape has not brought smiles to BJP faces in Uttar Pradesh. At least, not yet."
+EVT_00037,1,1,['deccan_herald'],Received a call from my friend President Donald Trump. We reviewed the substantial progress achieved in our bilateral cooperation in various sectors. We are committed to further strengthening our Comprehensive Global Strategic Partnership in all area...
 EVT_00036,1,1,['news18'],Alliance Acrobatics To Exit Strategy: Has Nitish Kumar Finally Run Out Of U-Turns?
-EVT_00035,1,1,['theprint'],"Chennai: At the brink of the Tamil Nadu Assembly elections, Chief Minister M. K. Stalin issued Tuesday a “final warning from Tamil Nadu” to the Narendra Modi government against delimitation, saying it should not be pushed in this month’s special sess..."
 EVT_00034,1,1,['news18'],"'New Govt Will Have My Full Cooperation, Guidance': Nitish Kumar In His Farewell Post"
-EVT_00026,1,1,['deccan_herald'],"<p>Thiruvananthapuram: Congress leaders on Saturday decided to refrain from naming preferred candidates for the chief minister's post to avoid differences before the announcement of the <a href=""https://www.deccanherald.com/elections/kerala/kerala-vo..."
+EVT_00035,1,1,['theprint'],"Chennai: At the brink of the Tamil Nadu Assembly elections, Chief Minister M. K. Stalin issued Tuesday a “final warning from Tamil Nadu” to the Narendra Modi government against delimitation, saying it should not be pushed in this month’s special sess..."
 EVT_00028,1,1,['deccan_herald'],"Thanking Hon. Prime Minister, for the letter regarding the special Parliament sitting starting 16th April. We welcome the move to implement women’s reservation from the 2029 Lok Sabha elections — a historic step for Nari Shakti. We have long champion..."
 EVT_00029,1,1,['deccan_herald'],"भाजपचे सत्तेतले मित्रपक्ष विरोधी पक्षाचे आमदार खासदार फोडणार असल्याच्या बातम्या बघितल्या, परंतु वस्तुस्थिती मात्र वेगळीच आहे, पुढच्या महिन्याच्या शेवटपर्यंत सत्तेतल्या मोठ्या पक्षाकडून सत्तेतल्या त्यांच्या मित्रांचीच शिकार केली जाणार असल्याची पक्की म..."
-EVT_00054,1,1,['hindustan_times'],"Convene assembly to discuss delimitation within 48 hrs, Naveen Patnaik asks CM"
-EVT_00056,2,1,['hindustan_times'],China surpasses US as India's largest trading partner in FY26; trade gap swells to $112 billion
-EVT_00063,1,1,['firstpost'],India’s LPG crisis may take up to 4 years to ease amid Hormuz disruption: Report
-EVT_00058,1,1,['theprint'],"Nandigram (West Bengal): Nineteen years after violent land acquisition protests drove away the then Left government’s planned chemical hub in West Bengal’s Nandigram, the sleepy fishing village is slowly opening its doors to industry again."
+EVT_00032,1,1,['theprint'],New Delhi: The public spat between M. Hazeena Syed who stepped down as chief of the Congress’s Tamil Nadu Mahila wing and Mahila Congress National President Alka Lamba has deepened the party’s troubles in the poll-bound state. The two have traded bar...
+EVT_00030,1,1,['news18'],'Sacred Opportunity To Serve': Samrat Choudhary's 'Pledge' As BJP Picks Him To Lead Bihar
+EVT_00024,1,1,['indian_express'],"Malda, Murshidabad seats dominate Bengal voter deletions list: Here are the top 10 constituencies"
+EVT_00025,1,1,['indian_express'],"After Amma died, my smile faded, beginning to return now (with Stalin): OPS"
+EVT_00026,1,1,['deccan_herald'],"<p>Thiruvananthapuram: Congress leaders on Saturday decided to refrain from naming preferred candidates for the chief minister's post to avoid differences before the announcement of the <a href=""https://www.deccanherald.com/elections/kerala/kerala-vo..."
+EVT_00027,1,1,['deccan_herald'],देश में सामाजिक परिवर्तन के पितामह के रूप में प्रसिद्ध ’बहुजन समाज’ में अति-पिछड़े वर्ग में जन्मे महात्मा ज्योतिबा फुले को आज उनकी जयंती पर मेरे व बी.एस.पी. की ओर से भी शत्-शत् नमन व अपार श्रद्धा सुमन अर्पित। ख़ासकर शिक्षा के माध्यम से स्त्री/नारी शक...
+EVT_00019,1,1,['indian_express'],"Adhir Chowdhury interview: ‘Muslims will vote either for TMC or Congress, depending on winnability index’"
+EVT_00018,1,1,['indian_express'],"As Ashwini Bhide takes over as BMC’s first woman chief, what is Fadnavis message in breaking glass ceiling"
+EVT_00017,1,1,['indian_express'],"Adhir Chowdhury’s second act: Back to Assembly battle after 35 years, ‘starting from scratch’"
 EVT_00059,1,1,['firstpost'],US envoy kicks off America's 250th I-Day celebrations with Trump posters on Indian autorickshaws
-EVT_00061,1,1,['hindustan_times'],23 arrested over stone-pelting at Ambedkar Jayanti procession in UP's Kasganj
-EVT_00070,1,1,['ndtv'],"PM Modi Speaks To French President, Discusses Middle East, Starit Of Hormuz"
-EVT_00071,2,1,['the_hindu'],Uttarandhra Backward Classes Association President and TDP senior leader Muddada Madhu on Thursday said that appointment of Minister for IT and Education Nara Lokesh as the TDP Working President would further strengthen the party.
-EVT_00072,1,1,['india_today'],"UPA-era census used for delimitation, so why object? Smriti Irani to opposition"
-EVT_00074,1,1,['ndtv'],Women's Reservation Bill To Remain A Post-Dated Cheque Forever: K Kavitha
-EVT_00075,1,1,['the_new_indian_express'],"SRINAGAR: The Jammu and Kashmir Police’s State Investigation Agency (SIA) on Thursday filed a chargesheet against 10 accused, including four doctors, in an inter-state white-collar militant module case, which includes Dr Umar Nabi, alleged to have ca..."
-EVT_00076,1,1,['the_times_of_india'],NEW DELHI: Around 12 lakh households across 11 states and Union Territories have self-enumerated so far for the houselisting operations (HLO) phase of Census 2027. More than half of these households availed of the self-enumeration facility in the pas...
-EVT_00077,1,1,['hindustan_times'],"BJP president Nitin Nabin, 15 others sworn in as Rajya Sabha members"
-EVT_00078,2,1,['the_times_of_india'],"NEW DELHI: Noting that it is the honour which is the most important thing for a defence personnel,"
-EVT_00057,1,1,['deccan_herald'],Tirupati MP condemns illegal arrest of YSRCP general secretary (Media)
-EVT_00049,3,1,['hindustan_times'],CBSE 10th Result 2026 highlights: CBSE Class 10 results declared; 93.70% students pass
-EVT_00052,1,1,['firstpost'],"TCS Nashik probe widens: 3 more women likely to file FIRs in abuse, religious conversion case"
 EVT_00053,1,1,['theprint'],Hyderabad: A poor show in Telangana’s 2023 assembly elections and persistent demands from the Bharat Rashtra Samithi rank and file to revert to the party’s original name has pressed working president KT Rama Rao (KTR) to announce that the party is li...
-EVT_00082,1,1,['the_times_of_india'],New Delhi: A Delhi court on Wednesday took cognisance of charges against businessman
-EVT_00081,2,1,['the_hindu'],"The scientific biomining operations to completely clear the century-old legacy waste mound at Njeliyanparamba, which has long been an environmental concern for residents of Kozhikode, are making progress."
-EVT_00080,1,1,['ndtv'],"Competition Panel Rejects Complaint Against Adani Group, Azure Power In Solar Tender Case"
+EVT_00058,1,1,['theprint'],"Nandigram (West Bengal): Nineteen years after violent land acquisition protests drove away the then Left government’s planned chemical hub in West Bengal’s Nandigram, the sleepy fishing village is slowly opening its doors to industry again."
+EVT_00057,1,1,['deccan_herald'],Tirupati MP condemns illegal arrest of YSRCP general secretary (Media)
+EVT_00056,1,1,['hindustan_times'],China surpasses US as India's largest trading partner in FY26; trade gap swells to $112 billion
+EVT_00061,1,1,['hindustan_times'],23 arrested over stone-pelting at Ambedkar Jayanti procession in UP's Kasganj
+EVT_00069,1,1,['india_today'],"Noida violence linked to Pakistan-based X handles, probe finds"
+EVT_00071,1,1,['the_hindu'],Uttarandhra Backward Classes Association President and TDP senior leader Muddada Madhu on Thursday said that appointment of Minister for IT and Education Nara Lokesh as the TDP Working President would further strengthen the party.
+EVT_00052,1,1,['firstpost'],"TCS Nashik probe widens: 3 more women likely to file FIRs in abuse, religious conversion case"
+EVT_00048,1,1,['news18'],"AAP Alleges Raghav Chadha Met BJP Leaders, Sought ED Raid On Party MP Ashok Mittal"
+EVT_00054,1,1,['hindustan_times'],"Convene assembly to discuss delimitation within 48 hrs, Naveen Patnaik asks CM"
+EVT_00051,1,1,['firstpost'],India-US trade push resumes as global tariffs shift; delegation to visit Washington next week
+EVT_00063,1,1,['firstpost'],India’s LPG crisis may take up to 4 years to ease amid Hormuz disruption: Report
+EVT_00076,1,1,['the_times_of_india'],NEW DELHI: Around 12 lakh households across 11 states and Union Territories have self-enumerated so far for the houselisting operations (HLO) phase of Census 2027. More than half of these households availed of the self-enumeration facility in the pas...
+EVT_00075,1,1,['the_new_indian_express'],"SRINAGAR: The Jammu and Kashmir Police’s State Investigation Agency (SIA) on Thursday filed a chargesheet against 10 accused, including four doctors, in an inter-state white-collar militant module case, which includes Dr Umar Nabi, alleged to have ca..."
+EVT_00074,1,1,['ndtv'],Women's Reservation Bill To Remain A Post-Dated Cheque Forever: K Kavitha
+EVT_00072,1,1,['india_today'],"UPA-era census used for delimitation, so why object? Smriti Irani to opposition"
+EVT_00070,1,1,['ndtv'],"PM Modi Speaks To French President, Discusses Middle East, Starit Of Hormuz"
+EVT_00077,1,1,['hindustan_times'],"BJP president Nitin Nabin, 15 others sworn in as Rajya Sabha members"
 EVT_00079,1,1,['hindustan_times'],"8th pay commission: Salary increase, pension boost and fitment factor explained"
-EVT_00086,1,1,['firstpost'],India calls special session of Parliament to give women 33% quota in legislatures
-EVT_00088,1,1,['ndtv'],"SpiceJet Plane Winglet Breaks, Gets Stuck In Akasa Jet It Hit In Delhi"
+EVT_00078,1,1,['the_times_of_india'],"NEW DELHI: Noting that it is the honour which is the most important thing for a defence personnel,"
 EVT_00085,1,1,['the_hindu'],Indian Oil Corporation Limited has increased Auto LPG supplies to Bengaluru by nearly 300% in response to a sharp surge in demand caused by disruptions in private sector supply chains.
+EVT_00088,1,1,['ndtv'],"SpiceJet Plane Winglet Breaks, Gets Stuck In Akasa Jet It Hit In Delhi"
+EVT_00089,1,1,['the_times_of_india'],The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to exce...
+EVT_00090,1,1,['the_hindu'],City schools had much to cheer about after the declaration of Central Board of Secondary Education (CBSE) Class X results.
+EVT_00081,1,1,['the_hindu'],"The scientific biomining operations to completely clear the century-old legacy waste mound at Njeliyanparamba, which has long been an environmental concern for residents of Kozhikode, are making progress."
 EVT_00083,1,1,['the_hindu'],The Heritage Education and Communication Service (HECS) division of Indian National Trust for Art and Cultural Heritage (INTACH) is organising an all-India poster competition ‘Tree of Life’ for school students of Classes 7 to 9. The competition will ...
-EVT_00090,2,1,['the_hindu'],City schools had much to cheer about after the declaration of Central Board of Secondary Education (CBSE) Class X results.
-EVT_00091,1,1,['deccan_herald'],Parliament Special Session Live | Women Reservation Act 2023 comes into force: Govt notification
-EVT_00093,1,1,['the_times_of_india'],"Priyanka Gandhi Vadra took aim at the Centre in the Lok Sabha on Thursday while speaking on the proposed women’s reservation bill, using a sharp Chanakya reference that drew laughter from Union home minister"
-EVT_00094,1,1,['the_new_indian_express'],"NEW DELHI: The Food Safety and Standards Authority of India (FSSAI) on Thursday directed states to conduct intensified inspections and strict vigilance to curb illegal fruit ripening agents in fruits like mangoes, bananas, and papayas."
+EVT_00084,1,1,['the_hindu'],Extreme heatwave conditions following the 41.8 degrees Celsius day’s maximum temperature on Thursday forced a majority of the people in Yadgir to stay indoors between noon and 5 p.m.
+EVT_00080,1,1,['ndtv'],"Competition Panel Rejects Complaint Against Adani Group, Azure Power In Solar Tender Case"
 EVT_00095,1,1,['ndtv'],"Bhopal Woman, 64, Duped Of Rs 26 Lakh In Digital Arrest Fraud"
+EVT_00094,1,1,['the_new_indian_express'],"NEW DELHI: The Food Safety and Standards Authority of India (FSSAI) on Thursday directed states to conduct intensified inspections and strict vigilance to curb illegal fruit ripening agents in fruits like mangoes, bananas, and papayas."
+EVT_00093,1,1,['the_times_of_india'],"Priyanka Gandhi Vadra took aim at the Centre in the Lok Sabha on Thursday while speaking on the proposed women’s reservation bill, using a sharp Chanakya reference that drew laughter from Union home minister"
+EVT_00091,1,1,['deccan_herald'],Parliament Special Session Live | Women Reservation Act 2023 comes into force: Govt notification
+EVT_00100,1,1,['ndtv'],Is Suvendu Adhikari BJP's Chief Minister Face In Bengal? What He Told NDTV
 EVT_00096,1,1,['the_hindu'],"The vehicle involved in the accident in which eight persons were killed near Chilakaladona in Yemmiganur police limits had passed the Dharmapuram toll plaza minutes before the commencement of the `Face Wash and Go,’ police programme on Thursday."
-EVT_00089,2,1,['the_times_of_india'],The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to exce...
-EVT_00084,3,1,['the_hindu'],"The State government on Thursday issued a notification extending the tenure of M.A. Saleem, a 1993 batch Indian Police Service officer, as the Director-General and Inspector-General of Police (Head of the Police Force), Karnataka, till August 29, 202..."
 EVT_00098,1,1,['ndtv'],'Pressured Women To Join Them In Hotels': Big Claim In TCS 'Conversion' Case
 EVT_00097,1,1,['hindustan_times'],Delhi Police nabs 'romance swindler' who duped over 500 women of crores
-EVT_00101,1,1,['hindustan_times'],Court convicts Congress MLA in 2016 murder case in Karnataka
-EVT_00099,1,1,['hindustan_times'],Congress’s Gaurav Gogoi accuses govt of using women quota for political gains
-EVT_00102,1,1,['ndtv'],"""I Was Blaring Siren, Why Didn't You Move?"" MLA's Son After Ramming 5 With Thar"
 EVT_00104,1,1,['hindustan_times'],"Delhi acid attack accused had ‘bouts of anger’, was under depression treatment"
-EVT_00105,1,1,['hindustan_times'],Delhi University student alleges bias over ‘sleeveless suit’ at ‘Nari Shakti’ event
-EVT_00100,1,1,['ndtv'],Is Suvendu Adhikari BJP's Chief Minister Face In Bengal? What He Told NDTV
+EVT_00102,1,1,['ndtv'],"""I Was Blaring Siren, Why Didn't You Move?"" MLA's Son After Ramming 5 With Thar"
+EVT_00101,1,1,['hindustan_times'],Court convicts Congress MLA in 2016 murder case in Karnataka
 EVT_00106,1,1,['india_today'],"Massive fire ravages luxury cottages near Goa's Ajoba Temple, losses in crores"
-EVT_00107,1,1,['the_times_of_india'],"Ram Janmabhoomi judgment endorsing Hindus' belief that the disputed site at Ayodhya was Lord Ram's birthplace, Travancore Devaswom Board on Wednesday told"
 EVT_00108,1,1,['hindustan_times'],"DMK, SPA alliance raise black flags, protest against proposed delimitation bill"
+EVT_00049,1,1,['hindustan_times'],"AP 1st 2nd Year Result Out highlights: BIEAP 1st, 2nd year results declared, 77% pass 1st year, 81% pass 2nd year"
+EVT_00044,1,1,['firstpost'],3 dead in Delhi's Rohini warehouse fire as blaze spreads to nearby huts
+EVT_00047,1,1,['deccan_herald'],"<p>Mumbai: Is <a href=""https://www.deccanherald.com/india/maharashtra/congress-slams-shiv-sena-ubt-for-accusing-it-of-using-regional-allies-as-crutches-3957675"">Shiv Sena (UBT)</a> chief Uddhav Thackeray is carving out a larger role for his son Aadit..."
+EVT_00111,1,1,['hindustan_times'],"Akasa, SpiceJet aircraft involved in minor collision at Delhi airport"
 EVT_00109,1,1,['the_times_of_india'],"NEW DELHI: The number of domestic LPG refill bookings has fallen to nearly 43-44 lakh in April from a peak of about 89 lakh in mid-March, easing pressure on cooking gas supplies, reports Atul Mathur."
-EVT_00111,2,1,['hindustan_times'],"Couple, 2-year-old die after fire traps family inside locked home in Delhi's Rohini"
-EVT_00112,1,1,['theprint'],"Speaking in Lok Sabha on women's reservation, PM said: 'Don't weigh this from political perspective; this is a decision in national interest... Women across the country... will judge our intent.'"
+EVT_00107,1,1,['the_times_of_india'],"Ram Janmabhoomi judgment endorsing Hindus' belief that the disputed site at Ayodhya was Lord Ram's birthplace, Travancore Devaswom Board on Wednesday told"
 EVT_00113,1,1,['the_hindu'],"District Collector M. Abhishikth Kishore, Police Commissioner Shanka Brata Bagchi and GVMC Commissioner Ketan Garg on Thursday inspected arrangements for the annual Chandanotsavam at the Sri Varaha Lakshmi Narasimha Swamy temple in Simhachalam, sched..."
-EVT_00051,1,1,['firstpost'],India-US trade push resumes as global tariffs shift; delegation to visit Washington next week
-EVT_00114,1,1,['the_new_indian_express'],"RANCHI: Another security personnel was injured in a Maoist-triggered IED blast during an ongoing encounter in the Saranda forests of West Singhbhum on Thursday, taking the total number of injured jawans to six since the gunfight began at 8 am on Wedn..."
-EVT_00115,1,1,['ndtv'],"Probe Agency Raids 32nd Avenue Group In Rs 500 Crore Scam, Seizes Cash, Gold"
 EVT_00117,1,1,['hindustan_times'],"Discount for saying ‘Jai Shri Ram’: Kolkata doctor offers unique offer for patients, draws medical body's ire"
-EVT_00116,1,1,['ndtv'],"2 Children Die, 3 Hospitalised After Inhaling Pesticide Fumes In Ujjain"
 EVT_00118,1,1,['news18'],'Democracy Over If This Is Passed': Priyanka Gandhi On 'Injustice' To OBCs In Women's Quota Bill
-EVT_00119,1,1,['india_today'],Textile hub Bhiwandi under strain as Iran war impact triggers industry collapse fears
+EVT_00115,1,1,['ndtv'],"Probe Agency Raids 32nd Avenue Group In Rs 500 Crore Scam, Seizes Cash, Gold"
+EVT_00114,1,1,['the_new_indian_express'],"RANCHI: Another security personnel was injured in a Maoist-triggered IED blast during an ongoing encounter in the Saranda forests of West Singhbhum on Thursday, taking the total number of injured jawans to six since the gunfight began at 8 am on Wedn..."
 EVT_00120,1,1,['ndtv'],'Jee Lo Apni Zindagi': Kangana Ranaut's DDLJ Reference In Women's Bill Debate
-EVT_00121,1,1,['hindustan_times'],Chhattisgarh power plant blast toll hits 20 as 7 more workers die
+EVT_00119,1,1,['india_today'],Textile hub Bhiwandi under strain as Iran war impact triggers industry collapse fears
 EVT_00123,1,1,['the_hindu'],"A road accident occurred near the Undavalli Caves in Tadepalli mandal in Amaravati capital city area of Guntur district on Thursday, leaving several passengers injured."
+EVT_00121,1,1,['hindustan_times'],Chhattisgarh power plant blast toll hits 20 as 7 more workers die
 EVT_00124,1,1,['the_hindu'],"Contrasting the burst of light and revelry that mark Vishu elsewhere, a pall of gloom hovered above a humble house tucked into a hillside in Kottamala, near Uzhamalakkal, in Thiruvananthapuram."
-EVT_00125,1,1,['india_today'],"Nida Khan, on the run, is not HR head but telecaller at TCS Nashik unit: Sources"
 EVT_00126,1,1,['ndtv'],"Woman Backs Out Of Divorce Settlement, Irked Top Court Dissolves Marriage"
 EVT_00127,1,1,['the_times_of_india'],"NEW DELHI: A cleric has been arrested in the Amroha triple talaq and halala case nearly three months after the matter first came into focus, with the survivor alleging that he facilitated a Feb 2025 nikah using a fake document that led to her gang ra..."
+EVT_00116,1,1,['ndtv'],"2 Children Die, 3 Hospitalised After Inhaling Pesticide Fumes In Ujjain"
 EVT_00128,1,1,['the_hindu'],"The Peoples’ Democratic Party (PDP) cautioned against moves to push for religion-based delimitation on Thursday, pointing out that “J&K and Assam are victims of the lopsided delimitation process held recently”."
 EVT_00129,1,1,['the_hindu'],"The Karnataka Rohith Vemula (Prevention of Discrimination, Exclusion or Injustice) (Right to Education and Dignity) Bill, 2026, which had been widely debated but stuck in red tape for long, was cleared by the Cabinet on Thursday."
-EVT_00130,1,1,['the_hindu'],"Samajwadi Party president Akhilesh Yadav on Thursday (April 16, 2026) asked the Union government to operationalise the women’s reservation law only after completing the caste census, accusing the ruling Bharatiya Janata Party (BJP) of reducing “nari”..."
 EVT_00131,1,1,['the_hindu'],"As many as 2,839 students from Andhra Pradesh have passed the National Programme on Technology Enhanced Learning (NPTEL) examination on ‘Introduction to Quantum Computing: Quantum Algorithms and Qiskit’."
-EVT_00132,1,1,['deccan_herald'],"<p>New Delhi: On a day Lok Sabha started a debate on amending the existing 33% women's quota law passed thirty-one months ago, the government on Thursday notified that the provisions of the 'Nari Shakti Vandan Adhiniyam' came into force.</p><p>It was..."
+EVT_00130,1,1,['the_hindu'],"Samajwadi Party president Akhilesh Yadav on Thursday (April 16, 2026) asked the Union government to operationalise the women’s reservation law only after completing the caste census, accusing the ruling Bharatiya Janata Party (BJP) of reducing “nari”..."
 EVT_00133,1,1,['the_hindu'],A team of the Madhya Pradesh (MP) police arrived in the city to investigate a case registered in connection with the marriage of a woman — alleged to be a minor since then — whose video from the Maha Kumbh Mela had gone viral.
 EVT_00134,1,1,['india_today'],2014 Andhra bifurcation worse than Partition: Tejasvi Surya's remark sparks row
 EVT_00135,2,1,['deccan_herald'],Epaper Sign in India Karnataka DH Specials Opinion World Business Sports Video Entertainment Assembly Polls 2026 Bengaluru Technology Lifestyle Trending Photos DH Brandspot Home News Shots Epaper Menu × ADVERTISEMENT
-EVT_00136,1,1,['the_times_of_india'],- Women’s reservation to delimitation: Focus on 3 key bills in Lok Sabha today; why they matter
-EVT_00137,2,1,['firstpost'],"India News: Latest Updates, Breaking Headlines, and In-Depth Coverage from Across the Nation."
+EVT_00137,1,1,['firstpost'],"India News: Latest Updates, Breaking Headlines, and In-Depth Coverage from Across the Nation."
 EVT_00138,1,1,['the_times_of_india'],- Delhi CM worships at Tirumala; hails TTD’s AI powered integrated command control centre
-EVT_00139,1,1,['india_today'],Delimitation bill triggers black flag protests in Tamil Nadu
+EVT_00139,2,1,['india_today'],Delimitation bill triggers black flag protests in Tamil Nadu
 EVT_00140,1,1,['theprint'],"The party that won the Ambala and Sonipat Lok Sabha seats in May 2024, but lost the Assembly polls there five months later, heads into civic elections with little room for error."
 EVT_00141,1,1,['firstpost'],"India News: Latest Updates, Breaking Headlines, and In-Depth Coverage from Across the Nation."
 EVT_00142,1,1,['the_times_of_india'],Get real-time updates and result insights on the CBSE 12 Result 2026.
@@ -145,6 +142,7 @@ EVT_00146,1,1,['news18'],Stay informed with our latest breaking news coverage on
 EVT_00147,1,1,['news18'],Stay informed with our latest breaking news coverage on Politics
 EVT_00149,1,1,['theprint'],"TRS rebranded itself in October 2022 as BRS with an aim to reach out to a wider audience in the country, 8 yrs after forming govt for the first time since Telangana’s creation in 2014."
 EVT_00150,1,1,['news18'],Stay informed with our latest breaking news coverage on Politics
+EVT_00151,1,1,['theprint'],Social media has proven to be central to political messaging but Rahul Gandhi has a lot of catching up to do when compared to BJP chief Amit Shah.
 EVT_00152,1,1,['theprint'],"Activists are up in arms over the government's plan to tax sanitary pads at the same level as cheese, cell phones and frozen meat products under the Goods and Services Tax. And there may be at least two legal petitions challenging this decision."
 EVT_00154,1,1,['the_times_of_india'],- Doctor from Bihar killed in road accident on Bahadrabad–Delhi highway
 EVT_00155,1,1,['theprint'],Leaders such as Chidambaram and Jyotiraditya Scindia did not want the party to boycott the GST launch. But the line of Sonia and Rahul prevailed.
@@ -154,20 +152,18 @@ EVT_00158,1,1,['news18'],Stay informed with our latest breaking news coverage on
 EVT_00159,1,1,['theprint'],"ThePrint visited Murshidabad, Cooch Behar, Malda, Nadia, Kolkata, Nandigram, where some decisions by Mamata haven't gone down well with community that has traditionally supported TMC."
 EVT_00161,1,1,['the_times_of_india'],Get real-time updates and result insights on the CBSE 12 Result 2026.
 EVT_00162,1,1,['news18'],Stay informed with our latest breaking news coverage on Politics
+EVT_00163,1,1,['firstpost'],"India News: Latest Updates, Breaking Headlines, and In-Depth Coverage from Across the Nation."
 EVT_00164,1,1,['the_times_of_india'],"Would the world look different if we had more women leading us? More parliamentarians, more scientists and more authors, whose voices were heard?"
-EVT_00165,1,1,['india_today'],Delimitation bill triggers black flag protests in Tamil Nadu
 EVT_00166,1,1,['india_today'],Not our war: Putin aide to India Today on claims Russia is backing Iran militarily
 EVT_00167,2,1,['india_today'],SpiceJet plane hits stationary Akasa Air plane at Delhi airport
 EVT_00169,1,1,['india_today'],"If govt is serious about women quota, why not stick to original 2010 bill: Rajdeep's take"
 EVT_00170,1,1,['india_today'],"Geopolitics above, danger below -- Indian freediving athlete Bux Khurana plunged into the mine-strewn waters of the Strait of Hormuz last Saturday at the height of Iran-US tensions, turning a conflict zone into an unlikely stage for a high-risk, adre..."
 EVT_00171,1,1,['news18'],"Kerala Elections 2026 |Sumanth Raman: Pinarayi Has A Had A Great Run, Considering He Has Had 2 Terms"
-EVT_00172,1,1,['news18'],Nashik Horror Unfolds: HR Manager Nida Khan Accused of Running Corporate Grooming Racket ?
 EVT_00173,1,1,['news18'],"Parth Pawar Takes Oath as Rajya Sabha MP in New Delhi | ""For Baramati & My Father"" | News18"
 EVT_00174,1,1,['firstpost'],"Bihar Election Results 2025 Live Updates: PM Modi hails NDA landslide, says people have voted for a developed and prosperous state"
-EVT_00175,1,1,['firstpost'],"India News, Latest News in India, Latest Breaking News India, Indian States and Cities Headlines"
+EVT_00175,2,1,['firstpost'],"From Kerala to Punjab, 10 Indian states that have banned Coldrif cough syrup"
 EVT_00176,1,1,['firstpost'],Fragile slopes: 10 Indian hill stations most prone to monsoon disasters
 EVT_00177,1,1,['firstpost'],"From Chandrababu Naidu to Siddaramaiah, 10 richest chief ministers of India ranked"
-EVT_00178,1,1,['firstpost'],"From Kerala to Punjab, 10 Indian states that have banned Coldrif cough syrup"
 EVT_00179,1,1,['firstpost'],Mumbai's second airport to open September-end: Here are 9 features to watch out for
 EVT_00180,1,1,['firstpost'],New Unesco heritage sites: India’s seven fresh additions
 EVT_00181,1,1,['firstpost'],"NIRF 2025 Rankings: IIT Madras retains crown, new shifts in Top 10"

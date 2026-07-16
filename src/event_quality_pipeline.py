@@ -6,7 +6,7 @@ from collections import Counter
 class EventQualityPipeline:
     def __init__(self, input_csv):
         print(f"Loading data from {input_csv}...")
-        self.df = pd.read_csv(input_csv)
+        self.df = pd.read_csv(input_csv, parse_dates=['publish_date', 'publish_date_only'])
         # Ensure text columns are strings to prevent NaN errors
         for col in ['url', 'headline', 'full_text', 'first_paragraph', 'lead']:
             if col in self.df.columns:
@@ -118,7 +118,7 @@ class EventQualityPipeline:
             rep_headline = group.loc[group['headline'].str.len().idxmax(), 'headline']
             
             # Event Date (earliest publish date in cluster)
-            event_date = group['publish_date_only'].min()
+            event_date = group['publish_date'].min()
             
             # Determine if it's a low-quality event (e.g., only wire copies, or very low coherence)
             conf = group['cluster_confidence'].iloc[0]
