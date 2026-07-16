@@ -294,7 +294,7 @@ select:focus{outline:none;border-color:var(--accent)}
 // =====================================================================
 // STATE — all data lives here after fetch
 // =====================================================================
-const API = 'http://localhost:5000/api';
+const API = 'api';
 let DATA = {};          // raw API responses keyed by endpoint name
 let OUTLETS = [];       // sorted list of outlet keys
 let activeTarget = '';  // currently selected target in Target tab
@@ -315,8 +315,7 @@ function label(o){ return OUTLET_LABELS[o] || LABEL_MAP[o] || o; }
 const ENDPOINTS = ['coverage','event_matrix','overlap','bias','omission','triples','passages'];
 
 async function fetchEndpoint(key){
-  const r = await fetch(`${API}/${key}`);
-  if(!r.ok) throw new Error(`${key}: ${r.status} ${r.statusText}`);
+  const r = await fetch(`${API}/${key}.json`); // Tell it to look for the static file!  if(!r.ok) throw new Error(`${key}: ${r.status} ${r.statusText}`);
   const j = await r.json();
   if(j.error) throw new Error(`${key}: ${j.error}`);
   return j;
@@ -329,8 +328,8 @@ async function loadAllData(){
 
   try {
     // Fetch meta first for stale indicator
-    const metaRes = await fetch(`${API}/meta`).catch(()=>null);
-    const meta = metaRes ? await metaRes.json() : null;
+  const metaRes = await fetch(`${API}/meta.json`).catch(()=>null);    
+  const meta = metaRes ? await metaRes.json() : null;
 
     // Update loading file list
     document.getElementById('loading-files').textContent =
@@ -363,7 +362,7 @@ async function loadAllData(){
 
     showLoading(false);
   } catch(e) {
-    showError(`Could not load data: ${e.message}. Is the server running? Try: python server.py`);
+    showError(`Could not load data: ${e.message}. Did the Kaggle script generate the API folder?`);
     showLoading(false);
   }
   document.getElementById('refresh-btn').classList.remove('spinning');
