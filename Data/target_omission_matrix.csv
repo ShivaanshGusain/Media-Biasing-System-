@@ -15,6 +15,33 @@ EVT_00007,rajenthra,0,0,0,0,0,0,1,0,0,0,0
 EVT_00007,sivakasi,0,0,0,0,0,0,1,0,0,0,0
 EVT_00007,thangamani,0,0,0,0,0,0,1,0,0,0,0
 EVT_00007,velumani,0,0,0,0,0,0,1,0,0,0,0
+EVT_00024,Agency/Judge,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,Assembly elections,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Bengal voter deletions,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Bhagabangola,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Dravidian leaders,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,EC (Election Commission),0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Election Commission,0,0,0,0,2,0,0,0,0,0,0
+EVT_00024,Farakka,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Gogoi,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,Government,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Government (Assuming reference to development projects),0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,India,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,Kejriwal,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,Lalgola,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Local Elections in Samserganj (Murshidabad district),0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Mamata Banerjee,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,Mothabari (Malda),0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Police and Judicial Officers,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Political Parties and Candidates,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Political Processes,0,0,0,0,3,0,0,0,0,0,0
+EVT_00024,Politicians in South 24 Parganas,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Protests,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Raghunathganj,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Ratua,0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Siliguri corridor,0,0,0,0,0,0,0,0,0,0,1
+EVT_00024,Suti (Murshidabad),0,0,0,0,1,0,0,0,0,0,0
+EVT_00024,Trinamool Congress (TMC),0,0,0,0,1,0,0,0,0,0,0
 EVT_00031,BJP,0,0,0,0,3,6,0,0,0,0,0
 EVT_00031,Chowdhury,0,0,0,0,2,0,0,0,0,0,0
 EVT_00031,Congress,0,0,0,0,4,0,0,0,0,0,0
@@ -92,6 +119,27 @@ EVT_00045,Yadav,0,0,0,0,0,0,0,0,0,0,1
 EVT_00046,Congress,0,0,2,0,0,0,3,0,0,0,0
 EVT_00046,Jabbar,0,0,0,0,0,0,1,0,0,0,0
 EVT_00046,Samsher Shamashankarappa,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,China,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,Economic Policies and Data,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,Government or Trade Policies,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,Growth Statistics,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,India,0,2,10,0,0,0,0,0,0,0,0
+EVT_00051,India & US,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,India and US Trade Negotiations,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,India-US Trade Relations,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,Trade Framework,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,Trade Negotiators,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,Trade Pact,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,U.S. Government,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,US,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,US Administration,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,US Government,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,US Tariff Structure,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,US and India,0,0,1,0,0,0,0,0,0,0,0
+EVT_00051,US officials,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,USTR (United States Trade Representative),0,2,0,0,0,0,0,0,0,0,0
+EVT_00051,United States,0,1,0,0,0,0,0,0,0,0,0
+EVT_00051,United States Trade Representative,0,1,0,0,0,0,0,0,0,0,0
 EVT_00060,Amit Shah,0,0,0,0,0,0,2,0,0,0,0
 EVT_00060,BR,0,0,0,0,0,0,1,0,0,0,0
 EVT_00060,Chidambaram,1,0,0,0,0,0,0,0,0,0,0
@@ -114,7 +162,18 @@ EVT_00060,Yadav,0,0,1,0,0,0,0,0,0,0,0
 EVT_00060,delimitation bill,0,0,1,0,0,0,0,0,0,0,0
 EVT_00060,reservation for women,0,0,1,0,0,0,0,0,0,0,0
 EVT_00060,support,0,0,1,0,0,0,0,0,0,0,0
+EVT_00062,Global Suppliers,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,Government/Central Government,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,Gulf Infrastructure,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,India,0,4,0,0,0,0,0,0,0,0,0
+EVT_00062,India's LPG supply disruption,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,Iranian Strikes,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,Key Production Wells and Processing Units in the Gulf,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,"LPG (producers, distributors)",0,1,0,0,0,0,0,0,0,0,0
 EVT_00062,S Jaishankar,0,0,0,0,0,0,0,0,0,1,0
+EVT_00062,The geopolitical situation involving the Strait of Hormuz,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,Workers,0,1,0,0,0,0,0,0,0,0,0
+EVT_00062,government,0,1,0,0,0,0,0,0,0,0,0
 EVT_00064,BJP,0,0,1,0,4,0,0,0,0,0,0
 EVT_00064,Congress,0,0,3,0,0,0,0,0,0,0,0
 EVT_00064,DMK,0,0,1,0,0,0,0,0,0,0,0
@@ -175,6 +234,32 @@ EVT_00073,delimitation,0,0,0,0,0,0,0,0,1,0,0
 EVT_00073,quota law,0,0,0,0,0,0,0,0,2,0,0
 EVT_00087,1937,0,0,0,1,0,0,0,0,0,0,0
 EVT_00087,Shariat,0,0,0,2,0,0,0,0,0,0,0
+EVT_00088,Air India,0,0,2,0,0,0,0,0,0,0,0
+EVT_00088,Aircraft Accidents and Air Traffic,0,0,0,0,0,1,0,0,0,0,0
+EVT_00088,Airlines/Airport Authorities,0,0,0,0,0,1,0,0,0,0,0
+EVT_00088,Akasa,0,0,2,0,0,0,0,0,0,0,0
+EVT_00088,Akasa Air,0,0,3,0,0,3,0,0,0,0,0
+EVT_00088,Akasa airline,0,0,0,0,0,1,0,0,0,0,0
+EVT_00088,Akasa flight,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,Arya,0,0,4,0,0,0,0,0,0,0,0
+EVT_00088,Arya Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,Central Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,DGCA (Directorate General Of Civil Aviation),0,0,0,0,0,1,0,0,0,0,0
+EVT_00088,DGCA (Directorate General of Civil Aviation),0,0,1,0,0,3,0,0,0,0,0
+EVT_00088,Delhi Airport Management,0,0,0,1,0,0,0,0,0,0,0
+EVT_00088,Employees (female),0,0,0,1,0,0,0,0,0,0,0
+EVT_00088,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,Human Resources Manager,0,0,0,1,0,0,0,0,0,0,0
+EVT_00088,IndiGo,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,Indian Airlines and Air India,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,Indian Aviation Industry,0,0,0,1,0,0,0,0,0,0,0
+EVT_00088,Indian Government/Airports,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,Indira Gandhi International Airport,0,0,1,1,0,0,0,0,0,0,0
+EVT_00088,Mamata Banerjee,0,0,0,1,0,0,0,0,0,0,0
+EVT_00088,PM Modi,0,0,0,2,0,0,0,0,0,0,0
+EVT_00088,Tata Consultancy Services,0,0,0,1,0,0,0,0,0,0,0
+EVT_00088,Unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_00088,relevant authorities,0,0,0,0,0,1,0,0,0,0,0
 EVT_00110,AAP,0,0,0,2,0,0,0,0,0,0,0
 EVT_00110,BJP,0,0,1,0,0,0,0,0,0,0,0
 EVT_00110,BJR,0,0,1,0,0,0,0,0,0,0,0
