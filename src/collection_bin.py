@@ -13,7 +13,9 @@ import random
 import hashlib
 import os
 import re
-HEADERS = {'User-Agent': 'Mozilla/5.0'}
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+}
 
 def Date(raw_html):
     if not raw_html:
@@ -101,32 +103,35 @@ def extract_article_text(url):
     raw_html = None
     extracted_title, extracted_text, extracted_date, extractor = None, None, None, 'Failed'
 
-    # Try Trafilatura
+    # 1. Fetch the HTML securely using our global HEADERS
     try:
-        downloaded = trafilatura.fetch_url(url)
-        if downloaded:
-            raw_html = downloaded
-            extracted = trafilatura.extract(downloaded, include_comments=False, output_format='json')
-            if extracted:
-                data = json.loads(extracted)
-                extracted_title = data.get('title')
-                extracted_text = data.get('text')
-                extracted_date = data.get('date')
-                extractor = 'Trafilatura'
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        if response.status_code == 200:
+            raw_html = response.text
+    except Exception as e:
+        pass
+
+    if not raw_html:
+        return None, None, None, 'Failed (HTTP/Fetch Error)'
+
+    # 2. Try Trafilatura (passing raw HTML, NOT the URL)
+    try:
+        extracted = trafilatura.extract(raw_html, include_comments=False, output_format='json')
+        if extracted:
+            data = json.loads(extracted)
+            extracted_title = data.get('title')
+            extracted_text = data.get('text')
+            extracted_date = data.get('date')
+            extractor = 'Trafilatura'
     except Exception:
         pass
 
-    # If Trafilatura failed to get the text, try Newspaper3k
+    # 3. If Trafilatura failed, try Newspaper3k
     if not extracted_text:
         try:
             article = Article(url)
-            if raw_html:
-                article.set_html(raw_html)
-                article.parse()
-            else:
-                article.download()
-                article.parse()
-                raw_html = article.html # Save html for our fallback
+            article.set_html(raw_html)
+            article.parse()
                 
             if article.text:
                 extracted_title = article.title
@@ -136,15 +141,13 @@ def extract_article_text(url):
         except Exception:
             pass
 
-    # --- THE DATE FALLBACK ---
-    # If we have text, but no date, deploy the brute-force finder
+    # 4. Fallback Date extraction
     if extracted_text and not extracted_date and raw_html:
         found_date = Date(raw_html)
         if found_date:
             extracted_date = found_date
             
     return extracted_title, extracted_text, extracted_date, extractor
-
 
 def normalize_article(outlet_name, url, title, text, raw_date, extractor_used):
     if not text or len(text) < 100:
