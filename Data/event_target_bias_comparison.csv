@@ -1759,6 +1759,22 @@ EVT_00902,Modi (Indian Prime Minister),the_times_of_india,1,Positive,Development
 EVT_00902,PM Modi,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_00902,PM Narendra Modi,the_times_of_india,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
 EVT_00902,Qatar,the_times_of_india,1,Positive,Bilateral Relations and Diaspora,0.0,100.0,0.0
+EVT_00933,Department of Homeland Security,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00933,India,hindustan_times,3,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_00933,India (New Delhi),hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_00933,India's Ministry of External Affairs,the_times_of_india,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_00933,MEA spokesperson,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_00933,Rezaul H Laskar,hindustan_times,1,Neutral/Mixed,Media Role,0.0,0.0,100.0
+EVT_00933,Russia,hindustan_times,1,Negative,Energy Supply & Security,100.0,0.0,0.0
+EVT_00933,Trump Administration,hindustan_times,1,Negative,Policy,100.0,0.0,0.0
+EVT_00933,US,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00933,US (in reference context of handling traveler and student issues),hindustan_times,1,Neutral/Mixed,Policy Implementation,0.0,0.0,100.0
+EVT_00933,US Department of Homeland Security,hindustan_times,3,Negative,Policy,66.7,0.0,33.3
+EVT_00933,US Government,hindustan_times,3,Negative,Law & Order,100.0,0.0,0.0
+EVT_00933,US Government,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00933,US Senate,hindustan_times,1,Negative,"Election Strategy, Policy",100.0,0.0,0.0
+EVT_00933,US Senators,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_00933,Unknown,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_00941,Awami League,india_today,1,Negative,Prohibition/Evasion of Rights,100.0,0.0,0.0
 EVT_00941,Bangladesh,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_00941,Bangladesh,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0

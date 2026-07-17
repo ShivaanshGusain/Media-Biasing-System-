@@ -1615,6 +1615,21 @@ EVT_00902,Modi (Indian Prime Minister),0,0,0,0,0,0,0,0,0,1,0
 EVT_00902,PM Modi,0,0,1,0,0,0,0,0,0,0,0
 EVT_00902,PM Narendra Modi,0,0,0,0,0,0,0,0,0,1,0
 EVT_00902,Qatar,0,0,0,0,0,0,0,0,0,1,0
+EVT_00933,Department of Homeland Security,0,0,0,0,0,0,0,0,0,1,0
+EVT_00933,India,0,0,3,0,0,0,0,0,0,0,0
+EVT_00933,India (New Delhi),0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,India's Ministry of External Affairs,0,0,0,0,0,0,0,0,0,1,0
+EVT_00933,MEA spokesperson,0,0,0,0,0,0,0,0,0,1,0
+EVT_00933,Rezaul H Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,Russia,0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,Trump Administration,0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,US,0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,US (in reference context of handling traveler and student issues),0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,US Department of Homeland Security,0,0,3,0,0,0,0,0,0,0,0
+EVT_00933,US Government,0,0,3,0,0,0,0,0,0,1,0
+EVT_00933,US Senate,0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,US Senators,0,0,1,0,0,0,0,0,0,0,0
+EVT_00933,Unknown,0,0,1,0,0,0,0,0,0,0,0
 EVT_00941,Awami League,0,0,0,1,0,0,0,0,0,0,0
 EVT_00941,Bangladesh,0,0,1,1,0,0,0,0,0,0,0
 EVT_00941,Bangladesh Nationalist Party,0,0,0,1,0,0,0,0,0,0,0
