@@ -329,9 +329,9 @@ article_id,event_id,passage_id,entity_mention,canonical_target
 90fa294c648a6500,EVT_00685,90fa294c648a6500_p009,Ramesh,Ramesh
 90fa294c648a6500,EVT_00685,90fa294c648a6500_p019,BJP,BJP
 90fa294c648a6500,EVT_00685,90fa294c648a6500_p019,RSS,RSS
-94b32dde0f551020,EVT_00103,94b32dde0f551020_p001,SC,None
+94b32dde0f551020,EVT_00103,94b32dde0f551020_p001,SC,
 94b32dde0f551020,EVT_00103,94b32dde0f551020_p001,Chief Justice of India Surya Kant,Surya Kant
-94b32dde0f551020,EVT_00103,94b32dde0f551020_p001,Indian Young Lawyers’ Association vs. State of Kerala,None
+94b32dde0f551020,EVT_00103,94b32dde0f551020_p001,Indian Young Lawyers’ Association vs. State of Kerala,
 9b421ea7b314a812,EVT_00208,9b421ea7b314a812_p001,DMK,DMK
 9b421ea7b314a812,EVT_00208,9b421ea7b314a812_p001,TVK,TVK
 9b421ea7b314a812,EVT_00208,9b421ea7b314a812_p006,Minister Sarathkumar,TVK
@@ -630,3 +630,94 @@ fffa3fa866d842d8,EVT_00007,fffa3fa866d842d8_p003,assembly elections 2026,assembl
 fffa3fa866d842d8,EVT_00007,fffa3fa866d842d8_p004,Himanta Biswa Sarma,Sarma
 fffa3fa866d842d8,EVT_00007,fffa3fa866d842d8_p004,BJP,BJP
 fffa3fa866d842d8,EVT_00007,fffa3fa866d842d8_p022,Jalukbari – Himanta Biswa Sarma,Himanta Biswa Sarma
+0bd37592a12dadb3,EVT_00823,0bd37592a12dadb3_p003,NTEP,NTDP
+10fb221473bc873b,EVT_00504,10fb221473bc873b_p015,Prime Minister Narendra Modi,PM Modi
+2001128b3cc49abb,EVT_00835,2001128b3cc49abb_p003,Liberal Democratic Party,LDP
+278d7b7892880918,EVT_00238,278d7b7892880918_p001,Narendra Modi,PM Modi
+278d7b7892880918,EVT_00238,278d7b7892880918_p001,Sanae Takaichi,Takaichi
+29a92d364dec75f7,EVT_00504,29a92d364dec75f7_p012,Akhilesh Yadav,Yadav
+2c788d15535e058b,EVT_00238,2c788d15535e058b_p003,Narendra Modi,PM Modi
+2c788d15535e058b,EVT_00238,2c788d15535e058b_p003,Sanae Takaichi,Takaichi
+2c788d15535e058b,EVT_00238,2c788d15535e058b_p024,PM Modi,PM Modi
+2d25bcaedb2f6f71,EVT_00695,2d25bcaedb2f6f71_p007,Congress leader Rahul Gandhi,Gandhi
+2d25bcaedb2f6f71,EVT_00695,2d25bcaedb2f6f71_p014,political organisations,pol
+3fc8190f5df7dde3,EVT_00634,3fc8190f5df7dde3_p010,N Shashikumar,Shashikumar
+5ee2409420ccb2e7,EVT_00242,5ee2409420ccb2e7_p001,Pakistan,Pakistan
+5ee2409420ccb2e7,EVT_00242,5ee2409420ccb2e7_p001,Lashkar-e-Tayyiba (LeT),LeT
+5ee2409420ccb2e7,EVT_00242,5ee2409420ccb2e7_p001,Jaish-e-Mohammad (JeM),JeM
+5ee2409420ccb2e7,EVT_00242,5ee2409420ccb2e7_p002,Narendra Modi,PM Modi
+62b117e828d29684,EVT_00716,62b117e828d29684_p004,IPC,IPC
+62b117e828d29684,EVT_00716,62b117e828d29684_p004,SC,SC
+62b117e828d29684,EVT_00716,62b117e828d29684_p004,BNS,SC
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p004,Congress,Congress
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p004,Jairam Ramesh,Ramesh
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p011,Congress,Congress
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p011,Rahul Gandhi,Rahul Gandhi
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p011,Mallikarjun Kharge,Mallikarjug Kharge
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p013,the party,Congress
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p015,Nationalist Congress Party,NCP
+6f16fdf30c36f1eb,EVT_00667,6f16fdf30c36f1eb_p015,(Sharadchandra Pawar),SP
+75396f857c9caadf,EVT_00257,75396f857c9caadf_p006,Centre,Centre
+75396f857c9caadf,EVT_00257,75396f857c9caadf_p006,Meta,Meta
+75396f857c9caadf,EVT_00257,75396f857c9caadf_p012,WhatsApp,WhatsApp
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p007,Nationalist Congress Party,NCP
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p007,Sharadchandra Pawar,Pawar
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p012,party's,NCP
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p013,NCP,NCP
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p013,Pawar,NCP
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p014,Pawar,NCP
+7a4450f486d5703f,EVT_00695,7a4450f486d5703f_p014,Shah,Amit Shah
+7e73ce5296d623bf,EVT_00506,7e73ce5296d623bf_p003,Prime Minister Narendra Modi,PM Modi
+81055c550b5fc559,EVT_00695,81055c550b5fc559_p003,BJP,BJP
+81055c550b5fc559,EVT_00695,81055c550b5fc559_p003,Congress,Congress
+81055c550b5fc559,EVT_00695,81055c550b5fc559_p008,Congress,Congress
+81055c550b5fc559,EVT_00695,81055c550b5fc559_p008,BJP,BJP
+82ddfa84b4b2c5cf,EVT_00628,82ddfa84b4b2c5cf_p003,Cockroach Janata Party,CJP
+82ddfa84b4b2c5cf,EVT_00628,82ddfa84b4b2c5cf_p003,Union education minister Dharmendra Pradhan,Dharmendra Pradhan
+851fbc9539137e6f,EVT_00695,851fbc9539137e6f_p002,Chaturvedi,Priyanka Chaturvedi
+851fbc9539137e6f,EVT_00695,851fbc9539137e6f_p003,GoI,GOI
+851fbc9539137e6f,EVT_00695,851fbc9539137e6f_p006,Chaturvedi,Priyanka Chaturvedi
+8ce738470035c289,EVT_00067,8ce738470035c289_p001,BJP chief Amit Shah,AmitShah
+997917a009e175a8,EVT_00062,997917a009e175a8_p011,Prime Minister Narendra Modi,PM Modi
+9ae0e353b9f731f1,EVT_00060,9ae0e353b9f731f1_p004,BJP,BJP
+9ae0e353b9f731f1,EVT_00060,9ae0e353b9f731f1_p004,Uttar Pradesh,Uttar Pradesh
+9ae0e353b9f731f1,EVT_00060,9ae0e353b9f731f1_p004,Bihar,Bihar
+9ae0e353b9f731f1,EVT_00060,9ae0e353b9f731f1_p004,Tamil Nadu,Tamil Nadu
+9ae0e353b9f731f1,EVT_00060,9ae0e353b9f731f1_p004,Kerala,Kerala
+b300bafdd1ebb5bb,EVT_00822,b300bafdd1ebb5bb_p001,NEET-UG 2026,None
+b300bafdd1ebb5bb,EVT_00822,b300bafdd1ebb5bb_p001,Punjabâs Aryan Gupta,Aryan Gupta
+b300bafdd1ebb5bb,EVT_00822,b300bafdd1ebb5bb_p001,Haryanaâs Panshul Bansal,Panshul Bansal
+b7847f212776d700,EVT_00628,b7847f212776d700_p004,Cockroach Janta Party,CJP
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p009,Union home minister,home
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p009,Delimitation Bill,Delimitation Bill
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p012,"""the Congress leader""",Cong
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p013,Cong,Congress
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p013,Delimitation Bill,Delimitation Bill
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p013,NEET,NEET
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p013,BJP,BJP
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p015,NDA,NDA
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p015,TMC MPs,TMC
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p015,Sena (UBT),Sena
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p015,Delimitation Bill,Delimitation
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p015,SP,SP
+c04980d7e4a34caf,EVT_00667,c04980d7e4a34caf_p015,DMK,DMK
+c55184381e73ff6b,EVT_00941,c55184381e73ff6b_p010,Muhammad Yunus,Yunus
+c55184381e73ff6b,EVT_00941,c55184381e73ff6b_p010,Hasina,Sheikh Hasina
+c55184381e73ff6b,EVT_00941,c55184381e73ff6b_p012,Awami League,AL
+ca077f437327a694,EVT_00325,ca077f437327a694_p001,Narendra Modi,PM Modi
+ca077f437327a694,EVT_00325,ca077f437327a694_p001,Christopher Luxon,Luxon
+d81822ba62c864e4,EVT_00024,d81822ba62c864e4_p001,Mamata,Mamata Banerjee
+d81822ba62c864e4,EVT_00024,d81822ba62c864e4_p001,TMC,TMC
+d81822ba62c864e4,EVT_00024,d81822ba62c864e4_p004,Sarma's,Sarma
+d81822ba62c864e4,EVT_00024,d81822ba62c864e4_p004,Mamata Banerjee,Mamata Banerjee
+da935e9808d3e636,EVT_00043,da935e9808d3e636_p001,BJP,BJP
+da935e9808d3e636,EVT_00043,da935e9808d3e636_p001,Nitish Kumar,Nitish Kumar
+da935e9808d3e636,EVT_00043,da935e9808d3e636_p003,BJP,BJP
+da935e9808d3e636,EVT_00043,da935e9808d3e636_p003,Nitish Kumar,Nitish Kumar
+e0f4cff6a6c713df,EVT_00902,e0f4cff6a6c713df_p001,Prime Minister Narendra Modi,PM Modi
+e0f4cff6a6c713df,EVT_00902,e0f4cff6a6c713df_p001,Emir of Qatar,Qatar
+e0f4cff6a6c713df,EVT_00902,e0f4cff6a6c713df_p001,Sheikh Tamim bin Hamad Al Thani,Tamim
+e0f4cff6a6c713df,EVT_00902,e0f4cff6a6c713df_p001,previous Emir,Hamad
+e30f5bc104189ee4,EVT_00031,e30f5bc104189ee4_p006,Lala,Lala
+edf1eebcf1ea421c,EVT_00941,edf1eebcf1ea421c_p001,Sheikh Hasina,Hasina
+edf1eebcf1ea421c,EVT_00941,edf1eebcf1ea421c_p001,India,India
