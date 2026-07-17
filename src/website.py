@@ -10,6 +10,46 @@ OUTPUT_DIR = "docs/api"
 # Create the output directory if it doesn't exist
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+# =====================================================================
+# DATA HEALING: Restore missing URLs to the master file before baking
+# =====================================================================
+master_path = os.path.join(DATA_DIR, "analysis_articles_master.csv")
+prep_path = os.path.join(DATA_DIR, "prepared_articles_db.csv")
+
+if os.path.exists(master_path) and os.path.exists(prep_path):
+    print("Stitching URLs from prepared database back into master dataset...")
+    try:
+        master_df = pd.read_csv(master_path, low_memory=False)
+        
+        # Only run the merge if the URL column was stripped out
+        if 'url' not in master_df.columns:
+            prep_df = pd.read_csv(prep_path, low_memory=False)
+            
+            if 'article_id' in prep_df.columns and 'url' in prep_df.columns:
+                # Isolate matching columns and drop duplicates to prevent row blowups
+                url_mapping = prep_df[['article_id', 'url']].drop_duplicates(subset=['article_id'])
+                
+                # Sanitize IDs to prevent mismatch traps
+                master_df['article_id'] = master_df['article_id'].astype(str).str.strip()
+                url_mapping['article_id'] = url_mapping['article_id'].astype(str).str.strip()
+                
+                # Merge the URLs back in cleanly
+                master_df = pd.merge(master_df, url_mapping, on='article_id', how='left')
+                master_df.to_csv(master_path, index=False)
+                print(" ✓ URLs successfully restored to analysis_articles_master.csv!")
+            else:
+                print(" ✗ Skipping patch: prepared_articles_db.csv missing critical columns.")
+        else:
+            print(" ✓ URL column already present in master dataset. Skipping patch.")
+    except Exception as e:
+        print(f" ✗ Warning: Failed to repair URL columns: {e}")
+else:
+    print(" ✗ URL Patch skipped: Missing master or prepared article source files.")
+
+
+# =====================================================================
+# API BAKE SYSTEM
+# =====================================================================
 CSV_MAP = {
     "coverage":     "bias_coverage_statistics.csv",
     "event_matrix": "matrix_event_coverage.csv",
@@ -21,7 +61,7 @@ CSV_MAP = {
     "articles":     "analysis_articles_master.csv",
 }
 
-print("Baking static JSON API...")
+print("\nBaking static JSON API...")
 meta = {}
 
 for key, fname in CSV_MAP.items():
