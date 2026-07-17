@@ -4,18 +4,25 @@ import feedparser
 from bs4 import BeautifulSoup
 import trafilatura
 from newspaper import Article
-from readability import Document
 import dateparser
-from datetime import datetime,timedelta
+from datetime import datetime, timedelta
 import pandas as pd
 import time
 import random
 import hashlib
 import os
 import re
+import cloudscraper # <-- Added
+
+# 1. Upgraded stealth headers
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Referer': 'https://www.google.com/',
+    'Accept-Language': 'en-US,en;q=0.9',
 }
+
+# 2. Initialize the global Cloudflare-bypassing scraper
+scraper = cloudscraper.create_scraper()
 
 def Date(raw_html):
     if not raw_html:
@@ -23,7 +30,6 @@ def Date(raw_html):
         
     soup = BeautifulSoup(raw_html, 'html.parser')
     
-    # Target 1: The standard OpenGraph / Article tags
     meta_tags = [
         soup.find('meta', property='article:published_time'),
         soup.find('meta', attrs={'itemprop': 'datePublished'}),
@@ -35,11 +41,9 @@ def Date(raw_html):
         if tag and tag.get('content'):
             return tag['content']
             
-    # Target 2: Look inside the JSON-LD schema (Very common on IE and The Hindu)
     for script in soup.find_all('script', type='application/ld+json'):
         if script.string and 'datePublished' in script.string:
             try:
-                # Use regex to quickly yank the date out of the JSON string
                 match = re.search(r'"datePublished"\s*:\s*"([^"]+)"', script.string)
                 if match:
                     return match.group(1)
@@ -61,38 +65,43 @@ def matches_patterns(url, config):
 def discover_links(config):
     discovered_urls = set()
 
+    # 3. RSS Feeds now use the scraper to bypass blocks
     for rss_url in config.get('rss_feeds', []):
         try:
-            feed = feedparser.parse(rss_url)
-            for entry in feed.entries:
-                link = getattr(entry, 'link', None)
-                if link and matches_patterns(link, config):
-                    discovered_urls.add(link)
+            response = scraper.get(rss_url, headers=HEADERS, timeout=20)
+            if response.status_code == 200:
+                feed = feedparser.parse(response.text)
+                for entry in feed.entries:
+                    link = getattr(entry, 'link', None)
+                    if link and matches_patterns(link, config):
+                        discovered_urls.add(link)
         except Exception as e:
             print(f'Error parsing RSS {rss_url}: {e}')
 
     for sitemap_url in config.get('sitemaps', []):
         try:
-            response = requests.get(sitemap_url, headers=HEADERS, timeout=20)
-            soup = BeautifulSoup(response.text, 'xml')
-            for loc in soup.find_all('loc'):
-                href = loc.get_text(strip=True)
-                if href and matches_patterns(href, config):
-                    discovered_urls.add(href)
+            response = scraper.get(sitemap_url, headers=HEADERS, timeout=20) # Swapped
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'xml')
+                for loc in soup.find_all('loc'):
+                    href = loc.get_text(strip=True)
+                    if href and matches_patterns(href, config):
+                        discovered_urls.add(href)
         except Exception as e:
             print(f'Error scraping sitemap {sitemap_url}: {e}')
 
     for section_url in config.get('section_pages', []):
         try:
-            response = requests.get(section_url, headers=HEADERS, timeout=20)
-            soup = BeautifulSoup(response.text, 'html.parser')
-            for a_tag in soup.find_all('a', href=True):
-                href = a_tag['href']
-                if href.startswith('/'):
-                    base = section_url.split('/', 3)[:3]
-                    href = '/'.join(base) + href
-                if matches_patterns(href, config):
-                    discovered_urls.add(href)
+            response = scraper.get(section_url, headers=HEADERS, timeout=20) # Swapped
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                for a_tag in soup.find_all('a', href=True):
+                    href = a_tag['href']
+                    if href.startswith('/'):
+                        base = section_url.split('/', 3)[:3]
+                        href = '/'.join(base) + href
+                    if matches_patterns(href, config):
+                        discovered_urls.add(href)
         except Exception as e:
             print(f'Error scraping section page {section_url}: {e}')
 
@@ -103,9 +112,9 @@ def extract_article_text(url):
     raw_html = None
     extracted_title, extracted_text, extracted_date, extractor = None, None, None, 'Failed'
 
-    # 1. Fetch the HTML securely using our global HEADERS
+    # 4. Article fetching now uses the scraper
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
+        response = scraper.get(url, headers=HEADERS, timeout=15) # Swapped
         if response.status_code == 200:
             raw_html = response.text
     except Exception as e:
@@ -114,7 +123,6 @@ def extract_article_text(url):
     if not raw_html:
         return None, None, None, 'Failed (HTTP/Fetch Error)'
 
-    # 2. Try Trafilatura (passing raw HTML, NOT the URL)
     try:
         extracted = trafilatura.extract(raw_html, include_comments=False, output_format='json')
         if extracted:
@@ -126,7 +134,6 @@ def extract_article_text(url):
     except Exception:
         pass
 
-    # 3. If Trafilatura failed, try Newspaper3k
     if not extracted_text:
         try:
             article = Article(url)
@@ -141,7 +148,6 @@ def extract_article_text(url):
         except Exception:
             pass
 
-    # 4. Fallback Date extraction
     if extracted_text and not extracted_date and raw_html:
         found_date = Date(raw_html)
         if found_date:
@@ -163,8 +169,6 @@ def normalize_article(outlet_name, url, title, text, raw_date, extractor_used):
     first_paragraph = paragraphs[0] if paragraphs else ''
     lead = first_paragraph[:250] + '...' if len(first_paragraph) > 250 else first_paragraph
 
-    # --- NEW: Generate a unique, deterministic ID based on the URL ---
-    # We take the first 16 characters of a SHA-256 hash to keep it clean but unique
     article_id = hashlib.sha256(url.encode('utf-8')).hexdigest()[:16]
 
     return {
@@ -205,11 +209,14 @@ def run_pipeline():
         print(f"Found {len(urls)} total URLs.")
 
         for url in urls: 
+            # 5. URL Cleaning implementation
             url = url.replace('%e2%81%a0', '').replace('\u2060', '')
+            url = url.split('#')[0] # Strips the #newsstand tracker
+            
             if url in seen_urls:
                 continue
 
-            print(f"Scraping: {url}", end=" ") # Keeps the print on one line
+            print(f"Scraping: {url}", end=" ") 
             title, text, raw_date, extractor = extract_article_text(url)
                         
             canonical_record = normalize_article(
@@ -223,15 +230,15 @@ def run_pipeline():
                     
                     if pub_time < week_def:
                         print(f"--> Skipped (Too Old: Published {pub_time.strftime('%b %d, %Y')})")
-                        seen_urls.add(url) # Add to seen so we ignore it next week
+                        seen_urls.add(url) 
                         continue
-                # --- LIVE SAVE: Write to CSV immediately ---
+                        
                 df = pd.DataFrame([canonical_record])
                 file_exists = os.path.isfile(csv_filename)
                 
                 try:
                     df.to_csv(csv_filename, mode='a', index=False, header=not file_exists)
-                    print("--> Saved!") # Confirms it hit the CSV
+                    print("--> Saved!") 
                     seen_urls.add(url)
                 except PermissionError:
                     print(f"\nERROR: Could not save {url}. Is {csv_filename} open?")
@@ -241,5 +248,6 @@ def run_pipeline():
             time.sleep(random.uniform(1, 3)) 
 
     print("\nPipeline finished! All new articles saved to database.")
+
 if __name__ == '__main__':
     run_pipeline()
