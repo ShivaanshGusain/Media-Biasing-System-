@@ -29,24 +29,8 @@ jobs:
         env:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
-          python -c '
-          import json, os
-          token = os.environ.get("MY_GITHUB_TOKEN", "")
-          with open("media-biaser.ipynb", "r", encoding="utf-8") as f:
-              nb = json.load(f)
-          for cell in nb.get("cells", []):
-              if cell.get("cell_type") == "code":
-                  new_source = []
-                  for line in cell.get("source", []):
-                      search_str = "user_secrets.get_secret(" + chr(34) + "GITHUB_TOKEN" + chr(34) + ")"
-                      replace_str = chr(34) + token + chr(34)
-                      if search_str in line:
-                          line = line.replace(search_str, replace_str)
-                      new_source.append(line)
-                  cell["source"] = new_source
-          with open("media-biaser.ipynb", "w", encoding="utf-8") as f:
-              json.dump(nb, f, indent=1)
-          '
+          # Finds the placeholder and injects the live secret on the fly
+          sed -i "s|GITHUB_TOKEN_PLACEHOLDER|${MY_GITHUB_TOKEN}|g" media-biaser.ipynb
 
       - name: Trigger Kaggle Run
         env:
