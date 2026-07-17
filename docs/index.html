@@ -855,6 +855,7 @@ function evCard(t){
       <span class="ev-target">${t[targetKey]||''}</span>
       <span class="ev-sentiment ${sc}">${sent}</span>
       ${t[framKey]?`<span class="framing-tag">${t[framKey]}</span>`:''}
+      ${linkHtml}
     </div>
     <div class="ev-text">"${t[spanKey]||''}"</div>
     ${triple}
