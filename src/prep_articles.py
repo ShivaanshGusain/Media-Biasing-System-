@@ -170,40 +170,63 @@ def prepare_data():
         print(f"Error: {input_file} not found. Run collector.py first.")
         return
 
-    print("Loading raw articles...")
-    df = pd.read_csv(input_file, encoding="utf-8")
+    print("Loading raw input articles...")
+    input_df = pd.read_csv(input_file, encoding="utf-8")
 
-    print("Ensuring deterministic article_id...")
-    if "article_id" not in df.columns:
-        df["article_id"] = ""
-    df["article_id"] = [ensure_article_id(row, i) for i, (_, row) in enumerate(df.iterrows())]
+    # 1. Step 1: Ensure deterministic IDs on the raw incoming dataset right away
+    if "article_id" not in input_df.columns:
+        input_df["article_id"] = ""
+    input_df["article_id"] = [ensure_article_id(row, i) for i, (_, row) in enumerate(input_df.iterrows())]
 
-    print("Repairing headline/lead fields...")
-    df[["headline", "lead", "first_paragraph"]] = df.apply(repair_headline_lead, axis=1)
+    # 2. Check for existing processed articles to enable incremental processing
+    existing_df = None
+    existing_ids = set()
+    if os.path.exists(output_file):
+        try:
+            existing_df = pd.read_csv(output_file, encoding="utf-8")
+            if "article_id" in existing_df.columns:
+                existing_ids = set(existing_df["article_id"].dropna().astype(str))
+                print(f"Found existing output database with {len(existing_df)} processed rows.")
+        except Exception as e:
+            print(f"Warning: Could not read existing output file ({e}). Re-processing all.")
 
-    print("Normalizing headlines...")
-    df["lead_clean"] = df["lead"].astype(str).str.lower()
-    df["lead_clean"] = df["lead_clean"].apply(
+    # 3. Filter down to only completely NEW rows
+    new_df = input_df[~input_df["article_id"].astype(str).isin(existing_ids)].copy()
+    
+    if len(new_df) == 0:
+        print("🎉 No new articles to process. Everything is up to date!")
+        return
+
+    print(f"Found {len(new_df)} NEW articles to prepare (skipping {len(existing_ids)} already processed).")
+
+    # 4. Only process the new items through the expensive cleaning/repair pipeline
+    print("Repairing headline/lead fields for new rows...")
+    new_df[["headline", "lead", "first_paragraph"]] = new_df.apply(repair_headline_lead, axis=1)
+
+    print("Normalizing headlines for new rows...")
+    new_df["lead_clean"] = new_df["lead"].astype(str).str.lower()
+    new_df["lead_clean"] = new_df["lead_clean"].apply(
         lambda x: re.sub(r"[^a-z0-9\s]", "", x).strip()
     )
-    df["headline_clean"] = df["headline"].astype(str).str.lower()
-    df["headline_clean"] = df["headline_clean"].apply(
+    new_df["headline_clean"] = new_df["headline"].astype(str).str.lower()
+    new_df["headline_clean"] = new_df["headline_clean"].apply(
         lambda x: re.sub(r"[^a-z0-9\s]", "", x).strip()
     )
 
-    print("Normalizing outlets...")
-    df["clean_outlet"] = df["outlet"].astype(str).str.lower().str.replace(" ", "_", regex=False)
+    print("Normalizing outlets for new rows...")
+    new_df["clean_outlet"] = new_df["outlet"].astype(str).str.lower().str.replace(" ", "_", regex=False)
 
-    print("Parsing dates...")
-    df["publish_date_only"] = pd.to_datetime(df["publish_time"], errors="coerce").dt.date
+    print("Parsing dates for new rows...")
+    new_df["publish_date_only"] = pd.to_datetime(new_df["publish_time"], errors="coerce").dt.date
 
-    print("Building canonical cluster_text signatures...")
-    df["cluster_text"] = df.apply(build_cluster_text, axis=1)
+    print("Building canonical cluster_text signatures for new rows...")
+    new_df["cluster_text"] = new_df.apply(build_cluster_text, axis=1)
 
-    print("Setting initial pipeline statuses...")
-    df["embedding_status"] = "Pending"
-    df["event_id"] = None
+    print("Setting pipeline statuses for new rows...")
+    new_df["embedding_status"] = "Pending"
+    new_df["event_id"] = None
 
+    # Organize core columns consistently
     core_cols = [
         "article_id",
         "event_id",
@@ -215,19 +238,35 @@ def prepare_data():
         "url",
         "full_text"
     ]
+    final_cols = [c for c in core_cols if c in new_df.columns] + [c for c in new_df.columns if c not in core_cols]
+    new_df = new_df[final_cols]
 
-    final_cols = [c for c in core_cols if c in df.columns] + [c for c in df.columns if c not in core_cols]
-    df = df[final_cols]
+    # 5. Merge new rows back with the existing dataset (preserving previous statuses)
+    if existing_df is not None:
+        # Match column schemas dynamically just in case they differ slightly
+        for col in final_cols:
+            if col not in existing_df.columns:
+                existing_df[col] = None
+        existing_df = existing_df[final_cols]
+        final_df = pd.concat([existing_df, new_df], ignore_index=True)
+    else:
+        final_df = new_df
 
-    df.to_csv(output_file, index=False, encoding="utf-8")
-    print(f"\nSUCCESS! {len(df)} articles enriched and saved to '{output_file}'.")
+    # 6. Perform an atomic write to prevent data corruption
+    tmp_output = output_file + ".tmp"
+    final_df.to_csv(tmp_output, index=False, encoding="utf-8")
+    if os.path.exists(tmp_output):
+        if os.path.exists(output_file):
+            os.remove(output_file)
+        os.rename(tmp_output, output_file)
 
-    if len(df) > 0:
-        print("\nSample 'cluster_text' output:")
+    print(f"\nSUCCESS! {len(new_df)} new rows appended. Output now contains {len(final_df)} total records.")
+
+    if len(new_df) > 0:
+        print("\nSample 'cluster_text' output from new rows:")
         print("-" * 50)
-        sample_text = str(df["cluster_text"].iloc[0])
+        sample_text = str(new_df["cluster_text"].iloc[0])
         print(sample_text[:300] + "..." if len(sample_text) > 300 else sample_text)
-
 
 if __name__ == "__main__":
     prepare_data()

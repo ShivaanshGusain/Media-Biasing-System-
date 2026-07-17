@@ -40,11 +40,30 @@ def generate_explanation_triples():
     # Take only the top clearest examples (Confidence >= 0.8)
     high_signal_df = high_signal_df[high_signal_df['confidence'] >= 0.8]
 
-    print(f"Filtered down to {len(high_signal_df)} high-signal passages for triple extraction...")
+    # 2. Check for existing processed triples to enable incremental processing
+    existing_df = None
+    processed_passage_ids = set()
+    if os.path.exists(output_file):
+        try:
+            existing_df = pd.read_csv(output_file)
+            if 'passage_id' in existing_df.columns:
+                processed_passage_ids = set(existing_df['passage_id'].dropna().astype(str))
+                print(f"Found existing triples database with {len(processed_passage_ids)} processed passages.")
+        except Exception as e:
+            print(f"Warning: Could not read existing triples file ({e}). Re-processing all high-signal passages.")
+
+    # 3. Filter high-signal passages down to ONLY new, unprocessed ones
+    new_high_signal_df = high_signal_df[~high_signal_df['passage_id'].astype(str).isin(processed_passage_ids)].copy()
+
+    if len(new_high_signal_df) == 0:
+        print("🎉 No new high-signal passages to process. Everything is up to date!")
+        return
+
+    print(f"Found {len(new_high_signal_df)} NEW high-signal passages for triple extraction (skipping {len(processed_passage_ids)} already processed).")
     
     triple_records = []
 
-    for _, row in tqdm(high_signal_df.iterrows(), total=len(high_signal_df), desc="Extracting Triples"):
+    for _, row in tqdm(new_high_signal_df.iterrows(), total=len(new_high_signal_df), desc="Extracting Triples"):
         evidence = row['evidence_span']
         target = row['canonical_target']
         sentiment = row['sentiment']
@@ -94,18 +113,37 @@ Return ONLY valid JSON in this format:
         except Exception as e:
             pass # Skip on LLM timeout
 
-    # Save the output
-    triples_df = pd.DataFrame(triple_records)
-    triples_df.to_csv(output_file, index=False)
+    # 4. Create a clean DataFrame from the new extractions
+    new_triples_df = pd.DataFrame(triple_records)
+
+    # 5. Safely concatenate the fresh updates with the historical corpus
+    if existing_df is not None:
+        # Match schemas dynamically
+        for col in new_triples_df.columns:
+            if col not in existing_df.columns:
+                existing_df[col] = None
+        existing_df = existing_df[new_triples_df.columns]
+        final_df = pd.concat([existing_df, new_triples_df], ignore_index=True)
+    else:
+        final_df = new_triples_df
+
+    # 6. Perform an atomic write to prevent data corruption
+    tmp_output = output_file + ".tmp"
+    final_df.to_csv(tmp_output, index=False)
+    if os.path.exists(tmp_output):
+        if os.path.exists(output_file):
+            os.remove(output_file)
+        os.rename(tmp_output, output_file)
 
     print("\n=========================================================")
     print("             EXPLANATION TRIPLES GENERATED               ")
     print("=========================================================")
-    print(f"Successfully generated {len(triples_df)} UI Explanation Cards.")
+    print(f"Successfully appended {len(new_triples_df)} new UI Explanation Cards.")
+    print(f"Total triples database now contains: {len(final_df)} records.")
     print(f"Saved to -> '{output_file}'")
-    if len(triples_df) > 0:
-        print("\nSneak Peek:")
-        peek = triples_df[['subject', 'relation', 'object']].head(3)
+    if len(new_triples_df) > 0:
+        print("\nSneak Peek (New Triples):")
+        peek = new_triples_df[['subject', 'relation', 'object']].head(3)
         for _, r in peek.iterrows():
             print(f"[{r['subject']}] -> [{r['relation']}] -> [{r['object']}]")
     print("=========================================================\n")

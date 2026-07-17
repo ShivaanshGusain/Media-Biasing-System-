@@ -108,6 +108,20 @@ body{background:var(--bg);color:var(--text);font-family:'Instrument Sans',sans-s
 .ev-sentiment.neu{background:rgba(148,163,184,0.1);color:var(--neu)}
 .ev-text{font-size:13px;color:var(--text);line-height:1.5;font-style:italic}
 .ev-triple{font-size:11px;color:var(--text3);margin-top:6px;font-family:'DM Mono',monospace}
+.ev-link {
+  margin-left: auto;
+  font-size: 11px;
+  text-decoration: none;
+  color: var(--accent);
+  border: 1px solid rgba(168, 245, 160, 0.3);
+  padding: 2px 8px;
+  border-radius: 4px;
+  transition: all 0.15s;
+}
+.ev-link:hover {
+  background: rgba(168, 245, 160, 0.1);
+  border-color: var(--accent);
+}
 
 /* COMPARE */
 .compare-select{display:flex;gap:12px;margin-bottom:20px;align-items:center;flex-wrap:wrap}
@@ -312,7 +326,7 @@ function label(o){ return OUTLET_LABELS[o] || LABEL_MAP[o] || o; }
 // =====================================================================
 // DATA LOADING
 // =====================================================================
-const ENDPOINTS = ['coverage','event_matrix','overlap','bias','omission','triples','passages'];
+const ENDPOINTS = ['coverage','event_matrix','overlap','bias','omission','triples','passages','articles'];
 
 async function fetchEndpoint(key){
   const r = await fetch(`${API}/${key}.json`); // Tell it to look for the static file!  if(!r.ok) throw new Error(`${key}: ${r.status} ${r.statusText}`);
@@ -818,12 +832,22 @@ function evCard(t){
   const sentKey   = Object.keys(t).find(k=>k.includes('sentiment'))||'sentiment';
   const framKey   = Object.keys(t).find(k=>k.includes('framing')) ||'framing_label';
   const spanKey   = Object.keys(t).find(k=>k.includes('evidence_span')||k.includes('evidencespan'))||'evidence_span';
-
+  const artKey    = Object.keys(t).find(k=>k.includes('article_id')||k.includes('articleid'))||'article_id';
+  
   const sent = t[sentKey]||'';
   const sc = sent.includes('Neg')||sent==='Negative' ? 'neg' : sent.includes('Pos')||sent==='Positive' ? 'pos' : 'neu';
   const triple = t.subject&&t.relation&&t.object
     ? `<div class="ev-triple">${t.subject} → ${t.relation} → ${t.object}</div>` : '';
 
+  let url = '#';
+  if(DATA.articles && t[artKey]) {
+     const artOutKey = Object.keys(DATA.articles[0]||{}).find(k=>k.includes('article_id')||k.includes('articleid'))||'article_id';
+     const urlKey = Object.keys(DATA.articles[0]||{}).find(k=>k.toLowerCase() === 'url')||'url';
+     const artMatch = DATA.articles.find(a => a[artOutKey] === t[artKey]);
+     if(artMatch && artMatch[urlKey]) url = artMatch[urlKey];
+  }
+
+  const linkHtml = url !== '#' ? `<a href="${url}" target="_blank" class="ev-link">Read Source ↗</a>` : '';
   return `<div class="ev-card">
     <div class="ev-header">
       <span class="ev-outlet">${label(t[outKey]||'')}</span>

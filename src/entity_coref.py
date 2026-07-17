@@ -153,12 +153,31 @@ def run_entity_extraction():
     master_df   = pd.read_csv(master_file)[['article_id', 'headline']]
     df = pd.merge(passages_df, master_df, on='article_id', how='left')
 
-    entity_records = []
+    # 1. Look for existing outputs to preserve history
+    existing_df = None
+    processed_article_ids = set()
+    if os.path.exists(output_file):
+        try:
+            existing_df = pd.read_csv(output_file)
+            if 'article_id' in existing_df.columns:
+                processed_article_ids = set(existing_df['article_id'].dropna().astype(str).unique())
+                print(f"Found existing entity records containing {len(processed_article_ids)} processed articles.")
+        except Exception as e:
+            print(f"Warning: Could not read existing entity registry ({e}). Re-processing all.")
+
+    # 2. Group input data and cleanly separate out the non-processed ones
     grouped_articles = df.groupby('article_id')
+    new_articles_groups = [(aid, grp) for aid, grp in grouped_articles if str(aid) not in processed_article_ids]
 
-    print(f"Processing {len(df)} passages using Ollama (qwen2.5:3b)...")
+    if not new_articles_groups:
+        print("🎉 No new articles to extract entities for. Everything is up to date!")
+        return
 
-    for article_id, group in tqdm(grouped_articles, desc="Articles"):
+    print(f"Processing {len(new_articles_groups)} NEW articles out of {len(grouped_articles)} total groups using Ollama (qwen2.5:3b)...")
+
+    entity_records = []
+
+    for article_id, group in tqdm(new_articles_groups, desc="Articles"):
         article_headline = group['headline'].iloc[0]
         article_memory   = set()
         group = group.sort_values('passage_id')
@@ -217,8 +236,27 @@ Passage:
             except Exception:
                 pass
 
-    entities_df = pd.DataFrame(entity_records)
-    entities_df.to_csv(output_file, index=False)
+    # 3. Create a clean DataFrame from the new extractions
+    new_entities_df = pd.DataFrame(entity_records)
+    
+    # 4. Safely concatenate the fresh updates with the historical corpus 
+    if existing_df is not None:
+        # Match schemas just in case columns were saved out-of-order historically
+        for col in new_entities_df.columns:
+            if col not in existing_df.columns:
+                existing_df[col] = None
+        existing_df = existing_df[new_entities_df.columns]
+        entities_df = pd.concat([existing_df, new_entities_df], ignore_index=True)
+    else:
+        entities_df = new_entities_df
+
+    # 5. Perform an atomic switch operation using a temporary target swap 
+    tmp_output = output_file + ".tmp"
+    entities_df.to_csv(tmp_output, index=False)
+    if os.path.exists(tmp_output):
+        if os.path.exists(output_file):
+            os.remove(output_file)
+        os.rename(tmp_output, output_file)
 
     print("\n=========================================================")
     print("            ENTITY & COREF RESOLUTION COMPLETE           ")
