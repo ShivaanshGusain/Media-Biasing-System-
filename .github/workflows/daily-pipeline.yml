@@ -1,4 +1,4 @@
-name: Weekly BiasLens Pipeline
+name: Daily BiasLens Pipeline
 on:
   schedule:
     - cron: '0 0 * * *'
