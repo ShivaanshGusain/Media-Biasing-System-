@@ -1731,35 +1731,50 @@ EVT_00809,U.S. and Indian governments,hindustan_times,1,Positive,Development,0.0
 EVT_00809,US Embassy in India,hindustan_times,2,Positive,Development,0.0,50.0,50.0
 EVT_00809,US Navy,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00809,government,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,Advanced Manufacturing Technologies,hindustan_times,1,Positive,Technology Development,0.0,100.0,0.0
+EVT_00821,Automotive Industry,hindustan_times,1,Neutral/Mixed,Technology Innovation,0.0,0.0,100.0
 EVT_00821,Bengaluru-based Cosmos Diamonds,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Bengaluru-based Cosmos Diamonds,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,Building,hindustan_times,1,Neutral/Mixed,Infrastructure,0.0,0.0,100.0
 EVT_00821,Central Government,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Chandana,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Cosmic Bloom,hindustan_times,1,Neutral/Mixed,Art and Culture,0.0,0.0,100.0
+EVT_00821,Cosmoserve Space,hindustan_times,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
 EVT_00821,"Cosmoserve, DCubed and Skyroot",the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,DCubed's technology,hindustan_times,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
+EVT_00821,Dr Vikram Sarabhai,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Government/Aerospace Sector,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Government/Congress,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Government/Space Agencies,the_times_of_india,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
+EVT_00821,Government/Technology Companies,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Grahaa Space,hindustan_times,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
 EVT_00821,Grahaa Space,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,"Grahaa Space, Cosmoserve, DCubed and Skyroot",the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,"Grahaa Space, Cosmosserve, DCubed, Skyroot",the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
-EVT_00821,HT News Desk,hindustan_times,3,Neutral/Mixed,News Coverage,0.0,0.0,100.0
-EVT_00821,Hindustan Times,hindustan_times,2,Positive,Development,0.0,50.0,50.0
+EVT_00821,HT News Desk,hindustan_times,5,Neutral/Mixed,News Coverage,0.0,0.0,100.0
+EVT_00821,Hindustan Times,hindustan_times,3,Neutral/Mixed,Media Coverage,0.0,33.3,66.7
 EVT_00821,Hyderabad-based startup,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,ISRO,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,ISRO (Indian Space Research Organisation),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,ISRO (Indian Space Research Organisation),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,In-orbit Debris Clearance,hindustan_times,1,Positive,Development,0.0,100.0,0.0
-EVT_00821,India,hindustan_times,4,Positive,Development,0.0,50.0,50.0
+EVT_00821,India,hindustan_times,6,Positive,Development,0.0,66.7,33.3
 EVT_00821,India,the_times_of_india,3,Positive,Development,0.0,100.0,0.0
 EVT_00821,India's Private Sector,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,India's first privately developed orbital rocket,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,India's private space ecosystem,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,India's private space ecosystem,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,India's private space sector,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,India's space sector reforms,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,Indian Government,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Indian Government,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Indian Space Policy 2023,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Indian Space Program,hindustan_times,1,Positive,Development,0.0,100.0,0.0
-EVT_00821,Indian Space Research Organisation (ISRO),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Indian Space Research Organisation (ISRO),hindustan_times,2,Positive,Development,0.0,50.0,50.0
 EVT_00821,Indian Space Research Organisation (ISRO),the_times_of_india,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
 EVT_00821,Indian Space Sector,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Indian private companies,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Media Organization,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Microscopic Sculptures of Scientists,hindustan_times,1,Neutral/Mixed,Other,0.0,0.0,100.0
 EVT_00821,Mission Aagaman,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Mission Aagaman,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
@@ -1768,7 +1783,7 @@ EVT_00821,Naga Bharath Daka,hindustan_times,2,Positive,Development,0.0,50.0,50.0
 EVT_00821,Naga Bharath Daka,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Nara Lokesh,the_times_of_india,1,Neutral/Mixed,Policy/Leadership,0.0,0.0,100.0
 EVT_00821,PM,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
-EVT_00821,PM Modi,hindustan_times,9,Positive,Development,0.0,100.0,0.0
+EVT_00821,PM Modi,hindustan_times,13,Positive,Development,0.0,100.0,0.0
 EVT_00821,PM Modi,the_times_of_india,6,Positive,Development,0.0,100.0,0.0
 EVT_00821,Pawan Kumar Chandana,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Pawan Kumar Chandana (Skyroot Aerospace founder and CEO),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
@@ -1779,26 +1794,34 @@ EVT_00821,Prime Minister Modi,the_times_of_india,1,Positive,Development,0.0,100.
 EVT_00821,Prime Minister Shri Narendra Modi,the_times_of_india,1,Positive,Honourable Status & National Symbolism,0.0,100.0,0.0
 EVT_00821,Private Indian Industry,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Private Sector,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,Rocket Developer/Manufacturer,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Rocket Science,hindustan_times,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
 EVT_00821,S Somanath,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
-EVT_00821,Skyroot,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_00821,Skyroot,hindustan_times,4,Positive,Development,0.0,100.0,0.0
 EVT_00821,Skyroot,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
 EVT_00821,Skyroot (company),hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Skyroot (rocket company),hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
-EVT_00821,Skyroot Aerospace,hindustan_times,4,Positive,Development,0.0,75.0,25.0
+EVT_00821,Skyroot Aerospace,hindustan_times,6,Positive,Development,0.0,66.7,33.3
 EVT_00821,Skyroot Aerospace,the_times_of_india,3,Neutral/Mixed,Development,0.0,33.3,66.7
 EVT_00821,Skyroot Aerospace team,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Sonam Wangchuk,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Space Agency or Consortium,the_times_of_india,1,Neutral/Mixed,Technology & Innovation,0.0,0.0,100.0
+EVT_00821,Space Agency/Team,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Space Art,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,Space Program,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Space Technology Incubation,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,Sriharikota,hindustan_times,1,Neutral/Mixed,Location,0.0,0.0,100.0
 EVT_00821,Team Skyroot Aerospace,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Technology Demonstrations,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,The Company (referring to the Hyderabad-based rocket company),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_00821,The Hindu News Desk,hindustan_times,1,Positive,Coverage,0.0,100.0,0.0
+EVT_00821,Unknown,hindustan_times,1,Neutral/Mixed,Innovation & Science,0.0,0.0,100.0
 EVT_00821,Various Institutional Backers,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_00821,Various Satellite Launch Payloads,the_times_of_india,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
+EVT_00821,Vikram,hindustan_times,1,Neutral/Mixed,Technology/Innovation,0.0,0.0,100.0
 EVT_00821,Vikram 1 Mission,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_00821,Vikram rocket,hindustan_times,1,Neutral/Mixed,Technology/Development,0.0,0.0,100.0
-EVT_00821,Vikram-1,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_00821,Vikram-1,hindustan_times,4,Neutral/Mixed,Development,0.0,25.0,75.0
 EVT_00821,Vikram-1 (Aerospace vehicle),the_times_of_india,1,Neutral/Mixed,Technology Development,0.0,0.0,100.0
 EVT_00821,Vikram-1 Rocket,hindustan_times,1,Positive,Technology Development,0.0,100.0,0.0
 EVT_00822,Aryan Dubey,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
@@ -2584,6 +2607,8 @@ EVT_01246,The politician or party (not specified in text),the_times_of_india,1,N
 EVT_01246,Union Education Minister,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_01246,Unknown (contextually political entities or officials),the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_01246,student-led agitation,the_hindu,1,Positive,Protest,0.0,100.0,0.0
+EVT_01258,APAAR,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01258,Academic Bank of Credits,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01258,Anti-national forces,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_01258,BJP,hindustan_times,1,Positive,Policy,0.0,100.0,0.0
 EVT_01258,BJP (Indian National Congress),the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
@@ -2595,13 +2620,17 @@ EVT_01258,CJP (likely referring to a political leader or party named CJP),hindus
 EVT_01258,Central government and NDA (National Democratic Alliance)-ruled states,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01258,Centre (Government),the_times_of_india,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01258,Chief Minister N. Chandrababu Naidu,the_hindu,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01258,Cockroach Janata Party,the_hindu,1,Positive,Protest,0.0,100.0,0.0
 EVT_01258,Cockroach Janta Party,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_01258,Cockroach Janta Party (CJP),the_times_of_india,1,Positive,Protest,0.0,100.0,0.0
+EVT_01258,Common University Entrance Test,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01258,Computer-based mode,the_times_of_india,1,Positive,Technology Adoption,0.0,100.0,0.0
 EVT_01258,Dharmendra Pradha,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_01258,Dharmendra Pradhan,hindustan_times,5,Negative,Protest,80.0,20.0,0.0
-EVT_01258,Dharmendra Pradhan,the_times_of_india,4,Negative,Protest,100.0,0.0,0.0
+EVT_01258,Dharmendra Pradhan,the_hindu,1,Neutral/Mixed,Departure/Resignation,0.0,0.0,100.0
+EVT_01258,Dharmendra Pradhan,the_times_of_india,5,Negative,Protest,100.0,0.0,0.0
 EVT_01258,Dr Manoj Shirure and Tejas Harshadkumar Shah,the_times_of_india,1,Negative,"Academic Misconduct, Corruption",100.0,0.0,0.0
+EVT_01258,Educational Institutions or Policy Makers,the_times_of_india,1,Neutral/Mixed,Education Reform,0.0,0.0,100.0
 EVT_01258,Government,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_01258,Government,the_times_of_india,2,Negative,Law & Order,50.0,0.0,50.0
 EVT_01258,Government/Central Government,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
@@ -2610,33 +2639,46 @@ EVT_01258,HT News Desk,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01258,Higher Education Authorities,the_times_of_india,1,Negative,Development,100.0,0.0,0.0
 EVT_01258,Hindustan Times,hindustan_times,1,Neutral/Mixed,Media Coverage,0.0,0.0,100.0
 EVT_01258,JP Nadda,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01258,Janta Party,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,0.0
 EVT_01258,Jantar Mantar Protest,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
 EVT_01258,Jitendra Singh,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01258,Kiren Rijiju,the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_01258,Local Government Leader,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01258,Movement,the_hindu,2,Positive,Demand Fulfillment,0.0,50.0,0.0
+EVT_01258,Mr. Pradhan,the_hindu,1,Negative,Policy/Implementation,100.0,0.0,0.0
 EVT_01258,Nara Lokesh (Andhra Pradesh IT & HRD Minister),the_hindu,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01258,National Testing Agency,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_01258,News Organization,hindustan_times,1,Neutral/Mixed,Verification & Accuracy,0.0,0.0,100.0
 EVT_01258,Opponents,the_times_of_india,1,Negative,"Corruption, Development",100.0,0.0,0.0
-EVT_01258,PM Modi,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_01258,PARAKH,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_01258,PM (Prime Minister),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_01258,PM Modi,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
+EVT_01258,PM SHRI,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_01258,PV Kulkarni (Chemistry lecturer),the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01258,Parents,hindustan_times,2,Negative,"No specific frame provided in text, but action towards students suggests a warning context",50.0,0.0,50.0
 EVT_01258,Police,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_01258,Pradhan,hindustan_times,3,Positive,Development,0.0,100.0,0.0
-EVT_01258,Pradhan,the_times_of_india,4,Negative,Protest,75.0,0.0,25.0
+EVT_01258,Pradhan,the_times_of_india,7,Negative,Policy,57.1,14.3,28.6
 EVT_01258,Pradhan (possibly referring to a politician or party leader),hindustan_times,1,Negative,Policy,100.0,0.0,0.0
+EVT_01258,Pradhanâ,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01258,Pradhanâs,the_times_of_india,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01258,President of India and Prime Minister,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01258,Prime Minister Narendra,the_hindu,1,Neutral/Mixed,Non-Response or Silence,0.0,0.0,100.0
 EVT_01258,Protests,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_01258,Rahul Gandhi,the_times_of_india,2,Negative,Protest,100.0,0.0,0.0
 EVT_01258,Rahul Gandhi (Congress),the_times_of_india,2,Negative,Protest,100.0,0.0,0.0
 EVT_01258,Sonam Wangchuk,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_01258,State Governments,the_times_of_india,1,Negative,Policy Implementation,100.0,0.0,0.0
 EVT_01258,Students and Families,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_01258,Supreme Court,the_times_of_india,2,Positive,Law & Order,0.0,100.0,0.0
+EVT_01258,The 'cockroaches' who refuse to crawl away,the_hindu,1,Negative,Violence,100.0,0.0,0.0
 EVT_01258,The CJP (Cockroach Janta Party),hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_01258,"UGC (University Grants Commission), AICTE (All India Council for Technical Education), NCTE (National Council of Educational Research and Training)",the_times_of_india,1,Negative,Development,100.0,0.0,0.0
 EVT_01258,Y.S. Jagan Mohan Reddy (YSR Congress Party),the_hindu,1,Positive,Protest,0.0,100.0,0.0
 EVT_01258,education minister,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
 EVT_01258,government,hindustan_times,2,Negative,Agreement and Compliance,50.0,50.0,0.0
 EVT_01258,government,the_times_of_india,3,Negative,Law & Order,100.0,0.0,0.0
+EVT_01258,government/politician,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01262,Abhijeet Dipke,hindustan_times,1,Neutral/Mixed,Policy and Politics,0.0,0.0,100.0
 EVT_01262,Amit Shah,hindustan_times,2,Negative,Election Strategy,50.0,50.0,0.0
 EVT_01262,Amit Shah,india_today,4,Positive,Development,0.0,100.0,0.0
@@ -3148,6 +3190,7 @@ EVT_01459,Suvendu Adhikari,the_times_of_india,1,Neutral/Mixed,Event Participatio
 EVT_01459,Taslima Nasreen,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_01459,Taslima Nasrin,hindustan_times,2,Positive,Development,0.0,50.0,50.0
 EVT_01459,Unknown (likely an exiled person or politician referring to their hometown),hindustan_times,1,Neutral/Mixed,"Personal Connection, Homecoming",0.0,0.0,0.0
+EVT_01459,unknown,deccan_herald,1,Neutral/Mixed,Unclear,0.0,0.0,0.0
 EVT_01467,Abhijeet Dipke (Cockroach Janta Party founder),hindustan_times,1,Negative,Health Issues/Public Perception,100.0,0.0,0.0
 EVT_01467,Abhishek Mishra,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01467,CJP's Abhijeet Dipke,hindustan_times,1,Negative,Health Crisis/Emergency,100.0,0.0,0.0
@@ -3228,44 +3271,59 @@ EVT_01497,government,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_01502,Abhijeet Dipke (Cockroach Janta Party),the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_01502,CJP (Civil Jute Producers Association),hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_01502,Cockroach Janta Party (CJP),hindustan_times,1,Negative,Protest and Response to Protest,100.0,0.0,0.0
-EVT_01502,Delhi Police,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01502,Daughter (implied as someone who committed abuse),india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,Delhi Police,india_today,2,Negative,Law & Order,50.0,0.0,50.0
 EVT_01502,Girl (Protestor),india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_01502,Individuals in the neighborhood,india_today,1,Negative,Protest,100.0,0.0,0.0
 EVT_01502,Lawyer Ratna Singh,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_01502,Modi ji,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_01502,Modi ji and Police,the_times_of_india,2,Negative,Violence,100.0,0.0,0.0
 EVT_01502,Mother,india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_01502,Mother (implied),india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_01502,Mother (unnamed),india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
-EVT_01502,Mother of girl who abused PM,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,Mother of girl who abused PM,india_today,2,Negative,Violence,100.0,0.0,0.0
 EVT_01502,Mother or Person Speaking,india_today,2,Neutral/Mixed,"Education, Correction",0.0,0.0,100.0
+EVT_01502,Mother or Person speaking on behalf of a mother,india_today,1,Neutral/Mixed,"Regret, Education, Personal Growth",0.0,0.0,100.0
 EVT_01502,Narendra Modi (Prime Minister of India),the_times_of_india,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,Noida Police,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01502,Not specified (likely a public figure or expert discussing youth behavior),india_today,1,Neutral/Mixed,Youth Development and Guidance,0.0,0.0,100.0
 EVT_01502,Our daughters,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01502,PM,hindustan_times,1,Positive,Forgiveness,0.0,100.0,0.0
 EVT_01502,PM Modi,hindustan_times,6,Negative,Protest,50.0,50.0,0.0
-EVT_01502,PM Modi,india_today,3,Negative,Protest,100.0,0.0,0.0
+EVT_01502,PM Modi,india_today,5,Negative,Protest,100.0,0.0,0.0
 EVT_01502,PM Modi,the_times_of_india,6,Negative,Protest,100.0,0.0,0.0
 EVT_01502,PM Narendra Modi,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_01502,Police,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01502,Police Department,india_today,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,Police and Law Enforcement,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01502,Police/Institution,india_today,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,Politician (implied by context),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01502,"Politician or Party (implied from context, not explicitly named)",hindustan_times,1,Neutral/Mixed,Policy and Education,0.0,0.0,100.0
 EVT_01502,Politician or Party (unnamed in text),hindustan_times,1,Neutral/Mixed,Support & Guidance,0.0,0.0,100.0
+EVT_01502,Politician or party (not specified),india_today,1,Neutral/Mixed,"Parental Apology, Reflection",0.0,0.0,100.0
 EVT_01502,Prime Minister,the_times_of_india,1,Negative,Policy,100.0,0.0,0.0
-EVT_01502,Prime Minister Modi,india_today,2,Negative,Forgiveness and Legal Action,100.0,0.0,0.0
+EVT_01502,Prime Minister (PM Modi),india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,Prime Minister Modi,india_today,4,Negative,Forgiveness and Legal Action,100.0,0.0,0.0
 EVT_01502,Prisha Patnaik,the_times_of_india,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01502,Protest Organizers,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,Protest organizers or participants,india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_01502,She,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_01502,Shivam Pratap Singh,hindustan_times,2,Positive,Development,0.0,100.0,0.0
 EVT_01502,Singh (Politician),hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,The Family (implied politician or party),india_today,1,Neutral/Mixed,Violence,0.0,0.0,100.0
+EVT_01502,The Girl (and possibly her Family if referring to their actions in response),india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01502,The girl (protestor),hindustan_times,2,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,Unknown (based on the text provided),india_today,1,Negative,"Violence, Development",100.0,0.0,0.0
 EVT_01502,Unknown Politician or Party,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,Unknown Politician or Public Figure,india_today,1,Neutral/Mixed,Youth Engagement,0.0,0.0,100.0
 EVT_01502,author of statement (woman),india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,authorities,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01502,family,india_today,1,Neutral/Mixed,Protection,0.0,0.0,100.0
+EVT_01502,government,india_today,2,Negative,Policy,100.0,0.0,0.0
 EVT_01502,police and government,india_today,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,police and judiciary,india_today,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_01502,police or officials handling case,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01502,protest organizers,india_today,1,Negative,Protest,100.0,0.0,0.0
 EVT_01502,unknown,the_times_of_india,1,Neutral/Mixed,Unclear,0.0,0.0,0.0
 EVT_01502,unknown politician,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01507,Ambani,india_today,2,Negative,Corruption,100.0,0.0,0.0
@@ -3320,9 +3378,11 @@ EVT_01517,government,the_times_of_india,1,Negative,Policy,100.0,0.0,0.0
 EVT_01517,individual (implied to be a student or young person),hindustan_times,1,Positive,"Education, Development",0.0,100.0,0.0
 EVT_01517,she,hindustan_times,1,Positive,Culture Promotion and Preservation,0.0,100.0,0.0
 EVT_01523,Abhijeet Dipke,hindustan_times,1,Negative,Development,100.0,0.0,0.0
+EVT_01523,Abhijeet Dipke,india_today,1,Neutral/Mixed,Investigation & Oversight,0.0,0.0,0.0
+EVT_01523,Abhijeet Dipke and CJP,india_today,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01523,Abhijeet Dipke and his father,india_today,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01523,Abhijeet Dipke's father,india_today,1,Negative,Development,100.0,0.0,0.0
-EVT_01523,Amit Tiwari,india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_01523,Amit Tiwari,india_today,2,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_01523,Bhagwanrao Dipke,hindustan_times,2,Negative,Corruption,100.0,0.0,0.0
 EVT_01523,CJP,hindustan_times,1,Negative,Legal & Order,100.0,0.0,0.0
 EVT_01523,CJP (Civil-Judicial-Political Alliance or Committee Jai Hind),india_today,1,Positive,Protest,0.0,100.0,0.0
@@ -3330,18 +3390,20 @@ EVT_01523,CJP (Committee on Justice) and the finances of founder Abhijeet Dipke'
 EVT_01523,CJP (likely Citizens Journalist Project) and founder Abhijeet Dipke's family,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01523,CJP-led protests,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_01523,Cockroach Janta Party,hindustan_times,2,Negative,Corruption,50.0,50.0,0.0
-EVT_01523,Cockroach Janta Party,india_today,2,Negative,Election Strategy,50.0,0.0,50.0
+EVT_01523,Cockroach Janta Party,india_today,3,Negative,Law & Order,66.7,0.0,33.3
 EVT_01523,Cockroach Janta Party (CJP),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01523,HT News Desk,hindustan_times,4,Neutral/Mixed,Coverage and Reporting,0.0,25.0,75.0
 EVT_01523,Hindustan Times,hindustan_times,1,Neutral/Mixed,News Outlet,0.0,0.0,100.0
 EVT_01523,Kapil Sibal,hindustan_times,2,Negative,Legal Defense & Advocacy,50.0,50.0,0.0
-EVT_01523,Kapil Sibal,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01523,Kapil Sibal,india_today,2,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01523,Maharashtra Government,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01523,Media Organization,hindustan_times,1,Neutral/Mixed,Verification & Accuracy,0.0,0.0,100.0
 EVT_01523,PM Modi,hindustan_times,1,Negative,Protest and Counter-Attacks,100.0,0.0,0.0
-EVT_01523,Political Party,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01523,Political Party,india_today,2,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_01523,Politician or party related to funding and registration,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
-EVT_01523,Tiwari,india_today,3,Neutral/Mixed,Corruption,33.3,0.0,66.7
+EVT_01523,Sibal,india_today,2,Positive,Law & Order,0.0,50.0,50.0
+EVT_01523,The Cockroach Janta Party,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01523,Tiwari,india_today,5,Neutral/Mixed,Law & Order,40.0,0.0,60.0
 EVT_01530,Army,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01530,Army,the_hindu,2,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01530,Army's Intelligence units and Rajasthan Police,the_hindu,1,Positive,Development,0.0,100.0,0.0
@@ -3554,6 +3616,23 @@ EVT_01611,Warring,india_today,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01611,Warring,the_times_of_india,3,Positive,Election Strategy,33.3,66.7,0.0
 EVT_01611,Yashasvi Vasistha,the_times_of_india,1,Neutral/Mixed,News Reporting,0.0,0.0,100.0
 EVT_01611,unknown,the_times_of_india,3,Neutral/Mixed,Uncategorized,0.0,0.0,0.0
+EVT_01618,Adhikari,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_01618,Bengal CM,the_times_of_india,2,Positive,Security,0.0,100.0,0.0
+EVT_01618,Dwikhandito,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_01618,Government Party,the_hindu,1,Negative,Development,100.0,0.0,0.0
+EVT_01618,Left Front government and Trinamool Congress government,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_01618,Ms. Adhikari,the_hindu,1,Positive,Policy,0.0,100.0,0.0
+EVT_01618,Ms. Nasrin,the_hindu,1,Positive,Reopening/Resumption,0.0,100.0,0.0
+EVT_01618,Nasreen,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_01618,Nasreen Adhikari,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_01618,Politician XYZ,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01618,Priyanka Jaiswal,the_times_of_india,1,Neutral/Mixed,Crisis Communication,0.0,0.0,100.0
+EVT_01618,Suvendu Adhikari (West Bengal CM),the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_01618,Suvendu Adhikari (West Bengal Chief Minister),the_hindu,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_01618,Tathagata Roy (BJP politician),the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_01618,West Bengal's Left Front Government,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01618,unknown,the_hindu,1,Neutral/Mixed,Travel Announcement,0.0,0.0,100.0
+EVT_01618,writer,the_hindu,1,Positive,Protest,0.0,100.0,0.0
 EVT_01625,A.K.S. Vijayan,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01625,BJP (Tamil Nadu),the_times_of_india,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01625,Cauvery Water Management Authority (CWMA),the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
@@ -3674,18 +3753,20 @@ EVT_01721,Unknown Politician or Party,hindustan_times,1,Neutral/Mixed,Law & Orde
 EVT_01721,Yadav,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
 EVT_01721,ana fazili,hindustan_times,1,Neutral/Mixed,Career Transition,0.0,0.0,100.0
 EVT_01721,politician or party,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
-EVT_01724,Awami League,india_today,1,Negative,Policy,100.0,0.0,0.0
+EVT_01724,Awami League,india_today,2,Negative,Development,100.0,0.0,0.0
 EVT_01724,BANGLADESHI FIGURES,india_today,1,Positive,Development,0.0,100.0,0.0
 EVT_01724,BJP (and/or the BJP-led dispensation),hindustan_times,1,Positive,Development,0.0,100.0,0.0
-EVT_01724,BJP-led dispensation,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_01724,BJP-led dispensation,india_today,2,Positive,Development,0.0,100.0,0.0
 EVT_01724,Bangladesh,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01724,Bangladesh,india_today,2,Negative,Policy,50.0,0.0,50.0
 EVT_01724,Bangladesh education minister,india_today,1,Negative,Development,100.0,0.0,0.0
+EVT_01724,"Bangladesh minority groups, including Hindus",india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,Bangladeshi author,hindustan_times,1,Neutral/Mixed,Pro-democracy/Protection of civil liberties,0.0,0.0,100.0
 EVT_01724,Bengal chief minister,india_today,1,Positive,Law & Order,0.0,100.0,0.0
-EVT_01724,CJP protests,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_01724,CJP protests,india_today,2,Negative,Protest,50.0,0.0,50.0
 EVT_01724,Dr Waiel Awwad,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_01724,Dr. Waiel Awwad,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01724,Goswami,india_today,1,Negative,Protest,100.0,0.0,0.0
 EVT_01724,HT News Desk,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_01724,Hasina,hindustan_times,9,Negative,Protest,77.8,0.0,22.2
 EVT_01724,Hasina,india_today,5,Negative,Corruption,60.0,0.0,40.0
@@ -3693,52 +3774,61 @@ EVT_01724,Hasina's ouster,india_today,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01724,Hindu Women in Bangladesh,india_today,1,Negative,Discrimination,100.0,0.0,0.0
 EVT_01724,Hindustan Times,hindustan_times,1,Neutral/Mixed,Media Coverage,0.0,0.0,100.0
 EVT_01724,Human Rights Watch,india_today,1,Negative,Violence,100.0,0.0,0.0
-EVT_01724,India,india_today,1,Positive,Policy,0.0,100.0,0.0
-EVT_01724,Interim Government,india_today,1,Negative,Human Rights Violations,100.0,0.0,0.0
+EVT_01724,India,india_today,2,Positive,Development,0.0,100.0,0.0
+EVT_01724,Interim Government,india_today,2,Negative,Human Rights Violations,100.0,0.0,0.0
 EVT_01724,Joy,hindustan_times,2,Negative,Development,50.0,0.0,50.0
 EVT_01724,Joy Goswami,india_today,1,Negative,Political Ideologies and Views,100.0,0.0,0.0
 EVT_01724,Khaleda Zia,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,Law & Order,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_01724,Left Front government,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
-EVT_01724,Left Front government,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_01724,Left Front government,india_today,2,Negative,Protest,100.0,0.0,0.0
 EVT_01724,Minority groups (Hindus),india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,Muhammad Yunus,india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01724,Muhammad Yunus and Interim Administration,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01724,Nasreen,hindustan_times,6,Positive,Development,0.0,66.7,33.3
-EVT_01724,Nasreen,india_today,11,Positive,Development,45.5,54.5,0.0
+EVT_01724,Nasreen,india_today,21,Positive,Protest,42.9,52.4,4.8
+EVT_01724,Nasreen (Kolkata Chief Minister),india_today,2,Negative,Law & Order,50.0,50.0,0.0
 EVT_01724,Newsdesk,hindustan_times,1,Neutral/Mixed,Verification & Accuracy,0.0,0.0,100.0
 EVT_01724,Political Event Organizers,india_today,1,Neutral/Mixed,Event Organization,0.0,0.0,100.0
 EVT_01724,Politician,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
-EVT_01724,Politician,india_today,2,Negative,"Freedom of Speech, Election Strategy",100.0,0.0,0.0
+EVT_01724,Politician,india_today,3,Negative,"Freedom of Speech, Election Strategy",100.0,0.0,0.0
 EVT_01724,Politician or Party,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
 EVT_01724,Politician or Poet,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_01724,Politician/Party,hindustan_times,1,Negative,Religious Discrimination,100.0,0.0,0.0
 EVT_01724,Politicians (specifically the organizers of the felicitation ceremony),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01724,Politicians and Protesters,india_today,1,Negative,Protest,100.0,0.0,0.0
 EVT_01724,President (or relevant political figure),india_today,1,Negative,Ouster/Resignation/Clearing the Field,100.0,0.0,0.0
 EVT_01724,Prime Minister Tarique Rahman and BNP-led government,hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
 EVT_01724,Protest,india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,Secular Mission,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01724,Sheikh Hasina,hindustan_times,3,Neutral/Mixed,Election Strategy,33.3,33.3,33.3
-EVT_01724,Sheikh Hasina,india_today,5,Neutral/Mixed,Election Strategy,20.0,20.0,60.0
+EVT_01724,Sheikh Hasina,india_today,7,Neutral/Mixed,Policy,28.6,14.3,57.1
 EVT_01724,State Government,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_01724,Suvendu Adhikari,india_today,1,Positive,Security Assurance,0.0,100.0,0.0
+EVT_01724,Suvendu Adhikari (West Bengal Chief Minister),india_today,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_01724,Tarique Rahman,india_today,1,Positive,"Election Strategy, Policy",0.0,100.0,0.0
 EVT_01724,Taslima Nasreen,hindustan_times,1,Positive,Policy,0.0,100.0,0.0
-EVT_01724,Taslima Nasreen,india_today,5,Neutral/Mixed,Protest,0.0,40.0,60.0
+EVT_01724,Taslima Nasreen,india_today,9,Neutral/Mixed,Protest,0.0,44.4,55.6
 EVT_01724,Taslima Nasrin,hindustan_times,1,Neutral/Mixed,Personal Reflection or Statement,0.0,0.0,100.0
 EVT_01724,The HT News Desk,hindustan_times,1,Neutral/Mixed,News Coverage,0.0,0.0,100.0
 EVT_01724,The third government,india_today,1,Positive,Freedom of Expression,0.0,100.0,0.0
-EVT_01724,UCC,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_01724,The writer,india_today,1,Neutral/Mixed,Equality & Discrimination,0.0,0.0,100.0
+EVT_01724,UCC,india_today,2,Positive,Development,0.0,100.0,0.0
 EVT_01724,Uniform Civil Code,hindustan_times,2,Positive,Development,0.0,100.0,0.0
 EVT_01724,Unknown (speaker's reference to a past event),india_today,2,Negative,Violence,100.0,0.0,0.0
+EVT_01724,Unknown Politician,india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_01724,"Various Indian political parties including the Left Front, Trinamool Congress, and BJP",india_today,1,Negative,Opposition and Hostility,100.0,0.0,0.0
 EVT_01724,West Bengal Government,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
-EVT_01724,West Bengal Government,india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01724,West Bengal Government,india_today,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01724,Yunus (presumably referring to Sheikh Hasina's party leader or minister in charge),india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,Yunus government,india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,government,hindustan_times,2,Positive,Freedom of Expression,0.0,50.0,50.0
 EVT_01724,leaders of the former Awami League government,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
-EVT_01724,politician or party (not specified),india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_01724,politician or party (not specified),india_today,2,Positive,Equality & Women's Rights,0.0,100.0,0.0
 EVT_01724,radical groups,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01724,the new administration,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_01724,the third government,india_today,1,Positive,Freedom of Expression & Freedom of Speech,0.0,100.0,0.0
+EVT_01724,unknown politician or party,india_today,1,Negative,Protest and Counter-Action,100.0,0.0,0.0
 EVT_01733,Abhijeet Dipke's father,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01733,CM Suvendu,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_01733,Former Foreign Minister of Pakistan,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
@@ -3761,6 +3851,54 @@ EVT_01733,Pakistan government,hindustan_times,1,Negative,Development,100.0,0.0,0
 EVT_01733,Political Advocates for Talks,hindustan_times,1,Negative,Policy Failure,100.0,0.0,0.0
 EVT_01733,Politicians or authorities responding to a situation,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_01733,Subhadra Srivastava,the_times_of_india,2,Positive,Development,0.0,50.0,50.0
+EVT_01734,BJP,hindustan_times,3,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,BJP,india_today,3,Negative,Development,66.7,0.0,33.3
+EVT_01734,BJP (Indian political party),india_today,2,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,BJP's Bankipur bastion,india_today,1,Negative,Development,100.0,0.0,0.0
+EVT_01734,Bankipur,india_today,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Bankipur By-Election,india_today,1,Negative,Voting Irregularities,100.0,0.0,0.0
+EVT_01734,Bihar,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01734,Bihar State Police (DGP) and Subordinates,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01734,Bihar's political situation,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01734,Candidates,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01734,Election Commission,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01734,JSP,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01734,Jan Suraaj Party,india_today,1,Negative,Fraud/Corruption,100.0,0.0,0.0
+EVT_01734,Kartikeya K Sharma (SSP),hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01734,Kishor,india_today,3,Negative,Election Strategy,66.7,0.0,33.3
+EVT_01734,Kishor's party,india_today,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01734,Local Government Officials,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01734,Manjalpur Assembly bypoll in Gujarat,the_hindu,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01734,Mr. Gupta,the_hindu,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01734,Mr. Nabin,the_hindu,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01734,Neeraj Kumar (BJP candidate),hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01734,Neeraj Kumar Sinha,the_hindu,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01734,Neeraj Kumar Sinha (BJP),india_today,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01734,Nitin Nabin (BJP national president),hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Nitin Nabin (BJP),hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Nitin Nabin (BJP),india_today,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Nitin Nabin (BJP),the_hindu,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Patna SSP,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01734,"Patna Senior Superintendent of Police (SSP), Kishor",india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01734,Police Personnel,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_01734,Policy Advocates,the_hindu,1,Neutral/Mixed,Policy Development,0.0,0.0,100.0
+EVT_01734,Prashant Kishor,hindustan_times,2,Negative,Election Strategy,50.0,50.0,0.0
+EVT_01734,Prashant Kishor,india_today,3,Positive,Election Strategy,33.3,66.7,0.0
+EVT_01734,Prashant Kishor,the_hindu,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01734,Prashant Kishor (Jan Suraaj Party founder),india_today,1,Negative,"Violence, Law & Order",100.0,0.0,0.0
+EVT_01734,Prashant Kishor (Jan Suraaj Party),india_today,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01734,Prashant Kishor (likely a member or spokesperson of a political party),hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Prashant Kishor of Jan Suraaj Party,the_hindu,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01734,Protest Organizers,the_hindu,1,Positive,Protest,0.0,100.0,0.0
+EVT_01734,Rashtriya Janata Dal (RJD),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01734,Ravi Shankar Prasad (BJP MP),hindustan_times,2,Positive,Pro-Political Party Leadership,0.0,100.0,0.0
+EVT_01734,Rekha Gupta (RJD),india_today,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,Security Measures,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01734,Shivam Pratap Singh,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_01734,Various Politicians or Parties,hindustan_times,1,Negative,Conflict,100.0,0.0,0.0
+EVT_01734,Voter Turnout,the_hindu,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01734,police,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_01734,ruling party,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_01738,China,the_hindu,2,Negative,Economic Policy,100.0,0.0,0.0
 EVT_01738,Chinese Government,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01738,Doraiswami (presumably the head of the embassy),the_times_of_india,3,Neutral/Mixed,Development,0.0,33.3,66.7
@@ -3779,6 +3917,30 @@ EVT_01738,Local Government Officials,the_hindu,1,Negative,Corruption,100.0,0.0,0
 EVT_01738,Mr. Doraiswami,the_hindu,3,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_01738,Trisha Mahajan,the_times_of_india,2,Positive,Media/Professionalism,0.0,50.0,50.0
 EVT_01738,Various Mission Staff/Leaders,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01738,unknown,the_times_of_india,1,Neutral/Mixed,Uncategorized,0.0,0.0,0.0
+EVT_01740,China,india_today,2,Negative,Economic Relations,50.0,0.0,50.0
+EVT_01740,China,the_hindu,3,Negative,Policy,100.0,0.0,0.0
+EVT_01740,Election Candidates,the_hindu,1,Negative,Policy,100.0,0.0,0.0
+EVT_01740,FDI (Foreign Direct Investment),the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01740,Government,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01740,Government or Finance Authority,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_01740,Hong Kong,india_today,2,Positive,Development,0.0,50.0,50.0
+EVT_01740,India,india_today,2,Negative,Geopolitics,50.0,0.0,50.0
+EVT_01740,India,the_hindu,1,Neutral/Mixed,Geopolitical Relations,0.0,0.0,100.0
+EVT_01740,India's economic policies towards China,india_today,1,Negative,Policy,100.0,0.0,0.0
+EVT_01740,Indian Companies,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01740,Indian Government,india_today,3,Neutral/Mixed,Economic Policy,33.3,0.0,66.7
+EVT_01740,Indian Government,the_hindu,3,Neutral/Mixed,Policy,33.3,0.0,66.7
+EVT_01740,Local Government Officials,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01740,NORMS,india_today,1,Negative,Policy,100.0,0.0,0.0
+EVT_01740,Protestors,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_01740,Singapore,india_today,2,Positive,Development,0.0,100.0,0.0
+EVT_01740,Singapore,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_01740,Thailand government,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_01740,UK government,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_01740,United Kingdom and Thailand,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_01740,government,india_today,2,Positive,Development,0.0,50.0,50.0
+EVT_01740,government,the_hindu,2,Positive,Development,0.0,50.0,50.0
 EVT_01783,BJP,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_01783,BJP,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
 EVT_01783,Eknath Shinde,hindustan_times,2,Negative,Corruption,100.0,0.0,0.0
@@ -3814,3 +3976,126 @@ EVT_01783,Vijaya Srivastava,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,10
 EVT_01783,Vivek Oberoi,hindustan_times,1,Negative,Development,100.0,0.0,0.0
 EVT_01783,government,hindustan_times,1,Negative,Development,100.0,0.0,0.0
 EVT_01783,she,hindustan_times,1,Neutral/Mixed,Culture Promotion,0.0,0.0,100.0
+EVT_01803,Awadhesh Prasad,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Awadhesh Prasad (Samajwadi Party MP from Faizabad (Ayodhya)),the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,BJP,the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Bansuri Swaraj and other leaders,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Governor John Smith,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_01803,Independent MP Pappu Yadav,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_01803,Local Authorities,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_01803,MP (Member of Parliament),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Mr. Gandhi,the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Mr. Gandhi and Mr. Yadav,the_hindu,3,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Mr. Yadav,the_hindu,4,Negative,Violence,100.0,0.0,0.0
+EVT_01803,Pappu Yadav,hindustan_times,3,Negative,Development,100.0,0.0,0.0
+EVT_01803,Pawan Khera,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Police,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01803,Politicians or Law Enforcement,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01803,Rahul Gandhi,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Rahul Gandhi,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01803,Rahul Gandhi (Leader of Opposition in the Lok Sabha),the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_01803,Rajesh Ranjan (Pappu Yadav),the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Ram temple,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01803,Ram temple donation probe,hindustan_times,1,Neutral/Mixed,Investigation,0.0,0.0,100.0
+EVT_01803,Sumit,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01803,Vishva Hindu Parishad (VHP),the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_01803,Yadav,hindustan_times,4,Negative,Violence,100.0,0.0,0.0
+EVT_01803,Yadav,the_hindu,2,Positive,Law & Order,0.0,50.0,50.0
+EVT_01803,Yadav's supporters,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_01839,American and Indian public opinions,theprint,1,Neutral/Mixed,Global Comparisons,0.0,0.0,100.0
+EVT_01839,CJP (likely referring to a political party or coalition),theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_01839,CJP (likely referring to a political party or individual with 'C' initials),theprint,1,Negative,Protest,100.0,0.0,0.0
+EVT_01839,CJP's demand for withdrawal of all FIRs against protesters,theprint,1,Negative,Protest,100.0,0.0,0.0
+EVT_01839,CVoter,theprint,3,Neutral/Mixed,Data Accuracy & Reliability,0.0,0.0,100.0
+EVT_01839,Cockroach Janta Party,theprint,1,Neutral/Mixed,Protests,0.0,0.0,0.0
+EVT_01839,DMK (Dravida Munnetra Kazhagam),deccan_herald,1,Negative,Protest,100.0,0.0,0.0
+EVT_01839,DMK (Dravida Munnetra Kazhakatham),deccan_herald,1,Negative,Protest,100.0,0.0,0.0
+EVT_01839,Government,theprint,1,Neutral/Mixed,"Election Strategy, Violence, Policy",0.0,0.0,0.0
+EVT_01839,I-PAC,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_01839,INDIA bloc supporters,theprint,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_01839,Majority of Indians,theprint,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_01839,Modi Government,theprint,1,Negative,Policy,100.0,0.0,0.0
+EVT_01839,NDA,deccan_herald,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01839,NDA (National Democratic Alliance),deccan_herald,2,Positive,Election Strategy,0.0,50.0,50.0
+EVT_01839,NDA (National Democratic Alliance),theprint,1,Positive,Police Brutality,0.0,100.0,0.0
+EVT_01839,NDA government,theprint,1,Negative,Protest and Political Damage,100.0,0.0,0.0
+EVT_01839,Narendra Modi government,deccan_herald,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01839,PM Narendra Modi,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_01839,Rahul Gandhi,deccan_herald,1,Negative,Corruption,100.0,0.0,0.0
+EVT_01839,Rahul Gandhi,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_01839,Rahul Gandhi (Congress) and DMK,deccan_herald,1,Negative,"Betrayal, Opposition Strategy",100.0,0.0,0.0
+EVT_01839,Ruling side (likely referring to Modi government),deccan_herald,1,Negative,"Law & Order, Election Strategy",100.0,0.0,0.0
+EVT_01839,Student Anger,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_01839,Youth,theprint,1,Negative,Protest and Political Damage,100.0,0.0,0.0
+EVT_01839,government,theprint,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01839,government or Parliament,theprint,1,Negative,Policy,100.0,0.0,0.0
+EVT_01839,police,theprint,2,Negative,Law & Order,50.0,50.0,0.0
+EVT_01854,Ashutosh Tiwari,hindustan_times,2,Positive,Election Strategy,0.0,50.0,50.0
+EVT_01854,Ashutosh Tiwari (BJP),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_01854,Assembly election,india_today,1,Neutral/Mixed,Election Strategy/Election Result,0.0,0.0,100.0
+EVT_01854,BJP,hindustan_times,6,Neutral/Mixed,Election Strategy,33.3,33.3,33.3
+EVT_01854,BJP,india_today,5,Positive,Election Strategy,20.0,60.0,20.0
+EVT_01854,BJP (Bharatiya Janata Party),hindustan_times,3,Negative,Protest,100.0,0.0,0.0
+EVT_01854,BJP (Bharatiya Janata Party) and Congress,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,BJP (Indian National Congress party),hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,BJP and Congress,hindustan_times,2,Neutral/Mixed,Election Strategy,0.0,0.0,0.0
+EVT_01854,BJP and Congress,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,BJP candidate Ashutosh Tiwari,hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01854,BJP candidate Ashutosh Tiwari,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,BJP government in Madhya Pradesh,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,"BJP, Jan Suraaj Party and the RJD",hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Bankipur Assembly bypoll in Bihar,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Bankipur election,hindustan_times,1,Neutral/Mixed,Voter Participation,0.0,0.0,100.0
+EVT_01854,"Bankipur, Datia",hindustan_times,2,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,"Bankipur, Datia Election",hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,"Bankipur, Datia, and Manjalpur by-election results",india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Bharatiya Janata Party (BJP),india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_01854,Bihar Election,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Collector Swapnil Wankhede,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,Congress,hindustan_times,2,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Congress,india_today,3,Neutral/Mixed,Election Strategy,0.0,33.3,66.7
+EVT_01854,Congress candidate Rajendra Bharti,hindustan_times,2,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01854,Congress leader Ghanshyam Singh,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Congress nominee Ghanshyam Singh,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01854,Datia collector,hindustan_times,2,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Datia election,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Datia's political situation,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Dharmendra Pradhan's resignation,india_today,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01854,Election,hindustan_times,2,Negative,Election Strategy,50.0,0.0,50.0
+EVT_01854,Election Commission of India,hindustan_times,4,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,Ghanshyam Singh,hindustan_times,2,Negative,Election Strategy,50.0,0.0,50.0
+EVT_01854,Heavy Security Force,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,Jan Suraaj Party,hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_01854,Jan Suraaj Party,india_today,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01854,Kishor,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Madhya Pradesh,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_01854,Madhya Pradesh election,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Madhya Pradesh's Datia,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Mishra's supporters,hindustan_times,2,Positive,Protest,0.0,100.0,0.0
+EVT_01854,Narottam Mishra,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01854,Narottam Mishra,india_today,1,Negative,Loss in Election,100.0,0.0,0.0
+EVT_01854,Narottam Mishra (BJP leader),hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01854,Neeraj Kumar Sinha (BJP),hindustan_times,2,Negative,Election Strategy,100.0,0.0,0.0
+EVT_01854,Politicians,hindustan_times,1,Neutral/Mixed,Transparency and Decision Making Process,0.0,0.0,100.0
+EVT_01854,Prashant Kishor,hindustan_times,8,Positive,Election Strategy,12.5,75.0,12.5
+EVT_01854,Prashant Kishor,india_today,2,Negative,Election Strategy,50.0,50.0,0.0
+EVT_01854,Prashant Kishor (Jan Suraaj Party founder),hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Prashant Kishor (Jan Suraaj Party),hindustan_times,3,Positive,Election Strategy,33.3,66.7,0.0
+EVT_01854,Prashant Kishor (Jan Suraaj Party),india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Prashant Kishor of JSP,hindustan_times,2,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01854,RJD (Rashtriya Janata Dal),hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Rajendra Bharti,hindustan_times,1,Positive,Development/Election Outcome,0.0,100.0,0.0
+EVT_01854,Rajendra Bharti (Congress candidate),hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_01854,Satish Govindbhai Patel (BJP) and Bhikhabhai Rabari (Gujarat Congress),hindustan_times,2,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Security Deployment,india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_01854,Security Forces,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,Security Personnel,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,Tiwari,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Vote Counting,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Voter turnout,hindustan_times,1,Neutral/Mixed,Electoral Participation,0.0,0.0,100.0
+EVT_01854,Voting System,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,Yogesh Patel,hindustan_times,2,Negative,Death and Succession,50.0,50.0,0.0
+EVT_01854,election results,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_01854,security forces or government,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_01854,student protests,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_01854,voter turnout,hindustan_times,1,Neutral/Mixed,Electoral Process,0.0,0.0,100.0
