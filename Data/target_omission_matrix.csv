@@ -2653,7 +2653,7 @@ EVT_01264,Revanth Reddy,0,0,0,1,0,0,0,0,0,0,0
 EVT_01264,Telangana government,0,0,0,1,0,0,0,0,0,0,0
 EVT_01264,Union Education Minister Dharmendra Pradhan,0,0,0,1,0,0,0,0,0,0,0
 EVT_01264,protesting students and provide compensation to the families of students who allegedly died by suicide in connection with the controversy.,0,0,0,1,0,0,0,0,0,0,0
-EVT_01265,Abhijeet Dipke,0,0,0,0,0,0,0,0,0,1,0
+EVT_01265,Abhijeet Dipke,0,0,1,0,0,0,0,0,0,1,0
 EVT_01265,Abhijeet Dipke (CJP founder),0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Activist,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Agitating Students,0,0,0,0,0,0,0,1,0,0,0
@@ -2663,6 +2663,7 @@ EVT_01265,Arvind Kejriwal,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Arvind Kejriwal (Aam Aadmi Party),0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,BJP,0,0,0,0,0,0,0,0,0,2,0
 EVT_01265,CJP,0,0,1,0,0,0,0,0,0,1,0
+EVT_01265,CJP (Citizens' Joint Panel),0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,CJP (Civil-Junction Party),0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,CJP (Climate Justice Project),0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,CJP (Coalition for Jobs and Peace),0,0,0,0,0,0,0,0,0,1,0
@@ -2689,7 +2690,7 @@ EVT_01265,D Raja,0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,Deepankar Bhattacharya (CPI(ML)),0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,Delhi Metro Rail Corporation (DMRC),0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Delhi Police,0,0,0,0,0,0,0,0,0,4,0
-EVT_01265,Dharmendra Pradhan,0,0,7,0,0,0,0,0,0,4,0
+EVT_01265,Dharmendra Pradhan,0,0,13,0,0,0,0,0,0,4,0
 EVT_01265,Dipke,0,0,1,0,0,0,0,0,0,1,0
 EVT_01265,Dipke's party,0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,Education Minister,0,0,1,0,0,0,0,0,0,0,0
@@ -2721,14 +2722,17 @@ EVT_01265,Mr. Yadav,0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,NEET,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,NEET-UG (National Eligibility cum Entrance Test),0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,NEET-UG paper leak,0,0,0,0,0,0,0,0,0,1,0
+EVT_01265,Narendra Modi government,0,0,2,0,0,0,0,0,0,0,0
 EVT_01265,National Education Policy (NEP),0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,National Testing Agency,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,National Testing Agency (NTA),0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,Odisha,0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,PM Modi,0,0,0,0,0,0,0,1,0,3,0
-EVT_01265,Police,0,0,0,0,0,0,0,0,0,1,0
+EVT_01265,Police,0,0,1,0,0,0,0,0,0,1,0
+EVT_01265,Political Official,0,0,1,0,0,0,0,0,0,0,0
+EVT_01265,Politician (implied by context),0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,Politician/Party,0,0,1,0,0,0,0,0,0,0,0
-EVT_01265,Pradhan,0,0,2,0,0,0,0,0,0,11,0
+EVT_01265,Pradhan,0,0,4,0,0,0,0,0,0,11,0
 EVT_01265,"Pradhan (likely referring to Arun Jaitley, a former Finance Minister)",0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Pradhan's resignation,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Prajwal Joshi,0,0,0,0,0,0,0,0,0,1,0
@@ -2738,8 +2742,10 @@ EVT_01265,Priyanka Gandhi Vadra,0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,Protest,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Protests,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Public Transportation & Infrastructure,0,0,0,0,0,0,0,0,0,1,0
-EVT_01265,Rahul Gandhi,0,0,0,0,0,0,0,1,0,1,0
+EVT_01265,Rahul Gandhi,0,0,1,0,0,0,0,1,0,1,0
 EVT_01265,Saurav Das,0,0,0,0,0,0,0,0,0,1,0
+EVT_01265,"Saurav Das, CJP spokesperson",0,0,1,0,0,0,0,0,0,0,0
+EVT_01265,Shivam Pratap Singh,0,0,2,0,0,0,0,0,0,0,0
 EVT_01265,Shreyas Iyer,0,0,0,0,0,0,0,0,0,2,0
 EVT_01265,Shri Dharmendra Pradhan ji,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,Sikandar Raza,0,0,0,0,0,0,0,0,0,1,0
@@ -2768,10 +2774,12 @@ EVT_01265,government,0,0,1,0,0,0,0,0,0,6,0
 EVT_01265,legal cases against protesters,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,police,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,police action against student protesters,0,0,0,0,0,0,0,0,0,1,0
+EVT_01265,politician or party,0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,protests,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,responsible government/civil leaders,0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,student protests,0,0,0,0,0,0,0,1,0,0,0
 EVT_01265,students,0,0,0,0,0,0,0,0,0,1,0
+EVT_01265,the country,0,0,1,0,0,0,0,0,0,0,0
 EVT_01265,wider reforms in the examination system,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,young people,0,0,0,0,0,0,0,0,0,1,0
 EVT_01265,youth power,0,0,1,0,0,0,0,0,0,0,0
@@ -3093,21 +3101,25 @@ EVT_01507,Reliance Capital and Anil Ambani,0,0,0,1,0,0,0,0,0,0,0
 EVT_01507,The Times of India,0,0,0,0,0,0,0,0,0,1,0
 EVT_01507,Vijay V Singh,0,0,0,0,0,0,0,0,0,1,0
 EVT_01517,AAP,0,0,1,0,0,0,0,0,0,0,0
-EVT_01517,AAP (Aam Aadmi Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01517,AAP (Aam Aadmi Party),0,0,1,1,0,0,0,0,0,0,0
 EVT_01517,AAP leader,0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,Aam Aadmi Party (AAP),0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,Aam Aadmi Party (AAP) and Arvind Kejriwal,0,0,0,0,0,0,0,0,0,1,0
-EVT_01517,Arvind Kejriwal,0,0,1,0,0,0,0,0,0,0,0
+EVT_01517,Amit Malviya,0,0,0,1,0,0,0,0,0,0,0
+EVT_01517,Arvind Kejriwal,0,0,1,3,0,0,0,0,0,0,0
+EVT_01517,Arvind Kejriwal (AAP president),0,0,0,1,0,0,0,0,0,0,0
 EVT_01517,Centre (government),0,0,1,0,0,0,0,0,0,0,0
+EVT_01517,Delhi BJP chief,0,0,0,1,0,0,0,0,0,0,0
 EVT_01517,E-20,0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,Govt,0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,India (through Kejriwal),0,0,0,0,0,0,0,0,0,1,0
-EVT_01517,Kejriwal,0,0,3,0,0,0,0,0,0,1,0
+EVT_01517,Kejriwal,0,0,3,6,0,0,0,0,0,1,0
 EVT_01517,Kejriwal (AAP),0,0,0,0,0,0,0,0,0,1,0
 EVT_01517,Kejriwal (Aam Aadmi Party),0,0,2,0,0,0,0,0,0,0,0
 EVT_01517,Kejriwal (Delhi CM),0,0,0,0,0,0,0,0,0,1,0
 EVT_01517,Kejriwal (politician),0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,Nitin Gadkari,0,0,1,0,0,0,0,0,0,0,0
+EVT_01517,Officials,0,0,0,1,0,0,0,0,0,0,0
 EVT_01517,PM,0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,Politician or Activist,0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,Prime Minister,0,0,1,0,0,0,0,0,0,0,0
@@ -3121,30 +3133,52 @@ EVT_01517,Vivek Dubey,0,0,0,0,0,0,0,0,0,1,0
 EVT_01517,government,0,0,0,0,0,0,0,0,0,1,0
 EVT_01517,individual (implied to be a student or young person),0,0,1,0,0,0,0,0,0,0,0
 EVT_01517,she,0,0,1,0,0,0,0,0,0,0,0
-EVT_01523,Abhijeet Dipke,0,0,1,1,0,0,0,0,0,0,0
+EVT_01523,30-year-old with a Master of Science degree in Public Relations from Boston University,0,0,0,0,0,0,0,0,0,1,0
+EVT_01523,Abhijeet Dipke,0,0,2,1,0,0,0,0,0,2,0
+EVT_01523,Abhijeet Dipke (CJP) and BJP,0,0,2,0,0,0,0,0,0,0,0
+EVT_01523,Abhijeet Dipke (Cockroach Janta Party),0,0,0,0,0,0,0,0,0,1,0
 EVT_01523,Abhijeet Dipke and CJP,0,0,0,1,0,0,0,0,0,0,0
 EVT_01523,Abhijeet Dipke and his father,0,0,0,1,0,0,0,0,0,0,0
 EVT_01523,Abhijeet Dipke's father,0,0,0,1,0,0,0,0,0,0,0
 EVT_01523,Amit Tiwari,0,0,0,2,0,0,0,0,0,0,0
+EVT_01523,Anagha,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,Anagha Deshpande,0,0,2,0,0,0,0,0,0,0,0
+EVT_01523,BJP,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,BJP leaders,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,Bhagwanrao Dipke,0,0,2,0,0,0,0,0,0,0,0
 EVT_01523,CJP,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,CJP (Civil-Judicial-Political Alliance or Committee Jai Hind),0,0,0,1,0,0,0,0,0,0,0
 EVT_01523,CJP (Committee on Justice) and the finances of founder Abhijeet Dipke's father,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,CJP (likely Citizens Journalist Project) and founder Abhijeet Dipke's family,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,CJP's Abhijeet Dipke,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,CJP-led protest,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,CJP-led protests,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,Cockroach Janta Party,0,0,2,3,0,0,0,0,0,0,0
-EVT_01523,Cockroach Janta Party (CJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,Cockroach Janta Party (CJP),0,0,1,0,0,0,0,0,0,1,0
+EVT_01523,Cockroach Janta Party's agitation over the alleged NEET-UG 2026 paper leak,0,0,0,0,0,0,0,0,0,1,0
+EVT_01523,Dharmendra Pradhan,0,0,0,0,0,0,0,0,0,1,0
+EVT_01523,Dipke,0,0,6,0,0,0,0,0,0,2,0
+EVT_01523,Dipke's father,0,0,0,0,0,0,0,0,0,1,0
 EVT_01523,HT News Desk,0,0,4,0,0,0,0,0,0,0,0
 EVT_01523,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
-EVT_01523,Kapil Sibal,0,0,2,2,0,0,0,0,0,0,0
+EVT_01523,Kapil Sibal,0,0,2,2,0,0,0,0,0,1,0
 EVT_01523,Maharashtra Government,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,Media Organization,0,0,1,0,0,0,0,0,0,0,0
-EVT_01523,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,Nasreen,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,PM Modi,0,0,2,0,0,0,0,0,0,0,0
 EVT_01523,Political Party,0,0,0,2,0,0,0,0,0,0,0
+EVT_01523,Politician or Representative,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,Politician or party related to funding and registration,0,0,1,0,0,0,0,0,0,0,0
+EVT_01523,"Protests in Bangladesh, Nepal",0,0,0,0,0,0,0,0,0,1,0
+EVT_01523,"Representation of the People Act, 1951",0,0,0,0,0,0,0,0,0,1,0
 EVT_01523,Sibal,0,0,0,2,0,0,0,0,0,0,0
+EVT_01523,Taslima Nasreen,0,0,1,0,0,0,0,0,0,0,0
 EVT_01523,The Cockroach Janta Party,0,0,0,1,0,0,0,0,0,0,0
+EVT_01523,The Times of India,0,0,0,0,0,0,0,0,0,1,0
 EVT_01523,Tiwari,0,0,0,5,0,0,0,0,0,0,0
+EVT_01523,Unknown Politician or Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_01523,unknown,0,0,0,0,0,0,0,0,0,1,0
 EVT_01530,Army,0,0,1,0,0,0,0,2,0,0,0
 EVT_01530,Army's Intelligence units and Rajasthan Police,0,0,0,0,0,0,0,1,0,0,0
 EVT_01530,"Army, Army Headquarters",0,0,1,0,0,0,0,0,0,0,0
@@ -3187,10 +3221,13 @@ EVT_01550,Tamil Nadu's political leadership or party,0,0,1,0,0,0,0,0,0,0,0
 EVT_01550,The politician or individual being criticized,0,0,1,0,0,0,0,0,0,0,0
 EVT_01550,Unknown Politician or Social Commentator,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,A.A. Rahim Rahim (CPI(M) Rajya Sabha MP),0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,A.P. Anilkumar (Kerala's Revenue Minister),0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,CMO,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,CMO (Chief Minister's Office),0,0,0,0,0,0,0,1,0,0,0
-EVT_01571,Chief Minister,0,0,0,0,0,0,0,2,0,0,0
+EVT_01571,Chief Minister,0,0,0,0,0,0,0,2,0,1,0
 EVT_01571,Chief Minister V D Satheesan,0,0,1,0,0,0,0,0,0,0,0
+EVT_01571,Chief Minister V.D. Satheesan,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,Chief minister VD Satheesan,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Civic Management Office,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,DDMA (Disaster Management Authority),0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Disaster Management and Relief Efforts,0,0,0,0,0,0,0,1,0,0,0
@@ -3199,13 +3236,16 @@ EVT_01571,District Collector Arjun Pandian,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,District Collector M.S. Madhavikutty,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,District Disaster Management Authority,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,District Disaster Management Authority (DDMA),0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,District Tourism Promotion Councils,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,District collectors,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Emergency Relief Efforts,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Families displaced due to rain,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Fish workers,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Fishermen,0,0,0,0,0,0,0,2,0,0,0
 EVT_01571,Fishermen of Kerala,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,Fishing Ban Authorities,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Floods,0,0,1,0,0,0,0,0,0,0,0
-EVT_01571,Government,0,0,6,0,0,0,0,6,0,0,0
+EVT_01571,Government,0,0,6,0,0,0,0,10,0,0,0
 EVT_01571,Government / Authorities,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Government of Kerala,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Government or Administration,0,0,1,0,0,0,0,0,0,0,0
@@ -3220,8 +3260,11 @@ EVT_01571,Governments,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Health Department,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Heavy Rain,0,0,2,0,0,0,0,1,0,0,0
 EVT_01571,Heavy Rain Situation,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,Heavy Rain and Kerala Government,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Heavy rainfall and landslip risks,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Heavy rains,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,IMD,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,IMD (India Meteorological Department),0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Idukki Collector,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,India Meteorological Department,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,India Meteorological Department (IMD) and Kerala State Disaster Management Authority (KSDMA),0,0,0,0,0,0,0,1,0,0,0
@@ -3236,7 +3279,8 @@ EVT_01571,Kerala,0,0,1,0,0,0,0,3,0,0,0
 EVT_01571,Kerala (state in India),0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Kerala CM,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Kerala Chief Minister,0,0,0,0,0,0,0,1,0,0,0
-EVT_01571,Kerala Government,0,0,0,0,0,0,0,2,0,0,0
+EVT_01571,Kerala Government,0,0,0,0,0,0,0,2,0,1,0
+EVT_01571,Kerala Governor or State Government,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Kerala Health Minister K. Muraleedharan,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Kerala Revenue Minister A P Anil Kumar,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Kerala's Wayanad region,0,0,0,0,0,0,0,1,0,0,0
@@ -3245,12 +3289,14 @@ EVT_01571,Local Authorities,0,0,1,0,0,0,0,2,0,0,0
 EVT_01571,Local Authorities or Government,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Local Authorities/Disaster Response,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Local Authorities/Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_01571,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Local Government or Authorities,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,MLA Sudhakaran,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Meteorological Conditions,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Meteorological conditions/Weather,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Minister Muraleedharan,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Mother and Son,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,Mr. Anilkumar,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Mr. Muraleedharan,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Mr. Satheesan,0,0,0,0,0,0,0,2,0,0,0
 EVT_01571,Mullaperiyar Dam,0,0,0,0,0,0,0,3,0,0,0
@@ -3265,27 +3311,38 @@ EVT_01571,Natural Disasters or Authorities,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Natural Disasters or Humanitarian Efforts,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Nature,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Officials,0,0,2,0,0,0,0,0,0,0,0
+EVT_01571,Pathanamthitta District Authorities,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Pazhakulam Madhu (Ranni MLA),0,0,1,0,0,0,0,0,0,0,0
+EVT_01571,Political Leadership (implied for providing aid),0,0,0,0,0,0,0,2,0,0,0
 EVT_01571,Poonjar,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Poultry Farm Owners and Local Communities,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Prabhakaran Nair,0,0,1,0,0,0,0,0,0,0,0
+EVT_01571,Priyanshi Rastogi,0,0,0,0,0,0,0,0,0,2,0
+EVT_01571,Protestors,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Rahul Gandhi,0,0,0,0,0,0,0,2,0,0,0
 EVT_01571,Ravi and Ratheesh,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Relief Camps and Displacement,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,"Residents in low-lying and riverside areas, residents in landslide-prone hilly regions",0,0,0,0,0,0,0,0,0,1,0
+EVT_01571,Satheesan,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Satheesan (politician),0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Sekhar Lukose Kuriakos,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Society,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,State,0,0,0,0,0,0,0,2,0,0,0
+EVT_01571,State Government,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Sumathi,0,0,1,0,0,0,0,0,0,0,0
+EVT_01571,The Chief Minister,0,0,0,0,0,0,0,0,0,3,0
+EVT_01571,UDF government,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,V.D. Satheesan,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,V.D. Satheesan (Kerala Chief Minister),0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Various relief agencies,0,0,1,0,0,0,0,0,0,0,0
 EVT_01571,Water Management and Meteorological Services,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Water management and weather conditions,0,0,0,0,0,0,0,1,0,0,0
+EVT_01571,Weather Authorities,0,0,0,0,0,0,0,0,0,1,0
 EVT_01571,Weather Conditions,0,0,1,0,0,0,0,3,0,0,0
 EVT_01571,Weather Conditions and Officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Weather Forecasting & Disaster Preparedness,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,Weather Services,0,0,1,0,0,0,0,0,0,0,0
+EVT_01571,all party units,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,fishermen,0,0,0,0,0,0,0,1,0,0,0
 EVT_01571,government,0,0,0,0,0,0,0,2,0,0,0
 EVT_01571,local administrators and the Revenue Department,0,0,0,0,0,0,0,1,0,0,0
@@ -3294,15 +3351,23 @@ EVT_01596,B.S. Yediyurappa,0,0,0,0,0,0,0,1,0,0,0
 EVT_01596,BJP,0,0,0,0,0,0,0,1,0,0,0
 EVT_01596,BJP State president Nainar Nagenthran,0,0,0,0,0,0,0,1,0,0,0
 EVT_01596,BK Hariprasad (KPCC),0,0,1,0,0,0,0,0,0,0,0
+EVT_01596,Basavanatappa,1,0,0,0,0,0,0,0,0,0,0
+EVT_01596,"Basavanatappa, D G Shantanagowda, Belur Gopalakrishna and B K Sangameshwar",1,0,0,0,0,0,0,0,0,0,0
+EVT_01596,Belur Gopalakrishna and T Raghumurthy,1,0,0,0,0,0,0,0,0,0,0
+EVT_01596,"Brahmin Community, Karnataka Government",1,0,0,0,0,0,0,0,0,0,0
 EVT_01596,Congress,0,0,5,0,0,0,0,2,0,0,0
+EVT_01596,Congress Party,1,0,0,0,0,0,0,0,0,0,0
 EVT_01596,Congress government,0,0,1,0,0,0,0,1,0,0,0
 EVT_01596,Congress legislators,0,0,1,0,0,0,0,0,0,0,0
+EVT_01596,D K Shivakumar (Chief Minister),2,0,0,0,0,0,0,0,0,0,0
 EVT_01596,KC Venugopal,0,0,1,0,0,0,0,0,0,0,0
 EVT_01596,Karnataka council of ministers,0,0,1,0,0,0,0,0,0,0,0
 EVT_01596,Local Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01596,Mallikarjug,1,0,0,0,0,0,0,0,0,0,0
 EVT_01596,Mallikarjun Kharge,0,0,1,0,0,0,0,0,0,0,0
 EVT_01596,Rahul Gandhi,0,0,2,0,0,0,0,1,0,0,0
 EVT_01596,Randeep Surjewala,0,0,1,0,0,0,0,0,0,0,0
+EVT_01596,S S Mallikarjun,1,0,0,0,0,0,0,0,0,0,0
 EVT_01596,Saini,0,0,1,0,0,0,0,0,0,0,0
 EVT_01596,Shivakumar,0,0,2,0,0,0,0,0,0,0,0
 EVT_01596,"Shivakumar, Hariprasad",0,0,1,0,0,0,0,0,0,0,0
@@ -3426,6 +3491,45 @@ EVT_01693,Vijay,0,0,2,2,0,0,0,0,0,0,0
 EVT_01693,government,0,0,2,0,0,0,0,0,0,0,0
 EVT_01693,politician or party representative,0,0,0,1,0,0,0,0,0,0,0
 EVT_01693,unknown politician or party,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,Akhilesh Yadav (Samajwadi Party chief),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Anita,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Anita Goswami,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Arvind Kejriwal (AAP national convener),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,BJP,0,0,9,1,0,0,0,0,0,0,0
+EVT_01701,BJP (Bharatiya Janata Party),0,0,4,0,0,0,0,0,0,0,0
+EVT_01701,BJP (Indian National Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,BJP (Indian political party),0,0,2,0,0,0,0,0,0,0,0
+EVT_01701,Bihar Pradesh Congress (Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,CJP,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,CJP (Coalition of Jamaat-I-Islami and Pakistan Peoples Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Centre (Indian Government),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Centre (government),0,0,2,0,0,0,0,0,0,0,0
+EVT_01701,Congress,0,0,1,2,0,0,0,0,0,0,0
+EVT_01701,Dharmendra Pradhan,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,"Education, Jobs and Governance",0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Inspector General of Police Kiran S,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,Jan Suraaj,0,0,2,0,0,0,0,0,0,0,0
+EVT_01701,Jantar Mantar Protests,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Kishor,0,0,2,0,0,0,0,0,0,0,0
+EVT_01701,Kishor (likely referring to a BJP leader or supporter),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,NEET paper leaks,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Narendra Modi's government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,PM Modi,0,0,0,3,0,0,0,0,0,0,0
+EVT_01701,Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Pramod Tiwari,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,Pramod Tiwari (Congress MP),0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,Prashant Kishore,0,0,2,0,0,0,0,0,0,0,0
+EVT_01701,Prime Minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,RJD (Rashtriya Janata Dal),0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Rahul Gandhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,SP Chief,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,TIWARI,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,The so-called party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,Tiwari,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,Uttar Pradesh government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01701,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01701,police/prosecution,0,0,0,1,0,0,0,0,0,0,0
 EVT_01721,Alleged Stealers of Donations,0,0,1,0,0,0,0,0,0,0,0
 EVT_01721,Awadhesh Prasad,0,0,1,0,0,0,0,0,0,0,0
 EVT_01721,Ayodhya Ram Temple Investigation,0,0,0,0,0,0,0,1,0,0,0
@@ -3461,20 +3565,24 @@ EVT_01721,Yadav,0,0,1,0,0,0,0,0,0,0,0
 EVT_01721,ana fazili,0,0,1,0,0,0,0,0,0,0,0
 EVT_01721,politician or party,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Awami League,0,0,0,2,0,0,0,0,0,0,0
-EVT_01724,BANGLADESHI FIGURES,0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,BANGLADESHI FIGURES,0,0,0,2,0,0,0,0,0,0,0
 EVT_01724,BJP (and/or the BJP-led dispensation),0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,BJP-led dispensation,0,0,0,2,0,0,0,0,0,0,0
-EVT_01724,Bangladesh,0,0,2,2,0,0,0,0,0,0,0
+EVT_01724,Bangladesh,0,0,2,4,0,0,0,0,0,0,0
+EVT_01724,Bangladesh Human Rights Watch,0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,Bangladesh Human Rights Watch USA,0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,Bangladesh Nationalist Party (BNP),0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Bangladesh education minister,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,"Bangladesh minority groups, including Hindus",0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Bangladeshi author,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Bengal chief minister,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,CJP protests,0,0,0,2,0,0,0,0,0,0,0
 EVT_01724,Dr Waiel Awwad,0,0,1,0,0,0,0,0,0,0,0
-EVT_01724,Dr. Waiel Awwad,0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,Dr. Waiel Awwad,0,0,0,2,0,0,0,0,0,0,0
+EVT_01724,First Major Appearance Since Ouster,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Goswami,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,HT News Desk,0,0,1,0,0,0,0,0,0,0,0
-EVT_01724,Hasina,0,0,9,5,0,0,0,0,0,0,0
+EVT_01724,Hasina,0,0,9,9,0,0,0,0,0,0,0
 EVT_01724,Hasina's ouster,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Hindu Women in Bangladesh,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
@@ -3487,12 +3595,13 @@ EVT_01724,Khaleda Zia,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Law & Order,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Left Front government,0,0,1,2,0,0,0,0,0,0,0
 EVT_01724,Minority groups (Hindus),0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,Mohibul Hasan Chowdhury,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Muhammad Yunus,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Muhammad Yunus and Interim Administration,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Nasreen,0,0,6,21,0,0,0,0,0,0,0
 EVT_01724,Nasreen (Kolkata Chief Minister),0,0,0,2,0,0,0,0,0,0,0
 EVT_01724,Newsdesk,0,0,1,0,0,0,0,0,0,0,0
-EVT_01724,Political Event Organizers,0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,Political Event Organizers,0,0,0,2,0,0,0,0,0,0,0
 EVT_01724,Politician,0,0,1,3,0,0,0,0,0,0,0
 EVT_01724,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Politician or Poet,0,0,1,0,0,0,0,0,0,0,0
@@ -3502,8 +3611,9 @@ EVT_01724,Politicians and Protesters,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,President (or relevant political figure),0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Prime Minister Tarique Rahman and BNP-led government,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Protest,0,0,0,1,0,0,0,0,0,0,0
+EVT_01724,Sajeeb Wazed Joy,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Secular Mission,0,0,1,0,0,0,0,0,0,0,0
-EVT_01724,Sheikh Hasina,0,0,3,7,0,0,0,0,0,0,0
+EVT_01724,Sheikh Hasina,0,0,3,10,0,0,0,0,0,0,0
 EVT_01724,State Government,0,0,1,0,0,0,0,0,0,0,0
 EVT_01724,Suvendu Adhikari,0,0,0,1,0,0,0,0,0,0,0
 EVT_01724,Suvendu Adhikari (West Bengal Chief Minister),0,0,0,1,0,0,0,0,0,0,0
@@ -3547,47 +3657,88 @@ EVT_01733,Pakistan government,0,0,1,0,0,0,0,0,0,0,0
 EVT_01733,Political Advocates for Talks,0,0,1,0,0,0,0,0,0,0,0
 EVT_01733,Politicians or authorities responding to a situation,0,0,1,0,0,0,0,0,0,0,0
 EVT_01733,Subhadra Srivastava,0,0,0,0,0,0,0,0,0,2,0
-EVT_01734,BJP,0,0,3,3,0,0,0,0,0,0,0
-EVT_01734,BJP (Indian political party),0,0,0,2,0,0,0,0,0,0,0
+EVT_01734,Ayush Pandey,0,0,0,0,0,0,0,0,0,2,0
+EVT_01734,BJP,0,0,3,4,0,0,0,0,0,1,0
+EVT_01734,BJP (Bharatiya Janata Party),0,0,0,1,0,0,0,0,0,2,0
+EVT_01734,BJP (Indian National Congress party),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,BJP (Indian political party),0,0,0,3,0,0,0,0,0,0,0
 EVT_01734,BJP's Bankipur bastion,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,BJP-led government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,BJS (Indian National Congress),0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Bankipur,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Bankipur By-Election,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Bankipur voters,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Bihar,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Bihar State Police (DGP) and Subordinates,0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,Bihar's political situation,0,0,1,0,0,0,0,0,0,0,0
+EVT_01734,Biju Janata Dal (RJD),0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Candidates,0,0,0,0,0,0,0,1,0,0,0
+EVT_01734,Choudhary,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Choudhary (BJP),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Congress,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Dipankar Bhattacharya (CPI(ML) Liberation general secretary),0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Election Commission,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Election turnout,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Gen Z (protests),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Gen Z protests,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,INDIA bloc,0,0,0,2,0,0,0,0,0,0,0
+EVT_01734,JAN SURAJ,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,JSP,0,0,1,0,0,0,0,0,0,0,0
-EVT_01734,Jan Suraaj Party,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Jan Suraaj,0,0,0,5,0,0,0,0,0,0,0
+EVT_01734,Jan Suraaj Party,0,0,0,1,0,0,0,0,0,1,0
+EVT_01734,Jan Suraaj and his political opponents,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Journalist,0,0,0,0,0,0,0,0,0,1,0
 EVT_01734,Kartikeya K Sharma (SSP),0,0,1,0,0,0,0,0,0,0,0
-EVT_01734,Kishor,0,0,0,3,0,0,0,0,0,0,0
+EVT_01734,Kishor,0,0,0,11,0,0,0,0,0,1,0
+EVT_01734,Kishor (Jan Suraaj Party),0,0,0,0,0,0,0,0,0,1,0
+EVT_01734,Kishor Prasad Sinha,0,0,0,0,0,0,0,0,0,1,0
 EVT_01734,Kishor's party,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Kishore,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_01734,Manjalpur Assembly bypoll in Gujarat,0,0,0,0,0,0,0,1,0,0,0
+EVT_01734,Modi government,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Mr. Gupta,0,0,0,0,0,0,0,1,0,0,0
 EVT_01734,Mr. Nabin,0,0,0,0,0,0,0,1,0,0,0
+EVT_01734,NDA (National Democratic Alliance),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Nabin (BJP),0,0,0,0,0,0,0,0,0,1,0
 EVT_01734,Neeraj Kumar (BJP candidate),0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,Neeraj Kumar Sinha,0,0,0,0,0,0,0,1,0,0,0
 EVT_01734,Neeraj Kumar Sinha (BJP),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Nitin Nabin,0,0,0,2,0,0,0,0,0,0,0
 EVT_01734,Nitin Nabin (BJP national president),0,0,1,0,0,0,0,0,0,0,0
-EVT_01734,Nitin Nabin (BJP),0,0,1,1,0,0,0,1,0,0,0
+EVT_01734,Nitin Nabin (BJP),0,0,1,1,0,0,0,1,0,1,0
+EVT_01734,Nitin Nabin Sinha,0,0,0,0,0,0,0,0,0,1,0
+EVT_01734,Nitin Nandan (BJP),0,0,0,0,0,0,0,0,0,1,0
+EVT_01734,PM Modi,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Patna SSP,0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,"Patna Senior Superintendent of Police (SSP), Kishor",0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Police Personnel,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Policy Advocates,0,0,0,0,0,0,0,1,0,0,0
-EVT_01734,Prashant Kishor,0,0,2,3,0,0,0,1,0,0,0
+EVT_01734,Politician or Party,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Prashant Kishor,0,0,2,4,0,0,0,1,0,1,0
 EVT_01734,Prashant Kishor (Jan Suraaj Party founder),0,0,0,1,0,0,0,0,0,0,0
-EVT_01734,Prashant Kishor (Jan Suraaj Party),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Prashant Kishor (Jan Suraaj Party),0,0,0,2,0,0,0,0,0,0,0
+EVT_01734,Prashant Kishor (Jan Suraaj),0,0,0,0,0,0,0,0,0,1,0
+EVT_01734,Prashant Kishor (Kishor),0,0,0,0,0,0,0,0,0,1,0
 EVT_01734,Prashant Kishor (likely a member or spokesperson of a political party),0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,Prashant Kishor of Jan Suraaj Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_01734,"Prashant Kishore (likely referring to Prashant Kishor, BJP politician)",0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Protest Organizers,0,0,0,0,0,0,0,1,0,0,0
+EVT_01734,RJD,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Rashtriya Janata Dal (RJD),0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,Ravi Shankar Prasad (BJP MP),0,0,2,0,0,0,0,0,0,0,0
+EVT_01734,Ravi Shankar Prasad (likely referring to BJP figures),0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Rekha Gupta (RJD),0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Samrat Choudhary (Bihar chief minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_01734,Samrat Choudhury,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Security Measures,0,0,0,0,0,0,0,1,0,0,0
 EVT_01734,Shivam Pratap Singh,0,0,2,0,0,0,0,0,0,0,0
+EVT_01734,Shivanand Tiwary,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Suman Kumar Mallick,0,0,0,1,0,0,0,0,0,0,0
+EVT_01734,Tiwary,0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,Various Politicians or Parties,0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,Voter Turnout,0,0,0,0,0,0,0,1,0,0,0
+EVT_01734,himself (likely referring to a political figure),0,0,0,1,0,0,0,0,0,0,0
 EVT_01734,police,0,0,1,0,0,0,0,0,0,0,0
 EVT_01734,ruling party,0,0,1,0,0,0,0,0,0,0,0
 EVT_01738,China,0,0,0,0,0,0,0,2,0,0,0
@@ -3626,6 +3777,43 @@ EVT_01740,Thailand government,0,0,0,0,0,0,0,1,0,0,0
 EVT_01740,UK government,0,0,0,0,0,0,0,1,0,0,0
 EVT_01740,United Kingdom and Thailand,0,0,0,1,0,0,0,0,0,0,0
 EVT_01740,government,0,0,0,2,0,0,0,2,0,0,0
+EVT_01748,Awami League,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Awami League (political party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Bangladesh,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,CJP (likely referring to Congress Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,HT News Desk,0,0,3,0,0,0,0,0,0,0,0
+EVT_01748,Hasina,0,0,2,0,0,0,0,0,0,0,0
+EVT_01748,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Jantar Mantar protests,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Jihadis (Islamic fundamentalists),0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Media,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Nasreen,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Osman Gani Mallik,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,She,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Sheikh Hasina,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Sheikh Hasina (Bangladesh Prime Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Students and their leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Supreme Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_01748,Taslima Nasreen,0,0,3,0,0,0,0,0,0,0,0
+EVT_01767,Aurangabad Police,0,0,0,0,0,0,0,2,0,0,0
+EVT_01767,Bihar Municipal Officer,0,0,1,0,0,0,0,0,0,0,0
+EVT_01767,Chief Minister Samrat Choudhury,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Deepak Kumar Mishra,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Dehri MLA,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Driver,0,0,1,0,0,0,0,0,0,0,0
+EVT_01767,Elections,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_01767,Lok Janshakti Party (Ram-Vilas) MLA,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Magadh Range Inspector-General (I-G) Vikas Vaibhav,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Police Officer,0,0,1,0,0,0,0,0,0,0,0
+EVT_01767,Police Station,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,"Rajiv Ranjan Singh (Lok Janshakti Party, Ram-Vilas)",0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Vikash Vaibhav,0,0,1,0,0,0,0,0,0,0,0
+EVT_01767,Vimal,0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Vimal Kumar (EO of the Dehri-Dalmianagar Municipal Council in Rohas district),0,0,1,0,0,0,0,0,0,0,0
+EVT_01767,Vimal Kumar (EO),0,0,0,0,0,0,0,1,0,0,0
+EVT_01767,Vimal's Family,0,0,0,0,0,0,0,2,0,0,0
+EVT_01767,police,0,0,1,0,0,0,0,0,0,0,0
 EVT_01783,BJP,0,0,1,0,0,0,0,0,0,1,0
 EVT_01783,Eknath Shinde,0,0,2,0,0,0,0,0,0,0,0
 EVT_01783,Government,0,0,0,0,0,0,0,0,0,1,0
@@ -3656,6 +3844,37 @@ EVT_01783,Vijaya Srivastava,0,0,0,0,0,0,0,0,0,1,0
 EVT_01783,Vivek Oberoi,0,0,1,0,0,0,0,0,0,0,0
 EVT_01783,government,0,0,1,0,0,0,0,0,0,0,0
 EVT_01783,she,0,0,1,0,0,0,0,0,0,0,0
+EVT_01800,Anti-Government Protest Group,0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,BJP,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,BJP (Bharatiya Janata Party),0,0,0,0,0,0,0,0,0,2,0
+EVT_01800,BJP Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,BJP leader,0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,Bharatiya Janata Party (BJP),0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,CMs,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,Centre,0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,Centre (Indian Government),0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,Congress,0,0,0,0,0,0,0,0,0,6,0
+EVT_01800,Congress Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,Current Political Leadership,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,Government/Center,0,0,0,0,0,0,0,2,0,0,0
+EVT_01800,Indian Chief Ministers,0,0,0,0,0,0,0,0,0,3,0
+EVT_01800,Khandu,0,0,0,0,0,0,0,0,0,2,0
+EVT_01800,Leadership Profile,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,Local Mayor John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,Mr. Baji,0,0,0,0,0,0,0,3,0,0,0
+EVT_01800,N Chandrababu Naidu and Pema Khandu,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,Politicians or Criminals,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,"Reanth Reddy, Shivakumar and Satheesan",0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,"Shivakumar, Naidu, Vijay",0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,Siddaramaiah,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,South,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,State,0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,Various Government Schemes,0,0,0,0,0,0,0,1,0,0,0
+EVT_01800,chief ministers,0,0,0,0,0,0,0,0,0,2,0
+EVT_01800,police administration,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,political parties and educational qualifications,0,0,0,0,0,0,0,0,0,3,0
+EVT_01800,politics and education system,0,0,0,0,0,0,0,0,0,1,0
+EVT_01800,young political leaders,0,0,0,0,0,0,0,0,0,1,0
 EVT_01803,Awadhesh Prasad,0,0,1,0,0,0,0,0,0,0,0
 EVT_01803,Awadhesh Prasad (Samajwadi Party MP from Faizabad (Ayodhya)),0,0,0,0,0,0,0,1,0,0,0
 EVT_01803,BJP,0,0,0,0,0,0,0,1,0,0,0
@@ -3680,6 +3899,20 @@ EVT_01803,Sumit,0,0,0,0,0,0,0,1,0,0,0
 EVT_01803,Vishva Hindu Parishad (VHP),0,0,0,0,0,0,0,1,0,0,0
 EVT_01803,Yadav,0,0,4,0,0,0,0,2,0,0,0
 EVT_01803,Yadav's supporters,0,0,1,0,0,0,0,0,0,0,0
+EVT_01826,Bhagwant Mann,0,0,0,3,0,0,0,0,0,0,0
+EVT_01826,Bhagwant Mann (Punjab Chief Minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_01826,CM Mann,0,0,0,0,0,0,0,0,0,1,0
+EVT_01826,Ludhiana,0,0,0,1,0,0,0,0,0,1,0
+EVT_01826,Ludhiana's Schools of Eminence network,0,0,0,1,0,0,0,0,0,0,0
+EVT_01826,Mann,0,0,0,2,0,0,0,0,0,1,0
+EVT_01826,Punjab Chief Minister Bhagwant Mann,0,0,0,0,0,0,0,0,0,2,0
+EVT_01826,Punjab government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01826,School of Eminence model,0,0,0,1,0,0,0,0,0,1,0
+EVT_01826,chief minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_01826,children from ordinary families,0,0,0,0,0,0,0,0,0,1,0
+EVT_01826,government,0,0,0,0,0,0,0,0,0,1,0
+EVT_01826,state government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01826,unknown,0,0,0,0,0,0,0,0,0,1,0
 EVT_01839,American and Indian public opinions,0,0,0,0,0,0,0,0,0,0,1
 EVT_01839,CJP (likely referring to a political party or coalition),0,0,0,0,0,0,0,0,0,0,1
 EVT_01839,CJP (likely referring to a political party or individual with 'C' initials),0,0,0,0,0,0,0,0,0,0,1
@@ -3706,6 +3939,55 @@ EVT_01839,Youth,0,0,0,0,0,0,0,0,0,0,1
 EVT_01839,government,0,0,0,0,0,0,0,0,0,0,1
 EVT_01839,government or Parliament,0,0,0,0,0,0,0,0,0,0,1
 EVT_01839,police,0,0,0,0,0,0,0,0,0,0,2
+EVT_01850,BJP,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,BJP MP,0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,Bharatiya Janata Party (BJP),0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Congress,0,0,0,0,0,0,0,0,0,2,0
+EVT_01850,Congress MP Pramod Tiwari,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,DMK (Dravida Munnetra Kazhagam),0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,DMK and Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,DMK and TVK,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Dravidian party,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Independent MP,0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,Jaiswal,0,0,2,0,0,0,0,0,0,0,0
+EVT_01850,Modi Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,PM of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Pappu Yadav,0,0,3,0,0,0,0,0,0,0,0
+EVT_01850,Pappu Yadav (BJP MP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,Parties/Politicians,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Rahul,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Rahul Gandhi and DMK,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,Sanjay Jaiswal,0,0,2,0,0,0,0,0,0,0,0
+EVT_01850,Shri Ram Janmabhoomi Mandir,0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,Speaker (presumably referring to a political figure in this role),0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,The law,0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,The person speaking (likely a government official or lawyer),0,0,1,0,0,0,0,0,0,0,0
+EVT_01850,UP Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_01850,unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_01852,Ashutosh Tiwari,0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Azad Samaj Party candidate Damodar Yadav,0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,BJP,0,0,5,1,0,0,0,0,0,0,0
+EVT_01852,BJP (Indian political party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,BJP's Ashutosh Tiwari,0,0,0,1,0,0,0,0,0,0,0
+EVT_01852,BJP-led government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Bharti,0,0,0,2,0,0,0,0,0,0,0
+EVT_01852,Bharti (Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,By-Poll,0,0,0,1,0,0,0,0,0,0,0
+EVT_01852,Congress,0,0,2,3,0,0,0,0,0,0,0
+EVT_01852,Congress (Singh),0,0,0,1,0,0,0,0,0,0,0
+EVT_01852,Congress Party,0,0,2,0,0,0,0,0,0,0,0
+EVT_01852,"Delhi court, Congress party",0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Ghanshyam Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Jitu Patwari (State Congress President),0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,MLA Rajendra Bharti,0,0,0,1,0,0,0,0,0,0,0
+EVT_01852,Mishra,0,0,0,1,0,0,0,0,0,0,0
+EVT_01852,Politician,0,0,2,0,0,0,0,0,0,0,0
+EVT_01852,Rajendra Bharti (Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Singh,0,0,3,0,0,0,0,0,0,0,0
+EVT_01852,Swapnil Wankhade,0,0,1,0,0,0,0,0,0,0,0
+EVT_01852,Tiwari,0,0,2,0,0,0,0,0,0,0,0
+EVT_01852,politician or party (not specified),0,0,0,1,0,0,0,0,0,0,0
 EVT_01854,Ashutosh Tiwari,0,0,2,0,0,0,0,0,0,0,0
 EVT_01854,Ashutosh Tiwari (BJP),0,0,1,0,0,0,0,0,0,0,0
 EVT_01854,Assembly election,0,0,0,1,0,0,0,0,0,0,0
@@ -3767,3 +4049,417 @@ EVT_01854,election results,0,0,1,0,0,0,0,0,0,0,0
 EVT_01854,security forces or government,0,0,0,1,0,0,0,0,0,0,0
 EVT_01854,student protests,0,0,0,1,0,0,0,0,0,0,0
 EVT_01854,voter turnout,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Ankit Bharti,0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Ashutosh Tiwari,0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,BJP,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,BJP (Indian National Congress),0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Bharti,0,0,3,0,0,0,0,0,0,0,0
+EVT_01862,Congress,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Congress (political party),0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Datia assembly election,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Datia by-election,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Election,0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Farmers,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Ghanshyam Singh (Congress candidate),0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Indian National Congress,0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Local Business Leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Mallikarjun Kharge,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Mr. Bharti,0,0,0,0,0,0,0,2,0,0,0
+EVT_01862,Mr. Bharti and Mr. Singh,0,0,0,0,0,0,0,2,0,0,0
+EVT_01862,Mr. Narottam Mishra (BJP leader),0,0,0,0,0,0,0,1,0,0,0
+EVT_01862,Narottam Mishra,0,0,0,0,0,0,0,2,0,0,0
+EVT_01862,Politicians,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,Rajendra Bharti,0,0,4,0,0,0,0,1,0,0,0
+EVT_01862,Shruti Tomar,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_01862,politician or party,0,0,3,0,0,0,0,0,0,0,0
+EVT_01862,politics/media/journalism,0,0,1,0,0,0,0,0,0,0,0
+EVT_01868,Ankit Kumar,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,CBI (Central Bureau of Investigation),0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,CJP leaders Abhijeet Dipke and Ashutosh,1,0,0,0,0,0,0,0,0,0,0
+EVT_01868,CM Soren,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Chief Minister (likely referring to the state government),0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Chief Minister Hemant Soren,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Devendra Nath Mahto,1,0,0,0,0,0,0,0,0,0,0
+EVT_01868,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,JMM-led alliance government,0,0,0,0,0,0,0,3,0,0,0
+EVT_01868,JPSC,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,JPSC (Jammu & Kashmir Special Service Commission) and JSSC (J&K Security Forces Staff Selection Commission),0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,JPSC and JSSC,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,JPSC aspirants (referring to Rahul Kumar Kranti),0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Politicians or Election Authorities,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Politicians or parties involved in the JSSC-CGL scandal,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,President John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Protesters,1,0,0,0,0,0,0,1,0,0,0
+EVT_01868,State Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,State government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,Students,3,0,0,0,0,0,0,2,0,0,0
+EVT_01868,Supporters from various cities,0,0,0,0,0,0,0,1,0,0,0
+EVT_01868,protesters,0,0,0,0,0,0,0,1,0,0,0
+EVT_01877,Arun Dev,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,"BJP (Bharatiya Janata Party), JD(S) (Jayendra Das Joint-Denomination Congress), Kannada organisations",0,0,0,1,0,0,0,0,0,0,0
+EVT_01877,Chief Minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_01877,Chief Minister D K Shivakumar,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,Congress,1,0,3,0,0,0,0,0,0,0,0
+EVT_01877,Congress Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,Congress leadership,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,DK Shivakumar,0,0,1,3,0,0,0,0,0,0,0
+EVT_01877,Dinesh Gundu Rao/ದಿನೇಶ್ ಗುಂಡೂರಾವ್,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,GS Patil,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,Karnataka Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01877,MLA Dinesh Gundu Rao,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,New ministers,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,PM Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_01877,Prime Minister,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,Salem Ahmed,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,Shivaji Kumar,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,Shivakumar,1,0,0,6,0,0,0,0,0,0,0
+EVT_01877,Shivakumar (Karnataka's water management official),0,0,0,1,0,0,0,0,0,0,0
+EVT_01877,Vijay,0,0,1,0,0,0,0,0,0,0,0
+EVT_01877,Vijayanand Kashaparvan and B Z Zameer Ahmed Khan,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,Yashvantharayagouda V. Pat,1,0,0,0,0,0,0,0,0,0,0
+EVT_01877,expanded cabinet,0,0,1,0,0,0,0,0,0,0,0
+EVT_01878,A S Ponnanna,0,0,0,0,0,0,0,0,0,1,0
+EVT_01878,Bengaluru Muslim legislators,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,Chief Minister D.K. Shivakumar and Congress Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,G S Patil,0,0,0,0,0,0,0,0,0,1,0
+EVT_01878,Karnataka Cabinet,0,0,0,0,0,0,0,0,0,1,0
+EVT_01878,Karnataka Government,0,0,0,0,0,0,0,1,0,1,0
+EVT_01878,Legislative Council,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,Mr. Shivakumar,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,New Government/Cabinet,0,0,0,0,0,0,0,0,0,1,0
+EVT_01878,Politicians or Media,0,0,0,0,0,0,0,0,0,1,0
+EVT_01878,Public Opinion/Media,0,0,0,0,0,0,0,0,0,1,0
+EVT_01878,Siddaramaiah,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,The Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01878,The party,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Amit Shah,0,0,0,0,0,0,0,2,0,0,0
+EVT_01880,BJP,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Congress,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Home Minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Home Minister Amit Shah,0,0,0,1,0,0,0,0,0,0,0
+EVT_01880,India's political leadership,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Indian Government,0,0,0,3,0,0,0,0,0,0,0
+EVT_01880,Jarkhand Mukti Morcha (Mahua Maji),0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Local Government Leaders,0,0,0,1,0,0,0,0,0,0,0
+EVT_01880,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,MPs,0,0,0,0,0,0,0,2,0,0,0
+EVT_01880,Mallikarjun Kharge,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Modiji,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Mr. Shah,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Opposition,0,0,0,1,0,0,0,0,0,0,0
+EVT_01880,Opposition Party/Leaders,0,0,0,1,0,0,0,0,0,0,0
+EVT_01880,Opposition parties,0,0,0,1,0,0,0,1,0,0,0
+EVT_01880,Parliament,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Police,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Police and opposition parties,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Protestors,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Ram Mandir,0,0,0,2,0,0,0,0,0,0,0
+EVT_01880,Revolutionary Socialist Party (N.K. Premachandran),0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,SP (Dimple Yadav),0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Samajwadi Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Trinamool Congress (Mahua Moitra),0,0,0,0,0,0,0,1,0,0,0
+EVT_01880,Youth protesters,0,0,0,1,0,0,0,0,0,0,0
+EVT_01880,government,0,0,0,0,0,0,0,1,0,0,0
+EVT_01904,Amit Shah (Home Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Arjun Ram Meghwal,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,BJP MP Nishikant Dubey,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Government,0,0,0,1,0,0,0,0,0,1,0
+EVT_01904,Government/Supreme Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_01904,Indian Statistical Institute,0,0,0,2,0,0,0,0,0,0,0
+EVT_01904,Jaiswal,0,0,0,2,0,0,0,0,0,0,0
+EVT_01904,Karan Manral,0,0,0,0,0,0,0,0,0,2,0
+EVT_01904,Legislation,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Lok Sabha,0,0,0,3,0,0,0,0,0,0,0
+EVT_01904,Lok Sabha and Rajya Sabha,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Ministry of Electronics and Information Technology,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Ministry of Home Affairs,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Nirmala Sitharaman,0,0,0,2,0,0,0,0,0,0,0
+EVT_01904,Opposition,0,0,0,2,0,0,0,0,0,0,0
+EVT_01904,PM Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Pappu Yadav,0,0,0,3,0,0,0,0,0,0,0
+EVT_01904,Parliament panel,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Policy Makers and Platforms,0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,"Snapchat, Google, X (Meta), YouTube",0,0,0,1,0,0,0,0,0,0,0
+EVT_01904,Supreme Court,0,0,0,2,0,0,0,0,0,0,0
+EVT_01904,The government,0,0,0,0,0,0,0,0,0,2,0
+EVT_01904,Union Cabinet,0,0,0,0,0,0,0,0,0,2,0
+EVT_01904,Union law minister Arjun Ram Meeghwal,0,0,0,0,0,0,0,0,0,1,0
+EVT_01908,Ashwini Panwar,0,0,1,0,0,0,0,0,0,0,0
+EVT_01908,Athletes,0,0,1,0,0,0,0,0,0,0,0
+EVT_01908,Brij Bhushan,0,0,2,0,0,0,0,0,0,3,0
+EVT_01908,Brij Bhushan (former BJP MP),0,0,0,0,0,0,0,0,0,3,0
+EVT_01908,Brij Bhushan Sharan Singh,0,0,3,0,0,0,0,0,0,1,0
+EVT_01908,Brij Bhushan Singh and Vinod Tomar,0,0,1,0,0,0,0,0,0,1,0
+EVT_01908,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_01908,Kanchan Yadav,0,0,0,0,0,0,0,0,0,2,0
+EVT_01908,Politician (implied by his words about being acquitted),0,0,0,0,0,0,0,0,0,2,0
+EVT_01908,Priyanjali Narayan,0,0,1,0,0,0,0,0,0,0,0
+EVT_01908,Singh,0,0,2,0,0,0,0,0,0,0,0
+EVT_01908,Singh (BJP MP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01908,Singh (presumably a politician or leader of WFI),0,0,1,0,0,0,0,0,0,0,0
+EVT_01908,"Singh, Tomar",0,0,1,0,0,0,0,0,0,0,0
+EVT_01908,The journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_01908,Tomar,0,0,2,0,0,0,0,0,0,1,0
+EVT_01908,unknown politician or party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,Arunachal Pradesh's Minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,Bhupender Yadav,0,0,2,0,0,0,0,0,0,2,0
+EVT_01911,Biodiversity,0,0,0,0,0,0,0,0,0,1,0
+EVT_01911,Environmental Policies or Conservation Efforts,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,Environmental Protection Policies,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,Environmental treaties,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,Gandhoi (likely a typo for Gandhiok),0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,India,0,0,0,0,0,0,0,0,0,1,0
+EVT_01911,Jasjeev Gandhiok,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,Ramsar Convention,0,0,0,0,0,0,0,0,0,1,0
+EVT_01911,State Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,The person (likely referring to a journalist or a government official working with media),0,0,2,0,0,0,0,0,0,0,0
+EVT_01911,Vishwa Mohan,0,0,0,0,0,0,0,0,0,1,0
+EVT_01911,Wetlands,0,0,0,0,0,0,0,0,0,1,0
+EVT_01911,Yadav,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01911,unknown politician or party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Chandipura Virus,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Chandipura encephalitis,0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,Doctors and Government Hospitals,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Government,0,0,3,0,0,0,0,0,0,0,0
+EVT_01916,Gujarat Government,0,0,1,1,0,0,0,0,0,0,0
+EVT_01916,Gujarat Health Minister Praful Panseriya,0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,Health Department,0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,Health authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Healthcare system,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Medical Research,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Panseriya,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,Praful Panseriya,0,0,2,1,0,0,0,0,0,0,0
+EVT_01916,Prajul Panseriya (Gujarat Health Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,State,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,State Health Officials,0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,Vaccines and Antivirals,0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,Virus Study,0,0,1,0,0,0,0,0,0,0,0
+EVT_01916,government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01916,minister,0,0,0,2,0,0,0,0,0,0,0
+EVT_01916,unknown,0,0,0,1,0,0,0,0,0,0,0
+EVT_01923,Brij Bhushan,0,0,3,0,0,0,0,0,0,1,0
+EVT_01923,Brij Bhushan (Politician),0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Brij Bhushan (a powerful leader of the ruling party),0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,Brij Bhushan Sharan Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Brij Bhushan Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Brij Bhushan Singh (former chief of the Wrestling Federation of India),0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_01923,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Media,0,0,2,0,0,0,0,0,0,0,0
+EVT_01923,Phogat (a politician or party representative),0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,Phogat (presumably referring to a politician or official),0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Politician,0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Politician (implied),0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Singh (likely referring to a political figure or official named Singh),0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,The Hindu (HT),0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,The Times of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,Vinesh Phogat,0,0,2,0,0,0,0,0,0,2,0
+EVT_01923,Vinod Tomar (Politician / Government Official),0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Vivek Dubey,0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,WFI Chief,0,0,1,0,0,0,0,0,0,0,0
+EVT_01923,Women Wrestlers,0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_01923,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Anita,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Anita Goswami,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,BJP,0,0,13,3,0,0,0,0,0,0,0
+EVT_01930,BJP (Bharatiya Janata Party),0,0,9,0,0,0,0,1,0,0,0
+EVT_01930,BJP (Indian National Congress's political opponent),0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,BJP (Indian National Congress),0,0,2,0,0,0,0,1,0,0,0
+EVT_01930,BJP (Indian National Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,BJP chief Nitin Nabin,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,"BJP, Janata Dal (United), Lok Janshakti Party, Hindustan Awam Morcha, Rashtriya Lok Morcha",0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,BJP-led government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Bharatiya Janata Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Bharti,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Bharti and Jan Suraaj (allegedly),0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Bihar,0,0,2,0,0,0,0,1,0,0,0
+EVT_01930,Bihar BJP State president Sanjay Saraogi,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Bihar Governor Election,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,"Bihar-Jharkhand (Nitin Narayan Singh, BJP)",0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,CM Choudhary,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Choudhury (Bihar Chief Minister),0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Commercial sex workers,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Congress,0,0,1,0,0,0,0,1,0,0,0
+EVT_01930,Congress’s Rajendra Bharti,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Gen Z,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Ghanshyam Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Government or Politician,0,0,3,0,0,0,0,0,0,0,0
+EVT_01930,Heavy monsoon rains,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Jan Suraaj,0,0,2,1,0,0,0,0,0,0,0
+EVT_01930,Jan Suraaj Party (JSP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_01930,Journalist or Media Professional,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Kishor,0,0,2,0,0,0,0,0,0,0,0
+EVT_01930,Kishor's party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Mahagathbandhan,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Manjalpur Assembly bypoll,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Ministers,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Mishra,0,0,2,0,0,0,0,0,0,0,0
+EVT_01930,Mr. Kishor (and potentially his wife Jahanvi Das),0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Mr. Kishor (presumably a leader or spokesperson for BJP),0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Mr. Kishor (presumably a politician or candidate),0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Mr. Nabin,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Nabin,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Nabin (presumably a BJP politician),0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Nabin (presumably a politician or party leader),0,0,2,0,0,0,0,0,0,0,0
+EVT_01930,National Democratic Alliance (NDA),0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Nitin Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Nitin Nabin,0,0,2,0,0,0,0,0,0,0,0
+EVT_01930,Nitin Nabin (BJP),0,0,1,0,0,0,0,1,0,0,0
+EVT_01930,Nitish Kumar (Congress),0,0,0,0,0,0,0,2,0,0,0
+EVT_01930,PM Modi,0,0,1,0,0,0,0,1,0,0,0
+EVT_01930,Pawan Varma,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Pharmaceutical companies,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,PoliticianA,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Prashant Kishor,0,0,3,2,0,0,0,1,0,0,0
+EVT_01930,Prashant Kishor's Bankipur victory,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Protesters,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Recruitment Authorities/Officials,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,Ruchir Kumar,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Schools and colleges,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Shruti Tomar,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,Skewed sex ratios,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,The political strategist-turned-politician,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,The politician,0,0,0,0,0,0,0,1,0,0,0
+EVT_01930,Udhayanidhi Stalin,0,0,0,1,0,0,0,0,0,0,0
+EVT_01930,party,0,0,1,0,0,0,0,0,0,0,0
+EVT_01930,student protests,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Advocate Nina R Nariman,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Anand Sanjay M Nuli,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Court,0,0,2,2,0,0,0,0,0,0,0
+EVT_01939,Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_01939,Indian judiciary,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Judges,0,0,3,1,0,0,0,0,0,0,0
+EVT_01939,Judgment/Institution,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Judicial Bench,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Judicial System,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Legal System,0,0,0,3,0,0,0,0,0,0,0
+EVT_01939,Legal and Judicial System,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Parliament,0,0,3,0,0,0,0,0,0,0,0
+EVT_01939,Protection of Live-In Relationships,0,0,0,1,0,0,0,0,0,0,0
+EVT_01939,SC,0,0,0,1,0,0,0,0,0,0,0
+EVT_01939,SC (Supreme Court),0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,SC (likely referring to Supreme Court),0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Supreme Court,0,0,4,4,0,0,0,0,0,0,0
+EVT_01939,The Supreme Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,The bench (presumably referring to judges of a higher court),0,0,0,1,0,0,0,0,0,0,0
+EVT_01939,Undisclosed,0,0,0,1,0,0,0,0,0,0,0
+EVT_01939,Union government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,Various judicial bodies (not specifically named),0,0,1,0,0,0,0,0,0,0,0
+EVT_01939,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,ANI sources,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Anti-Reservation Forum,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Ayush Pandey,0,0,0,0,0,0,0,0,0,2,0
+EVT_01973,BJP (Indian political party),0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,BJP MP Nishikant Dubey and Prime Minister Narendra Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,"BJP, Congress, Samajwadi Party, Aam Aadmi Party (Indian Political Parties)",0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Bihar State BJP (Indian political party),0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Centre (government),0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Chief Minister of the Congress government of Telangana,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Cockroach Janta Party (CJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Cockroach Janta Party (CJP) and activist Sonam Wangchuk,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Dubey,0,0,6,0,0,0,0,0,0,0,0
+EVT_01973,Dubey (presumably referring to a committee member or leader),0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Facebook,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Google,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Govind Mohan,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Govt,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Journalist,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,"Major Social Media Platforms (Meta, X, Snapchat, Google)",0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Mark Zuckerberg,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,MeitY (Ministry of Electronics and Information Technology),0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Meta,0,0,0,3,0,0,0,0,0,2,0
+EVT_01973,Meta (Facebook),0,0,2,0,0,0,0,0,0,5,0
+EVT_01973,Meta (Facebook) CEO Mark Zuckerberg,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,"Meta (Instagram, Facebook, WhatsApp), X (Twitter), Snapchat, and Google",0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Meta (presumably referring to an Indian subsidiary of Facebook),0,0,0,0,0,0,0,0,0,2,0
+EVT_01973,Meta CEO Zuckerberg,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Meta India (Facebook/Instagram),0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Meta India head Arun Srinivas and certain Facebook and Instagram accounts,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Meta representatives,0,0,1,1,0,0,0,0,0,0,0
+EVT_01973,"Meta, X, Google, Snapchat",0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Neither registered parties nor registered NGOs (Indian Political Groups),0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Nishikant Dubey,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,PM Modi,0,0,2,5,0,0,0,0,0,1,0
+EVT_01973,Parliament's Committee on Information Technology and Communications,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Parliamentary Panel,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Platform Moderation,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Politicians,0,0,2,0,0,0,0,0,0,0,0
+EVT_01973,Prime Minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Prime Minister Modi,0,0,1,0,0,0,0,0,0,1,0
+EVT_01973,"Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,S Krishnan,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Social Media Platforms,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Social and Digital Media Platforms,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,Tech Platform Company (hypothetical context),0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,The HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_01973,The Ministry of Electronics and Information Technology,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,Union education minister Dharmendra Pradhan,0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,Zuckerberg,0,0,2,2,0,0,0,0,0,1,0
+EVT_01973,Zuckerberg (Meta India),0,0,0,0,0,0,0,0,0,2,0
+EVT_01973,Zuckerberg (Meta),0,0,1,0,0,0,0,0,0,0,0
+EVT_01973,anti-reservation forum,0,0,0,0,0,0,0,0,0,1,0
+EVT_01973,government,0,0,2,1,0,0,0,0,0,0,0
+EVT_01973,intermediaries,0,0,0,1,0,0,0,0,0,0,0
+EVT_01973,social media platforms,0,0,0,1,0,0,0,0,0,0,0
+EVT_01983,Aaditya Thackeray,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Aaditya Thackeray (Shiv Sena),0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Amit Shah,0,0,0,0,0,0,0,0,0,1,0
+EVT_01983,Bhagwat,0,0,2,0,0,0,0,0,0,1,0
+EVT_01983,Bhagwat (RSS chief),0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Bhagwat's address,0,0,0,0,0,0,0,0,0,1,0
+EVT_01983,Conference organizers,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,IIMUN,0,0,2,0,0,0,0,0,0,0,0
+EVT_01983,IIMUN (Institute for Indian Management of Universities Network),0,0,0,0,0,0,0,0,0,1,0
+EVT_01983,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Manash Pratim Gohain,0,0,0,0,0,0,0,0,0,3,0
+EVT_01983,Media Organization,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Mohan Bhagwat,0,0,3,0,0,0,0,0,0,1,0
+EVT_01983,Nandan Nilekani,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Politician,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,RSS (Rashtriya Swayamsevak Sangh),0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,RSS chief Mohan Bhagwat,0,0,0,0,0,0,0,0,0,1,0
+EVT_01983,Rishabh Shah,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,The Hindu (HT),0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Union education minister Dharmendra Pradhan,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,Various social media influencers and cultural leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_01983,student protesters,0,0,1,0,0,0,0,0,0,0,0
+EVT_02010,Adobe executive,0,0,1,0,0,0,0,0,0,0,0
+EVT_02010,App Developers,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Company,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Democratic Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_02010,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_02010,HT News Desk,0,0,3,0,0,0,0,0,0,0,0
+EVT_02010,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_02010,Media/News Organizations,0,0,1,0,0,0,0,0,0,0,0
+EVT_02010,Meta,0,0,1,1,0,0,0,0,0,0,0
+EVT_02010,Meta (Facebook),0,0,1,0,0,0,0,1,0,0,0
+EVT_02010,Platform Administration or Policies,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Politicians/Political Parties,0,0,1,0,0,0,0,0,0,0,0
+EVT_02010,Social Media Company,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Social Media Users,0,0,0,0,0,0,0,1,0,0,0
+EVT_02010,Tech Company (implied by context),0,0,1,0,0,0,0,0,0,0,0
+EVT_02010,Tech Company (implied in the message context),0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Tech company,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Technology Companies,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,Users,0,0,0,1,0,0,0,0,0,0,0
+EVT_02010,WhatsApp,0,0,9,6,0,0,0,6,0,0,0
+EVT_02010,WhatsApp service,0,0,0,0,0,0,0,1,0,0,0
+EVT_02010,service provider,0,0,1,0,0,0,0,0,0,0,0
