@@ -7828,19 +7828,24 @@ EVT_03032,All India Students' Association,the_hindu,1,Neutral/Mixed,Agitation,0.
 EVT_03032,Amit Bhelari,the_hindu,2,Negative,Corruption,50.0,0.0,50.0
 EVT_03032,Aspirants,the_hindu,2,Negative,Protest,50.0,50.0,0.0
 EVT_03032,Ayush Pandey,the_times_of_india,2,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_03032,CM Soren,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_03032,Devendra Mahto,the_hindu,1,Neutral/Mixed,Dialogue and Negotiation,0.0,0.0,100.0
 EVT_03032,Devendra Nath Mahato,the_hindu,2,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Devendra Nath Mahto,the_times_of_india,1,Negative,Hunger Strike and Health Concerns,100.0,0.0,0.0
 EVT_03032,Devendra Nath Mahto faction,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_03032,Government,hindustan_times,1,Negative,Policy,100.0,0.0,0.0
 EVT_03032,Government,the_hindu,3,Neutral/Mixed,Protest,33.3,0.0,66.7
 EVT_03032,Government,the_times_of_india,1,Negative,"Health and Medical Issues, Protest",100.0,0.0,0.0
+EVT_03032,Government of Jharkhand,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Government of Jharkhand,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Government/Jharkhand,the_times_of_india,2,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_03032,Hemant Soren,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Hemant Soren,the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_03032,Hemant Soren (CM of Jharkhand),the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_03032,Hemant Soren (Chief Minister of Jharkhand),hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_03032,Hemant Soren (Chief Minister),the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Hemant Soren government,the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_03032,Hindustan Times,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_03032,JPSC (Jharkhand Public Service Commission),the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,JPSC (Joint Parliamentary Secretariat Committee),the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_03032,JPSC (Joint Public Service Commission),the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
@@ -7856,13 +7861,18 @@ EVT_03032,Jharkhand CM (Chief Minister),the_hindu,1,Negative,Violence,100.0,0.0,
 EVT_03032,Jharkhand Government,the_hindu,6,Neutral/Mixed,Protest,16.7,0.0,83.3
 EVT_03032,Jharkhand Government and student protesters,the_hindu,1,Negative,Violence,100.0,0.0,0.0
 EVT_03032,Jharkhand Minister Sudivya Kumar Sonu,the_hindu,2,Positive,Policy,0.0,50.0,50.0
+EVT_03032,Jharkhand Police,hindustan_times,1,Neutral/Mixed,Security Measures,0.0,0.0,100.0
 EVT_03032,Jharkhand Protests,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Jharkhand Public Service Commission,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_03032,Jharkhand Public Service Commission members,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_03032,Jharkhand government,hindustan_times,2,Negative,Protest,50.0,0.0,50.0
 EVT_03032,Jharkhand government,the_hindu,6,Negative,Protest,66.7,16.7,16.7
 EVT_03032,Jharkhand government,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_03032,Jharkhand officials,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_03032,Jivan Kumar Yadav,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_03032,Journalist or Media Professional,the_times_of_india,1,Neutral/Mixed,Media Coverage,0.0,0.0,100.0
 EVT_03032,L Khiangte (former JPSC panel chairperson),the_times_of_india,1,Neutral/Mixed,Policy Implementation,0.0,0.0,100.0
+EVT_03032,Minister Sudivya Kumar Sonu,hindustan_times,1,Positive,Policy,0.0,100.0,0.0
 EVT_03032,Mr. Mahto,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,"NSUI, ACS and JCM delegations",the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_03032,Neha Bora,the_hindu,1,Negative,Protest,100.0,0.0,0.0
@@ -7873,20 +7883,27 @@ EVT_03032,Protesters,the_times_of_india,2,Negative,Violence,100.0,0.0,0.0
 EVT_03032,Protesters (including ABVP and student leaders),the_times_of_india,1,Negative,Violence Potential,100.0,0.0,0.0
 EVT_03032,"Protesters, ABVP (Akhil Bharatiya Vidyarthi Parishad)",the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_03032,"Protesters, AISA (All India Students' Association)",the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
+EVT_03032,Raj,hindustan_times,3,Positive,Development,0.0,100.0,0.0
+EVT_03032,Raj Kumar,hindustan_times,2,Positive,Development,0.0,100.0,0.0
 EVT_03032,"Ravindra Paswan, JPSC-JSSC Reforms Manch",the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Reforms Manch,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_03032,State government,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_03032,Student Protestors,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_03032,Student Unions,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Student leaders,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,0.0
 EVT_03032,Student protesters,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Students,the_hindu,2,Neutral/Mixed,Protest,0.0,0.0,0.0
+EVT_03032,Students in Jharkhand,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
 EVT_03032,Students' Protest,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,Students' delegations,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,TDPL agency,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_03032,government,hindustan_times,2,Negative,Law & Order,50.0,50.0,0.0
 EVT_03032,government,the_hindu,5,Neutral/Mixed,Protest,20.0,0.0,80.0
 EVT_03032,government representatives,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_03032,govt,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_03032,job aspirants,the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_03032,minister,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_03032,protesters,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_03032,student delegation,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
 EVT_03032,student protestors,the_hindu,1,Negative,Protest,100.0,0.0,0.0
 EVT_03060,Abhishek Mishra,the_times_of_india,2,Positive,Development,0.0,50.0,50.0
@@ -7940,25 +7957,36 @@ EVT_03062,UP CM (likely Uttar Pradesh Chief Minister),hindustan_times,1,Neutral/
 EVT_03062,Yogi,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
 EVT_03062,Yogi Adityanath,hindustan_times,1,Positive,Religious Festivity,0.0,100.0,0.0
 EVT_03062,Yogi Adityanath,the_hindu,1,Positive,Religion and Community Events,0.0,100.0,0.0
+EVT_03066,Alappuzha MP,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_03066,BJP (Bharatiya Janata Party),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_03066,CJP (likely a student group or organization),hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,0.0
-EVT_03066,Congress,hindustan_times,2,Negative,Protest,100.0,0.0,0.0
+EVT_03066,Congress,hindustan_times,4,Negative,Protest,100.0,0.0,0.0
 EVT_03066,Congress,the_times_of_india,3,Negative,Election Strategy,66.7,0.0,33.3
+EVT_03066,Congress members,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_03066,Gandhi,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_03066,Hindustan Times,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_03066,India's Gen Z,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,0.0
 EVT_03066,KC Venugopal,the_times_of_india,1,Negative,Policy,100.0,0.0,0.0
 EVT_03066,Karan Manral,the_times_of_india,1,Neutral/Mixed,Journalism/Reporting,0.0,0.0,100.0
+EVT_03066,NDTV,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_03066,NEET questions,hindustan_times,1,Neutral/Mixed,Education Policy,0.0,0.0,100.0
 EVT_03066,National Students' Union of India (NSUI),hindustan_times,1,Neutral/Mixed,Protests,0.0,0.0,0.0
+EVT_03066,Nikita,hindustan_times,2,Neutral/Mixed,Culture and Arts,0.0,0.0,100.0
+EVT_03066,Nikita Sharma,hindustan_times,1,Neutral/Mixed,Professionalism,0.0,0.0,100.0
+EVT_03066,Political Parties,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_03066,Politician,hindustan_times,2,Negative,Election Strategy,50.0,0.0,50.0
 EVT_03066,Politicians,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
-EVT_03066,Rahul Gandhi,hindustan_times,4,Positive,Community Engagement or Fundraising Event,25.0,50.0,25.0
+EVT_03066,Rahul Gandhi,hindustan_times,7,Neutral/Mixed,Corruption,42.9,42.9,14.3
 EVT_03066,Rahul Gandhi,the_times_of_india,1,Negative,Political Criticism,100.0,0.0,0.0
 EVT_03066,Regime,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
-EVT_03066,Shashi Tharoor,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_03066,Shashi Tharoor,hindustan_times,2,Negative,Policy,50.0,0.0,50.0
 EVT_03066,Shashi Tharoor (Congress leader),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
-EVT_03066,Tharoor,hindustan_times,2,Negative,Protest,100.0,0.0,0.0
+EVT_03066,Tharoor,hindustan_times,4,Negative,Clarification,50.0,0.0,50.0
 EVT_03066,Tharoor,the_times_of_india,2,Negative,Policy Failure,50.0,0.0,50.0
 EVT_03066,The Cockroach Party,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_03066,The Cockroach Party and Wangchuk,hindustan_times,1,Neutral/Mixed,Protest Strategy,0.0,0.0,100.0
+EVT_03066,Thiruvananthapuram MP,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_03066,Venugopal,hindustan_times,2,Negative,Election Strategy,50.0,0.0,50.0
 EVT_03066,ana fazili,hindustan_times,1,Neutral/Mixed,Personal Background and Career Transition,0.0,0.0,100.0
 EVT_03066,protesting students,hindustan_times,2,Negative,Violence,100.0,0.0,0.0
 EVT_03105,Amit Lahoti,india_today,2,Neutral/Mixed,Judicial Appointments,0.0,0.0,100.0
@@ -8148,6 +8176,28 @@ EVT_03163,Private Aircraft Operator,the_times_of_india,1,Negative,Death/Injury,1
 EVT_03163,civil aviation ministry,hindustan_times,1,Neutral/Mixed,Operation & Maintenance,0.0,0.0,100.0
 EVT_03163,government,hindustan_times,4,Neutral/Mixed,Development,25.0,0.0,75.0
 EVT_03163,ministry,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_03170,AAIB,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_03170,Air Accident Investigation Bureau (AAIB),hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_03170,Air India,hindustan_times,4,Neutral/Mixed,Information Sharing,0.0,0.0,100.0
+EVT_03170,Air India,the_times_of_india,2,Negative,Safety,100.0,0.0,0.0
+EVT_03170,Aircraft Safety Regulations and Procedures,the_times_of_india,1,Neutral/Mixed,Safety & Compliance,0.0,0.0,100.0
+EVT_03170,Airlines (Air India),hindustan_times,1,Neutral/Mixed,Safety Incident,0.0,0.0,100.0
+EVT_03170,Aviation Ministry,the_times_of_india,1,Neutral/Mixed,Safety & Accidents,0.0,0.0,100.0
+EVT_03170,Aviation Ministry and DGCA,the_times_of_india,1,Positive,Safety & Regulation,0.0,100.0,0.0
+EVT_03170,DGCA,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_03170,DGCA (Diplomatic and Government Civil Aviation Authority),the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_03170,DGCA (Directorate of Civil Aviation Authority),the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_03170,Government,the_times_of_india,2,Positive,Law & Order,0.0,100.0,0.0
+EVT_03170,Govt,hindustan_times,1,Neutral/Mixed,Safety & Aviation,0.0,0.0,100.0
+EVT_03170,Healthcare System,hindustan_times,1,Neutral/Mixed,Healthcare,0.0,0.0,100.0
+EVT_03170,Industry Expert,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_03170,Misinformation,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_03170,Ram Mohan Naidu,hindustan_times,1,Neutral/Mixed,Healthcare and Welfare Policy,0.0,0.0,100.0
+EVT_03170,Saurabh Sinha,the_times_of_india,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_03170,Srikant Jha,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_03170,authorities,the_times_of_india,1,Neutral/Mixed,Investigation,0.0,0.0,100.0
+EVT_03170,civil aviation ministry,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_03170,government,hindustan_times,2,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_03185,Balasaheb Thorat,the_hindu,1,Neutral/Mixed,No Specific Political Frame,0.0,0.0,100.0
 EVT_03185,Chief Minister Devendra Fadnavis,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_03185,Congress leader Balasaheb Thorat and Nashik MP Rajabhau Vaje,india_today,1,Positive,Agitation,0.0,100.0,0.0

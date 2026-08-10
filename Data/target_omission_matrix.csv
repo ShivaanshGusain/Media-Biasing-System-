@@ -7159,17 +7159,20 @@ EVT_03032,All India Students' Association,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Amit Bhelari,0,0,0,0,0,0,0,2,0,0,0
 EVT_03032,Aspirants,0,0,0,0,0,0,0,2,0,0,0
 EVT_03032,Ayush Pandey,0,0,0,0,0,0,0,0,0,2,0
+EVT_03032,CM Soren,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Devendra Mahto,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Devendra Nath Mahato,0,0,0,0,0,0,0,2,0,0,0
 EVT_03032,Devendra Nath Mahto,0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,Devendra Nath Mahto faction,0,0,0,0,0,0,0,1,0,0,0
-EVT_03032,Government,0,0,0,0,0,0,0,3,0,1,0
-EVT_03032,Government of Jharkhand,0,0,0,0,0,0,0,0,0,1,0
+EVT_03032,Government,0,0,1,0,0,0,0,3,0,1,0
+EVT_03032,Government of Jharkhand,0,0,1,0,0,0,0,0,0,1,0
 EVT_03032,Government/Jharkhand,0,0,0,0,0,0,0,0,0,2,0
 EVT_03032,Hemant Soren,0,0,0,0,0,0,0,1,0,1,0
 EVT_03032,Hemant Soren (CM of Jharkhand),0,0,0,0,0,0,0,1,0,0,0
+EVT_03032,Hemant Soren (Chief Minister of Jharkhand),0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Hemant Soren (Chief Minister),0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Hemant Soren government,0,0,0,0,0,0,0,0,0,1,0
+EVT_03032,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,JPSC (Jharkhand Public Service Commission),0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,JPSC (Joint Parliamentary Secretariat Committee),0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,JPSC (Joint Public Service Commission),0,0,0,0,0,0,0,0,0,1,0
@@ -7185,12 +7188,16 @@ EVT_03032,Jharkhand CM (Chief Minister),0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Jharkhand Government,0,0,0,0,0,0,0,6,0,0,0
 EVT_03032,Jharkhand Government and student protesters,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Jharkhand Minister Sudivya Kumar Sonu,0,0,0,0,0,0,0,2,0,0,0
+EVT_03032,Jharkhand Police,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Jharkhand Protests,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Jharkhand Public Service Commission,0,0,0,0,0,0,0,1,0,0,0
-EVT_03032,Jharkhand government,0,0,0,0,0,0,0,6,0,1,0
+EVT_03032,Jharkhand Public Service Commission members,0,0,1,0,0,0,0,0,0,0,0
+EVT_03032,Jharkhand government,0,0,2,0,0,0,0,6,0,1,0
+EVT_03032,Jharkhand officials,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Jivan Kumar Yadav,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Journalist or Media Professional,0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,L Khiangte (former JPSC panel chairperson),0,0,0,0,0,0,0,0,0,1,0
+EVT_03032,Minister Sudivya Kumar Sonu,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Mr. Mahto,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,"NSUI, ACS and JCM delegations",0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Neha Bora,0,0,0,0,0,0,0,1,0,0,0
@@ -7200,20 +7207,26 @@ EVT_03032,Protesters,0,0,0,0,0,0,0,1,0,2,0
 EVT_03032,Protesters (including ABVP and student leaders),0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,"Protesters, ABVP (Akhil Bharatiya Vidyarthi Parishad)",0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,"Protesters, AISA (All India Students' Association)",0,0,0,0,0,0,0,0,0,1,0
+EVT_03032,Raj,0,0,3,0,0,0,0,0,0,0,0
+EVT_03032,Raj Kumar,0,0,2,0,0,0,0,0,0,0,0
 EVT_03032,"Ravindra Paswan, JPSC-JSSC Reforms Manch",0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,Reforms Manch,0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,State government,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Student Protestors,0,0,0,0,0,0,0,1,0,0,0
+EVT_03032,Student Unions,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Student leaders,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Student protesters,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Students,0,0,0,0,0,0,0,2,0,0,0
+EVT_03032,Students in Jharkhand,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,Students' Protest,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,Students' delegations,0,0,0,0,0,0,0,0,0,1,0
 EVT_03032,TDPL agency,0,0,0,0,0,0,0,1,0,0,0
-EVT_03032,government,0,0,0,0,0,0,0,5,0,0,0
+EVT_03032,government,0,0,2,0,0,0,0,5,0,0,0
 EVT_03032,government representatives,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,govt,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,job aspirants,0,0,0,0,0,0,0,1,0,0,0
+EVT_03032,minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_03032,protesters,0,0,1,0,0,0,0,0,0,0,0
 EVT_03032,student delegation,0,0,0,0,0,0,0,1,0,0,0
 EVT_03032,student protestors,0,0,0,0,0,0,0,1,0,0,0
 EVT_03060,Abhishek Mishra,0,0,0,0,0,0,0,0,0,2,0
@@ -7265,22 +7278,33 @@ EVT_03062,U.P. Chief Minister,0,0,0,0,0,0,0,1,0,0,0
 EVT_03062,UP CM (likely Uttar Pradesh Chief Minister),0,0,1,0,0,0,0,0,0,0,0
 EVT_03062,Yogi,0,0,1,0,0,0,0,0,0,0,0
 EVT_03062,Yogi Adityanath,0,0,1,0,0,0,0,1,0,0,0
+EVT_03066,Alappuzha MP,0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,CJP (likely a student group or organization),0,0,1,0,0,0,0,0,0,0,0
-EVT_03066,Congress,0,0,2,0,0,0,0,0,0,3,0
+EVT_03066,Congress,0,0,4,0,0,0,0,0,0,3,0
+EVT_03066,Congress members,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,Gandhi,0,0,2,0,0,0,0,0,0,0,0
+EVT_03066,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,India's Gen Z,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,KC Venugopal,0,0,0,0,0,0,0,0,0,1,0
 EVT_03066,Karan Manral,0,0,0,0,0,0,0,0,0,1,0
+EVT_03066,NDTV,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,NEET questions,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,National Students' Union of India (NSUI),0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,Nikita,0,0,2,0,0,0,0,0,0,0,0
+EVT_03066,Nikita Sharma,0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,Political Parties,0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,Politician,0,0,2,0,0,0,0,0,0,0,0
 EVT_03066,Politicians,0,0,0,0,0,0,0,0,0,1,0
-EVT_03066,Rahul Gandhi,0,0,4,0,0,0,0,0,0,1,0
+EVT_03066,Rahul Gandhi,0,0,7,0,0,0,0,0,0,1,0
 EVT_03066,Regime,0,0,1,0,0,0,0,0,0,0,0
-EVT_03066,Shashi Tharoor,0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,Shashi Tharoor,0,0,2,0,0,0,0,0,0,0,0
 EVT_03066,Shashi Tharoor (Congress leader),0,0,1,0,0,0,0,0,0,0,0
-EVT_03066,Tharoor,0,0,2,0,0,0,0,0,0,2,0
+EVT_03066,Tharoor,0,0,4,0,0,0,0,0,0,2,0
 EVT_03066,The Cockroach Party,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,The Cockroach Party and Wangchuk,0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,Thiruvananthapuram MP,0,0,1,0,0,0,0,0,0,0,0
+EVT_03066,Venugopal,0,0,2,0,0,0,0,0,0,0,0
 EVT_03066,ana fazili,0,0,1,0,0,0,0,0,0,0,0
 EVT_03066,protesting students,0,0,2,0,0,0,0,0,0,0,0
 EVT_03105,Amit Lahoti,0,0,0,2,0,0,0,0,0,0,0
@@ -7456,6 +7480,27 @@ EVT_03163,Private Aircraft Operator,0,0,0,0,0,0,0,0,0,1,0
 EVT_03163,civil aviation ministry,0,0,1,0,0,0,0,0,0,0,0
 EVT_03163,government,0,0,4,0,0,0,0,0,0,0,0
 EVT_03163,ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,AAIB,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Air Accident Investigation Bureau (AAIB),0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Air India,0,0,4,0,0,0,0,0,0,2,0
+EVT_03170,Aircraft Safety Regulations and Procedures,0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,Airlines (Air India),0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Aviation Ministry,0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,Aviation Ministry and DGCA,0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,DGCA,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,DGCA (Diplomatic and Government Civil Aviation Authority),0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,DGCA (Directorate of Civil Aviation Authority),0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,Government,0,0,0,0,0,0,0,0,0,2,0
+EVT_03170,Govt,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Healthcare System,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Industry Expert,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Misinformation,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Ram Mohan Naidu,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,Saurabh Sinha,0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,Srikant Jha,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_03170,civil aviation ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_03170,government,0,0,2,0,0,0,0,0,0,0,0
 EVT_03185,Balasaheb Thorat,0,0,0,0,0,0,0,1,0,0,0
 EVT_03185,Chief Minister Devendra Fadnavis,0,0,0,0,0,0,0,1,0,0,0
 EVT_03185,Congress leader Balasaheb Thorat and Nashik MP Rajabhau Vaje,0,0,0,1,0,0,0,0,0,0,0
