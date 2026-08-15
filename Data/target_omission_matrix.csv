@@ -4726,6 +4726,7 @@ EVT_01904,Supreme Court,0,0,4,2,0,0,0,0,0,1,0
 EVT_01904,Supreme Court (Number of Judges) Amendment Bill,0,0,0,0,0,0,0,1,0,0,0
 EVT_01904,"Supreme Court (Number of Judges) Amendment Bill, 2026",0,0,1,0,0,0,0,0,0,0,0
 EVT_01904,The BAC,0,0,0,0,0,0,0,1,0,0,0
+EVT_01904,The Constitution,0,0,1,0,0,0,0,0,0,0,0
 EVT_01904,The government,0,0,2,0,0,0,0,0,0,2,0
 EVT_01904,The government and Union Law Minister Arjun Ram Meghwal,0,0,0,0,0,0,0,1,0,0,0
 EVT_01904,Union Cabinet,0,0,0,0,0,0,0,0,0,2,0
@@ -8185,31 +8186,93 @@ EVT_03557,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
 EVT_03557,Sheikh Hasina,0,0,1,1,0,0,0,0,0,0,0
 EVT_03557,Tarique Rahman,0,0,2,0,0,0,0,0,0,0,0
 EVT_03557,Unknown Politician or Official,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,5 Vayu Sena Medals (Gallantry),0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Aditya Pratap Singh of 44 Assam Rifles,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Anjani Kumar,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Army and Special Forces,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Army personnel and operations (Rakshak, Hifazat, Orchid, Meghdoot, Snow Leopard, Chakravyuh)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Captain Anshumaan Singh, 11 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Col Ranveer Singh,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"DSP Sultan Mahmood, Jammu and Kashmir Police",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Deputy Superintendent Dheeraj Singh Katoch,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Deputy Superintendent Sukhvir Singh,0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Dr Rajendra Prasad,0,0,1,0,0,0,0,0,0,0,0
-EVT_03558,Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_03558,Five officers,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Government,0,0,2,1,0,0,0,0,0,0,0
 EVT_03558,Government (not specified),0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,Government (presumably referring to recipients of the award),0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Government/Authorities,0,0,1,0,0,0,0,0,0,0,0
 EVT_03558,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_03558,"Havildar Gajendra Singh, 2 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Havildar Jagattar Singh, 4 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Head Constable Bashir Ahmad,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Head Constable Jagbir Singh,0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_03558,Home Ministry,0,0,1,0,0,0,0,0,0,0,0
 EVT_03558,Home ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,India's military or defense sector,0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Indian Parliament,0,0,0,0,0,0,0,1,0,0,0
+EVT_03558,Inspector Sunil Kumar,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Jaswinder Singh, 7 Sikh Light Infantry",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,KIRTI CHAKRA,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Karan Singh Cheema,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Kirti Chakraborty,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Lance Naik Kapil Dev, 11 Rashtriya Rifles",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Lance Naik Narender Sindhu, 9 Rashtriya Rifles",0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Law & Order,0,0,1,0,0,0,0,0,0,0,0
 EVT_03558,Legislation,0,0,0,0,0,0,0,1,0,0,0
+EVT_03558,"Lieutenant Commander Shivam Kumar, Indian Navy",0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Local Government Leader,0,0,0,0,0,0,0,1,0,0,0
+EVT_03558,"Lt Col Abhishek Joshi, SM, 666 Army Aviation",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Lt Col Manoj Francis, 21 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Lt Col Pushkar Vijay Chaudhary,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Major Gaurav Singh Brijwal,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Major Jitendra Rathee, 2 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Major Keshav Kumar, 12 Dogra Regiment",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Major Krishan Kant, 21 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Major Mohit Podia, 37 Assam Rifles",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Major Paramveer, 36 Rashtriya Rifles",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Major Vipeen Kumar,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Master Warrant Officer Ravinderjit Singh, Parachute Jump Instructor",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Military or Government,0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Mr. Tharoor,0,0,0,0,0,0,0,1,0,0,0
+EVT_03558,"Naib Subedar Dabbal Singh Bisht, 21 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Naib Subedar Shankar Ram, 3 Assam Rifles",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Nao Sena Medals (Gallantry),0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Navy,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Navy personnel,0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Parliament,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,Party Y,0,0,0,0,0,0,0,0,0,1,0
+EVT_03558,Politician X,0,0,0,0,0,0,0,0,0,1,0
+EVT_03558,Politician or Party,0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Politicians and News Agencies,0,0,2,0,0,0,0,0,0,0,0
-EVT_03558,President,0,0,0,0,0,0,0,1,0,0,0
-EVT_03558,President Droupadi Murmu,0,0,1,0,0,0,0,1,0,0,0
-EVT_03558,President Murmu,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,President,0,0,0,3,0,0,0,1,0,0,0
+EVT_03558,President Droupadi Murmu,0,0,1,2,0,0,0,1,0,5,0
+EVT_03558,President Murmu,0,0,1,2,0,0,0,0,0,0,0
 EVT_03558,Prevention of Insults to National Honour Act,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,Protesters,0,0,0,0,0,0,0,0,0,1,0
+EVT_03558,Rashtriya Rifles,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Sena (political party),0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Sena Medal,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Sena Medals (Gallantry),0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,Shashi Tharoor,0,0,0,0,0,0,0,1,0,0,0
+EVT_03558,Special Grade Constable Balvinder Singh,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Special Grade Constable Jaswant Singh,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Special Grade Constable Tariq Hussain,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Squadron Leader Sudhir Kumar, Indian Air Force",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Sub-Inspector Niyaz Ahmad,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Subedar Pawan Kumar, 11 Para (Special Forces)",0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,The Ministry of Home Affairs,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,The Times of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_03558,The government,0,0,0,0,0,0,0,0,0,2,0
 EVT_03558,Union Home Ministry,0,0,1,0,0,0,0,0,0,0,0
 EVT_03558,Vande Mataram,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,Vayu Sena Medal recipients,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,Wing Commander Ashish Rajpoot,0,0,0,1,0,0,0,0,0,0,0
+EVT_03558,"Wing Commander Raja Reddy Lalita Nagesh Kumar, Wing Commander Ammar Haider Naqvi, Squadron Leader Koushik Kundarapu",0,0,0,1,0,0,0,0,0,0,0
 EVT_03558,legislation,0,0,0,0,0,0,0,1,0,0,0
-EVT_03558,president,0,0,1,0,0,0,0,0,0,0,0
-EVT_03558,unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_03558,president,0,0,1,0,0,0,0,0,0,1,0
+EVT_03558,unknown,0,0,1,1,0,0,0,0,0,0,0
 EVT_03572,BJP,0,0,0,1,0,0,0,0,0,0,0
 EVT_03572,BJP & Its Allies,0,0,1,0,0,0,0,0,0,0,0
 EVT_03572,BJP (Bharatiya Janata Party),0,0,1,1,0,0,0,0,0,0,0
@@ -8240,6 +8303,44 @@ EVT_03572,Various protesters,0,0,1,0,0,0,0,0,0,0,0
 EVT_03572,political parties,0,0,0,1,0,0,0,0,0,0,0
 EVT_03572,public-sector institutions,0,0,0,1,0,0,0,0,0,0,0
 EVT_03572,the younger generation,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,Adhikari,0,0,4,0,0,0,0,0,0,0,0
+EVT_03574,BJP leadership,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Bharatiya Janata Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,CBI,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,CBI special investigation team,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,Chief Minister Suvendu Adhikari,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Ghosh,0,0,2,0,0,0,0,0,0,0,0
+EVT_03574,"Ghosh, Dey and Mukherjee",0,0,1,0,0,0,0,0,0,1,0
+EVT_03574,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Healthcare System,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,Kunal Ghosh (Trinamool),0,0,0,0,0,0,0,2,0,0,0
+EVT_03574,Local Politician X,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Mamata Banerjee and her party members,0,0,0,0,0,0,0,2,0,0,0
+EVT_03574,Mr. Ghosh,0,0,0,0,0,0,0,2,0,0,0
+EVT_03574,Mr. Ghosh and the Mamata Banerjee government,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Nirmal Ghosh,0,0,3,0,0,0,0,2,0,0,0
+EVT_03574,Nirmal Ghosh (Former Trinamool Congress (TMC) legislator),0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,Nirmal Ghosh and local TMC leaders Somnath Dey and Sanjib Mukherjee,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,Panihati Municipality councillor Somnath Dey and Sanjeev Mukherjee,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,Police,0,0,0,0,0,0,0,0,0,3,0
+EVT_03574,Politician/Joint Committee (Name not specified),0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,"Politicians (implied, especially referring to Mr. Ghosh)",0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Protesters (implied),0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,RG Kar,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,RG Kar Medical College and Hospital,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Sanjay Roy,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,State’s administration and police,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Suvendu Adhikari,0,0,2,0,0,0,0,0,0,0,0
+EVT_03574,TMC (Trinamool Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,TMC leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_03574,The Times of India News Desk,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,Trinamool Congress leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,Trinamool leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,West Bengal officials,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,deceased doctor's father,0,0,0,0,0,0,0,0,0,1,0
+EVT_03574,police,0,0,0,0,0,0,0,1,0,0,0
+EVT_03574,unknown,0,0,0,0,0,0,0,1,0,0,0
 EVT_03575,AAP,0,0,0,0,0,0,0,0,0,0,1
 EVT_03575,AAP (Aam Aadmi Party),0,0,0,0,0,0,0,0,0,0,5
 EVT_03575,AAP (All India Peoples' Alliance),0,0,0,0,0,0,0,0,0,0,1
@@ -8623,41 +8724,87 @@ EVT_03637,The Bill,0,0,0,0,0,0,0,1,0,0,0
 EVT_03637,Trinamool Congress deputy leader in the Rajya Sabha Sagarika Ghose,0,0,0,0,0,0,0,1,0,0,0
 EVT_03637,Union government,0,0,0,0,0,0,0,1,0,0,0
 EVT_03637,government,0,0,0,0,0,0,0,4,0,0,0
+EVT_03661,China,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,Environmental Protection Agency,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,India,0,0,6,0,0,0,0,1,0,0,0
+EVT_03661,Journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,Mr. Navarro,0,0,0,0,0,0,0,2,0,0,0
+EVT_03661,Peter Navarro,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,Politician or Party (not specified in the text),0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,Politician or party (not specified in text),0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,President Donald Trump and Prime Minister Narendra Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,President John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,President and Prime Minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,The White House,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,Trade Policies,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,U.S. President,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,U.S. official,0,0,0,0,0,0,0,1,0,0,0
+EVT_03661,US,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,"US Vice President JD Vance, Prime Minister Narendra Modi, US ambassador Sergio Gor, Foreign Secretary Vikram Misri, and National Security Adviser Ajit Doval",0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,external affairs ministry spokesperson Randhir Jaiswal,0,0,1,0,0,0,0,0,0,0,0
+EVT_03661,government,0,0,1,0,0,0,0,0,0,0,0
 EVT_03662,Ashwani Mahajan,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,Bangladesh,0,0,0,0,0,0,0,3,0,0,0
 EVT_03662,"Bangladesh leadership, Sheikh Hasina",0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Bangladesh's current government,0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,Democratic Party of Country X,0,0,0,0,0,0,0,1,0,0,0
-EVT_03662,Hasina,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Hasina,0,0,0,0,0,0,0,1,0,2,0
 EVT_03662,Hasina government,0,0,0,0,0,0,0,1,0,0,0
-EVT_03662,India,0,0,0,0,0,0,0,2,0,2,0
+EVT_03662,India,0,0,0,0,0,0,0,2,0,4,0
 EVT_03662,India and U.S.,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,India leadership,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,India's policymakers or government,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,Indian Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Khalilur Rahman (Bangladesh foreign minister),0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,Local Mayor John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Lok Sabha Speaker Om Birla and foreign secretary Vikram Misri,0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,MEA (Ministry of External Affairs),0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,Mr. Mahajan,0,0,0,0,0,0,0,2,0,0,0
 EVT_03662,Mr. Rahman,0,0,0,0,0,0,0,3,0,0,0
 EVT_03662,Mr. Trivedi,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,Ms. Hasina,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Muhammad Yunus,0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,Opposition Party XYZ,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,PM Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Politicians/Leaders,0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,President John Doe,0,0,0,0,0,0,0,1,0,0,0
-EVT_03662,Rahman,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Rahman,0,0,0,0,0,0,0,1,0,2,0
 EVT_03662,Rahman government,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,Rashtriya Swayamsewak Sangh (RSS),0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,Shama,0,0,0,0,0,0,0,0,0,1,0
+EVT_03662,Shama Obaed Islam,0,0,0,0,0,0,0,0,0,1,0
+EVT_03662,Sheikh Hasina,0,0,0,0,0,0,0,0,0,1,0
+EVT_03662,Tarique Rahman (Bangladesh Prime Minister),0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,Tarique Rahman (Prime Minister of Bangladesh),0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,The Agreement (or Pact),0,0,0,0,0,0,0,0,0,1,0
 EVT_03662,U.S. President,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,Various,0,0,0,0,0,0,0,1,0,0,0
 EVT_03662,government,0,0,0,0,0,0,0,1,0,0,0
+EVT_03662,government and prime minister,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Bangladesh,0,0,0,0,0,0,0,0,0,1,0
 EVT_03669,Bhagwat (RSS leader),0,0,0,0,0,0,0,0,0,1,0
 EVT_03669,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_03669,France,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Germany,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,"Germany, Britain, Sri Lanka",0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,India,0,0,0,0,0,0,0,0,0,16,0
 EVT_03669,India and its leaders,0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,"India, Russia",0,0,1,0,0,0,0,0,0,0,0
+EVT_03669,Indian policies,0,0,0,0,0,0,0,0,0,1,0
 EVT_03669,Lok Sabha (the lower house of the Indian Parliament),0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,Mahajan,0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,Mohan Bhagwat,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Neighbourhood contrasts & global scorecard,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Pakistan,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Political Party Y,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Political left vs. Political right in Israel,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Political left vs. Political right in the US and Canada,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,Politician X,0,0,0,0,0,0,0,0,0,1,0
 EVT_03669,Politician or Government,0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,RSS (Rashtriya Swayamsevak Sangh),0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,RSS Sarsanghchalak Mohan Bhagwat,0,0,0,0,0,0,0,0,0,1,0
@@ -8668,11 +8815,16 @@ EVT_03669,SJM (South Jagatsinghapur Mandal),0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,"SJM (likely referring to Shri Jitendra Singh, Minister of State for Parliamentary Affairs)",0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,SJM (likely referring to a specific politician or official),0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,Smriti Ramachandran,0,0,1,0,0,0,0,0,0,0,0
+EVT_03669,South Korea,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,South Korea and India's relationship,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,South Korea's reputation,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,The Times of India,0,0,0,0,0,0,0,0,0,1,0
 EVT_03669,US,0,0,2,0,0,0,0,0,0,0,0
 EVT_03669,US (government),0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,US (through its influence on Visa and Mastercard),0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,US tech and social media firms,0,0,1,0,0,0,0,0,0,0,0
 EVT_03669,Universal Oneness,0,0,0,0,0,0,0,0,0,1,0
+EVT_03669,global image,0,0,0,0,0,0,0,0,0,1,0
 EVT_03687,HT News Desk,0,0,4,0,0,0,0,0,0,0,0
 EVT_03687,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_03687,India,0,0,9,0,0,0,0,0,0,0,0
@@ -8737,11 +8889,13 @@ EVT_03710,Yatra,0,0,0,1,0,0,0,0,0,0,0
 EVT_03710,civic body,0,0,0,1,0,0,0,0,0,0,0
 EVT_03710,"municipal officials, sanitation workers, outsourced staff and drivers",0,0,0,1,0,0,0,0,0,0,0
 EVT_03719,Airtel company,0,0,1,0,0,0,0,0,0,0,0
-EVT_03719,Alok Kumar,0,0,2,0,0,0,0,0,0,0,0
+EVT_03719,Alok Kumar,0,0,3,0,0,0,0,0,0,0,0
 EVT_03719,Alok Kumar (DGP),0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,Anshukumar (Jail Superintendent),0,0,1,0,0,0,0,0,0,0,0
-EVT_03719,Arun Dev,0,0,1,0,0,0,0,0,0,0,0
+EVT_03719,Arun Dev,0,0,2,0,0,0,0,0,0,0,0
+EVT_03719,Assistant Superintendent Iranna Rangapur and Superintendent of Bengaluru Central Prison,0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_03719,CCB (Central Criminal Bureau),0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,DGP (District Police Officer),0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,Home Department,0,0,2,0,0,0,0,0,0,0,0
 EVT_03719,Influential Prisoners,0,0,1,0,0,0,0,0,0,0,0
@@ -8749,18 +8903,27 @@ EVT_03719,Investigative Authorities,0,0,0,1,0,0,0,0,0,0,0
 EVT_03719,Investigators,0,0,0,1,0,0,0,0,0,0,0
 EVT_03719,Iranna Rangapur (Assistant Superintendent),0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,JD(S) leader H.D. Revanna,0,0,1,0,0,0,0,0,0,0,0
+EVT_03719,Karnataka CM DK Shivakumar,0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,Karnataka High Court,0,0,0,1,0,0,0,0,0,0,0
 EVT_03719,Kharge,0,0,1,0,0,0,0,0,0,0,0
+EVT_03719,Nitish Kumar,0,0,2,0,0,0,0,0,0,0,0
 EVT_03719,Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_03719,Political Official (Search Team),0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,"Politician (implied, as referenced to a convicted individual)",0,0,0,1,0,0,0,0,0,0,0
-EVT_03719,Prajwal Revanna,0,0,6,3,0,0,0,0,0,0,0
+EVT_03719,Prajwal Revanna,0,0,8,3,0,0,0,0,0,0,0
+EVT_03719,Prajwal Revanna (former MP),0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,Pratap Rai,0,0,0,3,0,0,0,0,0,0,0
 EVT_03719,Prison Administration,0,0,0,1,0,0,0,0,0,0,0
 EVT_03719,Prison Authorities or High-Profile Inmates,0,0,0,1,0,0,0,0,0,0,0
 EVT_03719,Prison Department,0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,Priyank Kharge,0,0,2,0,0,0,0,0,0,0,0
+EVT_03719,Priyank Kharge (Home Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_03719,Rai and Revanna,0,0,1,0,0,0,0,0,0,0,0
 EVT_03719,"Rape convict, ex-MP Prajwal Revanna",0,0,1,0,0,0,0,0,0,0,0
-EVT_03719,Revanna,0,0,5,5,0,0,0,0,0,0,0
+EVT_03719,Revanna,0,0,6,5,0,0,0,0,0,0,0
+EVT_03719,Revanna and Rai,0,0,1,0,0,0,0,0,0,0,0
+EVT_03719,The minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_03719,government,0,0,1,0,0,0,0,0,0,0,0
 EVT_03720,Congress Party,0,0,0,0,0,0,0,1,0,0,0
 EVT_03720,Daksh Hotel,0,0,0,0,0,0,0,1,0,0,0
 EVT_03720,Domino's Pizza,0,0,0,1,0,0,0,0,0,0,0
@@ -8987,20 +9150,25 @@ EVT_03881,Saubhadra Chatterji,0,0,1,0,0,0,0,0,0,0,0
 EVT_03881,Smriti Kak Ramachandran,0,0,1,0,0,0,0,0,0,0,0
 EVT_03881,government,0,0,2,0,0,0,0,0,0,0,0
 EVT_03881,minister,0,0,2,0,0,0,0,0,0,0,0
-EVT_03904,BJP,0,0,0,0,0,0,0,1,0,0,2
+EVT_03904,BJP,0,0,0,0,0,0,0,1,0,0,3
 EVT_03904,BJP (Bharatiya Janata Party),0,0,0,0,0,0,0,1,0,0,0
+EVT_03904,BJP (Uttarakhand),0,0,0,0,0,0,0,0,0,0,2
 EVT_03904,BJP spokesperson and Cabinet minister Khajan Das,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Biju Janata Party (BJP),0,0,0,0,0,0,0,1,0,0,0
-EVT_03904,Congress,0,0,0,0,0,0,0,3,0,0,1
+EVT_03904,CM (likely referring to the Chief Minister of Uttarakhand),0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Congress,0,0,0,0,0,0,0,3,0,0,10
 EVT_03904,Congress Party,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Congress general secretary KC Venugopal,0,0,0,0,0,0,0,0,0,0,1
-EVT_03904,Congress leader Salman Soz,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Congress leader Salman Soz,0,0,0,0,0,0,0,0,0,0,2
+EVT_03904,Ganesh Godiyal,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Ganesh Godiyal (Congress),0,0,0,0,0,0,0,1,0,0,0
 EVT_03904,Godiyal,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Godiyal (Congress politician),0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Haldwani rally participants,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Havan (religious ceremony),0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,INC President Mallikarjun Kharge,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,JP Nadda (Union minister and Leader of the House in Rajya Sabha),0,0,0,0,0,0,0,0,0,0,1
-EVT_03904,Kharge,0,0,0,0,0,0,0,0,0,0,8
+EVT_03904,Kharge,0,0,0,0,0,0,0,0,0,0,9
 EVT_03904,Kharge (Politician),0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Mahatma Gandhi,0,0,0,0,0,0,0,1,0,0,0
 EVT_03904,Mallikarjun Kharge,0,0,0,0,0,0,0,2,0,0,0
@@ -9008,14 +9176,23 @@ EVT_03904,Mallikarjun Kharge (Congress),0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Mayor John Doe,0,0,0,0,0,0,0,1,0,0,0
 EVT_03904,Nadda,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Nainital Senior Superintendent of Police,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Nardeep Singh Dahiya,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Organizers of the 'purification' ceremony,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,PM Modi,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Political Leader or Official (implied as SSP Nainital),0,0,0,0,0,0,0,2,0,0,0
 EVT_03904,Politician,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,"Politician (implied by the context, likely referring to a religious leader or figure)",0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Prime Minister,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,RJD spokesperson Priyanka Bharti,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Ramlila Ground,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Rashtriya Janata Dal (RJD),0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_03904,Sangh's Assam unit,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Shri Ram Sena,0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Those who purified the stage (unknown individual or group),0,0,0,0,0,0,0,0,0,0,1
 EVT_03904,Uttarakhand Chief Minister Pushkar Singh Dhami,0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,Various (Implicit in the speech),0,0,0,0,0,0,0,0,0,0,1
+EVT_03904,भाजपा सदस्यों,0,0,0,0,0,0,0,0,0,0,2
 EVT_03917,Anant Maharaj,0,0,5,0,0,0,0,0,0,0,0
 EVT_03917,Ananta Maharaj,0,0,0,0,0,0,0,1,0,1,0
 EVT_03917,Ananta Maharaj (BJP MP),0,0,0,0,0,0,0,0,0,1,0
@@ -9069,6 +9246,38 @@ EVT_03930,Pilot-in-command of the Phuket flight,0,0,0,0,0,0,0,0,0,1,0
 EVT_03930,Political Leaders or Government,0,0,0,0,0,0,0,0,0,1,0
 EVT_03930,Samir Sinha,0,0,0,0,0,0,0,0,0,1,0
 EVT_03930,Saurabh Sinha,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,Amit Shah,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,BJP,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,BJP (Bharatiya Janata Party),0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,BJP MP Nishikant Dubey,0,0,0,0,0,0,0,0,0,0,1
+EVT_03940,BJP-RSS,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,China,0,0,0,0,0,0,0,0,0,0,1
+EVT_03940,Congress,0,0,0,3,0,0,0,0,0,0,0
+EVT_03940,Congress MP Rahul Gandhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,Congress leader,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,Gandhi,0,0,0,0,0,0,0,0,0,0,3
+EVT_03940,Government,0,0,0,0,0,0,0,0,0,0,1
+EVT_03940,India,0,0,0,0,0,0,0,0,0,0,2
+EVT_03940,India and Modi-ji,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,India's foreign policy,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,India-US relations,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,Meloni,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,PM Modi,0,0,0,1,0,0,0,0,0,2,4
+EVT_03940,PM Modi and Amit Shah,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,PM Modi and Home Minister Amit Shah,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,PoliticianX,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,Politicians (implied in the context of political battle),0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,Prime Minister of Italy,0,0,0,0,0,0,0,0,0,0,1
+EVT_03940,RSS,0,0,0,4,0,0,0,0,0,0,0
+EVT_03940,RSS (Rashtriya Swayamsevak Sangh),0,0,0,2,0,0,0,0,0,0,0
+EVT_03940,Rahul,0,0,0,0,0,0,0,0,0,2,0
+EVT_03940,Rahul Gandhi,0,0,0,10,0,0,0,0,0,3,1
+EVT_03940,Rahul Gandhi (Leader of opposition in the Lok Sabha),0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,Sandeep Dikshit,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,The Leader of Opposition,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,The Times of India News Desk,0,0,0,0,0,0,0,0,0,1,0
+EVT_03940,Unknown Politician or Speaker,0,0,0,1,0,0,0,0,0,0,0
+EVT_03940,government,0,0,0,1,0,0,0,0,0,0,0
 EVT_03947,Administration,0,0,0,1,0,0,0,0,0,0,0
 EVT_03947,Administration (implied as the government body),0,0,0,1,0,0,0,0,0,0,0
 EVT_03947,Authorities,0,0,0,1,0,0,0,0,0,0,0
@@ -9136,10 +9345,13 @@ EVT_04004,Various (implied),0,0,0,1,0,0,0,0,0,0,0
 EVT_04004,Various Asian Countries (implied to be compared unfavorably to the speaker's country),0,0,0,1,0,0,0,0,0,0,0
 EVT_04004,Wangchuk,0,0,7,5,0,0,0,0,0,0,0
 EVT_04004,politician or party,0,0,0,1,0,0,0,0,0,0,0
+EVT_04054,AI,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,AI technology and image creation,0,0,0,1,0,0,0,0,0,0,0
+EVT_04054,AI-generated images,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,Boy accused of extortion,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,Class 11 student,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,Dinesh Kumar Puri,0,0,1,0,0,0,0,0,0,0,0
+EVT_04054,Gorakhpur teenager,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,HT News Desk,0,0,4,0,0,0,0,0,0,0,0
 EVT_04054,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,Individual (Student),0,0,2,0,0,0,0,0,0,0,0
@@ -9147,16 +9359,310 @@ EVT_04054,Individuals involved in the extortion,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,MP (Member of Parliament),0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,Mohali youth,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,News Reporting Practices,0,0,1,0,0,0,0,0,0,0,0
-EVT_04054,Police,0,0,3,3,0,0,0,0,0,0,0
+EVT_04054,Not specified (case context),0,0,0,1,0,0,0,0,0,0,0
+EVT_04054,Police,0,0,3,6,0,0,0,0,0,0,0
 EVT_04054,Police and Family,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,Police and Investigators,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,Police and authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04054,Police and investigators,0,0,0,1,0,0,0,0,0,0,0
+EVT_04054,Police and potential criminals,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,Politician (assumed as the teenager's father),0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,Politician (implied),0,0,1,0,0,0,0,0,0,0,0
+EVT_04054,Politician or Party,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,Politicians or criminals,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,Society/General,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,Teenager,0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,The Teenager,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,UP police,0,0,1,0,0,0,0,0,0,0,0
+EVT_04054,boy (or the politician who used the images),0,0,0,1,0,0,0,0,0,0,0
 EVT_04054,girl,0,0,1,0,0,0,0,0,0,0,0
 EVT_04054,police,0,0,4,2,0,0,0,0,0,0,0
+EVT_04118,CJI,0,0,0,0,0,0,0,2,0,0,0
+EVT_04118,CJI (Chief Justice of India),0,0,0,2,0,0,0,4,0,0,0
+EVT_04118,CJI Kant,0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,CJI Surya Kant,0,0,0,2,0,0,0,0,0,0,0
+EVT_04118,CJP-led protests,0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,Chief Justice of India (CJI),0,0,0,1,0,0,0,1,0,0,0
+EVT_04118,Chief Justice of India (CJI) Surya Kant,0,0,0,0,0,0,0,1,0,0,0
+EVT_04118,Chief Justice of India Surya Kant,0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,Dharmendra Pradhan,0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,Judges,0,0,0,0,0,0,0,1,0,0,0
+EVT_04118,Judiciary (or the politician's statement on behalf of the judiciary),0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,Labor Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_04118,Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,"Politician or Party (Implicit, not named in text)",0,0,0,1,0,0,0,0,0,0,0
+EVT_04118,Politician/Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_04118,President Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_04118,Supreme Court,0,0,0,0,0,0,0,3,0,0,0
+EVT_04118,Unknown Politician (Context suggests a current or former government official or party leader),0,0,0,0,0,0,0,1,0,0,0
+EVT_04118,activists,0,0,0,0,0,0,0,1,0,0,0
+EVT_04136,Araghchi (Iranian official),0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,CM Rekha Gupta,0,0,0,1,0,0,0,0,0,0,0
+EVT_04136,Delhi Chief Minister Rekha Gupta,0,0,0,1,0,0,0,0,0,0,0
+EVT_04136,Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_04136,Gupta,0,0,0,2,0,0,0,0,0,0,0
+EVT_04136,India,0,0,3,1,0,0,0,0,0,5,0
+EVT_04136,India's foreign policy towards Iran,0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,Indonesia,0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,Iran,0,0,5,0,0,0,0,0,0,4,0
+EVT_04136,Iran President Masoud Pezeshkian,0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,Iran president Pezeshkian,0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,"Iran, Prime Minister Narendra Modi, and United Arab Emirates",0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,Iranian Foreign Minister Abbas Araghchi,0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,Iranian Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,Iranian President Masoud Pezeshkian,0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,Iranian government,0,0,0,0,0,0,0,0,0,2,0
+EVT_04136,Iranian president Masoud Pezeshkian,0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,PM Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_04136,Pezeshkian,0,0,2,0,0,0,0,0,0,0,0
+EVT_04136,Political Leaders or Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,Politicians,0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,Rekha Gupta (Delhi CM),0,0,0,1,0,0,0,0,0,0,0
+EVT_04136,She,0,0,0,1,0,0,0,0,0,0,0
+EVT_04136,Tehran (likely referring to the Iranian government or officials),0,0,1,0,0,0,0,0,0,0,0
+EVT_04136,The Times of India News Desk,0,0,0,0,0,0,0,0,0,1,0
+EVT_04136,chief minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_04147,Aashish Saxena,0,0,0,0,0,0,0,0,0,2,0
+EVT_04147,Bangladesh,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,"Bangladesh, Sri Lanka",0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Both nuclear-armed rivals,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Both populations,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,China,0,0,1,0,0,0,0,0,0,3,0
+EVT_04147,China and Israel,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Chinese President Xi Jinping,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Distrust Between Neighbors,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Global political climate and perceptions,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_04147,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,India,0,0,11,0,0,0,0,0,0,9,0
+EVT_04147,India and Pakistan,0,0,3,0,0,0,0,0,0,7,0
+EVT_04147,India and Pakistan governments and people,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,India and Russia,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,India's bureaucracy,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,India's relationship with the United States,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,"India, Pakistan",0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,India-Pakistan relationship,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,India-Pakistan rivalry,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Indian Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_04147,Indian Hindus,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Indian Muslims,0,0,2,0,0,0,0,0,0,2,0
+EVT_04147,Indian Society,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Indian and Pakistani governments and people,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,"Indian and Pakistani populations, their governments, and perceptions of each other",0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Indian and Pakistani public opinion on each other,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Indian government and Indian people,0,0,0,0,0,0,0,0,0,2,0
+EVT_04147,Indian government and people,0,0,0,0,0,0,0,0,0,2,0
+EVT_04147,Indian people and government,0,0,2,0,0,0,0,0,0,0,0
+EVT_04147,Indian public opinion,0,0,3,0,0,0,0,0,0,0,0
+EVT_04147,Indian respondents,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Israel,0,0,1,0,0,0,0,0,0,1,0
+EVT_04147,Norway,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,PM Modi,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Pakistan,0,0,5,0,0,0,0,0,0,3,0
+EVT_04147,Pakistan and India,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Pakistanis,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Pakistanis and Indians,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Pew Research Center,0,0,2,0,0,0,0,0,0,0,0
+EVT_04147,Politicians (likely referring to the speaker of the quote),0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Politicians or Survey Conductors,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Saudi Arabia,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Shehbaz Sharif,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,Society/General,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Sri Lanka,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,The government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,US,0,0,1,0,0,0,0,0,0,1,0
+EVT_04147,US President Donald Trump,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,Unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_04147,govts,0,0,1,0,0,0,0,0,0,0,0
+EVT_04147,newsdesk,0,0,2,0,0,0,0,0,0,0,0
+EVT_04178,Banthia (likely referring to the Minister of Interior or a similar official),0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,DCP (Designated City Police Officer),0,0,0,4,0,0,0,0,0,0,0
+EVT_04178,DCP (Digital Command Post),0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,DCP (District Coordination Post),0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Delhi Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_04178,Deputy Commissioner of Police (North) Raja Banthia,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Elaborate Security Arrangements,0,0,0,1,0,0,0,0,0,0,0
+EVT_04178,Government (India),0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,"Government (or Banthia, as implied by the context of law and order response)",0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Government/Security Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_04178,Independence Day 2026,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Independence Day celebrations,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,PM Modi,0,0,1,1,0,0,0,0,0,0,0
+EVT_04178,Pakistan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Political Leadership,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Security Agencies,0,0,2,0,0,0,0,0,0,0,0
+EVT_04178,Security Measures,0,0,0,2,0,0,0,0,0,0,0
+EVT_04178,Security Measures (Government),0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Security Plan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,Security agencies,0,0,0,1,0,0,0,0,0,0,0
+EVT_04178,Security personnel and possibly broader law enforcement or governmental entities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04178,police,0,0,3,0,0,0,0,0,0,0,0
+EVT_04179,Anita,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Anita Goswami,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Bangladesh,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Britain,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,British Empire,0,0,2,0,0,0,0,0,0,0,0
+EVT_04179,British Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,British-India,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Central Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Communal Violence,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Congress,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Congress and the Muslim League,0,0,2,0,0,0,0,0,0,0,0
+EVT_04179,Government/Never Mentioned,0,0,2,0,0,0,0,0,0,0,0
+EVT_04179,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Iftikhar-ud-din and Mazhar Ali Khan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Independence,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Independence Day celebrations,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Independence movement,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Indian National Congress and All-India Muslim League,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Jawaharlal Nehru,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Jinnah,0,0,9,2,0,0,0,0,0,0,0
+EVT_04179,Kuldip Nayar,0,0,0,1,0,0,0,0,0,0,0
+EVT_04179,League (Pakistan),0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,"Military or law enforcement, possibly associated with security forces",0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Mountbatten,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Muhammad Ali Jinnah,0,0,1,1,0,0,0,0,0,0,0
+EVT_04179,Muslim League,0,0,4,0,0,0,0,0,0,0,0
+EVT_04179,Nayar,0,0,1,3,0,0,0,0,0,0,0
+EVT_04179,Nayar (likely referring to a politician or public figure),0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Pakistan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Partition,0,0,0,1,0,0,0,0,0,0,0
+EVT_04179,Partition Proposals,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Partition and violence,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,Partition of India,0,0,0,2,0,0,0,0,0,0,0
+EVT_04179,Violence,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,political dispute,0,0,1,0,0,0,0,0,0,0,0
+EVT_04179,politics in general,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,BJP (Bharatiya Janata Party),0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,BJP Mahila Morcha,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,BJP leaders,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,Congress,0,0,2,1,0,0,0,0,0,0,0
+EVT_04190,Congress and Gandhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,Congress leader,0,0,0,0,0,0,0,0,0,1,0
+EVT_04190,Congress leaders (Rahul Gandhi and Sandeep Dikshit),0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,Congress leadership,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Congress party leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Gandhi,0,0,1,8,0,0,0,0,0,0,0
+EVT_04190,Gandhi and Dixit,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Giorgia Meloni,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,India,0,0,0,2,0,0,0,0,0,0,0
+EVT_04190,India's Diplomatic Relations with Italy,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,India's external affairs ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Italian Prime Minister Giorgia Meloni,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Italy,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Jaiswal,0,0,0,3,0,0,0,0,0,0,0
+EVT_04190,Meloni,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,Modi and Meloni,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Modi government,0,0,0,0,0,0,0,0,0,3,0
+EVT_04190,"Modi, Indira Gandhi",0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,PM Modi,0,0,0,3,0,0,0,0,0,1,0
+EVT_04190,Politician,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Politician or Diplomat,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,Politician or party not mentioned,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Rahul Gandhi,0,0,2,1,0,0,0,0,0,1,0
+EVT_04190,Rahul Gandhi (Congress party),0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_04190,Sandeep Dikshit (Congress party),0,0,0,0,0,0,0,0,0,1,0
+EVT_04190,The Times of India (TOI) News Desk,0,0,0,0,0,0,0,0,0,1,0
+EVT_04190,US-Iran conflict,0,0,0,1,0,0,0,0,0,0,0
+EVT_04190,Unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,BLINKIT FACILITIES,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Blinkit,0,0,1,0,0,0,0,0,0,1,0
+EVT_04205,Blinkit and Zepto,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Blinkit facilities,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,"Blinkit, Zepto, Instamart",0,0,0,1,0,0,0,0,0,1,0
+EVT_04205,"Blinkit, Zepto, Instamart (quick-commerce platforms)",0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,Bollywood CAFE,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Delivery Riders,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Department/Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,FDA,0,0,2,0,0,0,0,0,0,0,0
+EVT_04205,FDA (Federal Food Administration),0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,FDA (Food and Drug Administration),0,0,7,9,0,0,0,0,0,4,0
+EVT_04205,FSSAI (Food Safety and Standards Authority of India),0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Food Business Firm,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Food Business Operators,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Food Establishment Officials,0,0,0,2,0,0,0,0,0,0,0
+EVT_04205,Food Industry/Suppliers,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Food Safety Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Food Safety Regulations and Enforcement,0,0,0,2,0,0,0,0,0,0,0
+EVT_04205,Food Safety and Management,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Food Safety and Standards Authority of India (FSSAI),0,0,0,1,0,0,0,0,0,1,0
+EVT_04205,Food Safety or Health Authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,Food Storage Conditions,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Food Supply and Distribution Systems,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Food delivery workers,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,"Food regulators, FDA",0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,Ghatkopar facility,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,Gola Unit,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Government,0,0,0,3,0,0,0,0,0,0,0
+EVT_04205,Government or Regulatory Body,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Government/Establishment,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Government/FDA,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Government/Food Business,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Government/Inspectors,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Government/Officials,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Government/Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Health Department,0,0,4,0,0,0,0,0,0,0,0
+EVT_04205,Inspection Team or Facilities Manager,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Instamart,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_04205,Local Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Local Government Officials,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Local Government/Elected Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Maharashtra FDA,0,0,2,1,0,0,0,0,0,0,0
+EVT_04205,Maharashtra Food and Drug Administration (FDA),0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Maharashtra’s Food and Drug Administration,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Politician or Journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Politician/Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,Priyanjali Narayan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Regulator,0,0,1,1,0,0,0,0,0,0,0
+EVT_04205,State Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Statewide Drive,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Swinsta ENT Pvt Ltd,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Swinsta Ent Pvt Ltd,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,The Times of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,The establishment,0,0,1,0,0,0,0,0,0,0,0
+EVT_04205,Unknown,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,"ZEPTO, INSTAMART",0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,Zepto facilities,0,0,0,0,0,0,0,0,0,1,0
+EVT_04205,food safety officials or regulators,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,police or law enforcement,0,0,0,1,0,0,0,0,0,0,0
+EVT_04205,regulator,0,0,0,1,0,0,0,0,0,0,0
+EVT_04210,Church Council,0,0,2,0,0,0,0,0,0,0,0
+EVT_04210,Churches in Nagaland,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_04210,Independence Day celebrations,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,India,0,0,1,0,0,0,0,1,0,0,0
+EVT_04210,India's constitutional framework,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,NBCC (National Backward Classes Commission),0,0,0,0,0,0,0,2,0,0,0
+EVT_04210,NBCC (National Baptist Committee),0,0,0,0,0,0,0,1,0,0,0
+EVT_04210,NBCC (National Bible Conservation Committee),0,0,0,0,0,0,0,1,0,0,0
+EVT_04210,Naga Students' Federation,0,0,0,0,0,0,0,1,0,0,0
+EVT_04210,Nagaland Baptist Church Council,0,0,1,0,0,0,0,1,0,0,0
+EVT_04210,Nagaland church council,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,Religious Leaders (Nagaland Baptist Church Council),0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,The church body,0,0,0,0,0,0,0,1,0,0,0
+EVT_04210,The defence ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,Various political entities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,"Various, inclusive of religious and identity groups",0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,government and its authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04210,unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_04332,Central Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_04332,Governor James Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_04332,Mayor Emily Thompson,0,0,0,0,0,0,0,1,0,0,0
+EVT_04332,Officials,0,0,0,0,0,0,0,2,0,0,0
+EVT_04332,Ramesh,0,0,0,0,0,0,0,0,0,1,0
+EVT_04332,Surjeet,0,0,0,0,0,0,0,0,0,1,0
+EVT_04332,Surjeet Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_04332,Surjeet Singh (VDG member),0,0,0,0,0,0,0,1,0,0,0
+EVT_04332,Terrorists,0,0,0,0,0,0,0,2,0,0,0
+EVT_04332,VDC members,0,0,0,0,0,0,0,1,0,0,0
+EVT_04332,VDG members,0,0,0,0,0,0,0,1,0,0,0
+EVT_04332,VDGs (Village Development Groups),0,0,0,0,0,0,0,0,0,1,0
+EVT_04332,Village Defence Groups (VDGs),0,0,0,0,0,0,0,2,0,0,0
+EVT_04332,Village Defence Guards (VDG),0,0,0,0,0,0,0,1,0,1,0
+EVT_04332,police,0,0,0,0,0,0,0,1,0,0,0
