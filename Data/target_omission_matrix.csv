@@ -9908,6 +9908,33 @@ EVT_04332,VDGs (Village Development Groups),0,0,0,0,0,0,0,0,0,1,0
 EVT_04332,Village Defence Groups (VDGs),0,0,0,0,0,0,0,2,0,0,0
 EVT_04332,Village Defence Guards (VDG),0,0,0,0,0,0,0,1,0,1,0
 EVT_04332,police,0,0,0,0,0,0,0,1,0,0,0
+EVT_04337,Afghan envoy,0,0,0,1,0,0,0,0,0,0,0
+EVT_04337,Afghanistan,0,0,0,0,0,0,0,0,0,1,0
+EVT_04337,Afghanistan Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Afghanistan's foreign policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Anand Prakash,0,0,0,1,0,0,0,0,0,0,0
+EVT_04337,India,0,0,1,2,0,0,0,0,0,2,0
+EVT_04337,India Ministry of External Affairs (MEA),0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Indian Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_04337,Indian government,0,0,2,0,0,0,0,0,0,0,0
+EVT_04337,Indian traders and scholars,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,International bodies or organizations,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Islamic Emirate of Afghanistan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Kabul's push for wider engagement,0,0,0,1,0,0,0,0,0,0,0
+EVT_04337,MEA and minister S Jaishankar,0,0,0,0,0,0,0,0,0,2,0
+EVT_04337,Muttaqi,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Noor,0,0,3,6,0,0,0,0,0,0,0
+EVT_04337,Politician or representative speaking on Afghanistan's stability,0,0,0,1,0,0,0,0,0,0,0
+EVT_04337,Politician/Correspondent,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Politicians and countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_04337,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Rezaul Hasan Laskar,0,0,2,0,0,0,0,0,0,0,0
+EVT_04337,Taliban,0,0,4,1,0,0,0,0,0,2,0
+EVT_04337,Taliban regime of Afghanistan,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,The speaker,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Various Diplomatic Entities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Various Politicians and Governments,0,0,1,0,0,0,0,0,0,0,0
+EVT_04337,Western and European countries,0,0,1,0,0,0,0,0,0,0,0
 EVT_04365,BRS,0,0,2,1,0,0,0,0,0,0,0
 EVT_04365,BRS (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
 EVT_04365,BRS (Bharatiya Rashtra Sena),0,0,0,1,0,0,0,0,0,0,0
@@ -9935,42 +9962,103 @@ EVT_04365,chief minister,0,0,1,0,0,0,0,0,0,0,0
 EVT_04365,former BRS minister,0,0,0,1,0,0,0,0,0,0,0
 EVT_04390,Anagha,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Anagha Deshpande,0,0,4,0,0,0,0,0,0,0,0
+EVT_04390,Aspiring Candidates,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,BJP,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,BJP (Bharatiya Janata Party),0,0,3,0,0,0,0,0,0,0,0
+EVT_04390,CJP convenor Abhijeet Dipke,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,CJP's Abhijeet Dipke,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,CM Soren,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,CM Soren (Sarkaria Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,CM Soren (likely referring to Jharkhand Chief Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,"CM Soren, Congress MP Rahul Gandhi, state ministers Dipika Pandey Singh and Irfan Ansari",0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Candidates who cleared the JSSC-CGL examinations,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Chief Minister,0,0,3,0,0,0,0,0,0,0,0
 EVT_04390,Devendra,0,0,1,0,0,0,0,0,0,0,0
-EVT_04390,Devendra Mahto,0,0,1,0,0,0,0,0,0,0,0
-EVT_04390,Devendra Nath Mahto,0,0,3,0,0,0,0,1,0,0,0
-EVT_04390,Hemant Soren,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,Devendra Mahto,0,0,4,0,0,0,0,0,0,0,0
+EVT_04390,Devendra Mahto (Student leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Devendra Mahto (student leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Devendra Nath Ma9,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Devendra Nath Mahto,0,0,5,0,0,0,0,1,0,0,0
+EVT_04390,Devendra Nath Mahto (protesting student leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Dipika Pandey,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Dipika Pandey Singh and Irfan Ansari,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,Dipke,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,Healthcare System,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Hemant Soren,0,0,3,0,0,0,0,0,0,0,0
+EVT_04390,Hemant Soren (Chief Minister of Jharkhand),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Hemant Soren (Jharkhand CM),0,0,2,0,0,0,0,0,0,0,0
 EVT_04390,Independence Day,0,0,0,0,0,0,0,1,0,0,0
 EVT_04390,"India's political leadership, including leaders like Subhas Chandra Bose and Mahatma Gandhi",0,0,0,0,0,0,0,1,0,0,0
+EVT_04390,Irfan Ansari,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Irfan Ansari (Jharkhand Minister),0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,J'khand govt,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,JSSC-CGL examination,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,JSSC-CGL selectee,0,0,2,0,0,0,0,0,0,0,0
 EVT_04390,Jaipal Singh Munda,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Jharkhand CM's announcement,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Jharkhand Congress leader,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Jharkhand Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,"Jharkhand Government Health Minister Irfan Ansari, Minister Dipika Pandey, and MLA Jairam Mahato",0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Jharkhand Public Service Commission and Jharkhand Staff Selection Commission,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Jharkhand government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Jharkhand minister,0,0,2,0,0,0,0,0,0,0,0
 EVT_04390,Kumar Raja (Jharkhand Congress leader),0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_04390,Mahto,0,0,7,0,0,0,0,0,0,0,0
 EVT_04390,Mahto (police assault on hunger strikers),0,0,0,0,0,0,0,1,0,0,0
+EVT_04390,Ministers,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Mr. Mahto,0,0,0,0,0,0,0,3,0,0,0
 EVT_04390,Mr. Mahto and his people,0,0,0,0,0,0,0,1,0,0,0
 EVT_04390,Mr. Mahto and students,0,0,0,0,0,0,0,1,0,0,0
 EVT_04390,Omisha,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Omisha Pingua,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Paswan (Politician),0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Police,0,0,2,0,0,0,0,2,0,0,0
 EVT_04390,Police Officers,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,"Politician (implied, questioning stance)",0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Politician (presumably a leader in Jharkhand),0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Politician or party,0,0,3,0,0,0,0,0,0,0,0
+EVT_04390,Politicians (general),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Protest Organizers (not specified in text),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Protesters,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Rahul Gandhi,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Rajya Sabha MP Sahney,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,Rajya Sabha MP Vikramjit Singh Sahney,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Rakesh Ranjan and Paras Rana,0,0,0,0,0,0,0,1,0,0,0
+EVT_04390,Ravindra Paswan,0,0,3,0,0,0,0,0,0,0,0
 EVT_04390,Soren,0,0,1,0,0,0,0,0,0,0,0
-EVT_04390,Students,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Soren (likely referring to a politician or party leader in Jharkhand),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Soren (presumably referring to a political figure or official),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Soren (presumably the Chief Minister of Jharkhand),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,State Minister Dipika Pandey,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,Student Activism,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Student Leader,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Student Leader Devendra Nath Mahato,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Student leader Devendra Mahto,0,0,3,0,0,0,0,0,0,0,0
+EVT_04390,Student leaders Umme Habiba and Rahul Kranti,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Student protesters,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,Student protesters in Jharkhand,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Students,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,"Students, youths",0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Sudivya Kumar (Jharkhand minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Supreme Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,TDPL (Tata Dost Public Limited),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,TDPL (The Department of Public Law),0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,The unnamed speaker (likely referring to a politician or party leader involved in student movements),0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,Unknown Politician or Party,0,0,0,0,0,0,0,1,0,0,0
-EVT_04390,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,Various companies,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,aspirants who cleared the exam,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,government,0,0,3,0,0,0,0,0,0,0,0
 EVT_04390,government and Mahto,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,himself,0,0,1,0,0,0,0,0,0,0,0
 EVT_04390,police,0,0,1,0,0,0,0,1,0,0,0
-EVT_04390,protesters,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,protesters,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,protesting selectees,0,0,2,0,0,0,0,0,0,0,0
+EVT_04390,student leader,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,students protesting against irregularities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_04390,unknown politician or party,0,0,1,0,0,0,0,0,0,0,0
 EVT_04404,Amit Shah,0,0,3,0,0,0,0,0,0,1,0
 EVT_04404,"Amit Shah, Congress",0,0,1,0,0,0,0,0,0,0,0
 EVT_04404,BJP,0,0,2,0,0,0,0,2,0,2,0
@@ -10214,6 +10302,15 @@ EVT_04578,The HT News Desk,0,0,1,0,0,0,0,0,0,0,0
 EVT_04578,The newsdesk at Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_04578,official,4,0,0,0,0,0,0,0,0,0,0
 EVT_04578,police or security forces,0,0,1,0,0,0,0,0,0,0,0
+EVT_04600,Agency,0,0,0,0,0,0,0,0,0,1,0
+EVT_04600,Candidates,0,0,0,0,0,0,0,0,0,1,0
+EVT_04600,English paper,0,0,0,0,0,0,0,0,0,1,0
+EVT_04600,Exam System,0,0,0,0,0,0,0,0,0,2,0
+EVT_04600,Manash Pratim Gohain,0,0,0,0,0,0,0,0,0,1,0
+EVT_04600,NTA (National Testing Agency),2,0,0,0,0,0,0,0,0,1,0
+EVT_04600,UGC (National Testing Agency),0,0,0,0,0,0,0,0,0,1,0
+EVT_04600,UGC (University Grants Commission) and NTA (National Testing Agency),0,0,0,0,0,0,0,0,0,1,0
+EVT_04600,University administration,1,0,0,0,0,0,0,0,0,0,0
 EVT_04649,Ajit Kulkarni,0,0,1,0,0,0,0,0,0,0,0
 EVT_04649,Anant Ambani's Vantara,0,0,0,0,0,0,0,0,0,1,0
 EVT_04649,Banni initiative,0,0,1,0,0,0,0,0,0,0,0
@@ -10239,3 +10336,301 @@ EVT_04649,"Honâble Prime Minister of India, Narendra Modi",0,0,0,0,0,0,0,0,0,1,
 EVT_04649,Politicians and News Media,0,0,2,0,0,0,0,0,0,0,0
 EVT_04649,UN wildlife trade body,0,0,1,0,0,0,0,0,0,0,0
 EVT_04649,Vantara,0,0,2,0,0,0,0,0,0,3,0
+EVT_04701,Akhilesh Yadav,0,0,2,4,0,0,0,0,0,0,0
+EVT_04701,Akhilesh Yadav (Samajwadi Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Ashutosh Mishra,0,0,0,1,0,0,0,0,0,0,0
+EVT_04701,Authorities,0,0,0,2,0,0,0,0,0,0,0
+EVT_04701,Deputy commissioner of police Maneesh Kalwaniya,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_04701,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,IPS officer Ashutosh Mishra,0,0,0,1,0,0,0,0,0,0,0
+EVT_04701,Indian Navy,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Indrawati,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Indrawati (presumed victim),0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Kalwaniya,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Man,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Mayawati,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Mayawati (BSP chief),0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Medical professionals and law enforcement,0,0,0,1,0,0,0,0,0,0,0
+EVT_04701,Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,"Navy sailor, wife and 2 children",0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Police,0,0,3,1,0,0,0,0,0,0,0
+EVT_04701,Police Officer's Family,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Police in Uttar Pradesh,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Political Reporting,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Shashank Shukla,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,Uttar Pradesh government,0,0,0,1,0,0,0,0,0,0,0
+EVT_04701,Yadav,0,0,0,1,0,0,0,0,0,0,0
+EVT_04701,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04701,police,0,0,0,2,0,0,0,0,0,0,0
+EVT_04701,police and investigation teams,0,0,0,2,0,0,0,0,0,0,0
+EVT_04706,BCCI chairperson Manan Kumar Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_04706,BCI (Board of Coordinating Institutes),0,0,0,0,0,0,0,0,0,1,0
+EVT_04706,Bar Council of India (BCI),0,0,1,0,0,0,0,0,0,0,0
+EVT_04706,CJI (Chief Justice of India),0,0,2,0,0,0,0,0,0,1,0
+EVT_04706,CJI Kant,0,0,2,0,0,0,0,0,0,2,0
+EVT_04706,CJI Surya Kant,0,0,2,0,0,0,0,0,0,0,0
+EVT_04706,"CJI Surya Kant, BCI chairman",0,0,1,0,0,0,0,0,0,0,0
+EVT_04706,CJI-led bench,0,0,1,0,0,0,0,0,0,2,0
+EVT_04706,Chief Justice of India Surya Kant,0,0,1,0,0,0,0,0,0,1,0
+EVT_04706,HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_04706,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04706,Nalsar,0,0,1,0,0,0,0,0,0,1,0
+EVT_04706,News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_04706,The HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,Judiciary,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,Legal Process and Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,Politicians,0,0,1,0,0,0,0,0,0,1,0
+EVT_04743,RJD MP Sudhakar Singh,0,0,1,0,0,0,0,0,0,1,0
+EVT_04743,Ram Temple Donation Row,0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,SC (Supreme Court),0,0,1,0,0,0,0,0,0,1,0
+EVT_04743,SIT (South Asian Terrorism Panel),0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,SIT (Supervising Intelligence Team),0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,Shri Ram Janmabhoomi Teerth Kshetra Trust,0,0,1,2,0,0,0,0,0,1,0
+EVT_04743,Supreme Court,0,0,0,1,0,0,0,0,0,2,0
+EVT_04743,The SIT (Special Investigating Team),0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,The Supreme Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,The Times of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_04743,The construction of the Ram temple in Ayodhya,0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,UP govt,0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,Uttar Pradesh Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,Uttar Pradesh government,0,0,2,5,0,0,0,0,0,1,0
+EVT_04743,government,0,0,0,1,0,0,0,0,0,0,0
+EVT_04743,the temple trust,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,top court,0,0,1,0,0,0,0,0,0,0,0
+EVT_04743,unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_04751,AIIMS (AIIMS is a public health institution in India),0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,AIIMS (likely referring to All India Institute of Medical Sciences),0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Advocate Ankur Pandey,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Bharatiya Nyaya Sanhita,0,0,0,0,0,0,0,2,0,0,0
+EVT_04751,Bharatiya Nyaya Sanhita (BNS),0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,CBI,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,CBI (Central Bureau of Investigation),0,0,1,0,0,0,0,1,0,0,0
+EVT_04751,Dowry Prohibition Act,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Former Model and Actor,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Giribala Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Giribala Singh and Samarth Singh,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Giribala Singh and son,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_04751,Healthcare System,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Judge Shobhana Bhalavi,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Madhya Pradesh High Court,0,0,2,0,0,0,0,1,0,0,0
+EVT_04751,Media Organization,0,0,2,0,0,0,0,0,0,0,0
+EVT_04751,Medical Board Investigation,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,"Mental, physical torture over dowry",0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Mr. Pandey,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,New Political Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Opposition Leader,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Police investigation,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,"Politicians (in general, could be seen as the accused)",0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Samarth,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Samarth (Mr. Samarth),0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Samarth Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Samarth and Giribala Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,She,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Sneha's suicide prevention helpline,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,The Accused,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,The victim's family,0,0,0,0,0,0,0,1,0,0,0
+EVT_04751,Twisha (and her family),0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Twisha's family,0,0,1,0,0,0,0,0,0,0,0
+EVT_04751,Twisha's family and in-laws,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Ashok Dham temple incident,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Ashokdham / Indradamneshwar Mahadev Temple,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Ashokdham Temple,0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,Avinash Kumar,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Bihar CM,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Bihar Chief Minister Samrat Choudhary,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Bihar Chief Minister Samrat Choudhury,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Bihar Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Bihar State Board of Religious Trust,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Bihar's Lakhisarai temple incident,0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,"CM (likely referring to Chief Minister or Mayor, depending on context)",0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Chief Minister Samrat Choudhury,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Crowd Management,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Crowd of devotees and Vaishno Devi temple in Jammu and Kashmir,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,District Administration,0,0,0,0,0,0,0,3,0,0,0
+EVT_04787,District administration officials and police personnel,0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,Government,0,0,0,0,0,0,0,2,0,1,0
+EVT_04787,India,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Local Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Local Government Leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Ms. Murmu,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Ms. Murmu (Indian President Arvind Kejriwal),0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,NDA Government in the State of Bihar,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Narendra Modi (Prime Minister),0,0,0,0,0,0,0,0,0,2,0
+EVT_04787,Nitish Kumar,0,0,1,0,0,0,0,2,0,0,0
+EVT_04787,Police,0,0,3,0,0,0,0,0,0,0,0
+EVT_04787,Political Official,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Politician A,0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,Politician or Official,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Politician or Party (not specified in text),0,0,2,0,0,0,0,0,0,0,0
+EVT_04787,Preacher and devotees in Uttar Pradesh's Hathras district,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Prem Singh Meena,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,President,0,0,0,0,0,0,0,2,0,0,0
+EVT_04787,President Droupadi Murmu,0,0,0,0,0,0,0,2,0,0,0
+EVT_04787,Ranbir Nandan,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Religious Event and Community Gatherings,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,Religious or Religious Organization,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Samrat Choudhary (Bihar CM),0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,Shailendra Kumar (Lakhisarai District Magistrate),0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Shailendra Kumar (Lakhisarai district magistrate),0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,"Shivam Kumar, Lakhisarai DM Shailendra Kumar",0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,Society at large,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Stakeholders and Event Organizers,0,0,3,0,0,0,0,0,0,0,0
+EVT_04787,"Tejashwi Yadav, NDA Government",0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Temple Management and Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04787,The Times of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,Vijay Kumar Sinha,0,0,0,0,0,0,0,1,0,0,0
+EVT_04787,Vishnu Temple in Bihar,0,0,0,0,0,0,0,0,0,1,0
+EVT_04787,crowd management,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Air India,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Air India and Air India Express,0,0,2,0,0,0,0,0,0,1,0
+EVT_04819,Air India and Government Agencies,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Air India flight AI2379,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Air India group,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Air India pilots,0,0,2,0,0,0,0,0,0,2,0
+EVT_04819,Aircraft Accidents and Safety,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Aircraft Manufacturers and Regulatory Bodies,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Aviation Ministry,0,0,0,0,0,0,0,0,0,1,0
+EVT_04819,Aviation Regulations,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,DGCA (Direct Air Carrier),0,0,0,0,0,0,0,0,0,2,0
+EVT_04819,DGCA (Director General of Civil Aviation),0,0,0,0,0,0,0,0,0,1,0
+EVT_04819,DGCA (Directorate General of Civil Aviation),0,0,0,0,0,0,0,0,0,1,0
+EVT_04819,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_04819,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,India's aviation sector or relevant government entities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Manish Uppal,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Phuket-Delhi flight incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Pilot,0,0,2,0,0,0,0,0,0,0,0
+EVT_04819,Political Journalism,0,0,1,0,0,0,0,0,0,0,0
+EVT_04819,Saurabh Sinha,0,0,0,0,0,0,0,0,0,1,0
+EVT_04819,Uppal (presumably a pilot supervisor or regulatory official),0,0,1,0,0,0,0,0,0,0,0
+EVT_04830,BJP,0,0,3,0,0,0,0,0,0,0,1
+EVT_04830,BJP (Bharatiya Janata Party),0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,BJP (Indian political party),0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,Congress,0,0,0,0,0,0,0,0,0,0,2
+EVT_04830,Congress leaders,0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,Congress leadership,0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,"Eternally grateful for guidance, love, respect and platform that...",0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,PM Modi,0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,Party leader,0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,"Politician (implied by context, likely referring to someone who approached a party)",0,0,1,0,0,0,0,0,0,0,0
+EVT_04830,Politician or Party,0,0,1,0,0,0,0,0,0,0,1
+EVT_04830,Poonawalla,0,0,8,0,0,0,0,0,0,0,4
+EVT_04830,Poonawalla (likely referring to a BJP politician or spokesperson),0,0,1,0,0,0,0,0,0,0,0
+EVT_04830,Prime Minister Modi and the BJP,0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,"Prime Minister Narendra Modi, Party President Nitin Nabin, Home Minister Amit Shah, Defence Minister Rajnath Singh, General Secretary (Organisation) Shri B.L Santosh",0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,Shehzad Jai Hind,0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,Shehzad Poonawalla,0,0,5,0,0,0,0,0,0,0,1
+EVT_04830,Shubham,0,0,2,0,0,0,0,0,0,0,0
+EVT_04830,Shubham Pandey,0,0,1,0,0,0,0,0,0,0,0
+EVT_04830,party (referring to the party who refused to accept the resignation letter),0,0,0,0,0,0,0,0,0,0,1
+EVT_04830,politician or party,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Ansari,0,0,1,1,0,0,0,0,0,2,0
+EVT_04845,CID (Central Intelligence Department),0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,CID ADG Manoj Kaushik,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,CID Case No. 025,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,CID Manoj Kaushik and State Probe Agency,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,CM Hemant Soren,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Chief Minister,0,0,2,0,0,0,0,0,0,0,0
+EVT_04845,Chief Minister Hemant Soren,0,0,0,3,0,0,0,0,0,0,0
+EVT_04845,Devendra Mahto,0,0,1,1,0,0,0,0,0,0,0
+EVT_04845,Devendra Nath Mahto,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Dipika Pandey Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Dipika Pandey and Jairam Mahato,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Gandhi,0,0,2,0,0,0,0,0,0,0,0
+EVT_04845,Government/Cabinet,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_04845,Habiba,0,0,1,0,0,0,0,0,0,1,0
+EVT_04845,Hemant Soren,0,0,0,2,0,0,0,0,0,0,0
+EVT_04845,Hemant Soren (Jharkhand chief minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,"Hemant Soren, Rahul Gandhi, Jharkhand government",0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,"Irfan Ansari, Minister Dipika Pandey, Jairam Mahato, Jairam Mahato",0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,JPSC (Jharkhand Public Service Commission),0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,JPSC (Joint Public Service Commission),0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,JPSC-JSSC Reforms Manch,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Jharkhand (government),0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Jharkhand CID,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Jharkhand Congress in-charge K Raju,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Jharkhand Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Jharkhand Minister Irfan Ansari,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Jharkhand Ministers Dipika Pandey Singh and Irfan Ansari,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Jharkhand government,0,0,2,1,0,0,0,0,0,3,0
+EVT_04845,Job aspirants,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,L Khiangte,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Mahato,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Mahato and his team,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,"Mahato, Umme Habiba and Rahul Kranti",0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Mahto,0,0,3,2,0,0,0,0,0,2,0
+EVT_04845,Mahto (presumably a government official or representative),0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Minister Irfan Ansari,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Newsdesk,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Paswan,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Piyush Kumar,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Police,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Political Leader,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Politician or Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Politician or party (not specified in text),0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Prasad,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Protest,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Protesters,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Rahul Gandhi,0,0,2,1,0,0,0,0,0,1,0
+EVT_04845,Ravindra Paswan,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,SONAM WANGCHUK,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,STUDENT LEADERS,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Sadar Hospital,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Santosh Mastana,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,Soren,0,0,2,0,0,0,0,0,0,2,0
+EVT_04845,Soren govt,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Soren's Jharkhand Mukti Morcha-led government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,State Government of Jharkhand,0,0,0,0,0,0,0,0,0,3,0
+EVT_04845,State Ministers,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Student Protest,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Student leader Umme Habiba,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,Student leaders Umme Habiba and Rahul Kranti,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Student protesters,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,Students,0,0,1,2,0,0,0,0,0,0,0
+EVT_04845,"TDPL (TDPL is a recruitment body, likely referring to the Telangana and District Staff Selection Commission or similar organization)",0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,TDPL (Thai Democracy and People's Power League),0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,TDPL (The Test Preparation Link),0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,"TDPL (likely referring to the Telangana and District Planning Board or Telangana and District Planning Committee, depending on context)",0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,TDPL (not specified),0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,TDPL recruitment processes,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,The Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,The Times of India (TOI) News Desk,0,0,0,0,0,0,0,0,0,1,0
+EVT_04845,The government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,government,0,0,5,3,0,0,0,0,0,1,0
+EVT_04845,government/authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_04845,protesters,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,protesters' demands,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,state government,0,0,1,0,0,0,0,0,0,0,0
+EVT_04845,unknown politician or party,0,0,1,0,0,0,0,0,0,0,0
+EVT_04850,Bench (Supreme Court),0,0,0,0,0,0,0,0,0,1,0
+EVT_04850,Court,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Court/Supreme Court,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Gangsters,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,High Court,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Indian Judiciary,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Judges/Bench,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Judicial Bench,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Judiciary,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Legal System,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,"Section 12 of the Uttar Pradesh Gangsters and Anti-Social Activities (Prevention) Act, 1986",0,0,0,2,0,0,0,0,0,0,0
+EVT_04850,"Section 346 of the Bharatiya Nagarik Suraksha Sanhita, 2023",0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Supreme Court,0,0,0,5,0,0,0,0,0,1,0
+EVT_04850,Supreme Court (SC),0,0,0,0,0,0,0,0,0,1,0
+EVT_04850,The Bench,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,The accused,0,0,0,3,0,0,0,0,0,0,0
+EVT_04850,The trial court,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,Witnesses,0,0,0,1,0,0,0,0,0,0,0
+EVT_04850,station house officer,0,0,0,1,0,0,0,0,0,0,0

@@ -10855,6 +10855,38 @@ EVT_04332,Village Defence Groups (VDGs),the_hindu,2,Neutral/Mixed,Violence,0.0,0
 EVT_04332,Village Defence Guards (VDG),the_hindu,1,Negative,Violence,100.0,0.0,0.0
 EVT_04332,Village Defence Guards (VDG),the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
 EVT_04332,police,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04337,Afghan envoy,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,Afghanistan,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,Afghanistan Government,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,Afghanistan's foreign policy,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04337,Anand Prakash,india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04337,India,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,India,india_today,2,Positive,Development,0.0,100.0,0.0
+EVT_04337,India,the_times_of_india,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,India Ministry of External Affairs (MEA),hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,Indian Government,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04337,Indian government,hindustan_times,2,Negative,Policy,50.0,0.0,50.0
+EVT_04337,Indian traders and scholars,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,International bodies or organizations,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,Islamic Emirate of Afghanistan,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,Kabul's push for wider engagement,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,MEA and minister S Jaishankar,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
+EVT_04337,Muttaqi,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04337,Noor,hindustan_times,3,Positive,Development,0.0,66.7,33.3
+EVT_04337,Noor,india_today,6,Neutral/Mixed,Development,0.0,16.7,83.3
+EVT_04337,Politician or representative speaking on Afghanistan's stability,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_04337,Politician/Correspondent,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,Politicians and countries,india_today,1,Neutral/Mixed,History and Inspiration,0.0,0.0,100.0
+EVT_04337,Reza,hindustan_times,1,Neutral/Mixed,Interest,0.0,0.0,100.0
+EVT_04337,Rezaul Hasan Laskar,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,Taliban,hindustan_times,4,Negative,Development,50.0,25.0,25.0
+EVT_04337,Taliban,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_04337,Taliban,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
+EVT_04337,Taliban regime of Afghanistan,hindustan_times,1,Neutral/Mixed,Peace and Stability,0.0,0.0,100.0
+EVT_04337,The speaker,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,Various Diplomatic Entities,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04337,Various Politicians and Governments,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04337,Western and European countries,hindustan_times,1,Negative,Exclusion,100.0,0.0,0.0
 EVT_04365,BRS,hindustan_times,2,Negative,Development,50.0,0.0,50.0
 EVT_04365,BRS,india_today,1,Negative,Development,100.0,0.0,0.0
 EVT_04365,BRS (Bharatiya Janata Party),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
@@ -10886,45 +10918,106 @@ EVT_04365,chief minister,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
 EVT_04365,former BRS minister,india_today,1,Negative,"Corruption, Development",100.0,0.0,0.0
 EVT_04390,Anagha,hindustan_times,1,Neutral/Mixed,Professional Background,0.0,0.0,100.0
 EVT_04390,Anagha Deshpande,hindustan_times,4,Neutral/Mixed,Career Progression,0.0,0.0,100.0
+EVT_04390,Aspiring Candidates,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_04390,BJP,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_04390,BJP (Bharatiya Janata Party),hindustan_times,3,Negative,Violence,100.0,0.0,0.0
+EVT_04390,CJP convenor Abhijeet Dipke,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
 EVT_04390,CJP's Abhijeet Dipke,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04390,CM Soren,hindustan_times,2,Negative,Corruption,50.0,50.0,0.0
+EVT_04390,CM Soren (Sarkaria Party),hindustan_times,1,Positive,Reform Strategy,0.0,100.0,0.0
+EVT_04390,CM Soren (likely referring to Jharkhand Chief Minister),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,"CM Soren, Congress MP Rahul Gandhi, state ministers Dipika Pandey Singh and Irfan Ansari",hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_04390,Candidates who cleared the JSSC-CGL examinations,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Chief Minister,hindustan_times,3,Negative,Development,66.7,33.3,0.0
 EVT_04390,Devendra,hindustan_times,1,Neutral/Mixed,Health Concern,0.0,0.0,100.0
-EVT_04390,Devendra Mahto,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
-EVT_04390,Devendra Nath Mahto,hindustan_times,3,Neutral/Mixed,Protest,33.3,33.3,33.3
+EVT_04390,Devendra Mahto,hindustan_times,4,Neutral/Mixed,Protest,25.0,25.0,25.0
+EVT_04390,Devendra Mahto (Student leader),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Devendra Mahto (student leader),hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04390,Devendra Nath Ma9,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04390,Devendra Nath Mahto,hindustan_times,5,Neutral/Mixed,Protest,40.0,40.0,20.0
 EVT_04390,Devendra Nath Mahto,the_hindu,1,Negative,Protest,100.0,0.0,0.0
-EVT_04390,Hemant Soren,hindustan_times,2,Positive,Law & Order,0.0,100.0,0.0
+EVT_04390,Devendra Nath Mahto (protesting student leader),hindustan_times,1,Positive,Protest,0.0,100.0,0.0
+EVT_04390,Dipika Pandey,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04390,Dipika Pandey Singh and Irfan Ansari,hindustan_times,2,Negative,Development,50.0,50.0,0.0
+EVT_04390,Dipke,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_04390,Healthcare System,hindustan_times,1,Neutral/Mixed,Healthcare,0.0,0.0,100.0
+EVT_04390,Hemant Soren,hindustan_times,3,Positive,Law & Order,0.0,100.0,0.0
+EVT_04390,Hemant Soren (Chief Minister of Jharkhand),hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_04390,Hemant Soren (Jharkhand CM),hindustan_times,2,Negative,Corruption,100.0,0.0,0.0
 EVT_04390,Independence Day,the_hindu,1,Neutral/Mixed,Cultural Event,0.0,0.0,100.0
 EVT_04390,"India's political leadership, including leaders like Subhas Chandra Bose and Mahatma Gandhi",the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04390,Irfan Ansari,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04390,Irfan Ansari (Jharkhand Minister),hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
 EVT_04390,J'khand govt,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,JSSC-CGL examination,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04390,JSSC-CGL selectee,hindustan_times,2,Positive,Development,0.0,100.0,0.0
 EVT_04390,Jaipal Singh Munda,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Jharkhand CM's announcement,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_04390,Jharkhand Congress leader,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04390,Jharkhand Government,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04390,"Jharkhand Government Health Minister Irfan Ansari, Minister Dipika Pandey, and MLA Jairam Mahato",hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_04390,Jharkhand Public Service Commission and Jharkhand Staff Selection Commission,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Jharkhand government,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04390,Jharkhand minister,hindustan_times,2,Negative,Legal Action,100.0,0.0,0.0
 EVT_04390,Kumar Raja (Jharkhand Congress leader),hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_04390,Local Government Officials,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
 EVT_04390,Mahto,hindustan_times,7,Negative,Protest,71.4,14.3,14.3
 EVT_04390,Mahto (police assault on hunger strikers),the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04390,Ministers,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_04390,Mr. Mahto,the_hindu,3,Neutral/Mixed,Protest,33.3,0.0,33.3
 EVT_04390,Mr. Mahto and his people,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_04390,Mr. Mahto and students,the_hindu,1,Positive,Protest,0.0,100.0,0.0
 EVT_04390,Omisha,hindustan_times,1,Neutral/Mixed,Creative Interests,0.0,0.0,100.0
 EVT_04390,Omisha Pingua,hindustan_times,1,Neutral/Mixed,Professional Development,0.0,0.0,100.0
+EVT_04390,Paswan (Politician),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_04390,Police,hindustan_times,2,Negative,Law & Order,100.0,0.0,0.0
 EVT_04390,Police,the_hindu,2,Negative,Violence,100.0,0.0,0.0
 EVT_04390,Police Officers,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_04390,"Politician (implied, questioning stance)",hindustan_times,1,Negative,Freedom and Nationalism,100.0,0.0,0.0
 EVT_04390,Politician (presumably a leader in Jharkhand),hindustan_times,1,Positive,Trust,0.0,100.0,0.0
 EVT_04390,Politician or Party,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04390,Politician or party,hindustan_times,3,Positive,Development,0.0,100.0,0.0
+EVT_04390,Politicians (general),hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_04390,Protest Organizers (not specified in text),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Protesters,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04390,Rahul Gandhi,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04390,Rajya Sabha MP Sahney,hindustan_times,2,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04390,Rajya Sabha MP Vikramjit Singh Sahney,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_04390,Rakesh Ranjan and Paras Rana,the_hindu,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04390,Ravindra Paswan,hindustan_times,3,Positive,Protest,0.0,66.7,0.0
 EVT_04390,Soren,hindustan_times,1,Positive,Development,0.0,100.0,0.0
-EVT_04390,Students,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Soren (likely referring to a politician or party leader in Jharkhand),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04390,Soren (presumably referring to a political figure or official),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04390,Soren (presumably the Chief Minister of Jharkhand),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,State Minister Dipika Pandey,hindustan_times,2,Positive,Policy,0.0,100.0,0.0
+EVT_04390,Student Activism,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04390,Student Leader,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Student Leader Devendra Nath Mahato,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_04390,Student leader Devendra Mahto,hindustan_times,3,Positive,Protest,0.0,66.7,33.3
+EVT_04390,Student leaders Umme Habiba and Rahul Kranti,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
+EVT_04390,Student protesters,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_04390,Student protesters in Jharkhand,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
+EVT_04390,Students,hindustan_times,2,Negative,Protest,50.0,50.0,0.0
+EVT_04390,"Students, youths",hindustan_times,1,Positive,Protest,0.0,100.0,0.0
+EVT_04390,Sudivya Kumar (Jharkhand minister),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,Supreme Court,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04390,TDPL (Tata Dost Public Limited),hindustan_times,1,Negative,Development,100.0,0.0,0.0
+EVT_04390,TDPL (The Department of Public Law),hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04390,The unnamed speaker (likely referring to a politician or party leader involved in student movements),hindustan_times,1,Positive,Protest,0.0,100.0,0.0
 EVT_04390,Unknown Politician or Party,the_hindu,1,Negative,Violence,100.0,0.0,0.0
-EVT_04390,government,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04390,Various companies,hindustan_times,2,Negative,Corruption,100.0,0.0,0.0
+EVT_04390,aspirants who cleared the exam,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,government,hindustan_times,3,Neutral/Mixed,Development,33.3,33.3,33.3
 EVT_04390,government and Mahto,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_04390,himself,hindustan_times,1,Positive,Justice,0.0,100.0,0.0
 EVT_04390,police,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
 EVT_04390,police,the_hindu,1,Negative,Violence,100.0,0.0,0.0
-EVT_04390,protesters,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04390,protesters,hindustan_times,2,Neutral/Mixed,Protest,0.0,0.0,50.0
+EVT_04390,protesting selectees,hindustan_times,2,Negative,Protest,100.0,0.0,0.0
+EVT_04390,student leader,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04390,students protesting against irregularities,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
+EVT_04390,unknown,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04390,unknown politician or party,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
 EVT_04404,Amit Shah,hindustan_times,3,Negative,Patriotism and Nationalism,66.7,33.3,0.0
 EVT_04404,Amit Shah,the_times_of_india,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_04404,"Amit Shah, Congress",hindustan_times,1,Negative,Protest,100.0,0.0,0.0
@@ -11194,6 +11287,16 @@ EVT_04578,The HT News Desk,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_04578,The newsdesk at Hindustan Times,hindustan_times,1,Neutral/Mixed,Media Coverage,0.0,0.0,100.0
 EVT_04578,official,deccan_herald,4,Negative,Violence,100.0,0.0,0.0
 EVT_04578,police or security forces,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04600,Agency,the_times_of_india,1,Negative,Quality Control,100.0,0.0,0.0
+EVT_04600,Candidates,the_times_of_india,1,Negative,Accuracy and Quality of Information,100.0,0.0,0.0
+EVT_04600,English paper,the_times_of_india,1,Negative,Accuracy and Quality of Information,100.0,0.0,0.0
+EVT_04600,Exam System,the_times_of_india,2,Negative,Corruption,100.0,0.0,0.0
+EVT_04600,Manash Pratim Gohain,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04600,NTA (National Testing Agency),deccan_herald,2,Negative,Development,50.0,0.0,50.0
+EVT_04600,NTA (National Testing Agency),the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04600,UGC (National Testing Agency),the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04600,UGC (University Grants Commission) and NTA (National Testing Agency),the_times_of_india,1,Negative,Integrity and Reliability of Examinations,100.0,0.0,0.0
+EVT_04600,University administration,deccan_herald,1,Negative,Regulation & Oversight,100.0,0.0,0.0
 EVT_04649,Ajit Kulkarni,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_04649,Anant Ambani's Vantara,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_04649,Banni initiative,hindustan_times,1,Positive,Development,0.0,100.0,0.0
@@ -11221,3 +11324,341 @@ EVT_04649,Politicians and News Media,hindustan_times,2,Neutral/Mixed,Development
 EVT_04649,UN wildlife trade body,hindustan_times,1,Positive,Development,0.0,100.0,0.0
 EVT_04649,Vantara,hindustan_times,2,Positive,Development,0.0,50.0,50.0
 EVT_04649,Vantara,the_times_of_india,3,Positive,Development,0.0,100.0,0.0
+EVT_04701,Akhilesh Yadav,hindustan_times,2,Negative,Concern,50.0,0.0,50.0
+EVT_04701,Akhilesh Yadav,india_today,4,Negative,Law & Order,100.0,0.0,0.0
+EVT_04701,Akhilesh Yadav (Samajwadi Party),hindustan_times,1,Negative,Grief and Criticism,100.0,0.0,0.0
+EVT_04701,Ashutosh Mishra,india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04701,Authorities,india_today,2,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04701,Deputy commissioner of police Maneesh Kalwaniya,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,HT News Desk,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04701,Hindustan Times,hindustan_times,1,Neutral/Mixed,News Source,0.0,0.0,100.0
+EVT_04701,IPS officer Ashutosh Mishra,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,Indian Navy,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,Indrawati,hindustan_times,1,Negative,Death,100.0,0.0,0.0
+EVT_04701,Indrawati (presumed victim),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,Kalwaniya,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04701,Man,hindustan_times,1,Negative,Crime,100.0,0.0,0.0
+EVT_04701,Mayawati,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04701,Mayawati (BSP chief),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,Medical professionals and law enforcement,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04701,Mishra,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,"Navy sailor, wife and 2 children",hindustan_times,1,Negative,Death,100.0,0.0,0.0
+EVT_04701,Police,hindustan_times,3,Neutral/Mixed,Violence,33.3,0.0,66.7
+EVT_04701,Police,india_today,1,Neutral/Mixed,Investigation,0.0,0.0,100.0
+EVT_04701,Police Officer's Family,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,Police in Uttar Pradesh,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,Political Reporting,hindustan_times,1,Neutral/Mixed,Accuracy and Fairness,0.0,0.0,100.0
+EVT_04701,Politician or Party,hindustan_times,1,Neutral/Mixed,Property Crime,0.0,0.0,100.0
+EVT_04701,Shashank Shukla,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04701,Uttar Pradesh government,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04701,Yadav,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04701,government,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04701,police,india_today,2,Negative,Law & Order,50.0,50.0,0.0
+EVT_04701,police and investigation teams,india_today,2,Negative,Violence,100.0,0.0,0.0
+EVT_04706,BCCI chairperson Manan Kumar Mishra,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,BCI (Board of Coordinating Institutes),the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,Bar Council of India (BCI),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,CJI (Chief Justice of India),hindustan_times,2,Negative,Law & Order,50.0,50.0,0.0
+EVT_04706,CJI (Chief Justice of India),the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,CJI Kant,hindustan_times,2,Negative,Law & Order,50.0,0.0,50.0
+EVT_04706,CJI Kant,the_times_of_india,2,Negative,Law & Order,50.0,0.0,50.0
+EVT_04706,CJI Surya Kant,hindustan_times,2,Negative,Protest,50.0,50.0,0.0
+EVT_04706,"CJI Surya Kant, BCI chairman",hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,CJI-led bench,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04706,CJI-led bench,the_times_of_india,2,Negative,Law & Order,50.0,50.0,0.0
+EVT_04706,Chief Justice of India Surya Kant,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,Chief Justice of India Surya Kant,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_04706,HT News Desk,hindustan_times,1,Neutral/Mixed,News Coverage,0.0,0.0,100.0
+EVT_04706,Hindustan Times,hindustan_times,1,Neutral/Mixed,Media Coverage,0.0,0.0,100.0
+EVT_04706,Nalsar,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_04706,Nalsar,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04706,News Desk,hindustan_times,1,Neutral/Mixed,Accuracy,0.0,0.0,100.0
+EVT_04706,The HT News Desk,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04743,Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,Court,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04743,Government,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,Judiciary,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,Legal Process and Authorities,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,Politicians,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,Politicians,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,RJD MP Sudhakar Singh,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,RJD MP Sudhakar Singh,the_times_of_india,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04743,Ram Temple Donation Row,india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04743,SC (Supreme Court),hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04743,SC (Supreme Court),the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04743,SIT (South Asian Terrorism Panel),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04743,SIT (Supervising Intelligence Team),india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04743,Shri Ram Janmabhoomi Teerth Kshetra Trust,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,Shri Ram Janmabhoomi Teerth Kshetra Trust,india_today,2,Negative,Corruption,50.0,0.0,50.0
+EVT_04743,Shri Ram Janmabhoomi Teerth Kshetra Trust,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,Supreme Court,india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04743,Supreme Court,the_times_of_india,2,Positive,Development,0.0,50.0,50.0
+EVT_04743,The SIT (Special Investigating Team),india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,The Supreme Court,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,The Times of India,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04743,The construction of the Ram temple in Ayodhya,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,UP govt,india_today,1,Neutral/Mixed,Corruption,0.0,0.0,100.0
+EVT_04743,Uttar Pradesh Police,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,Uttar Pradesh government,hindustan_times,2,Negative,Corruption,50.0,0.0,50.0
+EVT_04743,Uttar Pradesh government,india_today,5,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,Uttar Pradesh government,the_times_of_india,1,Neutral/Mixed,Corruption,0.0,0.0,100.0
+EVT_04743,government,india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04743,the temple trust,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04743,top court,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04743,unknown,the_times_of_india,1,Neutral/Mixed,Unknown,0.0,0.0,0.0
+EVT_04751,AIIMS (AIIMS is a public health institution in India),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04751,AIIMS (likely referring to All India Institute of Medical Sciences),hindustan_times,1,Neutral/Mixed,Death Investigation,0.0,0.0,100.0
+EVT_04751,Advocate Ankur Pandey,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04751,Bharatiya Nyaya Sanhita,the_hindu,2,Negative,Corruption,100.0,0.0,0.0
+EVT_04751,Bharatiya Nyaya Sanhita (BNS),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,CBI,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04751,CBI (Central Bureau of Investigation),hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04751,CBI (Central Bureau of Investigation),the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Dowry Prohibition Act,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Former Model and Actor,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Giribala Singh,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04751,Giribala Singh and Samarth Singh,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Giribala Singh and son,hindustan_times,1,Negative,Cruelty,100.0,0.0,0.0
+EVT_04751,HT News Desk,hindustan_times,2,Neutral/Mixed,Coverage,0.0,0.0,100.0
+EVT_04751,Healthcare System,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04751,Hindustan Times,hindustan_times,1,Neutral/Mixed,News Desk,0.0,0.0,100.0
+EVT_04751,Judge Shobhana Bhalavi,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Local Government Officials,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04751,Madhya Pradesh High Court,hindustan_times,2,Neutral/Mixed,Investigation,0.0,0.0,100.0
+EVT_04751,Madhya Pradesh High Court,the_hindu,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04751,Media Organization,hindustan_times,2,Neutral/Mixed,Information Provision,0.0,0.0,100.0
+EVT_04751,Medical Board Investigation,hindustan_times,1,Neutral/Mixed,Forensic Examination,0.0,0.0,100.0
+EVT_04751,"Mental, physical torture over dowry",hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Mr. Pandey,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04751,New Political Party,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_04751,Opposition Leader,the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_04751,Police investigation,hindustan_times,1,Neutral/Mixed,Evidence Collection,0.0,0.0,100.0
+EVT_04751,Politician or Party,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04751,"Politicians (in general, could be seen as the accused)",the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04751,Samarth,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Samarth (Mr. Samarth),the_hindu,1,Negative,"Violence, Dowry",100.0,0.0,0.0
+EVT_04751,Samarth Singh,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04751,Samarth and Giribala Singh,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04751,She,hindustan_times,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04751,Sneha's suicide prevention helpline,the_hindu,1,Positive,Healthcare,0.0,100.0,0.0
+EVT_04751,The Accused,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,The victim's family,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04751,Twisha (and her family),hindustan_times,1,Negative,Suicide Attempt vs. Fabrication,100.0,0.0,0.0
+EVT_04751,Twisha's family,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04751,Twisha's family and in-laws,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Ashok Dham temple incident,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Ashokdham / Indradamneshwar Mahadev Temple,hindustan_times,1,Neutral/Mixed,Culture & Religion,0.0,0.0,100.0
+EVT_04787,Ashokdham Temple,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Avinash Kumar,hindustan_times,1,Neutral/Mixed,Journalism,0.0,0.0,100.0
+EVT_04787,Bihar CM,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Bihar Chief Minister Samrat Choudhary,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04787,Bihar Chief Minister Samrat Choudhury,the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04787,Bihar Government,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Bihar State Board of Religious Trust,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04787,Bihar's Lakhisarai temple incident,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,"CM (likely referring to Chief Minister or Mayor, depending on context)",hindustan_times,1,Neutral/Mixed,Emergency Response,0.0,0.0,100.0
+EVT_04787,Chief Minister Samrat Choudhury,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Crowd Management,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Crowd of devotees and Vaishno Devi temple in Jammu and Kashmir,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,District Administration,the_hindu,3,Positive,Law & Order,0.0,100.0,0.0
+EVT_04787,District administration officials and police personnel,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04787,Government,the_hindu,2,Positive,Development,0.0,100.0,0.0
+EVT_04787,Government,the_times_of_india,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04787,India,the_hindu,1,Neutral/Mixed,Accidents,0.0,0.0,100.0
+EVT_04787,Local Authorities,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Local Government Leaders,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Ms. Murmu,the_hindu,1,Negative,"Sorrow, Community Response",100.0,0.0,0.0
+EVT_04787,Ms. Murmu (Indian President Arvind Kejriwal),the_hindu,1,Negative,Grief and Compassion,100.0,0.0,0.0
+EVT_04787,NDA Government in the State of Bihar,the_hindu,1,Negative,"Corruption, Law & Order",100.0,0.0,0.0
+EVT_04787,Narendra Modi (Prime Minister),the_times_of_india,2,Positive,Law & Order,0.0,100.0,0.0
+EVT_04787,Nitish Kumar,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04787,Nitish Kumar,the_hindu,2,Negative,Death or Incidents,100.0,0.0,0.0
+EVT_04787,Police,hindustan_times,3,Negative,Protest,100.0,0.0,0.0
+EVT_04787,Political Official,the_hindu,1,Negative,Sorrow and Support,100.0,0.0,0.0
+EVT_04787,Politician A,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04787,Politician or Official,the_hindu,1,Negative,Suffering and Response,100.0,0.0,0.0
+EVT_04787,Politician or Party (not specified in text),hindustan_times,2,Negative,Law & Order,50.0,0.0,50.0
+EVT_04787,Preacher and devotees in Uttar Pradesh's Hathras district,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Prem Singh Meena,the_hindu,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04787,President,the_hindu,2,Negative,Loss of Life,100.0,0.0,0.0
+EVT_04787,President Droupadi Murmu,the_hindu,2,Negative,Crisis Management,100.0,0.0,0.0
+EVT_04787,Ranbir Nandan,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04787,Religious Event and Community Gatherings,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,Religious or Religious Organization,the_hindu,1,Neutral/Mixed,Religion,0.0,0.0,100.0
+EVT_04787,Samrat Choudhary (Bihar CM),the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04787,Shailendra Kumar (Lakhisarai District Magistrate),the_hindu,1,Neutral/Mixed,Incident Response,0.0,0.0,100.0
+EVT_04787,Shailendra Kumar (Lakhisarai district magistrate),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,"Shivam Kumar, Lakhisarai DM Shailendra Kumar",the_times_of_india,1,Neutral/Mixed,Emergency Response,0.0,0.0,100.0
+EVT_04787,Society at large,the_hindu,1,Neutral/Mixed,Violence,0.0,0.0,100.0
+EVT_04787,Stakeholders and Event Organizers,hindustan_times,3,Negative,Violence,100.0,0.0,0.0
+EVT_04787,"Tejashwi Yadav, NDA Government",the_hindu,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04787,Temple Management and Authorities,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,The Times of India,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04787,Vijay Kumar Sinha,the_hindu,1,Negative,Security Concern,100.0,0.0,0.0
+EVT_04787,Vishnu Temple in Bihar,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
+EVT_04787,crowd management,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_04819,Air India,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,Air India and Air India Express,hindustan_times,2,Positive,Business and Economy,0.0,50.0,50.0
+EVT_04819,Air India and Air India Express,the_times_of_india,1,Negative,Safety and Quality Control,100.0,0.0,0.0
+EVT_04819,Air India and Government Agencies,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,Air India flight AI2379,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,Air India group,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,Air India pilots,hindustan_times,2,Negative,Health & Safety,100.0,0.0,0.0
+EVT_04819,Air India pilots,the_times_of_india,2,Negative,Health Violation,100.0,0.0,0.0
+EVT_04819,Aircraft Accidents and Safety,hindustan_times,1,Neutral/Mixed,Safety and Compliance,0.0,0.0,100.0
+EVT_04819,Aircraft Manufacturers and Regulatory Bodies,hindustan_times,1,Neutral/Mixed,Safety,0.0,0.0,100.0
+EVT_04819,Aviation Ministry,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04819,Aviation Regulations,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,DGCA (Direct Air Carrier),the_times_of_india,2,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04819,DGCA (Director General of Civil Aviation),the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
+EVT_04819,DGCA (Directorate General of Civil Aviation),the_times_of_india,1,Neutral/Mixed,Health & Safety,0.0,0.0,100.0
+EVT_04819,HT News Desk,hindustan_times,2,Neutral/Mixed,News Coverage,0.0,0.0,100.0
+EVT_04819,Hindustan Times,hindustan_times,1,Neutral/Mixed,News Outlet,0.0,0.0,100.0
+EVT_04819,India's aviation sector or relevant government entities,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,Manish Uppal,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04819,Phuket-Delhi flight incident,hindustan_times,1,Neutral/Mixed,Safety,0.0,0.0,100.0
+EVT_04819,Pilot,hindustan_times,2,Negative,Health and Safety,50.0,0.0,50.0
+EVT_04819,Political Journalism,hindustan_times,1,Neutral/Mixed,Verification,0.0,0.0,100.0
+EVT_04819,Saurabh Sinha,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04819,Uppal (presumably a pilot supervisor or regulatory official),hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04830,BJP,hindustan_times,3,Positive,Election Strategy,0.0,100.0,0.0
+EVT_04830,BJP,theprint,1,Negative,Disassociation and Speculation,100.0,0.0,0.0
+EVT_04830,BJP (Bharatiya Janata Party),theprint,1,Neutral/Mixed,Leadership Change,0.0,0.0,100.0
+EVT_04830,BJP (Indian political party),theprint,1,Negative,Resignation and Financial Issues,100.0,0.0,0.0
+EVT_04830,Congress,theprint,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04830,Congress leaders,theprint,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04830,Congress leadership,theprint,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_04830,"Eternally grateful for guidance, love, respect and platform that...",theprint,1,Neutral/Mixed,Gratitude,0.0,0.0,100.0
+EVT_04830,PM Modi,theprint,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_04830,Party leader,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_04830,"Politician (implied by context, likely referring to someone who approached a party)",hindustan_times,1,Negative,Decision Making,100.0,0.0,0.0
+EVT_04830,Politician or Party,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04830,Politician or Party,theprint,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04830,Poonawalla,hindustan_times,8,Neutral/Mixed,Policy,12.5,25.0,62.5
+EVT_04830,Poonawalla,theprint,4,Negative,Corruption,50.0,0.0,50.0
+EVT_04830,Poonawalla (likely referring to a BJP politician or spokesperson),hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04830,Prime Minister Modi and the BJP,theprint,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_04830,"Prime Minister Narendra Modi, Party President Nitin Nabin, Home Minister Amit Shah, Defence Minister Rajnath Singh, General Secretary (Organisation) Shri B.L Santosh",theprint,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_04830,Shehzad Jai Hind,theprint,1,Negative,Protest,100.0,0.0,0.0
+EVT_04830,Shehzad Poonawalla,hindustan_times,5,Negative,Election Strategy,60.0,0.0,40.0
+EVT_04830,Shehzad Poonawalla,theprint,1,Negative,Removal,100.0,0.0,0.0
+EVT_04830,Shubham,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_04830,Shubham Pandey,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04830,party (referring to the party who refused to accept the resignation letter),theprint,1,Positive,Gratitude and Support,0.0,100.0,0.0
+EVT_04830,politician or party,hindustan_times,1,Negative,"Corruption, Development, Policy",100.0,0.0,0.0
+EVT_04845,Ansari,hindustan_times,1,Neutral/Mixed,Healthcare,0.0,0.0,100.0
+EVT_04845,Ansari,india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04845,Ansari,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
+EVT_04845,CID (Central Intelligence Department),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,CID ADG Manoj Kaushik,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04845,CID Case No. 025,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,CID Manoj Kaushik and State Probe Agency,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,CM Hemant Soren,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Chief Minister,hindustan_times,2,Negative,Protest,50.0,50.0,0.0
+EVT_04845,Chief Minister Hemant Soren,india_today,3,Positive,Development,33.3,66.7,0.0
+EVT_04845,Devendra Mahto,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_04845,Devendra Mahto,india_today,1,Positive,Policy,0.0,100.0,0.0
+EVT_04845,Devendra Nath Mahto,the_times_of_india,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,Dipika Pandey Singh,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,Dipika Pandey and Jairam Mahato,india_today,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,Gandhi,hindustan_times,2,Positive,Protest,0.0,50.0,50.0
+EVT_04845,Government/Cabinet,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,HT News Desk,hindustan_times,2,Neutral/Mixed,Coverage,0.0,0.0,100.0
+EVT_04845,Habiba,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Habiba,the_times_of_india,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Hemant Soren,india_today,2,Positive,Policy,0.0,100.0,0.0
+EVT_04845,Hemant Soren (Jharkhand chief minister),hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_04845,"Hemant Soren, Rahul Gandhi, Jharkhand government",the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Hindustan Times,hindustan_times,1,Neutral/Mixed,Media,0.0,0.0,100.0
+EVT_04845,"Irfan Ansari, Minister Dipika Pandey, Jairam Mahato, Jairam Mahato",india_today,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,JPSC (Jharkhand Public Service Commission),india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,JPSC (Joint Public Service Commission),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,JPSC-JSSC Reforms Manch,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Jharkhand (government),india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04845,Jharkhand CID,the_times_of_india,1,Neutral/Mixed,Violence,0.0,0.0,100.0
+EVT_04845,Jharkhand Congress in-charge K Raju,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Jharkhand Government,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Jharkhand Minister Irfan Ansari,india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04845,Jharkhand Ministers Dipika Pandey Singh and Irfan Ansari,india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04845,Jharkhand government,hindustan_times,2,Negative,Policy,100.0,0.0,0.0
+EVT_04845,Jharkhand government,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Jharkhand government,the_times_of_india,3,Positive,Development,0.0,100.0,0.0
+EVT_04845,Job aspirants,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,L Khiangte,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,Mahato,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Mahato and his team,india_today,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,"Mahato, Umme Habiba and Rahul Kranti",the_times_of_india,1,Neutral/Mixed,Healthcare/Healthcare Crisis,0.0,0.0,100.0
+EVT_04845,Mahto,hindustan_times,3,Positive,Development,0.0,100.0,0.0
+EVT_04845,Mahto,india_today,2,Positive,Peaceful Protest,0.0,50.0,50.0
+EVT_04845,Mahto,the_times_of_india,2,Positive,Protest,0.0,50.0,50.0
+EVT_04845,Mahto (presumably a government official or representative),india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04845,Minister Irfan Ansari,hindustan_times,1,Positive,Policy,0.0,100.0,0.0
+EVT_04845,Newsdesk,hindustan_times,1,Neutral/Mixed,Accuracy and Verification,0.0,0.0,100.0
+EVT_04845,Paswan,india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04845,Piyush Kumar,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Police,the_times_of_india,1,Negative,Violence,100.0,0.0,0.0
+EVT_04845,Political Leader,the_times_of_india,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_04845,Politician or Party,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,Politician or party (not specified in text),hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04845,Prasad,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04845,Protest,india_today,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,Protesters,hindustan_times,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,Rahul Gandhi,hindustan_times,2,Positive,Development,0.0,50.0,50.0
+EVT_04845,Rahul Gandhi,india_today,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_04845,Rahul Gandhi,the_times_of_india,1,Positive,"Election Strategy, Protest, Development",0.0,100.0,0.0
+EVT_04845,Ravindra Paswan,india_today,1,Positive,Protest,0.0,100.0,0.0
+EVT_04845,SONAM WANGCHUK,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,STUDENT LEADERS,india_today,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Sadar Hospital,hindustan_times,1,Neutral/Mixed,Healthcare,0.0,0.0,100.0
+EVT_04845,Santosh Mastana,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Soren,hindustan_times,2,Negative,Law & Order,100.0,0.0,0.0
+EVT_04845,Soren,the_times_of_india,2,Negative,Development,50.0,0.0,50.0
+EVT_04845,Soren govt,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,Soren's Jharkhand Mukti Morcha-led government,hindustan_times,1,Neutral/Mixed,Government,0.0,0.0,100.0
+EVT_04845,State Government of Jharkhand,the_times_of_india,3,Positive,Development,0.0,100.0,0.0
+EVT_04845,State Ministers,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_04845,Student Protest,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Student leader Umme Habiba,the_times_of_india,1,Positive,Peaceful Protest,0.0,100.0,0.0
+EVT_04845,Student leaders Umme Habiba and Rahul Kranti,india_today,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_04845,Student protesters,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,Students,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04845,Students,india_today,2,Negative,Development,50.0,50.0,0.0
+EVT_04845,"TDPL (TDPL is a recruitment body, likely referring to the Telangana and District Staff Selection Commission or similar organization)",hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04845,TDPL (Thai Democracy and People's Power League),india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,TDPL (The Test Preparation Link),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,"TDPL (likely referring to the Telangana and District Planning Board or Telangana and District Planning Committee, depending on context)",hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_04845,TDPL (not specified),hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,TDPL recruitment processes,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04845,The Government,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04845,The Times of India (TOI) News Desk,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_04845,The government,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04845,government,hindustan_times,5,Neutral/Mixed,Protest,40.0,40.0,20.0
+EVT_04845,government,india_today,3,Negative,Law & Order,66.7,33.3,0.0
+EVT_04845,government,the_times_of_india,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04845,government/authorities,hindustan_times,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04845,minister,india_today,1,Positive,Health and Safety,0.0,100.0,0.0
+EVT_04845,protesters,hindustan_times,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04845,protesters' demands,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04845,state government,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04845,unknown politician or party,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_04850,Bench (Supreme Court),the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,Court,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04850,Court/Supreme Court,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04850,Gangsters,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_04850,High Court,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04850,Indian Judiciary,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,Judges/Bench,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04850,Judicial Bench,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,Judiciary,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04850,Legal System,india_today,1,Negative,Legal Protections,100.0,0.0,0.0
+EVT_04850,Police,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_04850,"Section 12 of the Uttar Pradesh Gangsters and Anti-Social Activities (Prevention) Act, 1986",india_today,2,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,"Section 346 of the Bharatiya Nagarik Suraksha Sanhita, 2023",india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,Supreme Court,india_today,5,Neutral/Mixed,Law & Order,40.0,40.0,20.0
+EVT_04850,Supreme Court,the_times_of_india,1,Positive,Justice,0.0,100.0,0.0
+EVT_04850,Supreme Court (SC),the_times_of_india,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_04850,The Bench,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,The accused,india_today,3,Neutral/Mixed,Corruption,33.3,0.0,66.7
+EVT_04850,The trial court,india_today,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_04850,Witnesses,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_04850,station house officer,india_today,1,Neutral/Mixed,Violence,0.0,0.0,100.0
