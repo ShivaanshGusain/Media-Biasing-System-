@@ -12814,23 +12814,37 @@ EVT_05476,"over 2,600 people who have joined the service",0,0,1,0,0,0,0,0,0,0,0
 EVT_05476,police officers and Deputy Collectors (serving as magistrates),0,0,0,0,0,0,0,1,0,0,0
 EVT_05476,student protests,0,0,3,0,0,0,0,0,0,0,0
 EVT_05560,Automated News Agency,0,0,1,0,0,0,0,0,0,0,0
-EVT_05560,China,0,0,2,0,0,0,0,0,0,1,0
+EVT_05560,China,0,0,7,0,0,0,0,0,0,1,0
+EVT_05560,China and India,0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,Former Army Chief,0,0,2,0,0,0,0,0,0,0,0
 EVT_05560,General MM Naravane (Retd),0,0,0,0,0,0,0,0,0,1,0
-EVT_05560,India,0,0,3,0,0,0,0,0,0,3,0
+EVT_05560,HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,India,0,0,7,0,0,0,0,0,0,3,0
 EVT_05560,India (implied politician or party),0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,India's armed forces,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,India's foreign policy or political leadership,0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,"Indonesian politician or official (implied, given the context of the quote about neighboring countries and refugee influxes)",0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,Karan Manral,0,0,0,0,0,0,0,0,0,2,0
-EVT_05560,Naravane,0,0,8,0,0,0,0,0,0,2,0
+EVT_05560,Media,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Military,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Naravane,0,0,13,0,0,0,0,0,0,2,0
 EVT_05560,Naravane (Army chief),0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,Naravane (PTI),0,0,0,0,0,0,0,0,0,2,0
-EVT_05560,Pakistan and China,0,0,1,0,0,0,0,0,0,0,0
-EVT_05560,Politician,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Pakistan,0,0,2,0,0,0,0,0,0,0,0
+EVT_05560,Pakistan and China,0,0,2,0,0,0,0,0,0,0,0
+EVT_05560,Politician,0,0,2,0,0,0,0,0,0,0,0
 EVT_05560,Politician (implied as the speaker of the quote),0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Politician or party (not specified in text),0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Politician or party not specified,0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,Politician/Head of State,0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,Politician/Leader,0,0,0,0,0,0,0,0,0,1,0
+EVT_05560,Politicians,0,0,1,0,0,0,0,0,0,0,0
 EVT_05560,The Curious and the Classified: Unearthing Military Myths and Mysteries,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,The HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,The speaker or politician,0,0,1,0,0,0,0,0,0,0,0
+EVT_05560,Unknown Politician,0,0,1,0,0,0,0,0,0,0,0
 EVT_05565,EAM (Emergency Advisory Mechanism),0,0,1,0,0,0,0,0,0,0,0
 EVT_05565,Foreign-flagged ships,0,0,1,0,0,0,0,0,0,0,0
 EVT_05565,Government/Politicians,0,0,1,0,0,0,0,0,0,0,0
@@ -18695,16 +18709,28 @@ EVT_08099,Rajesh Kumar Singh,0,0,1,0,0,0,0,0,0,0,0
 EVT_08099,The Politician/Official,0,0,2,0,0,0,0,0,0,0,0
 EVT_08099,Uttar Pradesh Chief Minister,0,0,0,0,0,0,0,1,0,0,0
 EVT_08099,Various Media Organizations,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,Cabinet Committee on Security and Finance Ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,China,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,Gupta,0,0,2,0,0,0,0,0,0,0,0
 EVT_08111,HT News Desk,0,0,4,0,0,0,0,0,0,0,0
+EVT_08111,He (likely referring to a politician or political figure),0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
-EVT_08111,India,0,0,1,0,0,0,0,0,0,2,0
+EVT_08111,India,0,0,4,0,0,0,0,0,0,2,0
+EVT_08111,Indian Armed Forces,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,Indian Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,Indian government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,Indian military,0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,Jaishankar,0,0,6,0,0,0,0,0,0,4,0
 EVT_08111,Jaishankar (India's External Affairs Minister),0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,Newspaper or news organization,0,0,1,0,0,0,0,0,0,0,0
-EVT_08111,PM Modi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08111,PM Modi,0,0,1,0,0,0,0,0,0,1,0
+EVT_08111,Pakistani Armed Forces,0,0,1,0,0,0,0,0,0,0,0
+EVT_08111,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,Putin,0,0,0,0,0,0,0,0,0,1,0
+EVT_08111,Russia,0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,S Jaishankar,0,0,3,0,0,0,0,0,0,0,0
 EVT_08111,S Jaishankar (external affairs minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_08111,Shishir Gupta,0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,Sybiha,0,0,0,0,0,0,0,0,0,3,0
 EVT_08111,Sybiha (likely a person or organization related to the Black Sea),0,0,1,0,0,0,0,0,0,0,0
 EVT_08111,Trump,0,0,1,0,0,0,0,0,0,0,0
@@ -18755,6 +18781,23 @@ EVT_08149,Union government,0,0,0,0,0,0,0,1,0,0,0
 EVT_08149,Various High Court Bench,0,0,1,0,0,0,0,0,0,0,0
 EVT_08149,Wilson,0,0,1,0,0,0,0,0,0,0,0
 EVT_08149,policy of reservation for in-service doctors,0,0,1,0,0,0,0,0,0,0,0
+EVT_08165,C Joseph Vijay,0,0,0,0,0,0,0,0,0,1,0
+EVT_08165,C. Joseph Vijay,0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,CM Vijay (Tamil Nadu Chief Minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_08165,DMK,0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,DMK (Dravida Munnetra Kazhagam),0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,"DMK (Dravida Munnetra Kazhagam, a political party in Tamil Nadu)",0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,G. Sundarrajan,0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,Government,0,0,0,0,0,0,0,0,0,0,4
+EVT_08165,Karan Manral,0,0,0,0,0,0,0,0,0,1,0
+EVT_08165,Prabakaran Veera Arasu,0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,TVK (Tamil Nadu Chief Minister),0,0,0,0,0,0,0,0,0,2,0
+EVT_08165,TVK government,0,0,0,0,0,0,0,0,0,0,2
+EVT_08165,Tamil Nadu Green Energy Corporation Limited (TNGECL),0,0,0,0,0,0,0,0,0,0,2
+EVT_08165,The government,0,0,0,0,0,0,0,0,0,0,2
+EVT_08165,Udhayanidhi Stalin,0,0,0,0,0,0,0,0,0,1,0
+EVT_08165,Vijay,0,0,0,0,0,0,0,0,0,0,1
+EVT_08165,Vijay (presumably referring to a politician or party leader of Vijay Mally),0,0,0,0,0,0,0,0,0,1,0
 EVT_08169,Gor,0,0,6,3,0,0,0,0,0,0,0
 EVT_08169,Gor (likely referring to a politician or negotiator named Gor involved in India-US trade talks),0,0,0,1,0,0,0,0,0,0,0
 EVT_08169,Goyal,0,0,3,0,0,0,0,0,0,0,0
@@ -18894,6 +18937,30 @@ EVT_08316,Rezaul Hasan Laskar,0,0,6,0,0,0,0,0,0,0,0
 EVT_08316,Tibet,0,0,1,0,0,0,0,0,0,0,0
 EVT_08316,Unknown Politician or Party,0,0,0,0,0,0,0,1,0,0,0
 EVT_08316,external affairs ministry,0,0,2,0,0,0,0,0,0,0,0
+EVT_08342,AI University initiative,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,Bowing and Lady Curzon Hospital,1,0,0,0,0,0,0,0,0,0,0
+EVT_08342,Democratic Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,Ghosh,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,Greater Bengaluru Authority (GBA),1,0,0,0,0,0,0,0,0,0,0
+EVT_08342,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,Industry and Academic Institutions,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,Joydeep Thakur,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,Karnataka Artificial Intelligence University (KAIU) consultation committee,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,Karnataka State Disaster Management Authority,1,0,0,0,0,0,0,0,0,0,0
+EVT_08342,Kris Gopalakrishnan and N. Manjula,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,Nepal,1,0,0,0,0,0,0,0,0,0,0
+EVT_08342,Nepal flash floods victims,1,0,0,0,0,0,0,0,0,0,0
+EVT_08342,Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,Roy's wife Sharmistha,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,State authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,Subhash Chandra Ghosh,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,Subhranshu Roy,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,University Establishment,0,0,0,0,0,0,0,1,0,0,0
+EVT_08342,West Bengal Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_08342,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,police,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,police and home department,0,0,1,0,0,0,0,0,0,0,0
 EVT_08353,Bhardwaj,0,0,4,7,0,0,0,0,0,0,0
 EVT_08353,"Bihar Chief Minister Samrat Choudhury, Delhi minister Kapil Mishra, Union Food Processing Industries Minister Chirag Paswan",0,0,0,1,0,0,0,0,0,0,0
 EVT_08353,Chirag Paswan,0,0,2,0,0,0,0,0,0,0,0
@@ -18932,3 +18999,181 @@ EVT_08421,Transport and Highway Safety,0,0,0,1,0,0,0,0,0,0,0
 EVT_08421,Vehicles and Transportation,0,0,0,1,0,0,0,0,0,0,0
 EVT_08421,police,0,0,4,1,0,0,0,0,0,0,0
 EVT_08421,road safety,0,0,0,1,0,0,0,0,0,0,0
+EVT_08423,Aastha Jha,0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,Adhikari,0,0,1,0,0,0,0,0,0,0,0
+EVT_08423,Barnali Bairagi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,Bengal Tourism Department,0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,Buxa Tiger Reserve,0,0,1,0,0,0,0,0,0,0,0
+EVT_08423,Derek O'Brien (TMC MP),0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,Music Industry,0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,Political Official,0,0,1,0,0,0,0,0,0,0,0
+EVT_08423,"Politicians (implied, referring to someone who made the statement)",0,0,1,0,0,0,0,0,0,0,0
+EVT_08423,Rajasthan's government or leaders,0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,State Tourism Development Corporation,0,0,1,0,0,0,0,0,0,0,0
+EVT_08423,Suvendu Adhikari,0,0,3,0,0,0,0,0,0,0,0
+EVT_08423,Suvendu Adhikari (chief minister of West Bengal),0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,Various Tourism Campaigns,0,0,0,0,0,0,0,0,0,1,0
+EVT_08423,West Bengal Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,AICC general secretary (organisation) KC Venugopal,0,0,0,1,0,0,0,0,0,0,0
+EVT_08471,BJP MP,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Baghel,0,0,5,1,0,0,0,0,0,0,0
+EVT_08471,Baghel (presumably the party leader or figurehead),0,0,0,1,0,0,0,0,0,0,0
+EVT_08471,Bhupesh Baghel,0,0,2,0,0,0,0,1,0,0,0
+EVT_08471,Captain Amrinder Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Channi,0,0,2,0,0,0,0,0,0,0,0
+EVT_08471,Charanjit Singh Channi,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Congress,0,0,6,5,0,0,0,3,0,0,0
+EVT_08471,Congress Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Congress high command,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Congress leadership,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,DK Shivakumar,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Karnataka Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Mallikarjun Kharge,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Manickam Tagore,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Mayor John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Mr. Baghel,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Mr. Channi,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Mr. Surjewala,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Mukul Wasnik,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Party (not specified in text),0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Party Leadership,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Party President Mallikarjun Kharge and General Secretary (organisation) K.C. Venugopal,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Pilot,0,0,4,1,0,0,0,0,0,0,0
+EVT_08471,Pilot (likely referring to a political party or candidate named Pilot),0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Pilot (likely referring to a politician or party leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Police Department,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Punjab,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Punjab Congress,0,0,0,1,0,0,0,0,0,0,0
+EVT_08471,Punjab's factions,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Punjab’s 2027 assembly polls,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Rahul Gandhi,0,0,2,0,0,0,0,1,0,0,0
+EVT_08471,Rajasthan Pradesh Congress Committee,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Ramesh Chennithala,0,0,0,0,0,0,0,1,0,0,0
+EVT_08471,Sachin Pilot,0,0,3,0,0,0,0,0,0,0,0
+EVT_08471,Saubhadra Chatterji,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Shri Sachin Pilot Ji,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Sukhdeo Bhagat,0,0,0,1,0,0,0,0,0,0,0
+EVT_08471,"Sukhdeo Bhagat, Shriivel Prasad, PV Mohan (likely referring to AICC Secretary PV Mohan and not to Shriivel Prasad who is likely a typo)",0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Surjewala,0,0,0,1,0,0,0,0,0,0,0
+EVT_08471,TVK,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,Venugopal (likely referring to a Congress leader or party leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,bhupeshbaghel,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,party general secretary (organisation) KC Venugopal,0,0,1,0,0,0,0,0,0,0,0
+EVT_08471,state in-charges,0,0,1,0,0,0,0,0,0,0,0
+EVT_08500,Abhayrab rabies vaccine,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Abhayrab vaccine,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Anuja Jaiswal,0,0,0,0,0,0,0,0,0,1,0
+EVT_08500,Authorities,0,0,0,0,0,0,0,2,0,0,0
+EVT_08500,CDCSO (Center for Disease Control and Prevention),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,DCGI (Drug Controller General of India),0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Delhi Police,0,0,0,3,0,0,0,0,0,0,0
+EVT_08500,Delhi Police and Central Drugs Standard Control Organisation,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Delhi Police and Drugs Control Department,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,"Delhi Police, Central Drugs Standard Control Organisation (CDSCO)",0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Drug regulator,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Drug regulatory and law enforcement agencies,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Government Agencies,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,HBI (Health Biologics Inc.),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,"Health authorities in the US, UK and Australia",0,0,0,0,0,0,0,0,0,1,0
+EVT_08500,IIL,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,IIL (India International Life Sciences),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,IIL (Indian Iron and Steel Company),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,IIL (Institute of Legal Literacy or similar organization),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,IIL (presumably a pharmaceutical company),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Indian Immunologicals,0,0,0,0,0,0,0,0,0,5,0
+EVT_08500,Indian Immunologicals Ltd,0,0,0,0,0,0,0,0,0,1,0
+EVT_08500,Indian Immunologicals Ltd.,0,0,0,2,0,0,0,0,0,0,0
+EVT_08500,Indian Immunologicals Ltd. (IIL),0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Investigation Team,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Local Mayor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Manufacturer of Abhayrab,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Mukherjee Nagar,0,0,0,0,0,0,0,0,0,1,0
+EVT_08500,Regulatory and law enforcement agencies,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,Travellers to India,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,Veterinarians and public health officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08500,drug networks,0,0,0,1,0,0,0,0,0,0,0
+EVT_08500,government,0,0,0,1,0,0,0,0,0,1,0
+EVT_08547,C.T.R. Nirmalkumar,0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,DMK (Dravida Munnetra Kazhagam),0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,DVAC (Delhi Vigilance Authority Committee),0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,DVAC (Department of Virtuous Accountability and Compliance),0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,DVAC (Duties and Visas Audit Committee),0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,DVAC Additional Superintendent of Police (ADSP) Rajesh,0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,Former Minister Anbil Mahesh Poyyamozhi,0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,Governor Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,K.N. Nehru,0,0,0,0,0,0,0,2,0,0,0
+EVT_08547,KN Nehru (DMK leader and former minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,KN Nehru (former minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,Karan Manral,0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,Legal proceedings,0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,M.K. Stalin (DMK president),0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,Mr. Nehru,0,0,0,0,0,0,0,3,0,0,0
+EVT_08547,Mr. Nehru (Politician),0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,Nehru (presumably referring to politician/official),0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,"Nehru and his relatives, officials",0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,Police/Authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_08547,Sasi Priya (Retired Town Planning Officer),0,0,0,0,0,0,0,1,0,0,0
+EVT_08547,"Tamilaga Vettri Kazhagam (TVK) government, M.K. Stalin (DMK president)",0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Adhikari,0,0,2,0,0,0,0,0,0,0,0
+EVT_08565,CM,0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,CM (Chief Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,CM (likely referring to Chief Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,CM Suvendu Adhikari,0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,Chief Minister,0,0,0,0,0,0,0,3,0,0,0
+EVT_08565,Chief Minister of West Bengal,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,City Council,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Education System,0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,Governor Johnson,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Karnataka government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Mr. Adhikari,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Partha Chatterjee,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Politician or Official,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,Politician or Party,0,0,2,0,0,0,0,0,0,0,0
+EVT_08565,Suvendu Adhikari,0,0,2,0,0,0,0,1,0,0,0
+EVT_08565,Trinamool Congress,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,West Bengal Legislative Assembly,0,0,0,0,0,0,0,1,0,0,0
+EVT_08565,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08565,state government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08598,Admiral D K Joshi (retd),0,0,0,1,0,0,0,0,0,0,0
+EVT_08598,BJP (Indian political party),0,0,0,0,0,0,0,1,0,0,0
+EVT_08598,BJP (Rashtrapati Bhavan),0,0,0,1,0,0,0,0,0,0,0
+EVT_08598,Dinesh Sharma,0,0,0,2,0,0,0,0,0,0,0
+EVT_08598,Environmental Advocates,0,0,0,0,0,0,0,1,0,0,0
+EVT_08598,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_08598,"Hon'ble President, Hon'ble Prime Minister, Hon'ble Home Minister, and the party's central leadership",0,0,0,1,0,0,0,0,0,0,0
+EVT_08598,Mr. Sharma,0,0,0,0,0,0,0,2,0,0,0
+EVT_08598,"Politician (implied in the quote, as it refers to a politician's duties and pledge)",0,0,0,1,0,0,0,0,0,0,0
+EVT_08598,Politician or Party,0,0,0,1,0,0,0,0,0,0,0
+EVT_08598,President of India,0,0,0,1,0,0,0,1,0,0,0
+EVT_08598,Sharma,0,0,0,3,0,0,0,0,0,0,0
+EVT_08606,Chief Minister Hemant Soren,0,0,0,1,0,0,0,1,0,0,0
+EVT_08606,Deepak Birua (JMM leader and state transport minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Government Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,He,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,JMM (Jai Bhagwa Mahasabha),0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,JMM (Janata Morcha Jharkhand),0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,JMM (Janata Morcha Mahila) party and government,0,0,0,1,0,0,0,0,0,0,0
+EVT_08606,JMM (Janata Morcha Munda) and Jharkhand government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,JMM (Jharkhand Mukti Morcha),0,0,0,1,0,0,0,0,0,0,0
+EVT_08606,Jharkhand CM,0,0,0,2,0,0,0,0,0,0,0
+EVT_08606,Jharkhand Mukti Morcha,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,Jharkhand Mukti Morcha (JMM) leader,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Jungle Lodges & Resorts,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,K.J George (Karnataka Tourism Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_08606,K.J. George (Karnataka Tourism Minister),0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,Local Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,Mr. Kumar,0,0,0,0,0,0,0,4,0,0,0
+EVT_08606,Nitish Kumar,0,0,0,3,0,0,0,0,0,0,0
+EVT_08606,Party,0,0,0,1,0,0,0,1,0,0,0
+EVT_08606,Politician or Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,Protestors,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,Sonu Bhaiya,0,0,0,1,0,0,0,0,0,0,0
+EVT_08606,Sudivya Kumar,0,0,0,3,0,0,0,1,0,0,0
+EVT_08606,Sudivya Kumar Sonu,0,0,3,0,0,0,0,0,0,0,0
+EVT_08606,Various Tourism Associations,0,0,0,1,0,0,0,0,0,0,0
+EVT_08606,Vishal,0,0,2,0,0,0,0,0,0,0,0
+EVT_08606,Vishal Kant,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,government,0,0,0,0,0,0,0,1,0,0,0

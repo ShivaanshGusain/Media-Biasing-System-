@@ -14067,26 +14067,40 @@ EVT_05476,"over 2,600 people who have joined the service",hindustan_times,1,Nega
 EVT_05476,police officers and Deputy Collectors (serving as magistrates),the_hindu,1,Negative,Law & Order,100.0,0.0,0.0
 EVT_05476,student protests,hindustan_times,3,Negative,Protest,100.0,0.0,0.0
 EVT_05560,Automated News Agency,hindustan_times,1,Neutral/Mixed,News,0.0,0.0,100.0
-EVT_05560,China,hindustan_times,2,Positive,Development,0.0,50.0,50.0
+EVT_05560,China,hindustan_times,7,Neutral/Mixed,Development,28.6,42.9,28.6
 EVT_05560,China,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_05560,China and India,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_05560,Former Army Chief,hindustan_times,2,Negative,Law & Order,50.0,0.0,50.0
 EVT_05560,General MM Naravane (Retd),the_times_of_india,1,Neutral/Mixed,International Relations,0.0,0.0,100.0
-EVT_05560,India,hindustan_times,3,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_05560,HT News Desk,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_05560,Hindustan Times,hindustan_times,1,Neutral/Mixed,News Source,0.0,0.0,100.0
+EVT_05560,India,hindustan_times,7,Neutral/Mixed,Law & Order,0.0,14.3,85.7
 EVT_05560,India,the_times_of_india,3,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_05560,India (implied politician or party),hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_05560,India's armed forces,hindustan_times,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_05560,India's foreign policy or political leadership,hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
 EVT_05560,"Indonesian politician or official (implied, given the context of the quote about neighboring countries and refugee influxes)",hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_05560,Karan Manral,the_times_of_india,2,Negative,Journalism,50.0,0.0,50.0
-EVT_05560,Naravane,hindustan_times,8,Neutral/Mixed,Law & Order,0.0,12.5,87.5
+EVT_05560,Media,hindustan_times,1,Neutral/Mixed,Verification and Accuracy,0.0,0.0,100.0
+EVT_05560,Military,hindustan_times,1,Positive,Security,0.0,100.0,0.0
+EVT_05560,Naravane,hindustan_times,13,Neutral/Mixed,Law & Order,0.0,7.7,92.3
 EVT_05560,Naravane,the_times_of_india,2,Neutral/Mixed,Economic Competition,0.0,0.0,100.0
 EVT_05560,Naravane (Army chief),hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
 EVT_05560,Naravane (PTI),the_times_of_india,2,Negative,Policy,50.0,0.0,50.0
-EVT_05560,Pakistan and China,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
-EVT_05560,Politician,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_05560,Pakistan,hindustan_times,2,Negative,Security Challenge,100.0,0.0,0.0
+EVT_05560,Pakistan and China,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_05560,Politician,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_05560,Politician (implied as the speaker of the quote),hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_05560,Politician or Party,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_05560,Politician or party (not specified in text),hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_05560,Politician or party not specified,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_05560,Politician/Head of State,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_05560,Politician/Leader,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_05560,Politicians,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
 EVT_05560,The Curious and the Classified: Unearthing Military Myths and Mysteries,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_05560,The HT News Desk,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_05560,The speaker or politician,hindustan_times,1,Neutral/Mixed,Territorial Integrity,0.0,0.0,100.0
+EVT_05560,Unknown Politician,hindustan_times,1,Negative,Terrorism,100.0,0.0,0.0
 EVT_05565,EAM (Emergency Advisory Mechanism),hindustan_times,1,Neutral/Mixed,Safety and Security,0.0,0.0,100.0
 EVT_05565,Foreign-flagged ships,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_05565,Government/Politicians,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
@@ -20483,18 +20497,31 @@ EVT_08099,Rajesh Kumar Singh,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0
 EVT_08099,The Politician/Official,hindustan_times,2,Positive,Development,0.0,100.0,0.0
 EVT_08099,Uttar Pradesh Chief Minister,the_hindu,1,Positive,Election Strategy,0.0,100.0,0.0
 EVT_08099,Various Media Organizations,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08111,Cabinet Committee on Security and Finance Ministry,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08111,China,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_08111,Gupta,hindustan_times,2,Positive,Development,0.0,100.0,0.0
 EVT_08111,HT News Desk,hindustan_times,4,Neutral/Mixed,Coverage,0.0,0.0,100.0
+EVT_08111,He (likely referring to a politician or political figure),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_08111,Hindustan Times,hindustan_times,1,Neutral/Mixed,Media Coverage,0.0,0.0,100.0
-EVT_08111,India,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_08111,India,hindustan_times,4,Positive,Development,25.0,50.0,25.0
 EVT_08111,India,the_times_of_india,2,Positive,Development,0.0,100.0,0.0
+EVT_08111,Indian Armed Forces,hindustan_times,1,Positive,Military Success,0.0,100.0,0.0
+EVT_08111,Indian Government,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08111,Indian government,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08111,Indian military,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_08111,Jaishankar,hindustan_times,6,Neutral/Mixed,Development,0.0,16.7,83.3
 EVT_08111,Jaishankar,the_times_of_india,4,Neutral/Mixed,Policy,25.0,0.0,75.0
 EVT_08111,Jaishankar (India's External Affairs Minister),hindustan_times,1,Positive,Peaceful Resolution,0.0,100.0,0.0
 EVT_08111,Newspaper or news organization,hindustan_times,1,Neutral/Mixed,Information Gathering & Verification,0.0,0.0,100.0
+EVT_08111,PM Modi,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_08111,PM Modi,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08111,Pakistani Armed Forces,hindustan_times,1,Negative,Military Failure,100.0,0.0,0.0
+EVT_08111,Politician or Party,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_08111,Putin,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08111,Russia,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_08111,S Jaishankar,hindustan_times,3,Positive,Development,33.3,66.7,0.0
 EVT_08111,S Jaishankar (external affairs minister),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_08111,Shishir Gupta,hindustan_times,1,Positive,Expertise and Contributions,0.0,100.0,0.0
 EVT_08111,Sybiha,the_times_of_india,3,Neutral/Mixed,Development,33.3,0.0,66.7
 EVT_08111,Sybiha (likely a person or organization related to the Black Sea),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_08111,Trump,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
@@ -20548,6 +20575,23 @@ EVT_08149,Union government,the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_08149,Various High Court Bench,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
 EVT_08149,Wilson,hindustan_times,1,Negative,Policy,100.0,0.0,0.0
 EVT_08149,policy of reservation for in-service doctors,hindustan_times,1,Negative,Development,100.0,0.0,0.0
+EVT_08165,C Joseph Vijay,the_times_of_india,1,Negative,Policy,100.0,0.0,0.0
+EVT_08165,C. Joseph Vijay,theprint,1,Negative,Law & Order,100.0,0.0,0.0
+EVT_08165,CM Vijay (Tamil Nadu Chief Minister),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_08165,DMK,theprint,1,Negative,Development,100.0,0.0,0.0
+EVT_08165,DMK (Dravida Munnetra Kazhagam),theprint,1,Negative,Environmental Concerns,100.0,0.0,0.0
+EVT_08165,"DMK (Dravida Munnetra Kazhagam, a political party in Tamil Nadu)",theprint,1,Negative,Environment,100.0,0.0,0.0
+EVT_08165,G. Sundarrajan,theprint,1,Negative,Environmental Violation,100.0,0.0,0.0
+EVT_08165,Government,theprint,4,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08165,Karan Manral,the_times_of_india,1,Neutral/Mixed,Journalism,0.0,0.0,100.0
+EVT_08165,Prabakaran Veera Arasu,theprint,1,Negative,Development,100.0,0.0,0.0
+EVT_08165,TVK (Tamil Nadu Chief Minister),the_times_of_india,2,Negative,Law & Order,100.0,0.0,0.0
+EVT_08165,TVK government,theprint,2,Negative,Development,50.0,50.0,0.0
+EVT_08165,Tamil Nadu Green Energy Corporation Limited (TNGECL),theprint,2,Negative,Development,100.0,0.0,0.0
+EVT_08165,The government,theprint,2,Neutral/Mixed,Development,0.0,0.0,50.0
+EVT_08165,Udhayanidhi Stalin,the_times_of_india,1,Negative,Development,100.0,0.0,0.0
+EVT_08165,Vijay,theprint,1,Positive,Development,0.0,100.0,0.0
+EVT_08165,Vijay (presumably referring to a politician or party leader of Vijay Mally),the_times_of_india,1,Positive,Development,0.0,100.0,0.0
 EVT_08169,Gor,hindustan_times,6,Positive,Development,0.0,66.7,33.3
 EVT_08169,Gor,india_today,3,Neutral/Mixed,Development,0.0,33.3,66.7
 EVT_08169,Gor (likely referring to a politician or negotiator named Gor involved in India-US trade talks),india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
@@ -20701,6 +20745,30 @@ EVT_08316,Rezaul Hasan Laskar,hindustan_times,6,Neutral/Mixed,Journalism,0.0,0.0
 EVT_08316,Tibet,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
 EVT_08316,Unknown Politician or Party,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
 EVT_08316,external affairs ministry,hindustan_times,2,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08342,AI University initiative,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08342,Bowing and Lady Curzon Hospital,deccan_herald,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08342,Democratic Party,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08342,Ghosh,hindustan_times,1,Negative,Death Investigation,100.0,0.0,0.0
+EVT_08342,Greater Bengaluru Authority (GBA),deccan_herald,1,Neutral/Mixed,Disaster Management,0.0,0.0,100.0
+EVT_08342,India,hindustan_times,1,Neutral/Mixed,Natural Disasters,0.0,0.0,100.0
+EVT_08342,Industry and Academic Institutions,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08342,Joydeep Thakur,hindustan_times,1,Neutral/Mixed,Reporting/Investigating,0.0,0.0,100.0
+EVT_08342,Karnataka Artificial Intelligence University (KAIU) consultation committee,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08342,Karnataka State Disaster Management Authority,deccan_herald,1,Neutral/Mixed,Disaster Management,0.0,0.0,100.0
+EVT_08342,Kris Gopalakrishnan and N. Manjula,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08342,Nepal,deccan_herald,1,Neutral/Mixed,Disaster Management,0.0,0.0,100.0
+EVT_08342,Nepal flash floods victims,deccan_herald,1,Neutral/Mixed,Disaster Response,0.0,0.0,100.0
+EVT_08342,Police,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08342,Republican Party,the_hindu,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_08342,Roy's wife Sharmistha,hindustan_times,1,Negative,Disaster Response,100.0,0.0,0.0
+EVT_08342,State authorities,hindustan_times,1,Negative,Disaster,100.0,0.0,0.0
+EVT_08342,Subhash Chandra Ghosh,hindustan_times,1,Neutral/Mixed,Employment,0.0,0.0,100.0
+EVT_08342,Subhranshu Roy,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_08342,University Establishment,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08342,West Bengal Government,hindustan_times,2,Positive,Development,0.0,50.0,50.0
+EVT_08342,government,hindustan_times,1,Negative,Health Policy,100.0,0.0,0.0
+EVT_08342,police,hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_08342,police and home department,hindustan_times,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
 EVT_08353,Bhardwaj,hindustan_times,4,Negative,Arrest,100.0,0.0,0.0
 EVT_08353,Bhardwaj,india_today,7,Negative,Violence,100.0,0.0,0.0
 EVT_08353,"Bihar Chief Minister Samrat Choudhury, Delhi minister Kapil Mishra, Union Food Processing Industries Minister Chirag Paswan",india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
@@ -20745,3 +20813,193 @@ EVT_08421,Vehicles and Transportation,india_today,1,Neutral/Mixed,Accident,0.0,0
 EVT_08421,police,hindustan_times,4,Neutral/Mixed,Accident,25.0,0.0,75.0
 EVT_08421,police,india_today,1,Negative,Violence,100.0,0.0,0.0
 EVT_08421,road safety,india_today,1,Negative,Safety,100.0,0.0,0.0
+EVT_08423,Aastha Jha,the_times_of_india,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08423,Adhikari,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08423,Barnali Bairagi,the_times_of_india,1,Negative,Development,100.0,0.0,0.0
+EVT_08423,Bengal Tourism Department,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_08423,Buxa Tiger Reserve,hindustan_times,1,Neutral/Mixed,Wildlife & Conservation,0.0,0.0,100.0
+EVT_08423,Derek O'Brien (TMC MP),the_times_of_india,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_08423,Music Industry,the_times_of_india,1,Negative,Quality vs. Waste,100.0,0.0,0.0
+EVT_08423,Political Official,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08423,"Politicians (implied, referring to someone who made the statement)",hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08423,Rajasthan's government or leaders,the_times_of_india,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08423,State Tourism Development Corporation,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08423,Suvendu Adhikari,hindustan_times,3,Positive,Development,0.0,100.0,0.0
+EVT_08423,Suvendu Adhikari (chief minister of West Bengal),the_times_of_india,1,Negative,Development,100.0,0.0,0.0
+EVT_08423,Various Tourism Campaigns,the_times_of_india,1,Negative,Development,100.0,0.0,0.0
+EVT_08423,West Bengal Government,hindustan_times,1,Negative,Development,100.0,0.0,0.0
+EVT_08471,AICC general secretary (organisation) KC Venugopal,india_today,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,BJP MP,hindustan_times,1,Negative,Protest,100.0,0.0,0.0
+EVT_08471,Baghel,hindustan_times,5,Neutral/Mixed,Election Strategy,40.0,0.0,60.0
+EVT_08471,Baghel,india_today,1,Neutral/Mixed,Reassignment,0.0,0.0,100.0
+EVT_08471,Baghel (presumably the party leader or figurehead),india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_08471,Bhupesh Baghel,hindustan_times,2,Negative,Protest,100.0,0.0,0.0
+EVT_08471,Bhupesh Baghel,the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,Captain Amrinder Singh,hindustan_times,1,Negative,Resignation,100.0,0.0,0.0
+EVT_08471,Channi,hindustan_times,2,Negative,Promotion,50.0,50.0,0.0
+EVT_08471,Charanjit Singh Channi,hindustan_times,1,Negative,Political Dispute,100.0,0.0,0.0
+EVT_08471,Congress,hindustan_times,6,Neutral/Mixed,Development,33.3,33.3,33.3
+EVT_08471,Congress,india_today,5,Neutral/Mixed,Election Strategy,20.0,20.0,60.0
+EVT_08471,Congress,the_hindu,3,Positive,Development,0.0,66.7,33.3
+EVT_08471,Congress Party,hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_08471,Congress high command,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08471,Congress leadership,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08471,DK Shivakumar,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Karnataka Government,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08471,Mallikarjun Kharge,hindustan_times,1,Negative,Political Leadership,100.0,0.0,0.0
+EVT_08471,Manickam Tagore,the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,Mayor John Doe,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08471,Mr. Baghel,the_hindu,1,Negative,Factionalism,100.0,0.0,0.0
+EVT_08471,Mr. Channi,the_hindu,1,Negative,Factionalism,100.0,0.0,0.0
+EVT_08471,Mr. Surjewala,the_hindu,1,Positive,Leadership Transition,0.0,100.0,0.0
+EVT_08471,Mukul Wasnik,hindustan_times,1,Neutral/Mixed,Appointment,0.0,0.0,100.0
+EVT_08471,Party,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Party (not specified in text),the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,Party Leadership,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08471,Party President Mallikarjun Kharge and General Secretary (organisation) K.C. Venugopal,the_hindu,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Pilot,hindustan_times,4,Neutral/Mixed,Election Strategy,0.0,25.0,75.0
+EVT_08471,Pilot,india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Pilot (likely referring to a political party or candidate named Pilot),hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Pilot (likely referring to a politician or party leader),hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_08471,Police Department,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_08471,Punjab,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Punjab Congress,india_today,1,Negative,Leadership Structure and Power Struggles,100.0,0.0,0.0
+EVT_08471,Punjab's factions,the_hindu,1,Negative,Factionalism,100.0,0.0,0.0
+EVT_08471,Punjab’s 2027 assembly polls,hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,Rahul Gandhi,hindustan_times,2,Negative,Election Strategy,50.0,50.0,0.0
+EVT_08471,Rahul Gandhi,the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_08471,Rajasthan Pradesh Congress Committee,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08471,Ramesh Chennithala,the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,Sachin Pilot,hindustan_times,3,Positive,Election Strategy,0.0,100.0,0.0
+EVT_08471,Saubhadra Chatterji,hindustan_times,1,Neutral/Mixed,Journalism,0.0,0.0,100.0
+EVT_08471,Shri Sachin Pilot Ji,hindustan_times,1,Positive,Election Strategy,0.0,100.0,0.0
+EVT_08471,Sukhdeo Bhagat,india_today,1,Neutral/Mixed,Appointment,0.0,0.0,100.0
+EVT_08471,"Sukhdeo Bhagat, Shriivel Prasad, PV Mohan (likely referring to AICC Secretary PV Mohan and not to Shriivel Prasad who is likely a typo)",hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,Surjewala,india_today,1,Neutral/Mixed,Reassignment,0.0,0.0,100.0
+EVT_08471,TVK,hindustan_times,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_08471,Venugopal (likely referring to a Congress leader or party leader),hindustan_times,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08471,bhupeshbaghel,hindustan_times,1,Positive,Guide and Mentor,0.0,100.0,0.0
+EVT_08471,party general secretary (organisation) KC Venugopal,hindustan_times,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08471,state in-charges,hindustan_times,1,Negative,Reassignment,100.0,0.0,0.0
+EVT_08500,Abhayrab rabies vaccine,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_08500,Abhayrab vaccine,the_hindu,1,Negative,Healthcare and Safety,100.0,0.0,0.0
+EVT_08500,Anuja Jaiswal,the_times_of_india,1,Positive,Development,0.0,100.0,0.0
+EVT_08500,Authorities,the_hindu,2,Negative,Development,50.0,0.0,50.0
+EVT_08500,CDCSO (Center for Disease Control and Prevention),the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,DCGI (Drug Controller General of India),india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,Delhi Police,india_today,3,Neutral/Mixed,Development,0.0,33.3,66.7
+EVT_08500,Delhi Police and Central Drugs Standard Control Organisation,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,Delhi Police and Drugs Control Department,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_08500,"Delhi Police, Central Drugs Standard Control Organisation (CDSCO)",the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,Drug regulator,india_today,1,Negative,Violence,100.0,0.0,0.0
+EVT_08500,Drug regulatory and law enforcement agencies,the_hindu,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_08500,Government,india_today,1,Neutral/Mixed,Healthcare,0.0,0.0,100.0
+EVT_08500,Government Agencies,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,HBI (Health Biologics Inc.),the_hindu,1,Neutral/Mixed,Quality Control,0.0,0.0,100.0
+EVT_08500,"Health authorities in the US, UK and Australia",the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,IIL,the_hindu,1,Neutral/Mixed,Supply Chain,0.0,0.0,100.0
+EVT_08500,IIL (India International Life Sciences),the_hindu,1,Negative,Development,100.0,0.0,0.0
+EVT_08500,IIL (Indian Iron and Steel Company),the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08500,IIL (Institute of Legal Literacy or similar organization),the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,IIL (presumably a pharmaceutical company),the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08500,Indian Immunologicals,the_times_of_india,5,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08500,Indian Immunologicals Ltd,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08500,Indian Immunologicals Ltd.,india_today,2,Negative,Corruption,100.0,0.0,0.0
+EVT_08500,Indian Immunologicals Ltd. (IIL),the_hindu,1,Neutral/Mixed,Rebuttal,0.0,0.0,100.0
+EVT_08500,Investigation Team,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08500,Local Mayor John Smith,the_hindu,1,Negative,Election Strategy,100.0,0.0,0.0
+EVT_08500,Manufacturer of Abhayrab,india_today,1,Neutral/Mixed,Quality Assurance,0.0,0.0,100.0
+EVT_08500,Mukherjee Nagar,the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08500,Regulatory and law enforcement agencies,india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_08500,Travellers to India,the_hindu,1,Negative,Development,100.0,0.0,0.0
+EVT_08500,Veterinarians and public health officials,the_hindu,1,Neutral/Mixed,Healthcare and Medical,0.0,0.0,100.0
+EVT_08500,drug networks,india_today,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08500,government,india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_08500,government,the_times_of_india,1,Negative,Healthcare,100.0,0.0,0.0
+EVT_08547,C.T.R. Nirmalkumar,the_hindu,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_08547,DMK (Dravida Munnetra Kazhagam),the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,DVAC (Delhi Vigilance Authority Committee),the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,DVAC (Department of Virtuous Accountability and Compliance),the_hindu,1,Neutral/Mixed,Investigation,0.0,0.0,100.0
+EVT_08547,DVAC (Duties and Visas Audit Committee),the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,DVAC Additional Superintendent of Police (ADSP) Rajesh,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08547,Former Minister Anbil Mahesh Poyyamozhi,the_hindu,1,Neutral/Mixed,Prostitution,0.0,0.0,100.0
+EVT_08547,Governor Smith,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,K.N. Nehru,the_hindu,2,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,KN Nehru (DMK leader and former minister),the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,KN Nehru (former minister),the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,Karan Manral,the_times_of_india,1,Neutral/Mixed,Journalism,0.0,0.0,100.0
+EVT_08547,Legal proceedings,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08547,M.K. Stalin (DMK president),the_hindu,1,Negative,Political Vendetta,100.0,0.0,0.0
+EVT_08547,Mr. Nehru,the_hindu,3,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,Mr. Nehru (Politician),the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08547,Nehru (presumably referring to politician/official),the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,"Nehru and his relatives, officials",the_times_of_india,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08547,Police/Authorities,the_times_of_india,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08547,Sasi Priya (Retired Town Planning Officer),the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_08547,"Tamilaga Vettri Kazhagam (TVK) government, M.K. Stalin (DMK president)",the_hindu,1,Negative,"Corruption, Political Vendetta",100.0,0.0,0.0
+EVT_08565,Adhikari,hindustan_times,2,Negative,Law & Order,50.0,50.0,0.0
+EVT_08565,CM,hindustan_times,1,Neutral/Mixed,Education,0.0,0.0,100.0
+EVT_08565,CM (Chief Minister),hindustan_times,1,Negative,Violence,100.0,0.0,0.0
+EVT_08565,CM (likely referring to Chief Minister),hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08565,CM Suvendu Adhikari,hindustan_times,1,Neutral/Mixed,Education Policy,0.0,0.0,100.0
+EVT_08565,Chief Minister,the_hindu,3,Neutral/Mixed,Development,33.3,33.3,33.3
+EVT_08565,Chief Minister of West Bengal,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08565,City Council,the_hindu,1,Neutral/Mixed,Protest,0.0,0.0,100.0
+EVT_08565,Education System,hindustan_times,1,Negative,Development,100.0,0.0,0.0
+EVT_08565,Government,hindustan_times,1,Positive,Education Policy,0.0,100.0,0.0
+EVT_08565,Governor Johnson,the_hindu,1,Negative,Violence,100.0,0.0,0.0
+EVT_08565,Karnataka government,the_hindu,1,Neutral/Mixed,Policy,0.0,0.0,100.0
+EVT_08565,Mr. Adhikari,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08565,Partha Chatterjee,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08565,Politician or Official,the_hindu,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08565,Politician or Party,hindustan_times,2,Negative,Education Policy,100.0,0.0,0.0
+EVT_08565,Suvendu Adhikari,hindustan_times,2,Negative,Policy,50.0,0.0,50.0
+EVT_08565,Suvendu Adhikari,the_hindu,1,Negative,Policy,100.0,0.0,0.0
+EVT_08565,Trinamool Congress,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08565,West Bengal Legislative Assembly,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08565,government,hindustan_times,1,Positive,Development,0.0,100.0,0.0
+EVT_08565,state government,hindustan_times,1,Neutral/Mixed,Education,0.0,0.0,100.0
+EVT_08598,Admiral D K Joshi (retd),india_today,1,Neutral/Mixed,Appointment,0.0,0.0,100.0
+EVT_08598,BJP (Indian political party),the_hindu,1,Positive,Appointment,0.0,100.0,0.0
+EVT_08598,BJP (Rashtrapati Bhavan),india_today,1,Positive,Appointment,0.0,100.0,0.0
+EVT_08598,Dinesh Sharma,india_today,2,Negative,Appointment,50.0,50.0,0.0
+EVT_08598,Environmental Advocates,the_hindu,1,Positive,Development,0.0,100.0,0.0
+EVT_08598,Governor John Smith,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08598,"Hon'ble President, Hon'ble Prime Minister, Hon'ble Home Minister, and the party's central leadership",india_today,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08598,Mr. Sharma,the_hindu,2,Neutral/Mixed,Appointment,0.0,0.0,100.0
+EVT_08598,"Politician (implied in the quote, as it refers to a politician's duties and pledge)",india_today,1,Positive,Law & Order,0.0,100.0,0.0
+EVT_08598,Politician or Party,india_today,1,Neutral/Mixed,Law & Order,0.0,0.0,100.0
+EVT_08598,President of India,india_today,1,Positive,Appointment,0.0,100.0,0.0
+EVT_08598,President of India,the_hindu,1,Positive,Appointment,0.0,100.0,0.0
+EVT_08598,Sharma,india_today,3,Neutral/Mixed,Appointment,0.0,33.3,66.7
+EVT_08606,Chief Minister Hemant Soren,india_today,1,Positive,Eulogy,0.0,100.0,0.0
+EVT_08606,Chief Minister Hemant Soren,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08606,Deepak Birua (JMM leader and state transport minister),hindustan_times,1,Negative,Grief and Loss,100.0,0.0,0.0
+EVT_08606,Government Officials,hindustan_times,1,Negative,Death,100.0,0.0,0.0
+EVT_08606,He,hindustan_times,1,Neutral/Mixed,Leadership Skills,0.0,0.0,100.0
+EVT_08606,JMM (Jai Bhagwa Mahasabha),the_hindu,1,Neutral/Mixed,Death,0.0,0.0,100.0
+EVT_08606,JMM (Janata Morcha Jharkhand),the_hindu,1,Negative,Loss,100.0,0.0,0.0
+EVT_08606,JMM (Janata Morcha Mahila) party and government,india_today,1,Negative,Protest,100.0,0.0,0.0
+EVT_08606,JMM (Janata Morcha Munda) and Jharkhand government,the_hindu,1,Negative,Death/Mourning,100.0,0.0,0.0
+EVT_08606,JMM (Jharkhand Mukti Morcha),india_today,1,Negative,Loss,100.0,0.0,0.0
+EVT_08606,Jharkhand CM,india_today,2,Positive,Development,0.0,100.0,0.0
+EVT_08606,Jharkhand Mukti Morcha,the_hindu,1,Neutral/Mixed,Loss,0.0,0.0,100.0
+EVT_08606,Jharkhand Mukti Morcha (JMM) leader,hindustan_times,1,Negative,Health and Safety Concern,100.0,0.0,0.0
+EVT_08606,Jungle Lodges & Resorts,the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08606,K.J George (Karnataka Tourism Minister),india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08606,K.J. George (Karnataka Tourism Minister),the_hindu,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08606,Local Government,the_hindu,1,Negative,Corruption,100.0,0.0,0.0
+EVT_08606,Mr. Kumar,the_hindu,4,Neutral/Mixed,Death/Mourning,25.0,25.0,50.0
+EVT_08606,Nitish Kumar,india_today,3,Negative,Loss,66.7,0.0,33.3
+EVT_08606,Party,india_today,1,Neutral/Mixed,Death & Mourning,0.0,0.0,100.0
+EVT_08606,Party,the_hindu,1,Neutral/Mixed,Election Strategy,0.0,0.0,100.0
+EVT_08606,Politician or Party,the_hindu,1,Neutral/Mixed,Death Announcement,0.0,0.0,100.0
+EVT_08606,Protestors,the_hindu,1,Negative,Protest,100.0,0.0,0.0
+EVT_08606,Sonu Bhaiya,india_today,1,Positive,Support and Friendship,0.0,100.0,0.0
+EVT_08606,Sudivya Kumar,india_today,3,Neutral/Mixed,Death,33.3,0.0,66.7
+EVT_08606,Sudivya Kumar,the_hindu,1,Neutral/Mixed,Death,0.0,0.0,100.0
+EVT_08606,Sudivya Kumar Sonu,hindustan_times,3,Negative,Death,66.7,0.0,33.3
+EVT_08606,Various Tourism Associations,india_today,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08606,Vishal,hindustan_times,2,Positive,Development,0.0,100.0,0.0
+EVT_08606,Vishal Kant,hindustan_times,1,Neutral/Mixed,Development,0.0,0.0,100.0
+EVT_08606,government,the_hindu,1,Negative,Loss,100.0,0.0,0.0
