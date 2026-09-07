@@ -18377,13 +18377,17 @@ EVT_07923,Dr. S Jaishankar,0,0,1,0,0,0,0,0,0,0,0
 EVT_07923,External affairs minister S Jaishankar,0,0,0,0,0,0,0,0,0,1,0
 EVT_07923,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
 EVT_07923,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
-EVT_07923,India,0,0,0,0,0,0,0,0,0,1,0
-EVT_07923,Jaishankar,0,0,3,0,0,0,0,0,0,2,0
+EVT_07923,India,0,0,6,0,0,0,0,0,0,1,0
+EVT_07923,Jaishankar,0,0,6,0,0,0,0,0,0,2,0
+EVT_07923,Jaishankar (Indian diplomat),0,0,1,0,0,0,0,0,0,0,0
 EVT_07923,New Delhi,0,0,1,0,0,0,0,0,0,0,0
 EVT_07923,News Desk,0,0,1,0,0,0,0,0,0,0,0
 EVT_07923,Official Statement,0,0,1,0,0,0,0,0,0,0,0
-EVT_07923,PM Modi,0,0,0,0,0,0,0,0,0,1,0
+EVT_07923,PM Modi,0,0,2,0,0,0,0,0,0,1,0
+EVT_07923,Politician or journalist,0,0,2,0,0,0,0,0,0,0,0
 EVT_07923,Politicians discussing sea security,0,0,1,0,0,0,0,0,0,0,0
+EVT_07923,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_07923,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
 EVT_07923,S Jaishankar,0,0,0,0,0,0,0,0,0,1,0
 EVT_07923,Ukraine,0,0,2,0,0,0,0,0,0,0,0
 EVT_07923,Ukraine's Odesa port,0,0,1,0,0,0,0,0,0,0,0
@@ -18689,22 +18693,63 @@ EVT_08076,Special Judge Digvinay Singh,0,0,1,0,0,0,0,0,0,0,0
 EVT_08076,Tahir Hussain,0,0,1,0,0,0,0,0,0,0,0
 EVT_08076,The agency (ACB),0,0,0,0,0,0,0,0,0,1,0
 EVT_08076,politician or judge,0,0,1,0,0,0,0,0,0,0,0
-EVT_08099,Akash Anand,0,0,4,0,0,0,0,1,0,0,0
+EVT_08096,Arun Jaitley ji,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Congress Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Critics of India's economic policies,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Dimagi Naxals,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Fufa,0,0,0,0,0,0,0,0,0,4,0
+EVT_08096,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_08096,India,0,0,0,0,0,0,0,0,0,3,0
+EVT_08096,India's economic policies and growth,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,India's economy,0,0,0,0,0,0,0,0,0,4,0
+EVT_08096,India's leadership,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,India's policy dynamism,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Indian Government,0,0,0,0,0,0,0,0,0,4,0
+EVT_08096,Kanchan Yadav,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Mr. Kharge,0,0,0,0,0,0,0,1,0,0,0
+EVT_08096,Mr. Kharge and the Congress party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08096,Mr. Modi,0,0,0,0,0,0,0,4,0,0,0
+EVT_08096,PM (Prime Minister),0,0,0,0,0,0,0,0,0,3,0
+EVT_08096,PM Modi,0,0,0,0,0,0,0,1,0,23,0
+EVT_08096,Prime Minister,0,0,0,0,0,0,0,2,0,0,0
+EVT_08096,Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08096,SRCC,0,0,0,0,0,0,0,0,0,2,0
+EVT_08096,SRCC (Shardul Raje Commerce College),0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Sanjeev Sanyal,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,The Speaker or an unnamed political figure,0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,The politician/party (not specified in the text),0,0,0,0,0,0,0,0,0,1,0
+EVT_08096,Unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_08099,Akash,0,0,0,0,0,0,0,0,0,0,3
+EVT_08099,Akash (BSP candidate),0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,Akash Anand,0,0,4,0,0,0,0,1,0,0,4
 EVT_08099,Akash Anand and his family,0,0,1,0,0,0,0,0,0,0,0
+EVT_08099,Ashok Siddharth,0,0,0,0,0,0,0,0,0,0,1
 EVT_08099,BJP,0,0,1,0,0,0,0,0,0,0,0
 EVT_08099,BSP,0,0,2,0,0,0,0,0,0,0,0
-EVT_08099,BSP (Bahujan Samaj Party),0,0,0,0,0,0,0,1,0,0,0
+EVT_08099,BSP (Bahujan Samaj Party),0,0,0,0,0,0,0,1,0,0,4
+EVT_08099,BSP (Biju Santali Party),0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,BSP (Boycott Students' Party),0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,"BSP chief (likely referring to Pablo Manlapaz or another member of the Batasang Pambansa, BSP)",0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,Bharatiya Janata Party (BJP),0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,Chandrashekhar,0,0,0,0,0,0,0,0,0,0,1
 EVT_08099,Dalit community,0,0,1,0,0,0,0,0,0,0,0
 EVT_08099,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
 EVT_08099,Labor Party,0,0,0,0,0,0,0,1,0,0,0
-EVT_08099,Mayawati,0,0,6,0,0,0,0,0,0,0,0
-EVT_08099,Mayawati (BSP),0,0,0,0,0,0,0,1,0,0,0
-EVT_08099,Mayawati (Bahujan Samaj Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_08099,Mayawati,0,0,6,0,0,0,0,0,0,0,9
+EVT_08099,Mayawati (BSP chief),0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,Mayawati (BSP leader),0,0,0,0,0,0,0,0,0,0,3
+EVT_08099,Mayawati (BSP),0,0,0,0,0,0,0,1,0,0,2
+EVT_08099,Mayawati (Bahujan Samaj Party),0,0,1,0,0,0,0,0,0,0,1
+EVT_08099,Mayawati (Politician),0,0,0,0,0,0,0,0,0,0,1
 EVT_08099,Mayawati (political figure),0,0,1,0,0,0,0,0,0,0,0
 EVT_08099,Mayawati and the Bahujan Samaj Party (BSP),0,0,1,0,0,0,0,0,0,0,0
+EVT_08099,Mayawati's younger brother Anand Kumar,0,0,0,0,0,0,0,0,0,0,1
+EVT_08099,Mohan Bhagwat,0,0,0,0,0,0,0,0,0,0,1
 EVT_08099,Ms. Mayawati,0,0,0,0,0,0,0,1,0,0,0
 EVT_08099,Police Chief James Johnson,0,0,0,0,0,0,0,1,0,0,0
 EVT_08099,Politician or Journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_08099,Politicians,0,0,0,0,0,0,0,0,0,0,1
 EVT_08099,Rajesh Kumar Singh,0,0,1,0,0,0,0,0,0,0,0
 EVT_08099,The Politician/Official,0,0,2,0,0,0,0,0,0,0,0
 EVT_08099,Uttar Pradesh Chief Minister,0,0,0,0,0,0,0,1,0,0,0
@@ -18937,6 +18982,50 @@ EVT_08316,Rezaul Hasan Laskar,0,0,6,0,0,0,0,0,0,0,0
 EVT_08316,Tibet,0,0,1,0,0,0,0,0,0,0,0
 EVT_08316,Unknown Politician or Party,0,0,0,0,0,0,0,1,0,0,0
 EVT_08316,external affairs ministry,0,0,2,0,0,0,0,0,0,0,0
+EVT_08319,Amit Shah,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Amit Shah and the Delhi Police,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Ayush Pandey,0,0,0,0,0,0,0,0,0,1,0
+EVT_08319,BJP,0,0,2,0,0,0,0,0,0,1,0
+EVT_08319,Bharadwaj,0,0,0,0,0,0,0,0,0,3,0
+EVT_08319,CJP (Communist Party of India (Marxist)),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Cockroach Janta Party (CJP),0,0,0,0,0,0,0,0,0,1,1
+EVT_08319,Congress,0,0,0,0,0,0,0,0,0,0,4
+EVT_08319,Congress (Rahul Gandhi's party),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Congress party and its leaders,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Delhi Police,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Dharmendra Pradhan (Government),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Fadnavis,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Hindutva activist,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Influencer Swatantra Bhardwaj,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Journalist,0,0,0,0,0,0,0,0,0,1,0
+EVT_08319,Kapil Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,"Kapil Mishra, Chirag Paswan, BJP",0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,"Lochab (police complaint), DCP (Dy. Comm. Police)",0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Media Organization,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Minor CJP activist,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,PM Modi,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,"Parents/Guardians of the 14-year-old (implied, as they are the ones who would have hired goons and likely know about the incident)",0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Police,0,0,1,0,0,0,0,0,0,0,1
+EVT_08319,Police and Shivansh Agarwal (lawyer),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Politician or party (not specified),0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Protests,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Rahul,0,0,0,0,0,0,0,0,0,0,2
+EVT_08319,Rahul (Congress),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Rahul Gandhi,0,0,1,0,0,0,0,0,0,0,6
+EVT_08319,Rahul Gandhi (Congress MP),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Rahul Gandhi (Leader of the Opposition),0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Rishav Ranjan,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Sanjay Azad,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Saurav Das,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Singhvi,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Swantantra Bhardwaj,0,0,0,0,0,0,0,0,0,0,1
+EVT_08319,Swatantra Bharadwaj,0,0,0,0,0,0,0,0,0,1,1
+EVT_08319,Swatantra Bhardwaj,0,0,2,0,0,0,0,0,0,0,1
+EVT_08319,The HT News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,Vinod Jakhar (NSUI National President),0,0,1,0,0,0,0,0,0,0,0
+EVT_08319,police or security forces,0,0,1,0,0,0,0,0,0,0,0
 EVT_08342,AI University initiative,0,0,0,0,0,0,0,1,0,0,0
 EVT_08342,Bowing and Lady Curzon Hospital,1,0,0,0,0,0,0,0,0,0,0
 EVT_08342,Democratic Party,0,0,0,0,0,0,0,1,0,0,0
@@ -18961,6 +19050,7 @@ EVT_08342,West Bengal Government,0,0,2,0,0,0,0,0,0,0,0
 EVT_08342,government,0,0,1,0,0,0,0,0,0,0,0
 EVT_08342,police,0,0,1,0,0,0,0,0,0,0,0
 EVT_08342,police and home department,0,0,1,0,0,0,0,0,0,0,0
+EVT_08342,unknown,1,0,0,0,0,0,0,0,0,0,0
 EVT_08353,Bhardwaj,0,0,4,7,0,0,0,0,0,0,0
 EVT_08353,"Bihar Chief Minister Samrat Choudhury, Delhi minister Kapil Mishra, Union Food Processing Industries Minister Chirag Paswan",0,0,0,1,0,0,0,0,0,0,0
 EVT_08353,Chirag Paswan,0,0,2,0,0,0,0,0,0,0,0
@@ -18982,6 +19072,118 @@ EVT_08353,The unnamed official or party representative,0,0,1,0,0,0,0,0,0,0,0
 EVT_08353,Union minister Chirag Paswan,0,0,1,0,0,0,0,0,0,0,0
 EVT_08353,political leaders named by Bhardwaj,0,0,0,1,0,0,0,0,0,0,0
 EVT_08353,the party,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,AAP (Aam Aadmi Party),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,AAP MP Atishi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,AAP leader Saurabh Bharadwaj,0,0,0,0,0,0,0,0,0,3,0
+EVT_08372,ABVP (All India Bakhtiyar Kailash Parishad),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,ABVP (All-India Bakhrav Student Committee),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,AIIMS (likely referring to the All India Institute of Medical Sciences),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Anuja Jaiswal,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Arvind Kejriwal (AAP national convenor),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Ayush Pandey,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Bawa,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Bihar government,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Building Safety and Enforcement Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Building collapse,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Building collapse incident,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Buildings Safety and Infrastructure,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Chief Minister Rekha Gupta,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Cockroach Janta Party (CJP),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Colleges,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Colleges/Universities,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Conductor,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Congress,0,0,0,0,0,0,0,0,0,2,0
+EVT_08372,Congress leader Abhishek Dutt,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Congress leader Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Construction Companies,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,DTC,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,DTC chairman,0,0,0,0,0,0,0,0,0,3,0
+EVT_08372,Delhi CM Rekha Gupta,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Delhi Fire Services personnel,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Delhi Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Delhi Police,0,0,1,0,0,0,0,0,0,2,0
+EVT_08372,Delhi Satya Niketan building,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Delhi Satya Niketan building collapse,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Delhi Satya Niketan building collapse response,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Delhi Transport Corporation (DTC),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Delhi authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,"Delhi government, BJP-ruled Municipal Corporation of Delhi",0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Delhi minister Manjinder Singh Sirsa,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Dilip Ghosh,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Dilip Ghosh (Bengal BJP minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Dilip Ghosh (West Bengal BJP minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Doctors,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Dr Kabir Sardana,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Emergency Response,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Government/Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Government/Policy,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Healthcare System,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Justice Mahajan,0,0,0,0,0,0,0,0,0,2,0
+EVT_08372,Karan Manral,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Kejriwal,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Local Authorities,0,0,1,0,0,0,0,0,0,2,0
+EVT_08372,Local Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Local Government Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,MCD (Mayoral Corporation of Delhi),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,"MCD, Fire Department, SDM/DM departments",0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Media Personality,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Mohamed Irfan,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Municipal Corporation of Delhi,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Municipal Corporation of Delhi (MCD),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,NDRF (National Disaster Response Force),0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,NDRF (Nepal Disaster Relief Force),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,NDRF (Nepal Disaster and Rescue Force),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,"NDRF, Delhi Fire Service, and all rescue teams",0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,NSUI chief,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Neeraj Bawa,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,"Neeraj Bawa (student, victim)",0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Neighbouring building,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Police,0,0,3,0,0,0,0,0,0,0,0
+EVT_08372,Police personnel and a dog squad,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,"Police, dog squad",0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Politicians or Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Politicians or officials,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Pralhad Joshi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Prime Minister Narendra Modi and Bihar Chief Minister Samrat Choudhary,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Public Health Officials,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Raebareli MP (unnamed politician),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,"Rahul (likely referring to Rahul Gandhi, a prominent politician in India)",0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Rahul Gandhi,0,0,0,0,0,0,0,0,0,2,0
+EVT_08372,Rama,0,0,0,0,0,0,0,0,0,2,0
+EVT_08372,Rama (name changed),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Rekha Gupta,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Rescue Operation,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Rescue Operations,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Rescue Teams,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Rescue and relief operations,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Rescue teams,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Satya Niketan building,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Satya Niketan building collapse,0,0,9,0,0,0,0,0,0,0,0
+EVT_08372,Satya Niketan building collapse incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Satya Niketan incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Search and rescue operations,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Shashi Tharoor,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Shashi Tharoor (Congress MP),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Sirsa,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Sri Venkateshwar College,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Stray Dogs,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Student,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,Student community,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Students,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Supreme Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,The government and MCD (presumably referring to the Municipal Corporation of Delhi),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,The illegal PG facility and the Municipal Corporation of Delhi (MCD),0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Traffic and transportation authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Trapped student,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Unknown Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,Unstable adjacent structure,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,"Various officials including the DC, Commissioner, and MCD",0,0,0,0,0,0,0,0,0,1,0
+EVT_08372,Vinod Jakhar (NSUI President),0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,building owner,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08372,minister,0,0,2,0,0,0,0,0,0,0,0
+EVT_08372,police,0,0,2,0,0,0,0,0,0,0,0
 EVT_08421,8 Tamil Nadu engineering students,0,0,1,0,0,0,0,0,0,0,0
 EVT_08421,Construction work and traffic management,0,0,1,0,0,0,0,0,0,0,0
 EVT_08421,Driver,0,0,1,0,0,0,0,0,0,0,0
@@ -19061,6 +19263,20 @@ EVT_08471,Venugopal (likely referring to a Congress leader or party leader),0,0,
 EVT_08471,bhupeshbaghel,0,0,1,0,0,0,0,0,0,0,0
 EVT_08471,party general secretary (organisation) KC Venugopal,0,0,1,0,0,0,0,0,0,0,0
 EVT_08471,state in-charges,0,0,1,0,0,0,0,0,0,0,0
+EVT_08498,BJP (Bharatiya Janata Party),0,0,0,0,0,0,0,0,0,1,0
+EVT_08498,Bharatiya Janata Party (BJP) president Nitin Nabin,0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,India,0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,India's resolve for development,0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,Mallikarjun Kharge,0,0,0,0,0,0,0,0,0,1,0
+EVT_08498,Modi Ji (Prime Minister of India),0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,Mr. Nabin,0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,Nabin,0,0,0,0,0,0,0,0,0,1,0
+EVT_08498,"Nabin (likely referring to Nabin Karna, a Nepali politician)",0,0,0,0,0,0,0,0,0,1,0
+EVT_08498,PM,0,0,0,0,0,0,0,1,0,0,0
+EVT_08498,PM (Prime Minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_08498,PM Modi,0,0,0,0,0,0,0,4,0,1,0
+EVT_08498,Rahul Gandhi,0,0,0,0,0,0,0,1,0,0,0
 EVT_08500,Abhayrab rabies vaccine,0,0,0,1,0,0,0,0,0,0,0
 EVT_08500,Abhayrab vaccine,0,0,0,0,0,0,0,1,0,0,0
 EVT_08500,Anuja Jaiswal,0,0,0,0,0,0,0,0,0,1,0
@@ -19149,31 +19365,408 @@ EVT_08598,"Politician (implied in the quote, as it refers to a politician's duti
 EVT_08598,Politician or Party,0,0,0,1,0,0,0,0,0,0,0
 EVT_08598,President of India,0,0,0,1,0,0,0,1,0,0,0
 EVT_08598,Sharma,0,0,0,3,0,0,0,0,0,0,0
-EVT_08606,Chief Minister Hemant Soren,0,0,0,1,0,0,0,1,0,0,0
+EVT_08606,56-year-old minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Chief Minister Hemant Soren,0,0,0,2,0,0,0,1,0,0,0
 EVT_08606,Deepak Birua (JMM leader and state transport minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Dr Shahzad Shaikh of Mercy Hospital,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Giridih MLA,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Government,0,0,1,0,0,0,0,0,0,0,0
 EVT_08606,Government Officials,0,0,1,0,0,0,0,0,0,0,0
-EVT_08606,He,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,He,0,0,2,0,0,0,0,0,0,0,0
+EVT_08606,"Hemant Soren, Santosh Kumar Gangwar, Kumar",0,0,1,0,0,0,0,0,0,0,0
 EVT_08606,JMM (Jai Bhagwa Mahasabha),0,0,0,0,0,0,0,1,0,0,0
 EVT_08606,JMM (Janata Morcha Jharkhand),0,0,0,0,0,0,0,1,0,0,0
 EVT_08606,JMM (Janata Morcha Mahila) party and government,0,0,0,1,0,0,0,0,0,0,0
 EVT_08606,JMM (Janata Morcha Munda) and Jharkhand government,0,0,0,0,0,0,0,1,0,0,0
-EVT_08606,JMM (Jharkhand Mukti Morcha),0,0,0,1,0,0,0,0,0,0,0
-EVT_08606,Jharkhand CM,0,0,0,2,0,0,0,0,0,0,0
+EVT_08606,JMM (Jharkhand Mukti Morcha),0,0,1,2,0,0,0,0,0,0,0
+EVT_08606,JMM party and government,0,0,0,1,0,0,0,0,0,0,0
+EVT_08606,Jharkhand CM,0,0,0,3,0,0,0,0,0,0,0
+EVT_08606,Jharkhand Government,0,0,1,0,0,0,0,0,0,0,0
 EVT_08606,Jharkhand Mukti Morcha,0,0,0,0,0,0,0,1,0,0,0
 EVT_08606,Jharkhand Mukti Morcha (JMM) leader,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Jharkhand Mukti Morcha family,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Jharkhand State Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Jharkhand government,0,0,3,0,0,0,0,0,0,0,0
 EVT_08606,Jungle Lodges & Resorts,0,0,0,0,0,0,0,1,0,0,0
 EVT_08606,K.J George (Karnataka Tourism Minister),0,0,0,1,0,0,0,0,0,0,0
 EVT_08606,K.J. George (Karnataka Tourism Minister),0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,KJ George,0,0,0,1,0,0,0,0,0,0,0
 EVT_08606,Local Government,0,0,0,0,0,0,0,1,0,0,0
 EVT_08606,Mr. Kumar,0,0,0,0,0,0,0,4,0,0,0
-EVT_08606,Nitish Kumar,0,0,0,3,0,0,0,0,0,0,0
+EVT_08606,Nitish Kumar,0,0,3,6,0,0,0,0,0,0,0
 EVT_08606,Party,0,0,0,1,0,0,0,1,0,0,0
 EVT_08606,Politician or Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,Politicians/Jungle Lodges & Resorts,0,0,0,1,0,0,0,0,0,0,0
 EVT_08606,Protestors,0,0,0,0,0,0,0,1,0,0,0
-EVT_08606,Sonu Bhaiya,0,0,0,1,0,0,0,0,0,0,0
-EVT_08606,Sudivya Kumar,0,0,0,3,0,0,0,1,0,0,0
+EVT_08606,Shibu Soren,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Shri Sudivya Kumar (State Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Sonu Bhaiya,0,0,1,2,0,0,0,0,0,0,0
+EVT_08606,Soren,0,0,2,0,0,0,0,0,0,0,0
+EVT_08606,Sudivya Kumar,0,0,4,6,0,0,0,1,0,0,0
 EVT_08606,Sudivya Kumar Sonu,0,0,3,0,0,0,0,0,0,0,0
 EVT_08606,Various Tourism Associations,0,0,0,1,0,0,0,0,0,0,0
-EVT_08606,Vishal,0,0,2,0,0,0,0,0,0,0,0
-EVT_08606,Vishal Kant,0,0,1,0,0,0,0,0,0,0,0
+EVT_08606,Vishal,0,0,3,0,0,0,0,0,0,0,0
+EVT_08606,Vishal Kant,0,0,2,0,0,0,0,0,0,0,0
 EVT_08606,government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08606,party,0,0,0,1,0,0,0,0,0,0,0
+EVT_08622,3 Corps,0,0,0,0,0,0,0,0,0,1,0
+EVT_08622,Admiral Krishna Swaminathan,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Border Personnel Meeting Points and new hotlines,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,China,0,0,0,0,0,0,0,1,0,1,0
+EVT_08622,Chinese Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Corps Commander-level mechanism,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,India,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,India and China,0,0,0,0,0,0,0,1,0,2,0
+EVT_08622,India-China relations,0,0,0,0,0,0,0,2,0,0,0
+EVT_08622,Indian Army,0,0,0,0,0,0,0,2,0,0,0
+EVT_08622,Indian Army/Defence,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Indian and Chinese armies,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Joshimath,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Ladim Ladol and Tundup Tsering,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Lieutenant General Girish Kalia,0,0,0,0,0,0,0,1,0,1,0
+EVT_08622,Local Government Officials,0,0,0,0,0,0,0,2,0,0,0
+EVT_08622,Lt. Ritika Dubey and other cadets,0,0,0,0,0,0,0,2,0,0,0
+EVT_08622,Lt. Stanzin Tsangyang,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,Protesters,0,0,0,0,0,0,0,1,0,0,0
+EVT_08622,The Chief of the Naval Staff,0,0,0,0,0,0,0,1,0,0,0
+EVT_08664,70-year-old man,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,AAP's Saurabh Bharadwaj,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,ABVP (All-India Bakchchi Students' Union),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,ABVP members,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,AIIMS (All India Institute of Medical Sciences),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,AIIMS (presumably referring to All India Institute of Medical Sciences),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,AIIMS Trauma Centre,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,AIIMS trauma centre,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Abhijeet Dipke,0,0,3,0,0,0,0,0,0,0,0
+EVT_08664,Abhishek Dutt,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Abhishek Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Akhil Bharatiya Vidyarthi Parishad (ABVP),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,"Amit Goel (Deputy Commissioner of Police, Southwest)",0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Amit Goel (Deputy commissioner of police (southwest)),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Amit Shah,0,0,3,0,0,0,0,0,0,0,0
+EVT_08664,Anmol Yadav,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,BJP (Indian political party),0,0,1,0,0,0,0,0,0,3,0
+EVT_08664,BJP MLA,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,BJP government,0,0,0,0,0,0,0,0,0,3,0
+EVT_08664,Boys' PG,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Building Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Building Collapse Incident,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Building Safety,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Building collapse incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,"Building owners, Contractors, Government Authorities",0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CJP founder,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CJP founder Abhijeet Dipke,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,CM,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CM (Chief Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CM (likely referring to Chief Minister of the state),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CM (likely referring to a Chief Minister or government leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CM (likely referring to the Chief Minister of Delhi),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,CM Rekha,0,0,3,0,0,0,0,0,0,0,0
+EVT_08664,CM Rekha Gupta,0,0,3,0,0,0,0,0,0,0,0
+EVT_08664,CM Rekha Gupta and Kapil Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Central Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Chief Minister,0,0,3,0,0,0,0,0,0,0,0
+EVT_08664,College administration,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Congress leader and AICC Uttarakhand in-charge Kumari Selja,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Construction Company/Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,DCP (Delhi Crime Branch),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,DCP (District Commissioner of Police),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,DCP Abhimanyu Poswal,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,DU (Delhi University),0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,DU hostel facilities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Deepender Singh Hooda,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi Bharatiya Janata Yuva Morcha president Rajat Choudhary,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Delhi Building Collapse Incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi CM,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi Chief Minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi Lieutenant Governor,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi Municipal Corporation (MCD),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi Police,0,0,4,0,0,0,0,0,0,0,0
+EVT_08664,Delhi authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi building collapse,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi chief minister Rekha Gupta,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi city/local government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi civil defence deputy chief warden,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi state government,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Delhi's Satya Niketan,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Doctors,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Emergency Response,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Emergency Response & Public Safety,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Emergency Services,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Government (in general),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Government Agencies,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Government/Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Gupta,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Hariram (building owner),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Hospital,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Hospital Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Indian Politics,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Jakhar,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Journalist or Author,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Law & Order,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Local Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Local Community Response during Disaster,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Local Community and Building Management,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Local Government or Community Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,"Local Residents, MCD (Delhi Municipal Corporation)",0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,MCD (Delhi Municipal Corporation),0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,MCD (Municipal Corporation of Delhi),0,0,6,0,0,0,0,0,0,0,0
+EVT_08664,MCD Commissioner,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,MCD official,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Municipal Corporation of Delhi (MCD),0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,NDRF personnel and police,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,NSUI team,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,NSUI workers,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,NSUI-ABVP workers,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,National Students' Union of India (NSUI),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,PTI (Punjab Tehreek-e-Insaaf),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Pawan (brother),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Piyush Goyal,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Police,0,0,7,0,0,0,0,0,0,0,0
+EVT_08664,Politician (unnamed in text),0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Politicians,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Politicians or Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Politico,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Poswal (likely a police official or spokesperson),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,President Droupadi Murmu,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,President Murmu,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Priyanjali Narayan,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rahul Gandhi,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rajat Choudhary,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Rekha Gupta,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rekha Gupta (Chief Minister of Delhi),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rekha Gupta-led Delhi government,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Rescue Operations,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,Rescue teams,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rescuers,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rescuers and locals,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Rescuers/Community,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Saigal,0,0,0,0,0,0,0,0,0,2,0
+EVT_08664,Satya Niketan Building Collapse Incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Satya Niketan building,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Satya Niketan building collapse,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Satya Niketan building collapse incident,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Search and rescue teams,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Sri Venkateswara College,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,State health minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Student,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Students,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,TMC MLA,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,The NSUI President,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,Toll,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Union MoS (Ministry of State),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,University Administration,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Unknown (Incident),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Unknown (based on the provided text),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Various,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Verbal spat between NSUI-ABVP workers,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,Vinod Jakhar,0,0,2,0,0,0,0,0,0,1,0
+EVT_08664,Vinod Jakhar (NSUI president),0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,building owner Hariram and others,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,official,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,owner of Satya Niketan building,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,police,0,0,1,0,0,0,0,0,0,0,0
+EVT_08664,police/NDRF,0,0,2,0,0,0,0,0,0,0,0
+EVT_08664,political parties,0,0,0,0,0,0,0,0,0,1,0
+EVT_08664,unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_08673,CM Gupta,0,0,2,0,0,0,0,0,0,0,0
+EVT_08673,Construction Company/Authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_08673,Delhi Chief Minister Rekha Gupta,0,0,0,0,0,0,0,0,0,3,0
+EVT_08673,Delhi Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_08673,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_08673,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_08673,Kapil Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_08673,PM Modi,0,0,3,0,0,0,0,0,0,3,0
+EVT_08673,Police,0,0,0,0,0,0,0,0,0,1,0
+EVT_08673,"Politicians, Government Agencies, Courts, Regulatory Bodies, and Institutions",0,0,1,0,0,0,0,0,0,0,0
+EVT_08673,Poswal,0,0,1,0,0,0,0,0,0,0,0
+EVT_08673,Prime Minister's office,0,0,2,0,0,0,0,0,0,0,0
+EVT_08673,Rajeev Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_08673,Rekha Gupta,0,0,3,0,0,0,0,0,0,1,0
+EVT_08673,Unknown (Building Owners/Managers),0,0,0,0,0,0,0,0,0,1,0
+EVT_08673,building owner Hariram and others,0,0,2,0,0,0,0,0,0,0,0
+EVT_08675,AAP (Aam Aadmi Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Abhijeet Dipke,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Anagha,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Anagha Deshpande,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Boys' PG (Hostel Daze),0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Cockroach Janta Party (CJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,College Management/Colleges,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Congress,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Congress and NSUI workers,0,0,2,0,0,0,0,0,0,0,0
+EVT_08675,Delhi Chief Minister Rekha Gupta,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Delhi University,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Delhi authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_08675,Emergency Response and Healthcare,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Executive Engineer Transfer in building Dept of MCD,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Government response to the incident,0,0,0,0,0,0,0,0,0,3,0
+EVT_08675,Healthcare Institutions,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Local Residents,0,0,0,0,0,0,0,0,0,1,0
+EVT_08675,Locals,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,NSUI comrades,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,PM,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,PM (Prime Minister),0,0,1,0,0,0,0,0,0,1,0
+EVT_08675,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,PM Narendra Modi,0,0,0,0,0,0,0,0,0,1,0
+EVT_08675,Police,0,0,1,0,0,0,0,0,0,1,0
+EVT_08675,Police official,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,"Police, Fire Services, and National Disaster Response Force",0,0,0,0,0,0,0,0,0,1,0
+EVT_08675,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Rahul Gandhi,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Rajeev Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_08675,The party,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,University authorities or officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,Various Politicians and their statements,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,"Various rescue teams and NDRF, Delhi Fire Service",0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,education system,0,0,1,0,0,0,0,0,0,0,0
+EVT_08732,Chethan Kumar,0,0,0,0,0,0,0,0,0,1,0
+EVT_08732,Department of Space,0,0,0,0,0,0,0,1,0,0,0
+EVT_08732,Dr. Goenka,0,0,0,0,0,0,0,1,0,0,0
+EVT_08732,Environmentalists,0,0,0,0,0,0,0,1,0,0,0
+EVT_08732,Goenaka,0,0,0,0,0,0,0,0,0,1,0
+EVT_08732,ISRO,0,0,0,0,0,0,0,2,0,0,0
+EVT_08732,ISRO (Indian Space Research Organisation),0,0,0,0,0,0,0,2,0,1,0
+EVT_08732,ISRO HQ,0,0,0,0,0,0,0,0,0,1,0
+EVT_08732,India,0,0,0,0,0,0,0,1,0,0,0
+EVT_08732,India (as a country),0,0,0,0,0,0,0,1,0,0,0
+EVT_08732,Pawan Goenka,0,0,0,0,0,0,0,0,0,1,0
+EVT_08732,"Pawan Goenka, Indian National Space Promotion and Authorisation Centre (IN-SPACe)",0,0,0,0,0,0,0,0,0,1,0
+EVT_08732,Pawan Kumar Goonka (IN-SPACe chairman),0,0,0,0,0,0,0,1,0,0,0
+EVT_08732,President Johnson,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Administration,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Ajay Lodhi,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Anurag Sujania (Sagar Superintendent of Police),0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,BJP government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Chief Minister Mohan Yadav,0,0,1,0,0,0,0,1,0,0,0
+EVT_08738,Chief Minister Yadav,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Chief medical and health officer Devesh Pateriya,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Deepak Saxena (State Excise Commissioner),0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,District Administration,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Excise Department,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Government/Collective,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Gujarat,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_08738,Journalist (not specifically named politician or party),0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Licensed Contractors,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Local Health Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Local Liquor Industry,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Local Vend,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Madhya Pradesh Congress,0,0,0,0,0,0,0,4,0,0,0
+EVT_08738,Mr. Saxena,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Mr. Saxena (among senior officials deployed in Sagar),0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Ms. Pal,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Narendra Solanki,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Neerja Srivastava,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Police Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Police and authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Politician X,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Politician or Party,0,0,1,0,0,0,0,1,0,0,0
+EVT_08738,"Politician or party (implied, not named)",0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Politician or party leader,0,0,2,0,0,0,0,0,0,0,0
+EVT_08738,Pratibha Pal,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Pratibha Pal (Sagar Collector),0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,Protest Organizers,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,SP (likely referring to the Sri Lanka Police or Sri Lanka Police Department),0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Shruti Tomar,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,Superintendent of Police Anurag Sujania,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,police or law enforcement,0,0,0,0,0,0,0,1,0,0,0
+EVT_08738,police/MP,0,0,1,0,0,0,0,0,0,0,0
+EVT_08738,unknown politician or party,0,0,0,0,0,0,0,1,0,0,0
+EVT_08739,Automated News Agency Feed,0,0,1,0,0,0,0,0,0,0,0
+EVT_08739,Court,0,0,4,5,0,0,0,0,0,0,0
+EVT_08739,Court proceedings,0,0,0,1,0,0,0,0,0,0,0
+EVT_08739,Delhi HC (Delhi High Court),0,0,1,1,0,0,0,0,0,0,0
+EVT_08739,Delhi High Court,0,0,1,1,0,0,0,0,0,0,0
+EVT_08739,Delhi High Court Bar Association,0,0,0,1,0,0,0,0,0,0,0
+EVT_08739,High Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_08739,Justice Prateek Jalan,0,0,1,1,0,0,0,0,0,0,0
+EVT_08739,Legal System,0,0,0,1,0,0,0,0,0,0,0
+EVT_08739,Parties (likely referring to the injured person and the other party involved),0,0,1,0,0,0,0,0,0,0,0
+EVT_08739,Police,0,0,2,1,0,0,0,0,0,0,0
+EVT_08739,Police/Injured Person,0,0,1,0,0,0,0,0,0,0,0
+EVT_08739,Resident(s),0,0,0,1,0,0,0,0,0,0,0
+EVT_08739,The court,0,0,1,1,0,0,0,0,0,0,0
+EVT_08739,police,0,0,1,1,0,0,0,0,0,0,0
+EVT_08739,police and court,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Amit Shah (Union home minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,CEOs of electoral roll generation companies,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Central Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_08765,Centre's decision and Ministry of Home Affairs,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Chief Electoral Officer (CEO),0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Election Administration,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Election Commission,0,0,1,0,0,0,0,1,0,0,0
+EVT_08765,Election Commission of India,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Election Process,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Election Strategy,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Electoral Process,0,0,2,0,0,0,0,0,0,0,0
+EVT_08765,Electoral Registration and Management System,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Electoral roll generation companies,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Gender demographics in Manipur,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Government of Manipur,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Kuki communities,0,0,2,0,0,0,0,0,0,0,0
+EVT_08765,Kuki-Zo groups,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Manipur Legislative Assembly,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Manipur final electoral roll records,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,Official Statement (Government Office),0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Party X,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Politicians or Election Authorities,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Protest Organizers,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Sikkim,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,Sikkim CEO's office,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,US Electoral College Process,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,US Electoral College process,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,election authorities,0,0,0,0,0,0,0,1,0,0,0
+EVT_08765,election officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_08765,government,0,0,2,0,0,0,0,0,0,0,0
+EVT_08765,voter registration system,0,0,0,0,0,0,0,1,0,0,0
+EVT_08815,Emmanuel Macron,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,"Emmanuel Macron, PM Modi",0,0,0,0,0,0,0,0,0,1,0
+EVT_08815,France,0,0,0,2,0,0,0,0,0,0,0
+EVT_08815,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_08815,India,0,0,0,0,0,0,0,1,0,0,0
+EVT_08815,India's civilisational thought,0,0,0,0,0,0,0,0,0,1,0
+EVT_08815,India-France Year of Innovation,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Indian leadership or officials,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,PM Modi,0,0,0,8,0,0,0,3,0,7,0
+EVT_08815,Politician,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Politician or Cultural Figure,0,0,0,0,0,0,0,1,0,0,0
+EVT_08815,Politician or official speaking about yoga,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Politician or party (not specified in text),0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,President Emmanuel Macron,0,0,0,0,0,0,0,1,0,0,0
+EVT_08815,Prime Minister,0,0,0,0,0,0,0,2,0,0,0
+EVT_08815,Prime Minister of India,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_08815,Romain Rolland,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Srila Prabhupada Swami,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,The Mother (Sri Aurobindo's disciple),0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Unknown,0,0,0,1,0,0,0,0,0,0,0
+EVT_08815,Various (No specific target mentioned in the text),0,0,0,0,0,0,0,1,0,0,0
+EVT_08815,prime minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_08824,Goenka,0,0,2,0,0,0,0,0,0,0,0
+EVT_08824,"Goenka (likely referring to the person speaking, but not explicitly named)",0,0,0,0,0,0,0,0,0,1,0
+EVT_08824,INSPACe,0,0,0,0,0,0,0,0,0,1,0
+EVT_08824,INSPACe chairperson,0,0,0,0,0,0,0,0,0,1,0
+EVT_08824,ISRO,0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,ISRO (Indian Space Research Organisation),0,0,3,0,0,0,0,0,0,0,0
+EVT_08824,India's space ecosystem,0,0,0,0,0,0,0,0,0,1,0
+EVT_08824,Indian Space Research Organisation (Isro),0,0,0,0,0,0,0,0,0,3,0
+EVT_08824,Indie (presumably a brand or product name),0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,Industry,0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,Isro,0,0,2,0,0,0,0,0,0,3,0
+EVT_08824,Isro (Indian Space Research Organisation),0,0,2,0,0,0,0,0,0,2,0
+EVT_08824,Journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,Karl Marx,0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,Pawan Goonka and ISRO,0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,The Press Club Award for Excellence in Journalism recipient,0,0,1,0,0,0,0,0,0,0,0
+EVT_08824,nehal fernandes,0,0,3,0,0,0,0,0,0,0,0
