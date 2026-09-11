@@ -19906,6 +19906,7 @@ EVT_08675,education system,0,0,1,0,0,0,0,0,0,0,0
 EVT_08675,government officials or agencies,0,0,1,0,0,0,0,0,0,0,0
 EVT_08675,hospital/AIIMS,0,0,1,0,0,0,0,0,0,0,0
 EVT_08675,police official,0,0,1,0,0,0,0,0,0,0,0
+EVT_08675,unknown,0,0,0,0,0,0,0,0,0,1,0
 EVT_08708,ARSD College,0,0,1,0,0,0,0,0,0,0,0
 EVT_08708,Building official,0,0,1,0,0,0,0,0,0,0,0
 EVT_08708,Colleges,0,0,1,0,0,0,0,0,0,0,0
@@ -20667,6 +20668,39 @@ EVT_09086,Madhav,0,0,2,0,0,0,0,0,0,0,0
 EVT_09086,Rahul Gandhi,0,0,1,0,0,0,0,0,0,3,0
 EVT_09086,Saubhadra Chatterji,0,0,1,0,0,0,0,0,0,0,0
 EVT_09086,high command,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Amruta,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,"Athawale, who heads the Republican Party of India (A)",0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,BJP minister Nitesh Rane,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,Indian political leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Maharashtra government,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,Minister of State for Social Justice and Empowerment,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,MoS for Social Justice & Empowerment,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Navratri events,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Nitesh Rane,0,0,1,0,0,0,0,0,0,1,0
+EVT_09091,Nitesh Rane (Maharashtra minister),0,0,0,0,0,0,0,0,0,3,0
+EVT_09091,Organisers of Navratri 'garba' and 'dandiya' events,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Politician/Party Name Not Specified,0,0,0,0,0,0,0,0,0,1,0
+EVT_09091,RSS (Rashtriya Swayamsevak Sangh) affiliate,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,Raj Thackeray,0,0,0,0,0,0,0,0,0,1,0
+EVT_09091,Ramdas Athawale,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Rane,0,0,0,0,0,0,0,0,0,3,0
+EVT_09091,Right-wing activists,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,The Times of India News Desk,0,0,0,0,0,0,0,0,0,1,0
+EVT_09091,Union minister Athawale,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Unknown Politician or Official,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,VHP,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,VHP (Vinayak Damodar Savarkar Phule Jagtap Party),0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,VHP (Vishva Hindu Parishad),0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,VHP (Vishwa Hindu Parishad),0,0,1,0,0,0,0,0,0,1,1
+EVT_09091,VHP (Vishwa Hindu Parishad) and Hindutva activists,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,VHP members,0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,VHP's call,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Vishva Hindu Parishad,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,Vishva Hindu Parishad (VHP),0,0,0,0,0,0,0,0,0,1,0
+EVT_09091,Vishwa Hindu Parishad (VHP) and Amruta Fadnavis (wife of Chief Minister Devendra Fadnavis),0,0,0,0,0,0,0,0,0,0,1
+EVT_09091,against the Constitution,0,0,1,0,0,0,0,0,0,0,0
+EVT_09091,unknown,0,0,2,0,0,0,0,0,0,0,0
+EVT_09091,unknown politician or party,0,0,0,0,0,0,0,0,0,0,1
 EVT_09093,Odisha,0,0,0,1,0,0,0,0,0,0,0
 EVT_09093,Odisha Government,0,0,0,0,0,0,0,0,0,2,0
 EVT_09093,Odisha government,0,0,0,3,0,0,0,0,0,0,0
@@ -20676,9 +20710,15 @@ EVT_09093,Staines,0,0,0,1,0,0,0,0,0,0,0
 EVT_09093,State Government,0,0,0,1,0,0,0,0,0,0,0
 EVT_09093,State Sentence Review Board,0,0,0,1,0,0,0,0,0,0,0
 EVT_09093,State's Counsel,0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,AIADMK,0,0,0,3,0,0,0,0,0,0,0
+EVT_09098,AIADMK (All India Anna Dravida Munnetra Kazhagam),0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,C Joseph Vijay-led TVK,0,0,0,2,0,0,0,0,0,0,0
 EVT_09098,C. Joseph Vijay,0,0,0,0,0,0,0,0,0,0,2
 EVT_09098,Communist Party of India (Marxist),0,0,0,0,0,0,0,0,0,0,1
+EVT_09098,DMK (Dravida Munnetra Kazhagam),0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,Election Commission,0,0,0,1,0,0,0,0,0,0,0
 EVT_09098,Joseph Vijay,2,0,0,0,0,0,0,0,0,0,0
+EVT_09098,Kumaravel,0,0,0,1,0,0,0,0,0,0,0
 EVT_09098,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_09098,M K Stalin,1,0,0,0,0,0,0,0,0,0,0
 EVT_09098,M.K. Stalin,0,0,0,0,0,0,0,0,0,0,1
@@ -20687,14 +20727,227 @@ EVT_09098,Mr. Stalin,0,0,0,0,0,0,0,1,0,0,0
 EVT_09098,Nardeep Singh Dahiya,0,0,0,0,0,0,0,0,0,0,1
 EVT_09098,Politician,0,0,0,0,0,0,0,0,0,0,1
 EVT_09098,Protestors,0,0,0,0,0,0,0,1,0,0,0
+EVT_09098,Sathyabama,0,0,0,1,0,0,0,0,0,0,0
 EVT_09098,Shanmugam,0,0,0,0,0,0,0,0,0,0,2
 EVT_09098,Stalin,2,0,0,0,0,0,0,0,0,0,0
+EVT_09098,TVK (likely referring to a political figure named TVK or a political entity),0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,TVK founder and Chief Minister Vijay,0,0,0,2,0,0,0,0,0,0,0
+EVT_09098,TVK government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,TVK party,0,0,0,1,0,0,0,0,0,0,0
 EVT_09098,Tamil Nadu CM Vijay,1,0,0,0,0,0,0,0,0,0,0
-EVT_09098,Vijay,1,0,0,0,0,0,0,0,0,0,2
+EVT_09098,Tamilaga Vettri Kazhagam (TVK),0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,The ruling party,0,0,0,1,0,0,0,0,0,0,0
+EVT_09098,Vijay,1,0,0,1,0,0,0,0,0,0,2
 EVT_09098,Vijay (likely a politician or party leader),0,0,0,0,0,0,0,0,0,0,1
 EVT_09098,Vijay government,0,0,0,0,0,0,0,0,0,0,1
+EVT_09098,government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09099,Agra,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,BJP,0,0,0,0,0,0,0,0,0,3,0
+EVT_09099,BRICS Summit,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Brandy (likely referring to a celebrity or public figure associated with the singer),1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Coco Gauff,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Congress,0,0,0,0,0,0,0,0,0,5,0
+EVT_09099,Congress leader,0,0,0,0,0,0,0,0,0,2,0
+EVT_09099,Delhi (city government or officials),0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Delhi Police and other security agencies,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Environmental Party,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Farmers,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,India,0,0,0,0,0,0,0,0,0,6,0
+EVT_09099,JD Vance,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,K B Kachru,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Luxury hotels,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Nabin,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Prime Minister John Smith,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Rahool Macarius,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Security Services,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Sonia Gandhi,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Subhadra Srivastava,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,The government,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Traffic Department,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Union home minister Amit Shah and Delhi Police,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Vikram Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,hotels,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,noise and nuisance dispute,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_09126,Abdel Fattah El-Sisi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Abiy Ahmed Ali,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Anwar Ibrahim,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,BRICS (Brics),0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,BRICS Summit,0,0,0,2,0,0,0,0,0,0,0
+EVT_09126,BRICS countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,BRICS grouping,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Cyril Ramaphosa,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Dmitry Peskov (Kremlin spokesperson),0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Global Economy,1,0,0,0,0,0,0,0,0,0,0
+EVT_09126,India,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Kirti Vardhan Singh,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Le Minh Hung,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Masoud Pezeshkian,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Mohamed bin Zayed Al Nahyan,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Moscow and New Delhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,PM Modi,0,0,0,5,0,0,0,0,0,0,0
+EVT_09126,Prabowo Subianto,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Putin,0,0,0,5,0,0,0,0,0,0,0
+EVT_09126,Russia,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Russian President Vladimir Putin,1,0,0,0,0,0,0,0,0,0,0
+EVT_09126,Russian President and PM Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Trump administration,0,0,0,2,0,0,0,0,0,0,0
+EVT_09126,Two countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Vladimir Putin,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Xi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09126,Xi Jinping,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,ABVP (Akhil Bharatiya Vidyarthi Parishad) and Congress,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,AHINDA leader (likely referring to Siddaramaiah),0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,"Arun Jaitley, Sitaram Yechury, Lalu Prasad Yadav, Ananth Kumar, Ajay Maken, Ashok Gehlot",0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,B.K. Hariprasad,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,BJP,0,0,0,0,0,0,0,0,0,0,2
+EVT_09176,BJP and JD(S)-Congress governments,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,CM DK Shivakumar,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,CONGRESS,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,College Campuses,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Colleges,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Colleges and Universities,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Congress,0,0,0,12,0,0,0,0,0,0,2
+EVT_09176,Congress (feudal mindset),0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Congress and DKS government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Congress government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Congress high command,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Congress in Karnataka,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Congress party and Siddaramaiah,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,"Congress's student wing, NSUI",0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Congress-affiliated National Students Union of India (NSUI),0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,D.K. Shivakumar-led Congress government,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,DK SHIVAKUMAR GOVT,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,DK Shivakumar,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,H Kantharaj,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Hariprasad,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Karnataka Deputy Chief Minister G. Parameshwara,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Karnataka's social structure,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Lingayats and Vokkaligas,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Minister Gowda,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,N. Ravi Kumar,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,New Student Governance System,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Nitish Kumar,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Parameshwara,0,0,0,0,0,0,0,0,0,0,2
+EVT_09176,"Political Actors (former criminals, reformed criminals)",0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Politician,0,0,0,1,0,0,0,0,0,0,1
+EVT_09176,Politicians or political parties,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Rahul Gandhi,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Rahul Gandhi and the Congress party,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Ramalinga Reddy,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Rashtriya Swayamsevak Sangh (RSS),0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Reservation,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Saleem Ahmed,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Shivakumar,0,0,0,1,0,0,0,0,0,0,2
+EVT_09176,Shivarajkumar,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Siddaramaiah,0,0,0,19,0,0,0,0,0,0,0
+EVT_09176,The Party,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,Unknown,0,0,0,1,0,0,0,0,0,0,0
+EVT_09176,Youngsters,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,college elections,0,0,0,0,0,0,0,0,0,0,2
+EVT_09176,deputy CM,0,0,0,0,0,0,0,0,0,0,1
+EVT_09176,"student elections in several parts of Karnataka, especially Bengaluru",0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,2024 Lok Sabha election campaign,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Akhilesh,0,0,0,0,0,0,0,0,0,0,3
+EVT_09182,Akhilesh (SP - Samajwadi Party),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Akhilesh Yadav (Samajwadi Party - SP),0,0,0,0,0,0,0,1,0,0,0
+EVT_09182,BJP,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,BJP (Indian political party),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Bahujan Samaj Party (BSP),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Bharatiya Janata Party (BJP),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Chhatra Sabha,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Dalit politics,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_09182,Mayawati (BSP),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Mayawati-led Bahujan Samaj Party (BSP),0,0,0,0,0,0,0,1,0,0,0
+EVT_09182,Mr. Yadav,0,0,0,0,0,0,0,4,0,0,0
+EVT_09182,PDA (Party of Democratic Action),0,0,0,0,0,0,0,1,0,0,0
+EVT_09182,PDA (Potential target is a political party or movement),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Party,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Party functionaries,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Party leaders,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Party strategists,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Politician or Party (not specified in text),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Politicians,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Protesters,0,0,0,0,0,0,0,1,0,0,0
+EVT_09182,Rahul Gandhi,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,SP (Samajwadi Party),0,0,0,0,0,0,0,0,0,0,4
+EVT_09182,SP (Senior),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,SP (Socialist Party),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,SP (Student Wing),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,SP leaders,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,SP president Akhilesh Yadav,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Samajwadi Chhatra Sabha,0,0,0,0,0,0,0,0,0,0,2
+EVT_09182,Samajwadi Party (SP),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Samyak Sangram Party (SP),0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Student activists and Gen Z,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,Student wing organization,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,"Sunil Singh Yadav, SP spokesperson",0,0,0,0,0,0,0,2,0,0,0
+EVT_09182,Uttar Pradesh Legislative Assembly elections,0,0,0,0,0,0,0,1,0,0,0
+EVT_09182,party functionaries,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,party seeking to strengthen its PDA outreach,0,0,0,0,0,0,0,0,0,0,1
+EVT_09182,political party,0,0,0,0,0,0,0,0,0,0,1
+EVT_09186,Ajit Doval,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Analysts,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Beijing,0,0,0,3,0,0,0,0,0,0,0
+EVT_09186,"Beijing (Beijing, China government)",0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Beijing and New Delhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Border Security,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Both countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Brics Summit,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Cai,0,0,0,0,0,0,0,0,0,1,0
+EVT_09186,China,0,0,3,10,0,0,0,0,0,1,0
+EVT_09186,China and India,0,0,3,0,0,0,0,0,0,1,0
+EVT_09186,China and the United States,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,China's foreign ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,China-Pakistan Economic Corridor (CPEC) relationship,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Chinese President Xi Jinping,0,0,1,1,0,0,0,0,0,0,0
+EVT_09186,Chinese president,0,0,0,2,0,0,0,0,0,0,0
+EVT_09186,Economic Policies,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Foreign Ministry and Senior Officials,0,0,0,0,0,0,0,0,0,1,0
+EVT_09186,Foreign Ministry and Senior Officials and Special Representatives,0,0,0,0,0,0,0,0,0,1,0
+EVT_09186,Geopolitical experts,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Governments,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Governments or Energy Sector,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,India,0,0,1,10,0,0,0,0,0,0,0
+EVT_09186,India and China,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,India-China economic relationship,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,India-China relations,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,India-Pakistan Relations,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Indian and Chinese commanders,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Indian and Chinese military commanders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Indian journalist (unnamed),0,0,2,0,0,0,0,0,0,0,0
+EVT_09186,Kazakhstan President Kassym-Jomart Tokayev,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Local Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Modi (Indian Prime Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Modi and Xi,0,0,3,1,0,0,0,0,0,0,0
+EVT_09186,Modi and other leaders,0,0,0,0,0,0,0,0,0,1,0
+EVT_09186,New Delhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,PM Modi,0,0,5,4,0,0,0,0,0,3,0
+EVT_09186,PM Modi and Xi,0,0,0,2,0,0,0,0,0,0,0
+EVT_09186,PM Modi and Xi Jinping,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Philippines President Ferdinand Marcos Jr,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Politicians/Border Control,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,President Xi Jinping and Cai Qi,0,0,0,0,0,0,0,0,0,1,0
+EVT_09186,Prez Masoud Pezeshkian,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Special Representatives,0,0,0,0,0,0,0,0,0,1,0
+EVT_09186,Special Representatives in Beijing,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Two countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Two sides (presumably governments or political parties),0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,United States Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Washington,0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,"World Health Organisation, New Development Bank, World Trade Organisation",0,0,1,0,0,0,0,0,0,0,0
+EVT_09186,Xi Jinping,0,0,0,1,0,0,0,0,0,3,0
+EVT_09186,"Xi Jinping, Narendra Modi",0,0,0,1,0,0,0,0,0,0,0
+EVT_09186,Xi's visit,0,0,0,1,0,0,0,0,0,0,0
 EVT_09210,Article 371,0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Ashish Kundra,0,0,0,0,0,0,0,1,0,0,0
+EVT_09210,Centre,0,0,0,0,0,0,0,0,0,1,0
 EVT_09210,Cherring Dorjay Lakruk of the Leh Apex Body (LAB),0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Civil Society Groups,0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Civil Society Members,0,0,0,0,0,0,0,1,0,0,0
@@ -20704,19 +20957,56 @@ EVT_09210,LAB (Leh and Kargil Parties),0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Ladakh,0,0,0,0,0,0,0,0,0,1,0
 EVT_09210,Ladakh Lieutenant Governor Vinai Kumar Saxena,0,0,0,0,0,0,0,0,0,1,0
 EVT_09210,Ladakh Tourism,0,0,0,0,0,0,0,0,0,3,0
+EVT_09210,Ladakh groups,0,0,0,0,0,0,0,0,0,1,0
+EVT_09210,Lahdc,0,0,0,0,0,0,0,0,0,1,0
+EVT_09210,Leadership,0,0,0,0,0,0,0,0,0,1,0
 EVT_09210,Leh Apex Body and the Kargil Democratic Alliance (KDA),0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,MHA (Ministry of Home Affairs),0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Sajjad Kargili of the KDA,0,0,0,0,0,0,0,1,0,0,0
+EVT_09210,The Chief Secretary,0,0,0,0,0,0,0,0,0,1,0
 EVT_09210,The government,0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Tourism Department of Ladakh,0,0,0,0,0,0,0,0,0,2,0
+EVT_09210,UT-level body,0,0,0,0,0,0,0,0,0,1,0
 EVT_09210,Union Ministry of Home Affairs (MHA),0,0,0,0,0,0,0,1,0,0,0
 EVT_09210,Vinai Kumar Saxena,0,0,0,0,0,0,0,0,0,2,0
 EVT_09210,government,0,0,0,0,0,0,0,2,0,0,0
 EVT_09210,police,0,0,0,0,0,0,0,2,0,0,0
-EVT_09268,Gadkari,0,0,3,3,0,0,0,0,0,0,0
-EVT_09268,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Akash Anand,0,0,2,0,0,0,0,0,0,0,0
+EVT_09257,Anushka,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Anushka Awasthi,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Ashok Siddharth,0,0,3,0,0,0,0,0,0,0,0
+EVT_09257,BSP (Bahujan Samaj Party),0,0,2,0,0,0,0,0,0,0,0
+EVT_09257,BSP (Bicol Sustainable People's Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,BSP (Biju Santali Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,BSP and the Bahujan movement,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,BSP chief,0,0,0,0,0,0,0,2,0,0,0
+EVT_09257,Bahujan Samaj Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Local Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_09257,Mayawati,0,0,12,0,0,0,0,0,0,0,0
+EVT_09257,Mayawati (BSP chief),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Mayawati (BSP leader),0,0,2,0,0,0,0,0,0,0,0
+EVT_09257,Mayawati (BSP),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Mayawati (Bahujan Samaj Party),0,0,0,0,0,0,0,1,0,0,0
+EVT_09257,Mayawati (leader of BSP),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Mr. Anand,0,0,0,0,0,0,0,1,0,0,0
+EVT_09257,Mr. Siddharth,0,0,0,0,0,0,0,1,0,0,0
+EVT_09257,Ms. Mayawati,0,0,0,0,0,0,0,2,0,0,0
+EVT_09257,On behalf of Mayawati and her potential political strategy,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Party (likely referring to a political party associated with BSP),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Politician or Party (not specified in the text),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Politician or party leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,She (the author or journalist),0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Shri Akash Anand,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Shri Ashok Siddharth,0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Siddharth,0,0,8,0,0,0,0,0,0,0,0
+EVT_09257,"UP, Punjab, Uttarakhand elections",0,0,1,0,0,0,0,0,0,0,0
+EVT_09257,Unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_09268,Gadkari,0,0,3,6,0,0,0,0,0,0,0
+EVT_09268,Government,0,0,1,3,0,0,0,0,0,0,0
 EVT_09268,Government of India (Mumbai-Goa Highway project),0,0,1,0,0,0,0,0,0,0,0
+EVT_09268,Highway Infrastructure and Toll Collection,0,0,0,1,0,0,0,0,0,0,0
 EVT_09268,Infrastructure Development,0,0,0,1,0,0,0,0,0,0,0
 EVT_09268,Infrastructure Ministry,0,0,0,1,0,0,0,0,0,0,0
 EVT_09268,Infrastructure Quality,0,0,0,1,0,0,0,0,0,0,0
@@ -20724,13 +21014,14 @@ EVT_09268,Keralam minister,0,0,1,0,0,0,0,0,0,0,0
 EVT_09268,Lucknow-Kanpur Expressway,0,0,1,0,0,0,0,0,0,0,0
 EVT_09268,Minister,0,0,1,0,0,0,0,0,0,0,0
 EVT_09268,New Corridor Project,0,0,1,0,0,0,0,0,0,0,0
-EVT_09268,Nitin Gadkari,0,0,2,2,0,0,0,0,0,0,0
-EVT_09268,Politician,0,0,0,1,0,0,0,0,0,0,0
+EVT_09268,Nitin Gadkari,0,0,2,5,0,0,0,0,0,0,0
+EVT_09268,Politician,0,0,0,2,0,0,0,0,0,0,0
+EVT_09268,"Politician (implied by context, likely a high-ranking official or politician)",0,0,0,1,0,0,0,0,0,0,0
 EVT_09268,RRSM Infra Private Limited,0,0,1,0,0,0,0,0,0,0,0
-EVT_09268,The Union Minister,0,0,0,1,0,0,0,0,0,0,0
+EVT_09268,The Union Minister,0,0,0,2,0,0,0,0,0,0,0
 EVT_09268,Unknown,0,0,1,0,0,0,0,0,0,0,0
 EVT_09268,Unknown Politician,0,0,0,1,0,0,0,0,0,0,0
-EVT_09268,Unknown Politician or Official,0,0,0,1,0,0,0,0,0,0,0
+EVT_09268,Unknown Politician or Official,0,0,0,2,0,0,0,0,0,0,0
 EVT_09268,construction and government agencies,0,0,1,0,0,0,0,0,0,0,0
 EVT_09268,construction quality,0,0,1,0,0,0,0,0,0,0,0
 EVT_09268,government,0,0,0,2,0,0,0,0,0,0,0
@@ -20773,35 +21064,79 @@ EVT_09299,Viduthalai Chiruthaigal Katchi (VCK),0,0,1,0,0,0,0,0,0,0,0
 EVT_09299,Vijay,0,0,0,0,0,0,0,0,0,1,0
 EVT_09299,"Vijay (presumably referring to a CM, Chief Minister)",0,0,1,0,0,0,0,0,0,0,0
 EVT_09299,unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_09346,AIPC chairperson,0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,Chakravarty,0,0,0,1,0,0,0,0,0,0,1
+EVT_09346,Congress,0,0,0,1,0,0,0,0,0,0,3
+EVT_09346,Congress Party,0,0,0,1,0,0,0,0,0,0,2
+EVT_09346,Congress President Shri @kharge,0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,Madhu Goud Yaskhi,0,0,0,4,0,0,0,0,0,0,1
+EVT_09346,Political Parties,0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,Praveen Chakravarty,0,0,0,1,0,0,0,0,0,0,0
+EVT_09346,Revanth Reddy (Telangana CM),0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,Shashi Tharoor,0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,Shri Rahul Gandhi Garu,0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,The Rajya Sabha MP,0,0,0,0,0,0,0,0,0,0,1
+EVT_09346,Yaskhi,0,0,0,0,0,0,0,0,0,0,2
+EVT_09346,political science professor of Hindu College,0,0,0,0,0,0,0,0,0,0,1
+EVT_09347,Abu Dhabi Crown Prince Mohamed bin Zayed Al Nahyan,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan,0,0,0,0,0,0,0,0,0,1,0
 EVT_09347,BRICS,0,0,1,0,0,0,0,0,0,0,0
-EVT_09347,BRICS Summit,0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,BRICS (Brics),0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,BRICS Summit,0,0,1,1,0,0,0,0,0,0,0
+EVT_09347,BRICS grouping,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,BRICS leaders,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,Beijing,0,0,0,0,0,0,0,0,0,1,0
 EVT_09347,Bharat Innovates Exhibition,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,Bharat Mandapam,0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,Brics Summit 2026,1,0,0,0,0,0,0,0,0,0,0
+EVT_09347,Chinese President Xi Jinping,1,0,0,1,0,0,0,0,0,0,0
 EVT_09347,DIAL (likely referring to the Department of Infrastructure and Local Government or similar),0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,DIAL CEO Pradeep Panicker,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,Delhi Airport,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,Delhi International Airport Ltd (DIAL),0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,Delhi Police personnel,1,0,0,0,0,0,0,0,0,0,0
 EVT_09347,EAM S Jaishankar,0,0,0,0,0,0,0,0,0,1,0
+EVT_09347,Egyptian President Abdel Fattah El-Sisi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,Election Strategy,1,0,0,0,0,0,0,0,0,0,0
+EVT_09347,Environmental Protection Agency,1,0,0,0,0,0,0,0,0,0,0
+EVT_09347,Ethiopian Prime Minister Abiy Ahmed Ali,0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,Global Institutions or Leaders,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,Government or Local Authorities,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
 EVT_09347,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,Inclusive Global Growth Initiative,0,0,1,0,0,0,0,0,0,0,0
-EVT_09347,India,0,0,0,0,0,0,0,0,0,1,0
+EVT_09347,India,0,0,0,2,0,0,0,0,0,1,0
 EVT_09347,India's policy of strategic autonomy,0,0,1,0,0,0,0,0,0,0,0
 EVT_09347,Indian Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_09347,Indonesian President Prabowo Subianto,0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,Iranian President Masoud Pezeshkian,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,Journalists,0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,Malaysian Prime Minister Anwar Ibrahim,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,Masoud Pezeshkian,0,0,0,0,0,0,0,0,0,1,0
 EVT_09347,Modi and EAM S Jaishankar,0,0,0,0,0,0,0,0,0,1,0
+EVT_09347,Moscow and New Delhi,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,Multilateralism,0,0,1,0,0,0,0,0,0,0,0
-EVT_09347,PM Modi,0,0,3,0,0,0,0,0,0,2,0
+EVT_09347,PM Modi,2,0,3,2,0,0,0,0,0,2,0
+EVT_09347,"PM Modi, Putin",0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,PM Narendra Modi,0,0,0,0,0,0,0,0,0,1,0
 EVT_09347,Partner Country and Outreach Leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,Politicians and Governments of the two countries,0,0,0,2,0,0,0,0,0,0,0
 EVT_09347,Politicians or Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,Prime Minister John Smith,1,0,0,0,0,0,0,0,0,0,0
+EVT_09347,"Prime Minister Narendra Modi, India",0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,Protestor Group X,1,0,0,0,0,0,0,0,0,0,0
+EVT_09347,Putin,1,0,0,4,0,0,0,0,0,0,0
+EVT_09347,"Putin, PM Modi",1,0,0,0,0,0,0,0,0,0,0
+EVT_09347,Russia,0,0,0,2,0,0,0,0,0,0,0
+EVT_09347,Russian President and PM Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,South African President Cyril Ramaphosa,0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,The Trump administration,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,The organizers of the summit,0,0,1,0,0,0,0,0,0,0,0
+EVT_09347,Trump administration,0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,Vietnamese Prime Minister Le Minh Hung,0,0,0,1,0,0,0,0,0,0,0
 EVT_09347,Vladimir Putin,0,0,0,0,0,0,0,0,0,1,0
+EVT_09347,"Vladimir Putin, Russia",0,0,0,1,0,0,0,0,0,0,0
+EVT_09347,Xi,0,0,0,1,0,0,0,0,0,0,0
 EVT_09352,Congress,0,0,0,0,0,0,0,2,0,1,0
 EVT_09352,Congress leader,0,0,0,0,0,0,0,1,0,0,0
 EVT_09352,Dar,0,0,0,0,0,0,0,0,0,1,0
@@ -20864,6 +21199,54 @@ EVT_09362,Vijay's Sarkaria Commission,0,0,0,1,0,0,0,0,0,0,0
 EVT_09362,"ex-CM (likely referring to a former Chief Minister, possibly referring to a political figure with authority in Madras)",0,0,1,0,0,0,0,0,0,0,0
 EVT_09362,former Chief Minister,0,0,0,1,0,0,0,0,0,0,0
 EVT_09362,former chief minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Australia,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Centre (India),0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Chief Justice of India (CJI) Surya Kant,0,0,2,0,0,0,0,0,0,0,0
+EVT_09370,Government,0,0,1,0,0,0,0,0,0,2,0
+EVT_09370,Indian Contract Act,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Indian Trade Service officer,0,0,0,0,0,0,0,0,0,1,0
+EVT_09370,"Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Legal Advocates,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Not specified in the text,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Parental Consent,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,S S Das,0,0,0,0,0,0,0,0,0,1,0
+EVT_09370,SC (Supreme Court of India),0,0,0,0,0,0,0,0,0,1,0
+EVT_09370,Social Media Regulation,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Supreme Court,0,0,2,0,0,0,0,0,0,0,0
+EVT_09370,Various Countries including the United Kingdom and Canada,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,Various digital platforms,0,0,1,0,0,0,0,0,0,0,0
+EVT_09370,government servants,0,0,0,0,0,0,0,0,0,2,0
+EVT_09370,superior officers in the department,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,BJP,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,CJI Surya Kant,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Congress neta Renuka Chowdhury,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Doctors and health officials,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Friedrich Merz,0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Governor Johnson,0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Himanta Biswa Sarma,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,India and Germany,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Indian Politicians,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Leaders (implied to be international political leaders or diplomats),0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Manash Pratim Gohain,0,0,0,0,0,0,0,0,0,2,0
+EVT_09371,Merz and other political leaders,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,NGO,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,PM Modi,0,0,0,0,0,0,0,3,0,1,0
+EVT_09371,Piyush Goyal,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Police,0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Prime Minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Prime Minister Shri Narendra Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Revant Reddy,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Sarbananda Sonowal,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Shashi Tharoor,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Supreme Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Tamilisai Soundararajan,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Two Leaders,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,"Two leaders (likely referring to the Chinese and Indian leaders given context of diplomatic relations and Sino-Indian relations),",0,0,0,0,0,0,0,1,0,0,0
+EVT_09371,Union minister Kiren Rijiju,0,0,0,0,0,0,0,0,0,1,0
+EVT_09371,Unknown,0,0,0,0,0,0,0,1,0,0,0
 EVT_09388,Azad,0,0,0,2,0,0,0,0,0,0,0
 EVT_09388,"Christian community, Church bodies, State government",0,0,0,1,0,0,0,0,0,0,0
 EVT_09388,Construction company or Workers,0,0,0,0,0,0,0,1,0,0,0
@@ -20889,3 +21272,181 @@ EVT_09388,Yashovardhan Azad,0,0,0,1,0,0,0,0,0,0,0
 EVT_09388,local administration,0,0,0,0,0,0,0,1,0,0,0
 EVT_09388,police,0,0,1,0,0,0,0,0,0,0,0
 EVT_09388,political class and bureaucracy,0,0,0,1,0,0,0,0,0,0,0
+EVT_09447,Ayush Pandey,0,0,0,0,0,0,0,0,0,1,0
+EVT_09447,Bomb threat,0,0,0,0,0,0,0,0,0,1,0
+EVT_09447,CISF,0,0,0,0,0,0,0,0,0,1,0
+EVT_09447,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_09447,IndiGo,0,0,1,0,0,0,0,0,0,1,0
+EVT_09447,IndiGo (Airline),0,0,0,0,0,0,0,0,0,1,0
+EVT_09447,IndiGo (airline company),0,0,1,0,0,0,0,0,0,0,0
+EVT_09447,IndiGo (flight operator),0,0,1,0,0,0,0,0,0,0,0
+EVT_09447,IndiGo Airlines,0,0,1,0,0,0,0,0,0,0,0
+EVT_09447,Journalist/Author,0,0,0,0,0,0,0,0,0,1,0
+EVT_09447,Lucknow-Dammam 6E 97 IndiGo flight,0,0,0,0,0,0,0,0,0,2,0
+EVT_09447,Politicians or News Agency,0,0,1,0,0,0,0,0,0,0,0
+EVT_09447,The newsdesk at Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_09457,Ajit Doval and Wang Yi,0,0,1,0,0,0,0,0,0,0,0
+EVT_09457,China,0,0,1,0,0,0,0,0,0,1,0
+EVT_09457,Chinese President Xi Jinping,0,0,1,0,0,0,0,0,0,1,0
+EVT_09457,Chinese President Xi Jinping and Prime Minister Narendra Modi,0,0,0,0,0,0,0,0,0,1,0
+EVT_09457,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_09457,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_09457,India,0,0,4,0,0,0,0,0,0,1,0
+EVT_09457,India and China,0,0,3,0,0,0,0,0,0,0,0
+EVT_09457,India-China border dispute,0,0,1,0,0,0,0,0,0,0,0
+EVT_09457,"Politicians, Government Agencies, Regulatory Bodies, News Agencies",0,0,2,0,0,0,0,0,0,0,0
+EVT_09457,Xi,0,0,1,0,0,0,0,0,0,0,0
+EVT_09457,Xi Jinping,0,0,1,0,0,0,0,0,0,2,0
+EVT_09457,Xi Jinping and Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,BJP spokesman Sudhanshu Trivedi,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,BRICS foreign ministers,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Brics Education Ministers' Meeting,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,Chidambaram,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,China,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Education sector,0,0,2,0,0,0,0,0,0,0,0
+EVT_09464,Gulf states like the UAE and Saudi Arabia,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,India,0,0,4,0,0,0,0,0,0,2,0
+EVT_09464,India's education sector,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,India's education spending,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,India's universities,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,"Iran, Saudi Arabia, UAE, India",0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Iranian president,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Maurya,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,Nabin,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,P Chidambaram,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,PM Modi,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,"Pezeshkian, Modi, Iran",0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Rahul Gandhi and Congress netas,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Sanjay Maurya,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,Tehran,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,education policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,politician or party (education policies focus),0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Abhishek Banerjee,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,"Abhishek Banerjee and TMC (TMC stands for Trinamool Congress, a political party in West Bengal, India)",0,0,0,0,0,0,0,0,0,1,0
+EVT_09491,BJP,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Bangladesh PM,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Bharatiya Janata Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Chief Justice Surya Kant,0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Gopal Sankaranarayanan (Mr. Roy's advocate),0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Joydeep Thakur,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Kolkata Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Law & Order,0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Local Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Local political leaders and influential persons,0,0,0,0,0,0,0,0,0,1,0
+EVT_09491,Mamata Banerjee,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Mr. Roy,0,0,0,0,0,0,0,2,0,0,0
+EVT_09491,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Pranjal Pandey,0,0,0,0,0,0,0,0,0,1,0
+EVT_09491,Protest Movement,0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Roy,0,0,4,0,0,0,0,0,0,2,0
+EVT_09491,Roy (West Bengal politician),0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Sonam Wangchuk,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,State Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Sumit Roy,0,0,2,0,0,0,0,0,0,0,0
+EVT_09491,Suvendu Adhikari,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,TMC (Tribhaag Mukti Committee) leader Abhishek Banerjee,0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,The Investigating Agency,0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Trinamool Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_09491,Trinamool Congress MP Abhishek Banerjee,0,0,1,0,0,0,0,0,0,0,0
+EVT_09491,Tushar Mehta (Solicitor General for West Bengal),0,0,0,0,0,0,0,1,0,0,0
+EVT_09491,Xi Jinping,0,0,1,0,0,0,0,0,0,0,0
+EVT_09513,Akash Anand,0,0,3,0,0,0,0,0,0,9,0
+EVT_09513,Anand,0,0,2,0,0,0,0,0,0,1,0
+EVT_09513,"Anand, who did his MBA from London",0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,Ashok Siddharth,0,0,1,0,0,0,0,0,0,6,0
+EVT_09513,Ashok Siddharth and Akash Anand,0,0,1,0,0,0,0,0,0,0,0
+EVT_09513,BJP government in Uttar Pradesh,0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,BSP,0,0,1,0,0,0,0,0,0,2,0
+EVT_09513,BSP (Bahujan Samaj Party),0,0,0,0,0,0,0,0,0,2,0
+EVT_09513,BSP (Barito Sugar Plantations),0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,BSP (Biju Santali Party),0,0,1,0,0,0,0,0,0,3,0
+EVT_09513,BSP (Uttar Pradesh) Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,BSP supporters,0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,Congress leader Rahul Gandhi and Samajwadi Party chief Akhilesh Yadav,0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,"FIL (likely referring to Ford India Limited, a political entity in India)",0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,Government/Governance,0,0,5,0,0,0,0,0,0,0,0
+EVT_09513,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_09513,Mayawati,0,0,15,0,0,0,0,0,0,4,0
+EVT_09513,Mayawati (Uttar Pradesh chief minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_09513,Mayawati and her BSP,0,0,0,0,0,0,0,0,0,2,0
+EVT_09513,Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,Rajesh Kumar Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_09513,Rohit,0,0,1,0,0,0,0,0,0,0,0
+EVT_09513,Rohit Kumar Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_09513,Shri Akash Anand,0,0,0,0,0,0,0,0,0,1,0
+EVT_09513,Siddharth,0,0,1,0,0,0,0,0,0,1,0
+EVT_09513,State Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_09513,Unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_09535,C3S,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Climate Scientists,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Climate Scientists/Emergency Services,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,El Nino,0,0,2,0,0,0,0,0,0,0,0
+EVT_09535,European Union's Space programme,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Gandhoj,0,0,3,0,0,0,0,0,0,0,0
+EVT_09535,Global Climate Conditions,0,0,2,0,0,0,0,0,0,0,0
+EVT_09535,Global Climate Situation,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Jasjeev Gandhiok,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Paris Agreement,0,0,0,0,0,0,0,0,0,2,0
+EVT_09535,Samantha Burgess,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Scientists/Academic Institutions,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Simon Stiell (UN Climate Change executive secretary),0,0,1,0,0,0,0,0,0,1,0
+EVT_09535,The European Union's space program (C3S),0,0,0,0,0,0,0,0,0,1,0
+EVT_09535,The journalist,0,0,3,0,0,0,0,0,0,0,0
+EVT_09535,Turkish COP31 Presidency,0,0,1,0,0,0,0,0,0,0,0
+EVT_09535,Various European countries,0,0,4,0,0,0,0,0,0,0,0
+EVT_09535,Vishwa Mohan,0,0,0,0,0,0,0,0,0,3,0
+EVT_09536,18th BRICS summit,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,Abdel Fattah El-Sisi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Abiy Ahmed Ali,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,"BRIC economies (Brazil, Russia, India, China)",0,0,0,0,0,0,0,0,0,1,0
+EVT_09536,BRICS Summit,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Brics,0,0,0,0,0,0,0,0,0,5,0
+EVT_09536,Brics Summit,0,0,0,0,0,0,0,0,0,2,0
+EVT_09536,China,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Delhi government,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Delhi police,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,"Egypt, Ethiopia, Iran, Saudi Arabia, UAE",0,0,0,0,0,0,0,0,0,1,0
+EVT_09536,Egyptian President Abdel Fattah El-Sisi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Ethiopia’s Prime Minister Abiy Ahmed Ali,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Guterres,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Indonesian President Prabowo Subianto,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Iran,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Iran’s President Masoud Pezeshkian,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Mr. Putin,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,New Development Bank,0,0,0,0,0,0,0,0,0,1,0
+EVT_09536,New Political Party or Coalition,0,0,0,0,0,0,0,0,0,1,0
+EVT_09536,PM Modi,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,Prabowo Subianto,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,President Putin,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,President Xi Jinping,0,0,0,0,0,0,0,3,0,0,0
+EVT_09536,Putin,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,Russian President Putin,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Vladimir Putin,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,"Vladimir Putin, Prime Minister Narendra Modi",0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Wars in West Asia and Ukraine,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Xi Jinping,0,0,0,0,0,0,0,2,0,0,0
+EVT_09552,AIADMK,0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,AIADMK (All India Anna Dravida Munnetra Kazagham),0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,AIADMK (All India Anna Dravida Munnetra Kazhagam),0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,All India Anna Dravida Munnetra Kazhagam (AIADMK),0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,C. Joseph Vijay,0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,Dravida Munnetra Kazhagam (DMK),0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,Election Commission of India (ECI),0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,Election Strategy,0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,K Maragatham Kumaravel and P Sathyabama,0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,Maragatham Kumaravel and P Sathyabama (AIADMK lawmakers),0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,Ms. Kumaravel,0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,Ms. Sathyabama,0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,P Sathyabama and TVK's Tiruppur south-east district secretary,0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,Secular Social Justice Victory Alliance,0,0,3,0,0,0,0,0,0,0,0
+EVT_09552,TVK (Tamil Nadu's main opposition party),0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,TVK (likely referring to a political figure or party name),0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,TVK and its partners,0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,TVK chief Vijay,0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,TVK-led Secular Social Justice Victory Alliance,0,0,0,0,0,0,0,1,0,0,0
+EVT_09552,Tamil Nadu Congress Committee,0,0,1,0,0,0,0,0,0,0,0
+EVT_09552,two party candidates,0,0,1,0,0,0,0,0,0,0,0
