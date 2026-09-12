@@ -20467,6 +20467,7 @@ EVT_08904,The bench,0,0,0,2,0,0,0,0,0,0,0
 EVT_08904,The bench of justice Atul Sreedharan and justice Achal Sachdev,0,0,1,0,0,0,0,0,0,0,0
 EVT_08904,The court,0,0,1,2,0,0,0,0,0,4,0
 EVT_08904,UP Police,0,0,0,0,0,0,0,0,0,1,0
+EVT_08904,Unknown,0,0,0,1,0,0,0,0,0,0,0
 EVT_08904,Unknown Politician or Party,0,0,0,1,0,0,0,0,0,0,0
 EVT_08904,Various (implied),0,0,0,1,0,0,0,0,0,0,0
 EVT_08904,judges,0,0,1,0,0,0,0,0,0,0,0
@@ -20742,33 +20743,65 @@ EVT_09098,Vijay (likely a politician or party leader),0,0,0,0,0,0,0,0,0,0,1
 EVT_09098,Vijay government,0,0,0,0,0,0,0,0,0,0,1
 EVT_09098,government,0,0,0,1,0,0,0,0,0,0,0
 EVT_09099,Agra,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Amit Shah and Delhi Police,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Assaulters,0,0,0,0,0,0,0,0,0,0,1
 EVT_09099,BJP,0,0,0,0,0,0,0,0,0,3,0
-EVT_09099,BRICS Summit,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,BRICS Summit,1,0,0,0,0,0,0,1,0,0,0
+EVT_09099,BRICS negotiators,0,0,0,0,0,0,0,3,0,0,0
 EVT_09099,Brandy (likely referring to a celebrity or public figure associated with the singer),1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Cai Qi and Wang Yi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,Chinese President Xi Jinping,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,Chongtham Vikram Singh,0,0,0,0,0,0,0,0,0,0,1
 EVT_09099,Coco Gauff,1,0,0,0,0,0,0,0,0,0,0
-EVT_09099,Congress,0,0,0,0,0,0,0,0,0,5,0
-EVT_09099,Congress leader,0,0,0,0,0,0,0,0,0,2,0
+EVT_09099,Congress,0,0,0,0,0,0,0,0,0,5,1
+EVT_09099,Congress leader,0,0,0,0,0,0,0,0,0,3,0
 EVT_09099,Delhi (city government or officials),0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Delhi Police,0,0,0,0,0,0,0,0,0,0,1
 EVT_09099,Delhi Police and other security agencies,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,Environmental Party,1,0,0,0,0,0,0,0,0,0,0
 EVT_09099,Farmers,1,0,0,0,0,0,0,0,0,0,0
+EVT_09099,Gandhi,0,0,0,0,0,0,0,0,0,0,2
+EVT_09099,Government/Central Authorities,0,0,0,0,0,0,0,1,0,0,0
 EVT_09099,India,0,0,0,0,0,0,0,0,0,6,0
+EVT_09099,Iran conflict,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,"Iran, U.S., Israel, UAE",0,0,0,0,0,0,0,1,0,0,0
 EVT_09099,JD Vance,1,0,0,0,0,0,0,0,0,0,0
 EVT_09099,K B Kachru,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Kiren Rijiju (Union minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Law Enforcement Officials,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,Luxury hotels,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Mr. Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,Mr. Xi,0,0,0,0,0,0,0,1,0,0,0
 EVT_09099,Nabin,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,New Delhi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,North East Special Police Cell,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,PM Modi,0,0,0,0,0,0,0,4,0,0,0
+EVT_09099,Police or Authorities,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,Politician,0,0,0,0,0,0,0,0,0,0,1
+EVT_09099,Politician/Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,Politician/Victim (Vicky's attacker),0,0,0,0,0,0,0,0,0,0,1
+EVT_09099,President Masoud Pezeshkian of Iran,0,0,0,0,0,0,0,1,0,0,0
 EVT_09099,Prime Minister John Smith,1,0,0,0,0,0,0,0,0,0,0
 EVT_09099,Rahool Macarius,0,0,0,0,0,0,0,0,0,1,0
-EVT_09099,Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
-EVT_09099,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,2
+EVT_09099,Rahul Gandhi (Lok Sabha leader of opposition),0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Rijiju,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,2,0
 EVT_09099,Security Services,0,0,0,0,0,0,0,0,0,1,0
-EVT_09099,Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Singh,0,0,0,0,0,0,0,0,0,1,5
 EVT_09099,Sonia Gandhi,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,Subhadra Srivastava,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,The Congress leader,0,0,0,0,0,0,0,0,0,0,1
 EVT_09099,The government,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,Traffic Department,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,Union home minister Amit Shah and Delhi Police,0,0,0,0,0,0,0,0,0,1,0
-EVT_09099,Vikram Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Vikram Singh,0,0,0,0,0,0,0,0,0,2,0
+EVT_09099,Vikram ji's family,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,Violence,0,0,0,0,0,0,0,0,0,0,1
+EVT_09099,WHO Chief,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,Xi Jinping,0,0,0,0,0,0,0,1,0,0,0
+EVT_09099,dispute over noise and nuisance,0,0,0,0,0,0,0,0,0,1,0
+EVT_09099,group of men,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,hotels,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,noise and nuisance dispute,0,0,0,0,0,0,0,0,0,1,0
 EVT_09099,unknown,0,0,0,0,0,0,0,0,0,1,0
@@ -21298,27 +21331,85 @@ EVT_09457,"Politicians, Government Agencies, Regulatory Bodies, News Agencies",0
 EVT_09457,Xi,0,0,1,0,0,0,0,0,0,0,0
 EVT_09457,Xi Jinping,0,0,1,0,0,0,0,0,0,2,0
 EVT_09457,Xi Jinping and Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_09463,Ajit Doval,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Analysts,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,BRICS and India's policy of strategic autonomy,0,0,1,0,0,0,0,0,0,0,0
+EVT_09463,Beijing,0,0,0,3,0,0,0,0,0,0,0
+EVT_09463,Both countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Both governments,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Brics,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,China,0,0,1,7,0,0,0,0,0,0,0
+EVT_09463,China and India,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,China and India relationship,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Chinese President,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Chinese President Xi Jinping,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Chinese President and Prime Minister Narendra Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Chinese and Central Asian governments,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Chinese government,0,0,0,2,0,0,0,0,0,0,0
+EVT_09463,Economic Policy,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Energy Project,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,India,0,0,1,6,0,0,0,0,0,0,0
+EVT_09463,India and China,0,0,0,3,0,0,0,0,0,0,0
+EVT_09463,India economy,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,India-China Relations,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,India-China economic relations,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,India-China relations,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Indian government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09463,Local Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Military Standoff,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Modi and Xi,0,0,2,1,0,0,0,0,0,0,0
+EVT_09463,New Delhi (Indian Government),0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,PM Modi,0,0,3,2,0,0,0,0,0,0,0
+EVT_09463,PM Modi and Xi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,PM Modi and Xi Jinping,0,0,0,3,0,0,0,0,0,0,0
+EVT_09463,Politicians/Policy Makers,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Russia,0,0,1,0,0,0,0,0,0,0,0
+EVT_09463,Two Sides (in context of political negotiations between nations or parties),0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Washington,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Xi,0,0,0,2,0,0,0,0,0,0,0
+EVT_09463,Xi Jinping,0,0,3,2,0,0,0,0,0,0,0
+EVT_09463,Xi Jinping and India-China relationship,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,Xi's participation,0,0,0,1,0,0,0,0,0,0,0
+EVT_09463,geopolitical experts,0,0,0,1,0,0,0,0,0,0,0
+EVT_09464,BJP (Bharatiya Janata Party),0,0,0,0,0,0,0,1,0,0,0
+EVT_09464,BJP MP and national spokesperson Sambit Patra,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,BJP spokesman Sudhanshu Trivedi,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,BRICS foreign ministers,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,Brics Education Ministers' Meeting,0,0,1,0,0,0,0,0,0,0,0
 EVT_09464,Chidambaram,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,China,0,0,1,0,0,0,0,0,0,0,0
-EVT_09464,Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Congress,0,0,0,0,0,0,0,1,0,1,0
+EVT_09464,Congress Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_09464,Congress party and some Opposition parties,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,Education sector,0,0,2,0,0,0,0,0,0,0,0
+EVT_09464,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,Gulf states like the UAE and Saudi Arabia,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
-EVT_09464,India,0,0,4,0,0,0,0,0,0,2,0
+EVT_09464,India,0,0,4,0,0,0,0,2,0,2,0
+EVT_09464,India (and indirectly referencing Prime Minister Narendra Modi or a similar figure),0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,India's education sector,0,0,1,0,0,0,0,0,0,0,0
 EVT_09464,India's education spending,0,0,1,0,0,0,0,0,0,0,0
 EVT_09464,India's universities,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,Indonesia,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,"Iran, Saudi Arabia, UAE, India",0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,Iranian president,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Jim O'Neill,0,0,0,0,0,0,0,2,0,0,0
+EVT_09464,Labor Party,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,Maurya,0,0,1,0,0,0,0,0,0,0,0
+EVT_09464,Mr. Patra,0,0,0,0,0,0,0,2,0,0,0
 EVT_09464,Nabin,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,New Policy,0,0,0,0,0,0,0,1,0,0,0
+EVT_09464,O'Neill,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,P Chidambaram,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,PM Modi,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,"Pezeshkian, Modi, Iran",0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Police,0,0,0,0,0,0,0,1,0,0,0
+EVT_09464,Politicians and Opposition leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_09464,Protestors,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,Rahul Gandhi and Congress netas,0,0,0,0,0,0,0,0,0,1,0
+EVT_09464,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_09464,Ruling Party,0,0,0,0,0,0,0,1,0,0,0
 EVT_09464,Sanjay Maurya,0,0,1,0,0,0,0,0,0,0,0
 EVT_09464,Tehran,0,0,0,0,0,0,0,0,0,1,0
 EVT_09464,education policy,0,0,1,0,0,0,0,0,0,0,0
@@ -21401,11 +21492,17 @@ EVT_09535,Vishwa Mohan,0,0,0,0,0,0,0,0,0,3,0
 EVT_09536,18th BRICS summit,0,0,0,0,0,0,0,2,0,0,0
 EVT_09536,Abdel Fattah El-Sisi,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Abiy Ahmed Ali,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,António Guterres,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,"BRIC economies (Brazil, Russia, India, China)",0,0,0,0,0,0,0,0,0,1,0
+EVT_09536,BRICS,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,BRICS Summit,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,BRICS Summit 2026,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,BRICS countries,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,BRICS leaders,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Brics,0,0,0,0,0,0,0,0,0,5,0
 EVT_09536,Brics Summit,0,0,0,0,0,0,0,0,0,2,0
 EVT_09536,China,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Dammu Ravi,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Delhi government,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Delhi police,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,"Egypt, Ethiopia, Iran, Saudi Arabia, UAE",0,0,0,0,0,0,0,0,0,1,0
@@ -21413,18 +21510,31 @@ EVT_09536,Egyptian President Abdel Fattah El-Sisi,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Ethiopia’s Prime Minister Abiy Ahmed Ali,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Government,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Guterres,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,India,0,0,0,0,0,0,0,2,0,0,0
 EVT_09536,Indonesian President Prabowo Subianto,0,0,0,0,0,0,0,1,0,0,0
-EVT_09536,Iran,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Iran,0,0,0,0,0,0,0,5,0,0,0
 EVT_09536,Iran’s President Masoud Pezeshkian,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Lula da Silva,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Mayor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Mohamed Bin Zayed Al Nahyan,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Mr. Modi,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Mr. Putin,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,New Delhi,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,New Development Bank,0,0,0,0,0,0,0,0,0,1,0
 EVT_09536,New Political Party or Coalition,0,0,0,0,0,0,0,0,0,1,0
-EVT_09536,PM Modi,0,0,0,0,0,0,0,2,0,0,0
+EVT_09536,PM Modi,0,0,0,0,0,0,0,3,0,0,0
 EVT_09536,Prabowo Subianto,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,President Pezeshkian,0,0,0,0,0,0,0,2,0,0,0
 EVT_09536,President Putin,0,0,0,0,0,0,0,2,0,0,0
 EVT_09536,President Xi Jinping,0,0,0,0,0,0,0,3,0,0,0
 EVT_09536,Putin,0,0,0,0,0,0,0,2,0,0,0
 EVT_09536,Russian President Putin,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,S. Jaishankar,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,Saudi Arabia,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,U.S. and Israel,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,"U.S. and Israel, Iran, and member countries",0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,UAE,0,0,0,0,0,0,0,1,0,0,0
+EVT_09536,UAE President,0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Vladimir Putin,0,0,0,0,0,0,0,2,0,0,0
 EVT_09536,"Vladimir Putin, Prime Minister Narendra Modi",0,0,0,0,0,0,0,1,0,0,0
 EVT_09536,Wars in West Asia and Ukraine,0,0,0,0,0,0,0,1,0,0,0
@@ -21450,3 +21560,169 @@ EVT_09552,TVK chief Vijay,0,0,1,0,0,0,0,0,0,0,0
 EVT_09552,TVK-led Secular Social Justice Victory Alliance,0,0,0,0,0,0,0,1,0,0,0
 EVT_09552,Tamil Nadu Congress Committee,0,0,1,0,0,0,0,0,0,0,0
 EVT_09552,two party candidates,0,0,1,0,0,0,0,0,0,0,0
+EVT_09591,Additional Advocate General Khalid Khan,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,Bangladeshi nationals,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,Court,0,0,0,0,0,0,0,2,0,0,0
+EVT_09591,Environmental Protection Agency,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,Government,0,0,0,1,0,0,0,1,0,0,0
+EVT_09591,Govt,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,High Court of Meghalaya,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,Khan,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,Local Government Leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,Meghalaya government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,Officials,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,Prison System/Corrections,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,Rosetta Mary Kurbah,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,Ryntihlang Rapthap,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,State's Inspector General of Prisons,0,0,0,0,0,0,0,1,0,0,0
+EVT_09591,State/Provincial Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,The bench,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,The court,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,Vivek Syiem,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,Zenith Sangma,0,0,0,1,0,0,0,0,0,0,0
+EVT_09591,amicus curiae T. Yangi B.,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,Anti-Corruption Commission,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,BRICS Summit 2026,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,India,0,0,3,0,0,0,0,1,0,0,0
+EVT_09639,Iran,0,0,1,0,0,0,0,1,0,0,0
+EVT_09639,Iran and UAE,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,Iran's government,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,Iranian President,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,Iranian leader,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_09639,Modi (Indian Prime Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,Modi and Pezeshkian,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,Mr. Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,"Mr. Modi, Iran, President Pezeshkian",0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,Mr. Pezeshkian,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,PM Modi,0,0,10,0,0,0,0,1,0,0,0
+EVT_09639,Pezeshkian,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,President John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,President Masoud Pezeshkian,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,President Pezeshkian,0,0,0,0,0,0,0,4,0,0,0
+EVT_09639,Prime Minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_09639,Prime Minister Modi,0,0,0,0,0,0,0,2,0,0,0
+EVT_09639,Putin,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,US Sanctions,0,0,1,0,0,0,0,0,0,0,0
+EVT_09639,United Arab Emirates,0,0,0,0,0,0,0,1,0,0,0
+EVT_09656,Ahmedabad Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Air India,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Airline Industry,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Airlines,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Airport Director,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Alliance Air,0,0,2,0,0,0,0,0,0,0,0
+EVT_09656,An Alliance Air aircraft,0,0,0,0,0,0,0,0,0,1,0
+EVT_09656,An Alliance Air flight,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Bilasa Devi Kevat Airport Director B Singh,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Crew Members,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Flight and Air Services,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_09656,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Journalists,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Passengers,0,0,1,0,0,0,0,0,0,0,0
+EVT_09656,Politicians,0,0,0,0,0,0,0,0,0,1,0
+EVT_09656,airline,0,0,0,0,0,0,0,0,0,1,0
+EVT_09656,police,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Ajay Kumar Bhalla (Governor of Manipur),0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,CM (Chief Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_09666,Chief Minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Gor,0,0,0,2,0,0,0,0,0,0,0
+EVT_09666,Gor & US Consul General in Kolkata Kathy Giles-Diaz,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Gor (Ambassador of the United States to India),0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Kathy Giles-Diaz,0,0,0,1,0,0,0,0,0,0,0
+EVT_09666,Khemchand,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,PM Modi,0,0,1,1,0,0,0,0,0,0,0
+EVT_09666,PM Modi and US President Donald Trump,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Sergio Gor (US Ambassador to India),0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Sergio Gor (US envoy),0,0,0,1,0,0,0,0,0,0,0
+EVT_09666,Singh,0,0,0,1,0,0,0,0,0,0,0
+EVT_09666,U.S. envoy Sergio Gor,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,US Ambassador Sergio Gor,0,0,1,0,0,0,0,0,0,0,0
+EVT_09666,Y Khemchand Singh,0,0,0,1,0,0,0,0,0,0,0
+EVT_09666,Y Khemchand Singh (Manipur Chief Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_09666,Yumnam Khemchand Singh (Chief Minister of Manipur),0,0,1,0,0,0,0,0,0,0,0
+EVT_09697,BJP,0,0,0,1,0,0,0,1,0,0,0
+EVT_09697,BJP (Ruling Party),0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,BJP government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09697,Congress,0,0,0,7,0,0,0,7,0,0,0
+EVT_09697,Environmental Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Female students,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Governor John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Indian Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_09697,Indore City Congress Committee President Chintu Chouksey,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Indore Development Authority,0,0,0,1,0,0,0,0,0,0,0
+EVT_09697,Mr. Gandhi,0,0,0,0,0,0,0,2,0,0,0
+EVT_09697,Opposition party,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Organisers,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Pushyamitra Bhargava,0,0,0,0,0,0,0,1,0,0,0
+EVT_09697,Rahul Gandhi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Automotive Industry,0,0,0,2,0,0,0,0,0,0,0
+EVT_09698,Automotive industry,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,BRICS Summit,0,0,1,1,0,0,0,0,0,0,0
+EVT_09698,China,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,China leadership,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Communist Party,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_09698,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Hongqi,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Indonesia and India,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Luxury Vehicle Manufacturer,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Manufacturers,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Military Equipment/Defensive Systems,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Military Vehicle Development,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Military or Law Enforcement,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Modi (Indian Prime Minister) and Putin (Russian President),0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Modi and Putin,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Modi-Putin talks,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,New Delhi and Moscow,0,0,2,0,0,0,0,0,0,0,0
+EVT_09698,Nuclear Energy Policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,PM Modi,0,0,4,1,0,0,0,0,0,0,0
+EVT_09698,"PM Modi, Xi Jinping",0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Politicians,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Putin,0,0,0,3,0,0,0,0,0,0,0
+EVT_09698,"Putin, Xi",0,0,0,2,0,0,0,0,0,0,0
+EVT_09698,Russia,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Russia and India,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Russian President Vladimir Putin and Chinese President Xi Jinping,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Russian and Indian political leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Senat,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,Two Leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_09698,Xi Jinping,0,0,0,1,0,0,0,0,0,0,0
+EVT_09698,media,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,9/11,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,Al-Qaeda,0,0,0,0,0,0,0,0,0,1,0
+EVT_09699,Donald Trump,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,HT News Desk,0,0,3,0,0,0,0,0,0,0,0
+EVT_09699,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,Media,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,PM Modi,0,0,4,0,0,0,0,0,0,3,0
+EVT_09699,"Politician (implied, sharing visit)",0,0,0,0,0,0,0,0,0,1,0
+EVT_09699,"Politician (implied, speaking about terrorism)",0,0,0,0,0,0,0,0,0,1,0
+EVT_09699,Politician/Family,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,Prime Minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,US,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,US government and public,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,United States,0,0,1,0,0,0,0,0,0,0,0
+EVT_09699,prime minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_09708,Aashish Saxena,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,BRICS,0,0,1,0,0,0,0,0,0,0,0
+EVT_09708,Brics,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,Brics Business Forum,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,Brics members and partner countries,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,Government/Policy Makers,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,India,0,0,3,0,0,0,0,0,0,3,0
+EVT_09708,India's digital infrastructure model,0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,India's investments,0,0,1,0,0,0,0,0,0,0,0
+EVT_09708,PM,0,0,1,0,0,0,0,0,0,0,0
+EVT_09708,PM Modi,0,0,14,0,0,0,0,0,0,21,0
+EVT_09708,Prime Minister of India,0,0,1,0,0,0,0,0,0,0,0
+EVT_09708,Rajeev Jayaswal,0,0,1,0,0,0,0,0,0,0,0
+EVT_09708,Unified Payments Interface (UPI),0,0,0,0,0,0,0,0,0,1,0
+EVT_09708,government,0,0,0,0,0,0,0,0,0,1,0
