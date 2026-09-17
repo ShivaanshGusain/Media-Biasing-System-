@@ -22676,6 +22676,7 @@ EVT_10017,Azad Maidan Police,0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,BJP,0,0,0,1,0,0,0,0,0,0,0
 EVT_10017,Chief Justice Mahesh Chandra Tripathi and Justice Advait M Sethna,0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,Devendra Fadnavis,0,0,0,1,0,0,0,0,0,0,0
+EVT_10017,Devendra Fadnavis-led Maharashtra government,2,0,0,0,0,0,0,0,0,0,0
 EVT_10017,GOVERNMENT,0,0,0,1,0,0,0,0,0,0,0
 EVT_10017,Ganeshotsav processions and agitation in Mumbai,0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,Government,0,0,0,1,0,0,0,0,0,0,0
@@ -22686,6 +22687,7 @@ EVT_10017,Jarange-Patil,0,0,5,0,0,0,0,0,0,0,0
 EVT_10017,Journalists and news organizations,0,0,3,0,0,0,0,0,0,0,0
 EVT_10017,Local Mayor,0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,Manoj Jarange,0,0,0,3,0,0,0,0,0,0,0
+EVT_10017,Manoj Jarange-Patil,1,0,0,0,0,0,0,0,0,0,0
 EVT_10017,Maratha community members,0,0,0,1,0,0,0,0,0,0,0
 EVT_10017,"Marathas, Fadnavis (politician)",0,0,0,1,0,0,0,0,0,0,0
 EVT_10017,Mr. Jarange,0,0,0,0,0,0,0,2,0,0,0
@@ -22698,6 +22700,7 @@ EVT_10017,Politician (name not specified),0,0,1,0,0,0,0,0,0,0,0
 EVT_10017,Politician or Party (not specified),0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,Raja Bidkar (Azad Maidan police station senior inspector),0,0,1,0,0,0,0,0,0,0,0
 EVT_10017,State government,0,0,0,0,0,0,0,1,0,0,0
+EVT_10017,The chief minister,1,0,0,0,0,0,0,0,0,0,0
 EVT_10017,Unknown,0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,Various Courts,0,0,0,0,0,0,0,2,0,0,0
 EVT_10017,cops,0,0,1,0,0,0,0,0,0,0,0
@@ -22705,6 +22708,7 @@ EVT_10017,officials,0,0,1,0,0,0,0,0,0,0,0
 EVT_10017,police,0,0,1,0,0,0,0,0,0,0,0
 EVT_10017,police force,0,0,0,0,0,0,0,1,0,0,0
 EVT_10017,protesters,0,0,0,1,0,0,0,0,0,0,0
+EVT_10017,unknown,1,0,0,0,0,0,0,0,0,0,0
 EVT_10030,"14 civic bodies, 309 urban local bodies, including 10 municipal corporations",0,0,0,1,0,0,0,0,0,0,0
 EVT_10030,AAP,0,0,2,0,0,0,0,1,0,0,2
 EVT_10030,AAP (Aam Aadmi Party),0,0,3,0,0,0,0,1,0,0,4
@@ -23528,6 +23532,67 @@ EVT_10384,"Ramakrishna (presumably referring to MD and CEO of NSE, likely a misn
 EVT_10384,Ramkrishna,0,0,0,0,0,0,0,1,0,0,0
 EVT_10384,Senior advocate Balbir Singh,0,0,0,0,0,0,0,1,0,0,0
 EVT_10384,Supreme Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_10409,Aryan,0,0,3,0,0,0,0,0,0,0,0
+EVT_10409,Banks and Payment Service Providers,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Central Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Digital Payment System,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,"E-commerce companies, payment gateways",1,0,0,0,0,0,0,0,0,0,0
+EVT_10409,Finance Minister,1,0,0,0,0,0,0,0,0,0,0
+EVT_10409,Finance Sector/Central Bank,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Financial Sector,0,0,2,0,0,0,0,0,0,0,0
+EVT_10409,Financial Services Provider,2,0,0,0,0,0,0,0,0,0,0
+EVT_10409,Government,1,0,3,0,0,0,0,0,0,0,0
+EVT_10409,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Indian Government,4,0,0,0,0,0,0,0,0,0,0
+EVT_10409,Individuals or Businesses,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Merchant Categories,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Merchant and Payment Processing Rates,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,NPCI,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,NPCI (National Payments Corporation of India),0,0,3,0,0,0,0,0,0,0,0
+EVT_10409,National Payments Corporation of India (NPCI),0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Payment industry regulations,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Payment processors,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,Policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,The policy (new percentage-based MDR),0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,UPI (Unified Payment Interface) charges,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,UPI (Unified Payments Interface),1,0,0,0,0,0,0,0,0,0,0
+EVT_10409,UPI (Unified Payments Interface) system,1,0,0,0,0,0,0,0,0,0,0
+EVT_10409,UPI payments policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_10409,government,3,0,0,0,0,0,0,0,0,0,0
+EVT_10409,merchants,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Aryan,0,0,4,0,0,0,0,0,0,0,0
+EVT_10416,Aryan Mudgal,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,BJP,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,BJP government,0,0,2,0,0,0,0,0,0,0,0
+EVT_10416,BJP government/Prime Minister Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Congress,0,0,0,0,0,0,0,0,0,2,0
+EVT_10416,Congress leader,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,Government,0,0,4,0,0,0,0,0,0,0,0
+EVT_10416,Government policy,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,Indian Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Indian Union Muslim League (IUML) Rajya Sabha MP Haris Beeran,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Jairam Ramesh,0,0,0,0,0,0,0,0,0,2,0
+EVT_10416,Kharge,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Khera,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Modi Govt,0,0,0,0,0,0,0,0,0,3,0
+EVT_10416,Modi government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,NPCI (National Payments Corporation of India),0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,PM Modi,0,0,2,0,0,0,0,0,0,4,0
+EVT_10416,"Pawan Khera, Congress' media and publicity department head and Rajya Sabha MP",0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Politicians or Economic Advisors,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Rahul,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,"Rahul Gandhi, Kharge",0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,Subhadra Srivastava,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,The government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,Trump regime,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,UPI (Unified Payment Interface),0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,UPI (Unified Payments Interface),0,0,1,0,0,0,0,0,0,0,0
+EVT_10416,US,0,0,0,0,0,0,0,0,0,2,0
+EVT_10416,US card companies,0,0,0,0,0,0,0,0,0,1,0
+EVT_10416,government,0,0,1,0,0,0,0,0,0,0,0
 EVT_10421,Court,0,0,4,0,0,0,0,0,0,1,0
 EVT_10421,Court/ Judiciary,0,0,1,0,0,0,0,0,0,0,0
 EVT_10421,Delhi High Court,0,0,2,0,0,0,0,0,0,2,0
@@ -23627,6 +23692,7 @@ EVT_10452,Mr. Sukhu (Himachal government),0,0,0,0,0,0,0,1,0,0,0
 EVT_10452,Protestors,0,0,0,0,0,0,0,1,0,0,0
 EVT_10452,The Kishau multi-purpose project,0,0,0,0,0,0,0,0,0,1,0
 EVT_10452,Union Home Minister Amit Shah,0,0,0,0,0,0,0,1,0,0,0
+EVT_10452,Union home and cooperation minister Amit Shah,0,0,0,0,0,0,0,0,0,1,0
 EVT_10452,Vishwa Mohan,0,0,0,0,0,0,0,0,0,3,0
 EVT_10452,Zonal Councils and Ministry of Jal Shakti,0,0,0,0,0,0,0,0,0,1,0
 EVT_10452,state government,0,0,0,0,0,0,0,1,0,0,0
@@ -23646,26 +23712,94 @@ EVT_10462,John Doe (Democrat Party),0,0,0,0,0,0,0,1,0,0,0
 EVT_10462,Lucknow Airport,0,0,0,0,0,0,0,2,0,0,0
 EVT_10462,Neha LM Tripathi,0,0,1,0,0,0,0,0,0,0,0
 EVT_10462,UK air traffic failure,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,AIUDF,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,AIUDF (Assam Indigenous United Democratic Front) party,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Abdul Salam,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Ajmal,0,0,3,0,0,0,0,1,0,0,0
+EVT_10476,Akhil Gogoi and Raijor Dal,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Assamese Hindu voters,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,BJP,0,0,0,0,0,0,0,2,0,0,0
+EVT_10476,BJP (Indian National Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,"BJP, Congress, and TMC",0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Badruddin Ajmal,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Badruddin Ajmal (AIUDF candidate),0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Badruddin Ajmal (AIUDF),0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Congress,0,0,1,0,0,0,0,8,0,0,0
+EVT_10476,Congress leadership,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Election Preparation,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Himanta Biswa Sarma,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Hindustan Times,0,0,2,0,0,0,0,0,0,0,0
+EVT_10476,I (the writer of the text),0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Lok Sabha MP and Assam Congress chief Gaurav Gogoi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Mamata Banerjee-led TMC,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Mehboob Muktar,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Mr. Gaurav Gogoi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Politicians,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Pradyut Bordoloi,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Raijor Dal,0,0,1,0,0,0,0,2,0,0,0
+EVT_10476,Sibamoni Bora,0,0,1,0,0,0,0,0,0,0,0
+EVT_10476,Trinamool Congress,0,0,0,0,0,0,0,1,0,0,0
+EVT_10476,Unknown Politician,0,0,2,0,0,0,0,0,0,0,0
+EVT_10476,Utpal Parashar,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,Azhar,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,"Azhar, terrorists, Federal Investigation Agency (FIA)",0,0,1,0,0,0,0,0,0,0,0
+EVT_10480,China's foreign ministry and Pakistan's foreign ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_10480,China-Pakistan,0,0,0,0,0,0,0,1,0,0,0
+EVT_10480,China-Pakistan Economic Corridor,0,0,0,0,0,0,0,1,0,0,0
+EVT_10480,Congress,0,0,0,0,0,0,0,1,0,0,0
 EVT_10480,Delhi HC (Delhi High Court),0,0,0,0,0,0,0,0,0,2,0
 EVT_10480,Delhi High Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_10480,Democratic Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_10480,Environmental Activists,0,0,0,0,0,0,0,1,0,0,0
 EVT_10480,Environmental Protection Agency,0,0,0,0,0,0,0,0,0,1,0
+EVT_10480,External Affairs Ministry,0,0,0,1,0,0,0,0,0,0,0
+EVT_10480,External affairs ministry spokesperson Randhir Jaiswal,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,FATF,0,0,1,0,0,0,0,0,0,0,0
-EVT_10480,India,0,0,3,0,0,0,0,0,0,3,0
+EVT_10480,Federal Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_10480,Governor John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_10480,India,0,0,11,8,0,0,0,4,0,8,0
+EVT_10480,India (government),0,0,0,1,0,0,0,0,0,0,0
+EVT_10480,India Ministry of External Affairs (MEA),0,0,0,0,0,0,0,0,0,1,0
+EVT_10480,India's position on the matter,0,0,0,1,0,0,0,0,0,0,0
+EVT_10480,Indian Government,0,0,2,0,0,0,0,0,0,0,0
 EVT_10480,Indian authorities,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,Kalyan Bainsla,0,0,0,0,0,0,0,0,0,3,0
 EVT_10480,Local Politician,0,0,0,0,0,0,0,0,0,1,0
-EVT_10480,Pakistan,0,0,6,0,0,0,0,0,0,0,0
+EVT_10480,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_10480,Pakistan,0,0,8,0,0,0,0,1,0,1,0
+EVT_10480,Pakistan-China Boundary Joint Commission,0,0,2,0,0,0,0,1,0,0,0
 EVT_10480,Pakistani authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_10480,Police Department,0,0,0,0,0,0,0,1,0,0,0
 EVT_10480,Priyanka Jaiswal,0,0,0,0,0,0,0,0,0,1,0
 EVT_10480,Rajpal Yadav,0,0,0,0,0,0,0,0,0,3,0
-EVT_10480,Reza,0,0,1,0,0,0,0,0,0,0,0
-EVT_10480,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_10480,Republican Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_10480,Reza,0,0,2,0,0,0,0,0,0,0,0
+EVT_10480,Rezaul Hasan Laskar,0,0,2,0,0,0,0,0,0,0,0
+EVT_10480,Shahzad Bhatti Network,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,Swatantra Bhardwaj,0,0,0,0,0,0,0,0,0,2,0
 EVT_10480,Taliban regime,0,0,1,0,0,0,0,0,0,0,0
+EVT_10480,The Politician/Reporter,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,The journalist,0,0,1,0,0,0,0,0,0,0,0
 EVT_10480,police officer,0,0,0,0,0,0,0,0,0,1,0
+EVT_10490,BJP MP Bhartruhari Mahtab,0,0,0,0,0,0,0,0,0,1,0
+EVT_10490,Bhartruhari Mahtab (BJP),0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,Current Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,Government,0,0,0,0,0,0,0,2,0,3,0
+EVT_10490,Government Exchequer,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,Indian Government/Committee,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,Indiraji (Gandhi),0,0,0,0,0,0,0,0,0,1,0
+EVT_10490,Mr. Gandhi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,Opposition MPs,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,"P Chidambaram, Manish Tewari, Gaurav Gogoi, Kishori Lal, K Gopinath",0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,PM Modi,0,0,0,0,0,0,0,0,0,2,0
+EVT_10490,President John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,Rahul Gandhi,0,0,0,0,0,0,0,1,0,1,0
+EVT_10490,Standing Committee on Finance report,0,0,0,0,0,0,0,0,0,1,0
+EVT_10490,The Leader of Opposition in Lok Sabha,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,UPI ecosystem,0,0,0,0,0,0,0,0,0,1,0
+EVT_10490,government functionary,0,0,0,0,0,0,0,1,0,0,0
+EVT_10490,payment service providers,0,0,0,0,0,0,0,1,0,0,0
 EVT_10499,ANPR system,0,0,0,1,0,0,0,0,0,0,0
 EVT_10499,Anil Vij,0,0,0,1,0,0,0,0,0,0,0
 EVT_10499,Anil Vij (Transport Minister),0,0,1,0,0,0,0,0,0,0,0
@@ -23687,11 +23821,78 @@ EVT_10499,State,0,0,2,0,0,0,0,0,0,0,0
 EVT_10499,Vij,0,0,2,3,0,0,0,0,0,0,0
 EVT_10499,minister,0,0,2,1,0,0,0,0,0,0,0
 EVT_10499,state government,0,0,0,1,0,0,0,0,0,0,0
+EVT_10501,Anganwadi centres,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,BJP,0,0,2,0,0,0,0,2,0,0,0
+EVT_10501,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,2,0,0,0
+EVT_10501,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Government and Party Machinery,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Government/Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Government/Political Leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Government/Prime Minister,0,0,2,0,0,0,0,0,0,0,0
+EVT_10501,Mayor Johnson,0,0,0,0,0,0,0,1,0,0,0
+EVT_10501,Mr. Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10501,Mr. Nadda,0,0,0,0,0,0,0,1,0,0,0
+EVT_10501,Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Prime Minister,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Seva Kalash Yatra,0,0,0,0,0,0,0,1,0,0,0
+EVT_10501,State Governments,0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,The Party (unnamed),0,0,2,0,0,0,0,0,0,0,0
+EVT_10501,"The Party (unnamed, implied as the main subject of the text)",0,0,1,0,0,0,0,0,0,0,0
+EVT_10501,Union Health Minister J.P. Nadda and Prime Minister Narendra Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10505,Ajit Verghese Mathai,0,0,1,0,0,0,0,0,0,1,0
+EVT_10505,Arunachal Pradesh-based lawyer and environmental activist Bhanu Tatak,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Arunachal anti-dam activist Bhanu Tatak,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Bablu Kurmi,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,CBI,0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,CBI (Central Bureau of Investigation),0,0,4,0,0,0,0,0,0,0,0
+EVT_10505,Dibang Resistance,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Dublin City University,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,ED (Economic Development) Agency,0,0,2,0,0,0,0,0,0,0,0
+EVT_10505,ED (Enforcement Directorate),0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Government (Assumed to be Government of India),0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,Government Officials (Corruption Network),0,0,0,0,0,0,0,0,0,3,0
+EVT_10505,Government/Political Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,I-T department,0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,"India operations head Jonathan S Rajan, primary financial handler Micah Mark, Ajit Verghese Mathai, field operatives Varghese Chacko, Bablu Kurmi, and Supreme Joy",0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,Indian journalist or news outlet,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Indian journalists and media,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Jonathan S Rajan,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Karnataka High Court,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Mark,0,0,1,0,0,0,0,0,0,1,0
+EVT_10505,Micah Mark,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Neeraj,0,0,6,0,0,0,0,0,0,0,0
+EVT_10505,Neeraj (Chevening South Asia Journalism Programme Fellow at the University of Westminster),0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Neeraj (implied politician or journalist),0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Neeraj Chauhan,0,0,2,0,0,0,0,0,0,0,0
+EVT_10505,Politician or Journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Raj Shekhar Jha,0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,Rajan,0,0,3,0,0,0,0,0,0,1,0
+EVT_10505,Rajan and Mathai,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Siang Indigenous Farmers’ Forum (SIFF) and Dibang Resistance,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Supreme Joy,0,0,1,0,0,0,0,0,0,1,0
+EVT_10505,TTI (Tata Trust Industries),0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,TTI (The Times of India),0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,TTI USA,0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,Tatak,0,0,8,0,0,0,0,0,0,0,0
+EVT_10505,Tatak and Dibang Resistance,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Tatak and the organisations she is associated with,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,The Government of India,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,The Timothy Initiative (TTI),0,0,2,0,0,0,0,0,0,0,0
+EVT_10505,The Timothy Initiative and its Indian leadership,0,0,0,0,0,0,0,0,0,1,0
+EVT_10505,The Timothy Initiative and its functionaries,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,The agency,0,0,2,0,0,0,0,0,0,0,0
+EVT_10505,US Christian mission Timothy,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Varghese Chako,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,Various Alleged Funds Sources,0,0,1,0,0,0,0,0,0,0,0
+EVT_10505,politics and media,0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,C Joseph Vijay,0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,C Joseph Vijay (Chief Minister),0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,C. Joseph Vijay,0,0,0,0,0,0,0,0,0,3,0
-EVT_10530,CM Vijay,0,0,1,1,0,0,0,0,0,0,0
+EVT_10530,CM Vijay,0,0,1,2,0,0,0,0,0,0,0
 EVT_10530,CM Vijay (Vijay’s TVK),0,0,1,0,0,0,0,0,0,0,0
+EVT_10530,Chief Minister,0,0,0,1,0,0,0,0,0,0,0
 EVT_10530,Chief Minister's Office,0,0,0,1,0,0,0,0,0,0,0
 EVT_10530,Chief Minister's team,0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,Deepak Jacob,0,0,1,0,0,0,0,0,0,0,0
@@ -23709,20 +23910,23 @@ EVT_10530,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
 EVT_10530,Samvardhana Motherson International Limited,0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,Sigma Technology Group,0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,Supporters of the announced event,0,0,0,1,0,0,0,0,0,0,0
+EVT_10530,Supporters of the announcement,0,0,0,1,0,0,0,0,0,0,0
 EVT_10530,TVK's IT wing,0,0,0,0,0,0,0,0,0,1,0
 EVT_10530,Tamil Nadu CM (Chief Minister),0,0,0,0,0,0,0,0,0,1,0
 EVT_10530,Tamil Nadu Chief Minister Thiru C Joseph Vijay,0,0,1,0,0,0,0,0,0,0,0
-EVT_10530,Tamil Nadu government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10530,Tamil Nadu Chief Minister Vijay,0,0,0,1,0,0,0,0,0,0,0
+EVT_10530,Tamil Nadu government,0,0,1,1,0,0,0,0,0,0,0
 EVT_10530,Tamil Nadu state government,0,0,0,0,0,0,0,0,0,1,0
 EVT_10530,The actor-politician,0,0,0,1,0,0,0,0,0,0,0
 EVT_10530,The investment drive,0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,Victorious Leader,0,0,1,0,0,0,0,0,0,0,0
-EVT_10530,Vijay,0,0,2,3,0,0,0,0,0,3,0
-EVT_10530,Vijay (Tamil Nadu Chief Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_10530,Vijay,0,0,2,5,0,0,0,0,0,3,0
+EVT_10530,Vijay (Tamil Nadu Chief Minister),0,0,0,2,0,0,0,0,0,0,0
 EVT_10530,Vijay (and Tamil Nadu delegation),0,0,0,0,0,0,0,0,0,1,0
 EVT_10530,Vijay (implied politician),0,0,1,0,0,0,0,0,0,0,0
 EVT_10530,Vijay (presumably a politician or business leader),0,0,1,0,0,0,0,0,0,0,0
-EVT_10530,Vijay's team,0,0,0,1,0,0,0,0,0,0,0
+EVT_10530,Vijay's team,0,0,0,2,0,0,0,0,0,0,0
+EVT_10530,actor-politician,0,0,0,2,0,0,0,0,0,0,0
 EVT_10530,the actor-turned-politician,0,0,1,0,0,0,0,0,0,0,0
 EVT_10549,App developers,0,0,1,0,0,0,0,0,0,0,0
 EVT_10549,Authority,0,0,1,4,0,0,0,0,0,0,0
@@ -23774,3 +23978,266 @@ EVT_10549,Various Authorities,0,0,1,0,0,0,0,0,0,0,0
 EVT_10549,authority,0,0,0,1,0,0,0,0,0,0,0
 EVT_10549,company,0,0,0,1,0,0,0,0,0,0,0
 EVT_10549,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,BJP,0,0,2,3,0,0,0,0,0,0,0
+EVT_10558,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,BJP government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,BJP sources,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Bharatiya Janata Party (BJP),0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Bhartruhari Mahtab of the BJP,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Centre,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,"Chidambaram, Gogoi and 3 Congress MPs",0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,China,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Committee,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Congress,0,0,3,3,0,0,0,0,0,0,0
+EVT_10558,Congress party leadership,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Department of Financial Services,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Donald Trump,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Family members,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Gandhi,0,0,3,0,0,0,0,0,0,0,0
+EVT_10558,Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_10558,Government (of India),0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Government/Committee,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Government/Congress (assuming UPI refers to Unified Payment Interface and committee is part of government),0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,India,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Kharge,0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,Local Community,0,0,0,3,0,0,0,0,0,0,0
+EVT_10558,Modi Govt,0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,Modi government,0,0,2,0,0,0,0,0,0,0,0
+EVT_10558,Parliamentary Finance Committee,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Payment Service Providers,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Rahul,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Rahul Gandhi,0,0,1,5,0,0,0,0,0,0,0
+EVT_10558,"Rahul Gandhi, Kharge",0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,Senator Lindsey Graham,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Superintendent of Police,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,UPI,0,0,1,0,0,0,0,0,0,0,0
+EVT_10558,UPI MDR,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,UPI ecosystem,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,United States,0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,Various (implied in the context of cybersecurity and fraud prevention investments),0,0,0,1,0,0,0,0,0,0,0
+EVT_10558,government,0,0,1,4,0,0,0,0,0,0,0
+EVT_10558,government or financial authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,External Affairs Ministry,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Houthi,0,0,1,1,0,0,0,0,0,0,0
+EVT_10575,Houthi forces,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Houthi group,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Houthies,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Houthis,0,0,4,1,0,0,0,0,0,3,0
+EVT_10575,Houthis and Iran,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,India,0,0,5,3,0,0,0,0,0,1,0
+EVT_10575,Indian journalist (unnamed),0,0,2,0,0,0,0,0,0,0,0
+EVT_10575,Indian politics,0,0,0,0,0,0,0,0,0,1,0
+EVT_10575,Iran,0,0,1,2,0,0,0,0,0,1,0
+EVT_10575,Iran and Iran-backed Houthis,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Iran-aligned fighters,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Iran-backed Houthis,0,0,0,0,0,0,0,0,0,1,0
+EVT_10575,Jaiswal,0,0,0,2,0,0,0,0,0,0,0
+EVT_10575,Maritime routes and energy shipments,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Mecca defense pact,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Pakistan,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Red Sea Shipping,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Red Sea and Arabian Sea shipping routes,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Red Sea region,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Regional Stability,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Rezaul Hasan Laskar,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Riyadh,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,S Jaishankar,0,0,1,1,0,0,0,0,0,0,0
+EVT_10575,Saudi Arabia,0,0,3,4,0,0,0,0,0,2,0
+EVT_10575,Saudi Arabia and the Houthis,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Saudi Arabia's security situation,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Saudi Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Saudi Sovereign Territory,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Saudi authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Saudi-led coalition,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,Saudi-led military coalition,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,US Energy Secretary Chris Wright,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,US Military,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Unclear (no specific target provided in the text),0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,War and Security,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,Wright,0,0,0,1,0,0,0,0,0,0,0
+EVT_10575,external affairs ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_10575,pro-Iranian group,0,0,0,1,0,0,0,0,0,0,0
+EVT_10605,China,0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,Donald Trump,0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,Election Strategy,0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,Governments and international organizations,0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_10605,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,"India, China and Pakistan",0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,Media Organization,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,Military or First Responders,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,Mr. Trump,0,0,0,0,0,0,0,5,0,0,0
+EVT_10605,PM Modi,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,Politician or administration making the claims,0,0,2,0,0,0,0,0,0,0,0
+EVT_10605,Presidential Determination,0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,Prime Minister Modi and the Government of India,0,0,1,0,0,0,0,1,0,0,0
+EVT_10605,The US,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,Trump,0,0,4,0,0,0,0,0,0,0,0
+EVT_10605,US,0,0,3,0,0,0,0,0,0,0,0
+EVT_10605,US (presumably referring to the US government),0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,US (presumably referring to the United States government),0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,US law enforcement agencies,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,United States President Donald Trump,0,0,1,0,0,0,0,0,0,0,0
+EVT_10605,Unknown,0,0,0,0,0,0,0,1,0,0,0
+EVT_10605,"Various countries (referencing specific countries: Afghanistan, Bolivia, Burma, and Colombia)",0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Aditya Acharya,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,BJP spokesperson Anil Biswal,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Biju Janata Dal (BJD),0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Committee,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Debabrata Mohanty,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Democratic Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Goutam Buddha Das (MLA),0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Government Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Government/Environmental Agency,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Healthcare Officials,0,0,1,0,0,0,0,1,0,0,0
+EVT_10617,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Karnataka Bandh,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Medical Researchers or Organization,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Mirase,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Mohanty,0,0,5,0,0,0,0,0,0,0,0
+EVT_10617,Nandankanan Zoological Park,0,0,1,0,0,0,0,2,0,0,0
+EVT_10617,Nandankanan Zoological Park Director Sanath Kumar N.,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Nandankanan zoo management,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Odisha Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Odisha Police's Special Task Force (STF) and the Wildlife Crime Control Bureau (WCCB),0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Official,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Official (unnamed),0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Orangutan Care Program,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Orangutan Rescue Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Orangutans,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Prem Kumar Jha (state’s principal chief conservator of forests (wildlife)),0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,Primatologists/Researchers,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Probe,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Public Health Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Technical Committee,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Unknown,0,0,0,0,0,0,0,1,0,0,0
+EVT_10617,Veterinarians or Animal Care Providers,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,crime,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,government policies,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,politics,0,0,1,0,0,0,0,0,0,0,0
+EVT_10617,weather,0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,CBFC (Central Board of Film Certification),0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,Central Board of Film Certification (CBFC),0,0,0,0,0,0,0,0,0,1,0
+EVT_10634,"Cinematograph Act, 1952",0,0,0,0,0,0,0,0,0,1,0
+EVT_10634,Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_10634,I am a technology policy reporter,0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,Individual (implied as the author of the text),0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,Manash Pratim Gohain,0,0,0,0,0,0,0,0,0,1,0
+EVT_10634,Ministry of Information and Broadcasting,0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,Waman Kendre and Ramesh Patange,0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,Yatindra Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,government official,0,0,1,0,0,0,0,0,0,0,0
+EVT_10634,sejal.sharma@hindustantimes.com,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Arvind Choudhary,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,BJP leaders,0,0,0,1,0,0,0,1,0,0,0
+EVT_10636,Baghel,0,0,0,3,0,0,0,0,0,0,0
+EVT_10636,Baghel (Chief Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Baij,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Barsa Vetti,0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Belal Bhatia (social activist),0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Bhupesh Baghel,0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Bhupesh Baghel (Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,CPI (Maoist),0,0,1,0,0,0,0,1,0,0,0
+EVT_10636,CPI (Maoist) leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Chhattisgarh Pradesh Congress Committee,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Chief Minister,0,0,0,3,0,0,0,1,0,0,0
+EVT_10636,Communist Party of India (Maoist),0,0,0,0,0,0,0,2,0,0,0
+EVT_10636,Congress,0,0,2,3,0,0,0,1,0,0,0
+EVT_10636,Congress leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Congress leaders and security personnel,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Deputy Chief Minister Vijay Sharma,0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Dinesh Panigrahi,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Government or Police (implied),0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Jhiram Valley attack convicts' kin,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Jhiram Valley massacre,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,"Jhiram Valley massacre, Maoist attack in Chhattisgarh",0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Jhulan Jirmai (presumed leader of the Communist Party of Nepal (Maoist)),0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Judiciary and Law Enforcement,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Local committees and divisions,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Maoist,0,0,1,1,0,0,0,0,0,0,0
+EVT_10636,Maoist leaders,0,0,0,0,0,0,0,2,0,0,0
+EVT_10636,Maoists,0,0,2,0,0,0,0,0,0,0,0
+EVT_10636,NDA government (NDT),0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,NIA (National Investigation Agency),0,0,4,1,0,0,0,2,0,0,0
+EVT_10636,NIA (Naxalite Investigation Agency),0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,NIA court,0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,PM Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,PUCL (Public Union of Lawyers Committee),0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Police or Military,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Political Leaders (NIA court),0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Pramila Modiyam and Sumitra Punem Modiyam,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Prime Minister Narendra Modi and Union Home Minister Amit Shah,0,0,0,1,0,0,0,1,0,0,0
+EVT_10636,Raman Singh-led BJP government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Ritesh,0,0,5,0,0,0,0,0,0,0,0
+EVT_10636,Ritesh Mishra,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Sai,0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,Senior Congress leaders and police personnel,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Senior Maoist leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Special judge Ajay Singh Rajput,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,The agency (likely referring to law enforcement or judicial authorities),0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,Uday Mudliyar,0,0,2,0,0,0,0,0,0,0,0
+EVT_10636,Union Home Minister Amit Shah,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,V.C. Shukla (former Union Minister),0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Vetti,0,0,0,2,0,0,0,0,0,0,0
+EVT_10636,Vishnu Deo Sai,0,0,0,0,0,0,0,1,0,0,0
+EVT_10636,Vishnu Deo Sai (Chhattisgarh Chief Minister),0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,court,0,0,1,0,0,0,0,0,0,0,0
+EVT_10636,government,0,0,0,2,0,0,0,0,0,0,0
+EVT_10636,governments,0,0,0,1,0,0,0,0,0,0,0
+EVT_10636,human rights organization People's Union for Civil Liberties,0,0,0,0,0,0,0,1,0,0,0
+EVT_10640,Central Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_10640,Centre (Government of India),0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Digital Payments,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Finance Ministry,0,0,0,0,0,0,0,0,0,4,0
+EVT_10640,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Government/Policy,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Indian Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,New Charge Imposition,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,New UPI rules,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Petitioners (unknown politician or party),0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Petrol pump dealers,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,Priyanka Jaiswal,0,0,0,0,0,0,0,0,0,1,0
+EVT_10640,The government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,"UPI (Unified Payments Interface, a financial system in India)",0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,"Union finance ministry, RBI, NPCI, UPI & Services Steering Committee",0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,finance ministry,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_10640,government and NPCI,0,0,1,0,0,0,0,0,0,0,0
+EVT_10661,Abhishek Mishra,0,0,0,0,0,0,0,0,0,1,0
+EVT_10661,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_10661,BJP workers and Justice Dipankar Datta,0,0,0,0,0,0,0,0,0,1,0
+EVT_10661,Bench,0,0,0,0,0,0,0,0,0,1,0
+EVT_10661,HT News Desk,0,0,3,0,0,0,0,0,0,0,0
+EVT_10661,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_10661,Justice Dipankar Datta,0,0,0,0,0,0,0,0,0,1,0
+EVT_10661,Mahua,0,0,4,0,0,0,0,0,0,0,0
+EVT_10661,Mahua Moitra,0,0,2,0,0,0,0,0,0,0,0
+EVT_10661,Media Organization,0,0,1,0,0,0,0,0,0,0,0
+EVT_10661,Moitra,0,0,2,0,0,0,0,0,0,1,0
+EVT_10661,Moitra's counsel,0,0,0,0,0,0,0,0,0,1,0
+EVT_10661,"Moitra, the Krishnanagar MP",0,0,0,0,0,0,0,0,0,1,0
+EVT_10668,Conservative Party,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,India,0,0,2,0,0,0,0,0,0,0,0
+EVT_10668,Indian Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,Indian Navy,0,0,1,0,0,0,0,1,0,0,0
+EVT_10668,Indian and Pakistani military assets,0,0,1,0,0,0,0,0,0,0,0
+EVT_10668,Indian and Pakistani navies,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,Indian and Pakistani officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_10668,Indian government,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,MEA (Ministry of External Affairs),0,0,3,0,0,0,0,0,0,0,0
+EVT_10668,Nayanika,0,0,3,0,0,0,0,0,0,0,0
+EVT_10668,Nayanika Sengupta,0,0,1,0,0,0,0,0,0,0,0
+EVT_10668,PNS Hunain,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,Pakistan,0,0,1,0,0,0,0,0,0,0,0
+EVT_10668,Pakistan Navy,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,Pakistan Navy and Indian Navy,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,Pakistani Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_10668,Pakistani Navy,0,0,0,0,0,0,0,2,0,0,0
+EVT_10668,Pakistani authorities,0,0,0,0,0,0,0,1,0,0,0
+EVT_10668,President John Doe,0,0,0,0,0,0,0,1,0,0,0
