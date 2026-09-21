@@ -24944,6 +24944,30 @@ EVT_10789,Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
 EVT_10789,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
 EVT_10789,Union finance ministry,0,0,0,0,0,0,0,0,0,1,0
 EVT_10789,government,0,0,0,0,0,0,0,3,0,0,0
+EVT_10802,20 teams,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Activities like 'Seva Yatris' and local initiatives,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Ajit Manocha (CEO of SEMI),0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,Ashwini Vaishnaw (IT Minister),0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,Government or Welfare Initiatives,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Government/Policy Initiative,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Governor John Smith,0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,India,0,0,0,0,0,0,0,3,0,0,0
+EVT_10802,India Semiconductor Mission,0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,Jochen Hanebeck (Infineon CEO),0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,Lam Research COO Sesha Varadarajan,0,0,0,0,0,0,0,2,0,0,0
+EVT_10802,Mr. Modi,0,0,0,0,0,0,0,2,0,0,0
+EVT_10802,Mr. Vaishnaw,0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,Organ donation,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,PM,0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,PM Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,PM SHRI,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Prime Minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_10802,The Yatra (likely referring to a political campaign or movement),0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Tributes to martyrs and freedom fighters,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Various Motorcycle Riders Teams,0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Various activities (including 'Seva Yatris'),0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,"Various initiatives (Seva, Sampark, youth participation, social welfare, cultural connect and community mobilisation)",0,0,1,0,0,0,0,0,0,0,0
+EVT_10802,Yatra (likely referring to a political campaign),0,0,1,0,0,0,0,0,0,0,0
 EVT_10816,@narendramodi,0,0,1,0,0,0,0,0,0,0,0
 EVT_10816,Aryan Singh,0,0,0,0,0,0,0,0,0,2,0
 EVT_10816,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
@@ -25063,23 +25087,51 @@ EVT_10860,Tamil Nadu Congress Committee (TNCC),0,0,0,0,0,0,0,1,0,0,0
 EVT_10860,The Congress,0,0,1,0,0,0,0,0,0,0,0
 EVT_10860,Thol. Thirumavalavan,0,0,0,0,0,0,0,1,0,0,0
 EVT_10860,politician who served in Lok Sabha,0,0,1,0,0,0,0,0,0,0,0
-EVT_10868,Amit Shah,0,0,0,8,0,0,0,0,0,6,0
+EVT_10868,Amit Shah,0,0,0,8,0,0,0,0,0,7,0
 EVT_10868,Amit Shah (Union Home Minister),0,0,0,1,0,0,0,0,0,0,0
 EVT_10868,Amit Shah and Pralhad Joshi (BJP),0,0,0,1,0,0,0,0,0,0,0
 EVT_10868,Anuja Jaiswal,0,0,0,0,0,0,0,0,0,4,0
+EVT_10868,BJP,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,BJP (Bharatiya Janata Party),0,0,0,0,0,0,0,0,0,4,0
+EVT_10868,"BJP, RSS",0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,"BJP, RSS, Nitish, Congress",0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Bharatiya Janata Party (BJP),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Bharatiya Janata Party (BJP) and Janata Dal (United),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Bihar Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,"Gujarat, Assam, Madhya Pradesh",0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,India,0,0,0,0,0,0,0,0,0,2,0
 EVT_10868,Indian Council of Medical Research and Department of Biotechnology,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,JD(U),0,0,0,0,0,0,0,0,0,3,0
+EVT_10868,JD(U) (Janata Dal (United)),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,JD(U) (Janata Dal United),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,JD(U) MPs,0,0,0,0,0,0,0,0,0,3,0
+EVT_10868,JD(U) and BJP-led alliance,0,0,0,0,0,0,0,0,0,2,0
+EVT_10868,JD(U) and Mohammad Zama Khan,0,0,0,0,0,0,0,0,0,2,0
+EVT_10868,JD(U) party,0,0,0,0,0,0,0,0,0,3,0
 EVT_10868,"Joshi, Karnataka Medical Education Minister",0,0,0,1,0,0,0,0,0,0,0
 EVT_10868,KLE campuses,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Kiren Rijiju (Union law minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Mahagathbandhan,0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,NMC (National Medical Council),0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,National Medical Commission (NMC),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Nitish Kumar,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,"Nitish Kumar, JD(U) party",0,0,0,0,0,0,0,0,0,2,0
+EVT_10868,"Nitish Kumar, Vijay Kumar Chaudhary, Sanjay Jha",0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Rashtriya Janata Dal,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,Shah (presumably a BJP leader or spokesperson),0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,"Sharan Prakash Patil, former chief minister Basavaraj Bommai, Belagavi MP Jagadish Shettar and Sri Gurusiddha Rajayogindra Swami of Shri Jagadguru Moorusavirmath",0,0,0,1,0,0,0,0,0,0,0
 EVT_10868,Shettar,0,0,0,1,0,0,0,0,0,0,0
 EVT_10868,State Medical Councils,0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,Stem cell therapy,0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,The Supreme Court,0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,The Times of India,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,The party,0,0,0,0,0,0,0,0,0,1,0
 EVT_10868,Union Home Minister Amit Shah,0,0,0,1,0,0,0,0,0,0,0
 EVT_10868,Union health ministry,0,0,0,0,0,0,0,0,0,2,0
+EVT_10868,Uttarakhand,0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,himself (presumably a politician or party leader addressing the implementation of UCC in Bihar),0,0,0,0,0,0,0,0,0,1,0
+EVT_10868,the party,0,0,0,0,0,0,0,0,0,2,0
 EVT_10887,Abhishek Banerjee,0,0,0,1,0,0,0,0,0,0,0
 EVT_10887,All India Trinamool Congress,0,0,0,1,0,0,0,0,0,0,0
 EVT_10887,Arup Roy-led faction,0,0,1,0,0,0,0,0,0,0,0
@@ -25211,6 +25263,124 @@ EVT_10942,The Congress,0,0,0,0,0,0,0,1,0,0,0
 EVT_10942,Trinamool Congress,0,0,0,0,0,0,0,1,0,1,0
 EVT_10942,Trinamool Congress-led by Mamata Banerjee,0,0,1,0,0,0,0,0,0,0,0
 EVT_10942,West Bengal minister Dilip Ghosh,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,ABVP (Akhil Bharatiya Vidyarthi Parishad),0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Akhil Bharatiya Vidyarthi Parishad,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,BJP,0,0,2,1,0,0,0,0,0,0,0
+EVT_10979,BJP (Bharatiya Janata Party),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,BJP (Indian political party),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,CR Kesavan,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Canada,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,China,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Congress,0,0,4,1,0,0,0,1,0,0,0
+EVT_10979,Congress Party,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Congress leader Rahul Gandhi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Congress leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Congress party and Rahul Gandhi,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Devendra Fadnavis (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Donald Trump,0,0,0,3,0,0,0,0,0,0,0
+EVT_10979,Dr. Vishal Sikka (Hang Ten Systems founder and former Infosys CEO),0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Gandhi,0,0,2,0,0,0,0,0,0,0,0
+EVT_10979,He,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Independent Candidate,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,India,0,0,0,4,0,0,0,0,0,0,0
+EVT_10979,India News,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,India and China,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,India and the United States,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,India's Ministry of External Affairs,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Indian Navy,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Kiren Rijiju (Union minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Law Enforcement Agencies,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Lindsey Graham,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Medha Roopam,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Modi's mother,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Mohan Yadav (Madhya Pradesh CM),0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Mr. Gandhi,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,"Mr. Gandhi, Leader of Opposition in the Lok Sabha",0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Mr. Mani,0,0,0,0,0,0,0,2,0,0,0
+EVT_10979,Mr. Modi,0,0,0,0,0,0,0,2,0,0,0
+EVT_10979,"Mr. Modi (Assumed to be referring to Narendra Modi, the current Prime Minister of India)",0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Nabin (likely referring to a political figure or party leader),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Nabin (presumably a politician or public figure),0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,New Governor,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,PM,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,PM Modi,0,0,0,4,0,0,0,1,0,1,0
+EVT_10979,PM Narendra Modi,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Pakistan Tehreek-e-Insaf,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Pakistani Navy,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Party's national general secretary Vinod Tawde and UP's state incharge,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Piyush Goyal,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Police,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Political Leaders and Party Workers,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Pralhad Joshi,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Pralhad Joshi (BJP),0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,President Donald Trump,0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Prime Minister Modi,0,0,1,0,0,0,0,1,0,0,0
+EVT_10979,Prime Minister Modi ji,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Protesters,0,0,0,0,0,0,0,1,0,0,0
+EVT_10979,Rahul Gandhi,0,0,5,3,0,0,0,1,0,5,0
+EVT_10979,Rahul Gandhi (Congress),0,0,0,2,0,0,0,0,0,0,0
+EVT_10979,Rahul Gandhi and the Congress party,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Rahul Gandhi’s mother,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_10979,Smriti,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,"Traffic Violators, Police",0,0,0,1,0,0,0,0,0,0,0
+EVT_10979,Unknown Politician or Event,0,0,1,0,0,0,0,0,0,0,0
+EVT_10979,Vishnu Deo Sai,0,0,0,0,0,0,0,1,0,0,0
+EVT_10988,AAP (Australian Party),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,AAP leader and Meerâs (AAP leader's son),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,AAP leader's wife Seema,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Advani (98-year-old former deputy prime minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,"Advani family (Advani, his daughter Pratibha Advani, and his daughter-in-law Geetika)",0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,"Advani's family members (Advani, Pratibha, Geetika, Jayant)",0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,"Advani, Kejriwal, Dhankhar",1,0,0,0,0,0,0,0,0,0,0
+EVT_10988,Arvind Kejriwal,0,0,1,0,0,0,0,0,0,1,0
+EVT_10988,Arvind Kejriwal (AAP supremo),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Arvind Kejriwal (AAP),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Arvind Kejriwal and his family members,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,BJP,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,BJP stalwart LK Advani,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Centre (Government of India),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Chief Minister Rekha Gupta,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,"Delhi CM Rekha Gupta, Arvind Kejriwal",0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Delhi Chief Electoral Officer,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Delhi Election Office,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Delhi Electoral Roll,0,0,0,0,0,0,0,0,0,2,0
+EVT_10988,Delhi Government,0,0,0,0,0,0,0,0,0,2,0
+EVT_10988,EC (Electoral Commission),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,ECI (Election Commission of India),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Election Authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Election Commission,0,0,0,0,0,0,0,0,0,2,0
+EVT_10988,Election Strategy,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Gahlot (former minister in the Aam Aadmi Party (AAP) government and presently a BJP MLA),0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Gahlot's wife Moushumi Mishra Gahlot and elder daughter Jahnavi Gahlot,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Government,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Government (assumed from the context of the text),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Kapil Sibal (former Union minister),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Karan Manral,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Manish Sisodia,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Manish Sisodia (and his family),0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,"Manish Sisodia, Kailash Gahlot, LK Advani",0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Ministry,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Political Authorities/Officials,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Politicians and Bureaucrats,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Prominent Figures,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Prominent personalities,1,0,0,0,0,0,0,0,0,0,0
+EVT_10988,Rekha Gupta,0,0,0,0,0,0,0,0,0,2,0
+EVT_10988,Rekha Gupta and Kejriwal,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Saloni Bhatia,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,Sibal,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,"Sisodia's family members (Seema, Meer)",0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Swamy,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,The draft (presumably related to environmental regulations),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,US national (alleged terrorist helper),0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Union environment ministry,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,VanDyke,0,0,0,0,0,0,0,0,0,1,0
+EVT_10988,Vishwa Mohan,0,0,0,0,0,0,0,0,0,2,0
+EVT_10988,poll authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_10988,prominent figures,0,0,1,0,0,0,0,0,0,0,0
 EVT_11017,Agricultural sector,0,0,1,0,0,0,0,0,0,0,0
 EVT_11017,Chief Minister,0,0,1,0,0,0,0,0,0,0,0
 EVT_11017,Corruption,0,0,1,0,0,0,0,0,0,0,0
@@ -25542,3 +25712,126 @@ EVT_11363,Nandigram assembly bypoll nominee Milan Pradhan,0,0,0,0,0,0,0,1,0,0,0
 EVT_11363,Police,0,0,0,1,0,0,0,0,0,0,0
 EVT_11363,Saiful Islam,0,0,0,2,0,0,0,0,0,0,0
 EVT_11363,police,0,0,0,1,0,0,0,2,0,0,0
+EVT_11399,Amit Shah,0,0,1,0,0,0,0,0,0,1,0
+EVT_11399,Ashwini Vaishnaw,0,0,0,0,0,0,0,0,0,1,0
+EVT_11399,BJP,0,0,0,0,0,0,0,0,0,1,0
+EVT_11399,Devendra Fadnavis,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_11399,Hailing Mehta,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,"Individual (likely a public figure or leader, context is missing)",0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Kiren Rijiju,0,0,0,0,0,0,0,0,0,1,0
+EVT_11399,Lok Sabha speaker Om Birla,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Mallikarjun Kharge (Congress),0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Mehta,0,0,2,0,0,0,0,0,0,0,0
+EVT_11399,Mehta (Payal Mehta Ji),0,0,0,0,0,0,0,0,0,1,0
+EVT_11399,PM Modi,0,0,2,0,0,0,0,0,0,1,0
+EVT_11399,"PM Modi, Rahul Gandhi",0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,"PM Modi, Rahul Gandhi, CMs",0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Payal,0,0,2,0,0,0,0,0,0,1,0
+EVT_11399,Payal Mehta,0,0,1,0,0,0,0,0,0,2,0
+EVT_11399,Politician or Official,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Politician or public figure,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Rahul Gandhi,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Rajnath Singh (Defense Minister),0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Sarma,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Sheela Bhatt,0,0,1,0,0,0,0,0,0,0,0
+EVT_11399,Singh,0,0,0,0,0,0,0,0,0,1,0
+EVT_11399,senior journalist Payal Mehta,0,0,0,0,0,0,0,0,0,1,0
+EVT_11406,Adhikari,0,0,0,0,0,0,0,0,0,1,0
+EVT_11406,Ajit Mahato and Jyotirmoy Singh Mahato,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,BJP government,0,0,0,0,0,0,0,0,0,1,0
+EVT_11406,Chief Minister,0,0,0,0,0,0,0,2,0,0,0
+EVT_11406,Environmental Activists,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,Karan Manral,0,0,0,0,0,0,0,0,0,1,0
+EVT_11406,Kurmis,0,0,0,0,0,0,0,2,0,0,0
+EVT_11406,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,Mamata Banerjee and the Trinamool Congress,0,0,0,0,0,0,0,0,0,1,0
+EVT_11406,Mr. Adhikari,0,0,0,0,0,0,0,2,0,0,0
+EVT_11406,State government,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,Suvendu Adhikari,0,0,0,0,0,0,0,0,0,1,0
+EVT_11406,Suvendu Adhikari (West Bengal Chief Minister),0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,The previous government,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,The previous government in West Bengal,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,Trinamool Congress government,0,0,0,0,0,0,0,2,0,0,0
+EVT_11406,West Bengal Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_11406,previous administration,0,0,0,0,0,0,0,1,0,0,0
+EVT_11426,Air Chiefs,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Air Force Station Jodhpur,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,India and Japan,0,0,0,0,0,0,0,0,0,2,0
+EVT_11426,India's Make in India initiative,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,India's air chiefs,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Indian Air Chief Marshal Amar Preet Singh and Japan Air Self-Defence Force Chief of Staff General Takehiro Morita,0,0,0,0,0,0,0,0,0,1,0
+EVT_11426,Indian Air Force,0,0,2,0,0,0,0,0,0,0,0
+EVT_11426,Indian Air Force (IAF) and Japan Air Self-Defense Force (JASDF),0,0,1,0,0,0,0,0,0,1,0
+EVT_11426,Indian Air Force and JASDF,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,JASDF chief,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Japan Air Self-Defense Force,0,0,0,0,0,0,0,0,0,1,0
+EVT_11426,Japan Air Self-Defense Force (JASDF) Chief of Staff General Takehiro Morita,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Japan air chief General Takehiro Morita,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Japanese Air Force and Indian Air Force,0,0,0,0,0,0,0,0,0,2,0
+EVT_11426,Journalist,0,0,3,0,0,0,0,0,0,0,0
+EVT_11426,Military Aviation,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Military or Air Force (implied),0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Morita,0,0,4,0,0,0,0,0,0,0,0
+EVT_11426,Political Leadership (Air Forces),0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Priyanjali Narayan,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_11426,The role holder (implied to be a journalist or writer),0,0,2,0,0,0,0,0,0,0,0
+EVT_11426,Unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_11426,Veer Guardian,0,0,1,0,0,0,0,0,0,0,0
+EVT_11439,Court,0,0,0,0,0,0,0,0,0,1,0
+EVT_11439,EC (Election Commission),0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,EC (Elections Commission),0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,ECI (Election Commission of India),0,0,2,0,0,0,0,0,0,0,0
+EVT_11439,Election Commission,0,0,1,2,0,0,0,0,0,0,0
+EVT_11439,Election Commission (EC),0,0,0,2,0,0,0,0,0,0,0
+EVT_11439,Election Commission of India,0,0,0,1,0,0,0,0,0,1,0
+EVT_11439,Election Commission of India (ECI),0,0,1,0,0,0,0,0,0,0,0
+EVT_11439,Government of West Bengal,0,0,1,0,0,0,0,0,0,0,0
+EVT_11439,Government/Tribunals,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,Judicial Officers,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,Judicial System,0,0,0,0,0,0,0,0,0,1,0
+EVT_11439,Judiciary,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,Legal Authorities,0,0,0,0,0,0,0,0,0,1,0
+EVT_11439,Poll Panel,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,SIR (likely referring to the Special Investigative Unit which investigates electoral irregularities),0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,Supreme Court,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,"Supreme Court, Calcutta High Court",0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,TMC candidates,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,The Commission,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,The Commission's affidavit,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,The SIR exercise and the points of concern,0,0,1,0,0,0,0,0,0,0,0
+EVT_11439,The court,0,0,0,1,0,0,0,0,0,0,0
+EVT_11439,Tribunal System,0,0,0,0,0,0,0,0,0,1,0
+EVT_11439,Trinamool Congress,0,0,1,0,0,0,0,0,0,0,0
+EVT_11439,"WB (World Bank), EC (European Commission)",0,0,0,0,0,0,0,0,0,1,0
+EVT_11439,West Bengal State Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_11439,politics,0,0,0,0,0,0,0,0,0,1,0
+EVT_11439,poll panel,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Amit Shah,0,0,2,0,0,0,0,0,0,0,0
+EVT_11472,Chief Minister Rekha Gupta and Aam Aadmi Party (AAP) chief Arvind Kejriwal,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Congress,0,0,5,0,0,0,0,0,0,1,0
+EVT_11472,Delhi (Delhi government),0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Delhi Chief Electoral Officer,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Delhi's electoral process,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,ECI (Election Commission of India),0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Electoral System,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Government/Politicians,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Indian Government,0,0,2,0,0,0,0,0,0,0,0
+EVT_11472,Jairam Ramesh,0,0,1,0,0,0,0,0,0,1,0
+EVT_11472,Jairam Ramesh (Congress general secretary),0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Journalist or Author,0,0,2,0,0,0,0,0,0,0,0
+EVT_11472,Politician,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Politician or Journalist,0,0,2,0,0,0,0,0,0,0,0
+EVT_11472,Priyanjali Narayan,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Rames,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Ramesh,0,0,4,0,0,0,0,0,0,1,0
+EVT_11472,SC (Supreme Court),0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,SIR exercise,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,"SIR process (likely referring to State Identification Records process, often related to voter registration)",0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,The party,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,Unknown Politician or Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_11472,state,0,0,1,0,0,0,0,0,0,0,0
