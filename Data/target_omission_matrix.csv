@@ -26032,6 +26032,28 @@ EVT_11399,Sarma,0,0,1,0,0,0,0,0,0,0,0
 EVT_11399,Sheela Bhatt,0,0,1,0,0,0,0,0,0,0,0
 EVT_11399,Singh,0,0,0,0,0,0,0,0,0,1,0
 EVT_11399,senior journalist Payal Mehta,0,0,0,0,0,0,0,0,0,1,0
+EVT_11403,Bihar,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Cyclone 'Arnab',0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Delhi weather forecast,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,"Government Agencies, Newsdesk, Reporters, Regulatory Filings, Recognised Institutions",0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Government/State,0,0,0,1,0,0,0,0,0,0,0
+EVT_11403,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_11403,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,IMD (India Meteorological Department),0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,IMD (Indian Meteorological Department),0,0,1,3,0,0,0,0,0,0,0
+EVT_11403,India Meteorological Department (IMD),0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Indian Meteorological Department (IMD),0,0,1,1,0,0,0,0,0,0,0
+EVT_11403,Meteorological Conditions,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Meteorological Department/Weather Forecaster,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Odisha,0,0,0,2,0,0,0,0,0,0,0
+EVT_11403,Odisha Government,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Odisha government,0,0,0,2,0,0,0,0,0,0,0
+EVT_11403,Rajesh Pravakar Patil,0,0,0,1,0,0,0,0,0,0,0
+EVT_11403,Weather Conditions,0,0,3,0,0,0,0,0,0,0,0
+EVT_11403,Weather Department,0,0,5,0,0,0,0,0,0,0,0
+EVT_11403,Weather Forecast,0,0,1,0,0,0,0,0,0,0,0
+EVT_11403,Weather Office,0,0,0,1,0,0,0,0,0,0,0
+EVT_11403,Weather System,0,0,0,1,0,0,0,0,0,0,0
 EVT_11406,Adhikari,0,0,0,0,0,0,0,0,0,1,0
 EVT_11406,Ajit Mahato and Jyotirmoy Singh Mahato,0,0,0,0,0,0,0,1,0,0,0
 EVT_11406,BJP government,0,0,0,0,0,0,0,0,0,1,0
@@ -26271,6 +26293,7 @@ EVT_11578,Congress leader,0,0,1,0,0,0,0,0,0,0,0
 EVT_11578,Congress leader Sonia Gandhi,0,0,0,0,0,0,0,1,0,0,0
 EVT_11578,Court,0,0,1,0,0,0,0,1,0,1,0
 EVT_11578,Court Proceedings,0,0,0,0,0,0,0,1,0,0,0
+EVT_11578,Delhi's Electoral Roll System,0,0,0,1,0,0,0,0,0,0,0
 EVT_11578,Gandhi,0,0,6,0,0,0,0,0,0,0,0
 EVT_11578,Government of Delhi,0,0,0,1,0,0,0,0,0,0,0
 EVT_11578,Judge,0,0,0,0,0,0,0,1,0,0,0
@@ -26292,47 +26315,137 @@ EVT_11578,Voter roll,0,0,1,0,0,0,0,0,0,0,0
 EVT_11578,election commission,0,0,1,0,0,0,0,0,0,0,0
 EVT_11578,magistrate,0,0,1,0,0,0,0,0,0,0,0
 EVT_11578,politician or party,0,0,1,0,0,0,0,0,0,0,0
-EVT_11616,African Union,0,0,0,1,0,0,0,0,0,0,0
+EVT_11591,A second-year BTech student,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Asian Games,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Campus Leaders/Activists,1,0,0,0,0,0,0,0,0,0,0
+EVT_11591,Director of the IIT Bombay,1,0,0,0,0,0,0,0,0,0,0
+EVT_11591,Doolla,0,0,2,0,0,0,0,0,0,1,0
+EVT_11591,Dubai ruler's brother,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,General News,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Government Services,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_11591,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IIT Bombay,0,0,2,0,0,0,0,0,0,0,0
+EVT_11591,IIT Bombay (Institute of Technology Bombay),0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IIT Bombay (university),0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,"IIT Bombay Dean of Administrative Affairs, Professor Suryanarayana Doolla",0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,"IIT Bombay Dean of Student Affairs, Prof. Suryanarayana Doolla",0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IIT Bombay Faculty Forum,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IIT Bombay director,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IIT Bombay professor,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IIT-B student's X handle,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,IITs (Indian Institutes of Technology),1,0,0,0,0,0,0,0,0,0,0
+EVT_11591,India,0,0,5,0,0,0,0,0,0,0,0
+EVT_11591,India's external intelligence agency,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,"Indian Institutions, Educational Institutions",1,0,0,0,0,0,0,0,0,0,0
+EVT_11591,Kulkarni,2,0,0,0,0,0,0,0,0,0,0
+EVT_11591,Mental Health Specialists,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Mumbai BMW details,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Mumbai Coastal Road,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Mumbai coastal road,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,News Media,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Niraj Pandit,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Politicians,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,"Politicians, News Agencies, Government Agencies, Regulatory Bodies, Institutions",0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Powai Campus Administration (Indirectly referred to as Officials),0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,Prof Suryanarayana Doolla,0,0,1,0,0,0,0,0,0,2,0
+EVT_11591,Prof. Suryanarayana Doolla,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Professor Doolla,0,0,2,0,0,0,0,0,0,0,0
+EVT_11591,Professor/Wakode (Student),0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,Protesting students,0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,R&AW,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,R&AW founder R N Kao,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Rameshwar Nath Kao,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Sheikh Mohammed bin Rashid Al Maktoum,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Students,0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,Sudheendra Kulkarni,1,0,0,0,0,0,0,0,0,0,0
+EVT_11591,Suryanarayan Doolla (IIT Bombay professor and exam invigilator),0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,Suryanarayana Doolla,0,0,2,0,0,0,0,0,0,0,0
+EVT_11591,The Institute,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,The Mumbai Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,The veteran,1,0,0,0,0,0,0,0,0,0,0
+EVT_11591,Unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,Wakode,0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,administration,0,0,0,0,0,0,0,0,0,1,0
+EVT_11591,director Shirish B. Kedare,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,police/investigative authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_11591,politician or news reporter,0,0,1,0,0,0,0,0,0,0,0
+EVT_11616,African Union,0,0,0,2,0,0,0,0,0,0,0
 EVT_11616,Atal Bihari Vajpayee,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,Beijing,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,Central European Countries,0,0,0,1,0,0,0,0,0,0,0
-EVT_11616,China,0,0,1,1,0,0,0,0,0,0,0
+EVT_11616,China,0,0,1,2,0,0,0,0,0,0,0
 EVT_11616,China and Russia,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,Council,0,0,1,0,0,0,0,0,0,0,0
+EVT_11616,European Union (EU),0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,France,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,G4 grouping,0,0,0,1,0,0,0,0,0,0,0
-EVT_11616,India,0,0,14,13,0,0,0,0,0,0,0
+EVT_11616,"G4 grouping (India, Brazil, Germany, Japan)",0,0,0,1,0,0,0,0,0,0,0
+EVT_11616,"Hungary, Poland, Slovakia and the Czech Republic (Visegrad Four)",0,0,0,1,0,0,0,0,0,0,0
+EVT_11616,India,0,0,14,27,0,0,0,0,0,0,0
 EVT_11616,India and V4 countries,0,0,0,1,0,0,0,0,0,0,0
+EVT_11616,India and the V4 countries,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,India's campaign,0,0,0,1,0,0,0,0,0,0,0
+EVT_11616,Institutional reforms,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,International relations and geopolitical events,0,0,1,0,0,0,0,0,0,0,0
-EVT_11616,Jaishankar,0,0,0,4,0,0,0,0,0,0,0
+EVT_11616,Jaishankar,0,0,0,7,0,0,0,0,0,0,0
+EVT_11616,Jaishankar (Indian foreign minister),0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,Karishma Ayaldasani,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,Ministers,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,New Delhi,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,OEWG (Open-ended Working Group),0,0,1,0,0,0,0,0,0,0,0
+EVT_11616,President (or relevant political leader),0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,President/Politician or Party,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,Prime Minister Anthony Albanese,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,Russia,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,Sachs,0,0,1,0,0,0,0,0,0,0,0
-EVT_11616,Security Council,0,0,4,0,0,0,0,0,0,0,0
-EVT_11616,Security Council Reform,0,0,0,1,0,0,0,0,0,0,0
+EVT_11616,Security Council,0,0,4,1,0,0,0,0,0,0,0
+EVT_11616,Security Council Reform,0,0,0,3,0,0,0,0,0,0,0
 EVT_11616,Security Council reform,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,She/Herself,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,The politician or party (unnamed in the text),0,0,1,0,0,0,0,0,0,0,0
+EVT_11616,UN,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,UN Charter reform,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,UN General Assembly,0,0,1,0,0,0,0,0,0,0,0
-EVT_11616,UN Security Council,0,0,3,1,0,0,0,0,0,0,0
+EVT_11616,UN Security Council,0,0,3,3,0,0,0,0,0,0,0
 EVT_11616,"UN Security Council, UN Charter",0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,UNSC (United Nations Security Council),0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,UNSC election campaign,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,United Kingdom,0,0,0,1,0,0,0,0,0,0,0
-EVT_11616,United Nations,0,0,0,1,0,0,0,0,0,0,0
-EVT_11616,United Nations Security Council,0,0,5,1,0,0,0,0,0,0,0
+EVT_11616,United Nations,0,0,0,2,0,0,0,0,0,0,0
+EVT_11616,United Nations Security Council,0,0,5,2,0,0,0,0,0,0,0
 EVT_11616,United Nations Security Council expansion plans,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,United States,0,0,0,1,0,0,0,0,0,0,0
+EVT_11616,Various international and national leaders and officials,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,World's most powerful multilateral security institution,0,0,0,1,0,0,0,0,0,0,0
 EVT_11616,external affairs minister S Jaishankar,0,0,1,0,0,0,0,0,0,0,0
 EVT_11616,politician or party (not specified in text),0,0,0,1,0,0,0,0,0,0,0
+EVT_11633,Abdul Khalid Saifi and Tasleem Ahmad,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Additional Solicitor General S V Raju,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Bench (presumably a court or legislative body),0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Citizens,0,0,0,0,0,0,0,1,0,0,0
+EVT_11633,Delhi Police,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Delhi Police's Special Cell,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Delhi court,0,0,0,0,0,0,0,1,0,0,0
+EVT_11633,Economic Stimulus,0,0,0,0,0,0,0,1,0,0,0
+EVT_11633,Imam and Khalid,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Justice Aravind Kumar and Justice N V Anjaria,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Justice Prathiba M Singh and Justice Dinesh Bhatt,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Khalid and Imam,0,0,3,0,0,0,0,0,0,0,0
+EVT_11633,Local Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_11633,Mr. Imam,0,0,0,0,0,0,0,2,0,0,0
+EVT_11633,Mr. Imam and student activists,0,0,0,0,0,0,0,2,0,0,0
+EVT_11633,Police,0,0,2,0,0,0,0,0,0,0,0
+EVT_11633,Politicians,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Politicians and activists,0,0,0,0,0,0,0,1,0,0,0
+EVT_11633,Protests,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,Sharjeel Imam,0,0,0,0,0,0,0,1,0,0,0
+EVT_11633,Supreme Court,0,0,2,0,0,0,0,0,0,0,0
+EVT_11633,Tahir Hussain,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,"Umar Khalid, Sharjeel Imam",0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,anti-terror law UA,0,0,1,0,0,0,0,0,0,0,0
+EVT_11633,courts,0,0,0,0,0,0,0,1,0,0,0
 EVT_11636,BJP (Indian political party),0,0,0,0,0,0,0,1,0,0,0
 EVT_11636,BJP and its alliance,0,0,0,0,0,0,0,1,0,0,0
 EVT_11636,BJP-led central government,0,0,0,0,0,0,0,0,0,1,0
@@ -26385,3 +26498,221 @@ EVT_11671,Technology and law enforcement officials,0,0,0,0,0,0,0,1,0,0,0
 EVT_11671,The HT News Desk,0,0,1,0,0,0,0,0,0,0,0
 EVT_11671,U.S. nonprofit,0,0,0,0,0,0,0,1,0,0,0
 EVT_11671,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Authorities,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Bihar Director General of Police (DGP),0,0,0,0,0,0,0,1,0,0,0
+EVT_11713,Commission,0,0,0,0,0,0,0,1,0,0,0
+EVT_11713,Cops,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Election Strategy,0,0,0,0,0,0,0,1,0,0,0
+EVT_11713,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_11713,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Jamui superintendent of police (SP) Vishwajeet Dayal,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Local Community/Mob,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Minors,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,NCW (National Commission for Women),0,0,0,0,0,0,0,2,0,0,0
+EVT_11713,NCW Chairperson Vijaya Rahatkar,0,0,0,0,0,0,0,1,0,0,0
+EVT_11713,Nandan Yadav,0,0,2,0,0,0,0,0,0,0,0
+EVT_11713,National Commission for Women,0,0,0,0,0,0,0,2,0,0,0
+EVT_11713,Newsdesk,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Police,0,0,3,0,0,0,0,0,0,0,0
+EVT_11713,Police Department,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,SIT (Special Investigation Team),0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Sub-Divisional Police Officer Deepti Monali,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Teenagers,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,Unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,police,0,0,1,0,0,0,0,0,0,0,0
+EVT_11713,police and societal groups,0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Abhishek Mishra,0,0,0,0,0,0,0,0,0,1,0
+EVT_11764,"Arun Singh, Geeta alias Chandraprabha, Neeraj Shekhar, Brijlal, BL Verma, Seema, Hardeep Singh Puri",0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,"Arun Singh, Geeta alias Chandraprabha, Neeraj Shekhar, Brijlal, BL Verma, Seema, Hardeep Singh Puri, Ram Gopal Yadav, Ramji",0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,BJP,0,0,1,0,0,0,0,0,0,4,0
+EVT_11764,BJP (Bharatiya Janata Party),0,0,6,0,0,0,0,0,0,1,0
+EVT_11764,BJP-led alliance,0,0,0,0,0,0,0,0,0,1,0
+EVT_11764,BSP,0,0,1,0,0,0,0,0,0,1,0
+EVT_11764,BSP (Bahujan Samaj Party),0,0,1,0,0,0,0,0,0,3,0
+EVT_11764,Bahujan Samaj Party (BSP),0,0,2,0,0,0,0,0,0,0,0
+EVT_11764,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Bharatiya Janta Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Bihar Janta Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Dinesh Sharma,0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,ECI (Election Commission of India),0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Election Commission of India,0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Rajya Sabha polls,0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,Ramji Gautam,0,0,0,0,0,0,0,0,0,1,0
+EVT_11764,SP-Congress (Samajwadi Party-Congress),0,0,0,0,0,0,0,0,0,1,0
+EVT_11764,SP-Congress combine,0,0,0,0,0,0,0,0,0,1,0
+EVT_11764,Samajwadi Party,0,0,1,0,0,0,0,0,0,2,0
+EVT_11764,Smriti,0,0,1,0,0,0,0,0,0,0,0
+EVT_11764,"UP (likely referring to Uttar Pradesh, a state in India)",0,0,1,0,0,0,0,0,0,0,0
+EVT_11787,Aastha Jha,0,0,0,0,0,0,0,0,0,1,0
+EVT_11787,All those people who work to divide this country,0,0,0,0,0,0,0,0,0,1,0
+EVT_11787,Bharatiya Janata Party (BJP) MLA,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Election Candidates,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Hindutva and right-wing leaders,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Mr. Khan,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Mr. Sharma,0,0,0,0,0,0,0,5,0,0,0
+EVT_11787,Protesters,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Rameshwar Sharma,0,0,0,0,0,0,0,1,0,1,0
+EVT_11787,Rameshwar Sharma (BJP MLA),0,0,0,0,0,0,0,1,0,1,0
+EVT_11787,Rameshwar Sharma (Bharatiya Janata Party MLA),0,0,0,0,0,0,0,0,0,1,0
+EVT_11787,Rameshwar Sharma ji,0,0,0,0,0,0,0,2,0,2,0
+EVT_11787,Sanatani youth,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,Sharma,0,0,0,0,0,0,0,0,0,1,0
+EVT_11787,Unknown Politician or Speaker,0,0,0,0,0,0,0,1,0,0,0
+EVT_11787,unknown politician or party,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Antonio Costa and Jaishankar,0,0,0,0,0,0,0,0,0,1,0
+EVT_11811,Bangladesh Foreign Minister Khalilur Rahman,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Carney,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Chinese President Xi Jinping,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Costa,0,0,2,0,0,0,0,0,0,0,0
+EVT_11811,"Costa, Carney, Ruto and Brazilian President Inácio Lula da Silva",0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Economic Interdependence,0,0,0,0,0,0,0,0,0,1,0
+EVT_11811,External Affairs Minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Global Economic Cooperation,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,India,0,0,2,0,0,0,0,4,0,3,0
+EVT_11811,Indian Journalist,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Jaishankar,0,0,5,0,0,0,0,0,0,1,0
+EVT_11811,Leaders,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Local Government Officials,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Mr. Jaishankar,0,0,0,0,0,0,0,3,0,0,0
+EVT_11811,"Mr. Jaishankar, U.S. President Donald Trump, Modi-Trump bilaterals, G20 Summit",0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,PM Modi,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Political Party X,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Prime Minister Modi and Tajikistan President Emomali Rahmon,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Protestors,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Quad Foreign Ministers,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Reza,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Rezaul Hasan Laskar,0,0,2,0,0,0,0,0,0,0,0
+EVT_11811,S Jaishankar,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,S. Jaishankar,0,0,0,0,0,0,0,1,0,0,0
+EVT_11811,Senior Officials,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,The declaration,0,0,0,0,0,0,0,0,0,1,0
+EVT_11811,UN System,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,UN or Multilateral Organizations,0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Undefined (Contextual),0,0,1,0,0,0,0,0,0,0,0
+EVT_11811,Various (Universal),0,0,0,0,0,0,0,0,0,1,0
+EVT_11811,unknown,0,0,0,0,0,0,0,0,0,1,0
+EVT_11821,Afghanistan,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Armed Forces,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,Army Chief Asim Munir,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,Environmental NGO Greenpeace,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Field Marshal Munir,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Field Marshal/ISPR,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Government/Campaign,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_11821,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,India,0,0,4,0,0,0,0,1,0,0,0
+EVT_11821,India and Pakistan,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Islamabad (government),0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Jaiswal,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,Kabul,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,MEA spokesperson Randhir Jaiswal,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Mr. Jaiswal,0,0,0,0,0,0,0,2,0,0,0
+EVT_11821,Munir,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,News Desk,0,0,1,0,0,0,0,0,0,0,0
+EVT_11821,Pakistan,0,0,6,0,0,0,0,5,0,0,0
+EVT_11821,Pakistan Army,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Pakistan minister,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,Pakistan's armed forces,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,President John Doe,0,0,0,0,0,0,0,1,0,0,0
+EVT_11821,government,0,0,1,0,0,0,0,0,0,0,0
+EVT_11825,Authorities,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Breast Cancer Patients,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,Centre (government),0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Court,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Drug Control Order,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Government,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,Healthcare Authorities,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,Healthcare System,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Local Government,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,MRP (likely referring to some subsidized housing program or medication),0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Medical Practitioners,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Medical Practitioners and Pharmaceutical Industry,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,Private Hospitals,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,Supreme Court,0,0,0,2,0,0,0,2,0,0,0
+EVT_11825,Tax Authorities/Corporation,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,The Bench (likely referring to a court or judicial body),0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,The petitioners,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,Unknown,0,0,0,0,0,0,0,2,0,0,0
+EVT_11825,hospital-run pharmacies,0,0,0,1,0,0,0,0,0,0,0
+EVT_11825,pharma companies and retailers,0,0,0,0,0,0,0,1,0,0,0
+EVT_11825,pharmaceutical companies and retailers,0,0,0,2,0,0,0,0,0,0,0
+EVT_11825,private hospitals,0,0,0,2,0,0,0,0,0,0,0
+EVT_11829,Asmita,0,0,5,0,0,0,0,0,0,0,0
+EVT_11829,Asmita Ravi Shankar,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,Dimon,0,0,2,5,0,0,0,0,0,0,0
+EVT_11829,Dimon (CEO of JPMorgan Chase),0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,Dimon (JPMorgan Chase & Co. CEO),0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,Economic Policies,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,He (presumably a politician or public figure),0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,INDIA,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,India,0,0,5,8,0,0,0,0,0,0,0
+EVT_11829,India and China,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,India's Energy Policy,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,India-US economic ties,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Indian envoy,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Indian government,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,International Oil Market,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,JPMorgan,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,JPMorgan CEO,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,JPMorgan Chase & Co. chief Jamie Dimon,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,JPMorgan Chase CEO Jamie Dimon,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Jamie Dimon,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,Jamie Dimon (JPMorgan),0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,"Jamie Dimon, Donald Trump, Indian refiners, Russian energy",0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Kwatra,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,MEA (Ministry of External Affairs),0,0,2,0,0,0,0,0,0,0,0
+EVT_11829,PEOPLE FIRST ENERGY POLICY,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Policy,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Politician,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Politician or Representative,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Ports and Shipping Practices,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Russia,0,0,2,1,0,0,0,0,0,0,0
+EVT_11829,Trump,0,0,1,2,0,0,0,0,0,0,0
+EVT_11829,US (implied by Dimon's comments),0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,US Congress,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,US House of Representatives,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,US President,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,US President Donald Trump,0,0,0,2,0,0,0,0,0,0,0
+EVT_11829,US Senate,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,Unknown,0,0,1,0,0,0,0,0,0,0,0
+EVT_11829,Unknown Politician or Business Leader,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Unknown Politician or Official,0,0,0,1,0,0,0,0,0,0,0
+EVT_11829,Unknown Politician or Party,0,0,0,2,0,0,0,0,0,0,0
+EVT_11829,Washington,0,0,0,1,0,0,0,0,0,0,0
+EVT_11872,CEPA talks,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Canada,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Canada and India,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Carney,0,0,3,0,0,0,0,0,0,0,0
+EVT_11872,GAC (Government Agency or Corporation),0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Global Affairs Canada,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Goyal,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,HT News Desk,0,0,2,0,0,0,0,0,0,0,0
+EVT_11872,Hindustan Times,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,India and Canada,0,0,0,0,0,0,0,0,0,1,0
+EVT_11872,Investment protection pact,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Iran,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Justin Trudeau,0,0,3,0,0,0,0,0,0,0,0
+EVT_11872,Mark Carney,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Mark Carney (Canadian PM),0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Minister,0,0,0,0,0,0,0,0,0,1,0
+EVT_11872,Modi and Carney,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Newsdesk,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,Nirmala Sitharaman,0,0,1,0,0,0,0,0,0,0,0
+EVT_11872,PM Modi,0,0,5,0,0,0,0,0,0,2,0
+EVT_11872,Piyush Goyal,0,0,2,0,0,0,0,0,0,0,0
+EVT_11872,"Piyush Goyal, Maninder Sidhu, India, Canada",0,0,0,0,0,0,0,0,0,1,0
+EVT_11872,Politicians (implied),0,0,0,0,0,0,0,0,0,1,0
+EVT_11872,Rohitashwa Ranjan,0,0,0,0,0,0,0,0,0,1,0
+EVT_11872,Sitharaman,0,0,3,0,0,0,0,0,0,0,0
+EVT_11889,Assam Chief Minister,0,0,0,0,0,0,0,0,0,1,0
+EVT_11889,BJP,0,0,1,0,0,0,0,0,0,1,0
+EVT_11889,Bharatiya Janata Party,0,0,1,0,0,0,0,0,0,0,0
+EVT_11889,Bharatiya Janata Party (BJP),0,0,1,0,0,0,0,0,0,0,0
+EVT_11889,Congress,0,0,5,0,0,0,0,0,0,2,0
+EVT_11889,"Congress, BJP, and CM Himanta Biswa Sarma",0,0,0,0,0,0,0,0,0,1,0
+EVT_11889,Gaurav Gogoi,0,0,1,0,0,0,0,0,0,0,0
+EVT_11889,Himanta Sarma,0,0,1,0,0,0,0,0,0,0,0
+EVT_11889,India,0,0,1,0,0,0,0,0,0,0,0
+EVT_11889,Kangkan Kalita,0,0,0,0,0,0,0,0,0,1,0
+EVT_11889,Opposition Party/Politicians,0,0,0,0,0,0,0,0,0,1,0
